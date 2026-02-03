@@ -1,0 +1,16 @@
+{
+  "name": "toefl-academic-pwa",
+  "private": true,
+  "version": "6.9.0",
+  "scripts": {
+    "check": "python scripts/check_project.py",
+    "serve": "npx http-server -p 8080 -c-1 .",
+    "lighthouse": "npx lhci autorun --config=./lighthouserc.json",
+    "gen:collocations": "python scripts/generate_collocations.py",
+    "fix:lexicon": "python scripts/sanitize_lexicon.py"
+  },
+  "devDependencies": {
+    "@lhci/cli": "^0.14.0",
+    "http-server": "^14.1.1"
+  }
+}

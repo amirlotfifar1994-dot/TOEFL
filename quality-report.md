@@ -1,0 +1,45 @@
+# Lesson Quality Report
+- Registry entries: 24
+- Lesson files on disk: 24
+- Errors: 0
+- Warnings: 38
+
+## Warnings
+- toefl-ax34-04: vocabularyExtended.actions has only 7 items
+- toefl-ax34-05: vocabularyExtended.actions has only 5 items
+- toefl-ax34-08: vocabularyExtended.actions has only 6 items
+- toefl-ax34-10: vocabularyExtended.actions has only 6 items
+- toefl-ax34-11: vocabularyExtended.actions has only 6 items
+- toefl-ax34-12: vocabularyExtended.actions has only 6 items
+- toefl-ax34-13: vocabularyDetailed has only 9 items
+- toefl-ax34-13: vocabularyExtended.actions has only 4 items
+- toefl-ax34-13: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-14: vocabularyDetailed has only 9 items
+- toefl-ax34-14: vocabularyExtended.actions has only 4 items
+- toefl-ax34-14: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-15: vocabularyDetailed has only 9 items
+- toefl-ax34-15: vocabularyExtended.actions has only 4 items
+- toefl-ax34-15: vocabularyExtended.feelings has only 4 items
+- toefl-ax34-16: vocabularyExtended.actions has only 7 items
+- toefl-ax34-17: vocabularyExtended.actions has only 4 items
+- toefl-ax34-18: vocabularyDetailed has only 9 items
+- toefl-ax34-18: vocabularyExtended.actions has only 4 items
+- toefl-ax34-18: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-19: vocabularyDetailed has only 9 items
+- toefl-ax34-19: vocabularyExtended.actions has only 4 items
+- toefl-ax34-19: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-20: vocabularyDetailed has only 9 items
+- toefl-ax34-20: vocabularyExtended.actions has only 4 items
+- toefl-ax34-20: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-21: vocabularyDetailed has only 9 items
+- toefl-ax34-21: vocabularyExtended.actions has only 4 items
+- toefl-ax34-21: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-22: vocabularyDetailed has only 9 items
+- toefl-ax34-22: vocabularyExtended.actions has only 4 items
+- toefl-ax34-22: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-23: vocabularyDetailed has only 9 items
+- toefl-ax34-23: vocabularyExtended.actions has only 4 items
+- toefl-ax34-23: vocabularyExtended.feelings has only 3 items
+- toefl-ax34-24: vocabularyDetailed has only 9 items
+- toefl-ax34-24: vocabularyExtended.actions has only 4 items
+- toefl-ax34-24: vocabularyExtended.feelings has only 3 items
