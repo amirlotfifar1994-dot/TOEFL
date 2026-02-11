@@ -1,0 +1,238 @@
+/* Patch v31: responsive grid + nicer sectioning (index + lesson)
+   Goal: cleaner spacing, consistent grids, better mobile behaviour.
+*/
+
+/* Slightly tighter container for readability on wide screens */
+:root{ --container: 1200px; }
+
+/* Consistent page padding */
+main#main{
+  padding: clamp(18px, 2.2vw, 34px) clamp(14px, 2vw, 26px) clamp(26px, 3vw, 44px);
+}
+
+/* Page title polish */
+main#main > h1{
+  font-size: clamp(1.55rem, 1.1vw + 1.2rem, 2.1rem);
+  margin: 0 0 .25rem;
+}
+main#main > p.muted{
+  margin: 0 0 .75rem;
+}
+
+/* ---------- Index: controls block looks like a section ---------- */
+body:not(.page-lesson) .toolbar{
+  background: color-mix(in srgb, var(--panel) 84%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 18px 18px 12px 12px;
+  padding: 14px;
+  margin: 1.1rem 0 .65rem;
+}
+body:not(.page-lesson) .filterRow{
+  background: color-mix(in srgb, var(--panel) 84%, transparent);
+  border: 1px solid var(--border);
+  border-top: 0;
+  border-radius: 12px 12px 18px 18px;
+  padding: 0 14px 14px;
+  margin: -0.35rem 0 1.1rem;
+}
+
+/* Make filter chips wrap on larger screens, scroll on smaller */
+@media (min-width: 900px){
+  .chipScroll{ flex-wrap: wrap; overflow: visible; padding-bottom: .25rem; }
+}
+
+/* ---------- Lesson grid: predictable responsive columns ---------- */
+.lesson-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+  gap: clamp(12px, 1.6vw, 22px);
+  align-items: stretch;
+}
+
+/* Cards: consistent vertical rhythm */
+.lesson-card{
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+.lesson-card h2{
+  margin-top: .85rem;
+  margin-bottom: .35rem;
+  line-height: 1.2;
+}
+.lesson-card .lesson-caption{ margin-top: 0; }
+.lesson-card .lesson-metaRow,
+.lesson-card .lesson-pills{
+  margin-left: .85rem;
+  margin-right: .85rem;
+}
+.lesson-card .lesson-pills{ margin-top: .15rem; }
+
+/* Image: stable aspect on all breakpoints */
+.lesson-card img{
+  aspect-ratio: 16 / 9;
+  height: auto !important;
+}
+
+/* Tablet: slightly roomier */
+@media (min-width: 700px){
+  .lesson-grid{ grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); }
+}
+
+/* ---------- Hero slider: keep it pretty and not obnoxiously tall ---------- */
+.pro-slider--hero{
+  min-height: clamp(340px, 60vh, 560px);
+}
+.heroSliderBlock{ margin-bottom: 1.15rem; }
+
+/* ---------- Lesson page layout: fix “empty side space” + nicer sections ---------- */
+.page-lesson .lesson-layout{
+  gap: clamp(12px, 1.6vw, 20px);
+}
+
+/* The article should fill the grid column, not self-center with a max-width */
+.page-lesson .lesson-layout .lesson-details{
+  max-width: none;
+  margin: 0;
+}
+
+/* TOC: make it breathe on mobile */
+.page-lesson .lesson-toc{
+  border-radius: 16px;
+}
+@media (max-width: 979px){
+  .page-lesson .lesson-toc{ position: static; }
+}
+
+/* Section cards inside lessons */
+.page-lesson .lesson-details .section,
+.page-lesson .lesson-details .panel,
+.page-lesson .lesson-details .lessonDrawer{
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: color-mix(in srgb, var(--panel) 86%, transparent);
+}
+.page-lesson .lesson-details .section{
+  padding: 14px 14px 16px;
+}
+.page-lesson .lesson-details .section h3,
+.page-lesson .lesson-details .section h2{
+  border: 0;
+  padding: 0;
+  margin: 0 0 .6rem;
+}
+
+/* Add a subtle accent bar to section headers */
+.page-lesson .lesson-details .section h2,
+.page-lesson .lesson-details .section h3{
+  position: relative;
+  padding-left: .85rem;
+}
+.page-lesson .lesson-details .section h2::before,
+.page-lesson .lesson-details .section h3::before{
+  content: '';
+  position: absolute;
+  left: 0;
+  top: .25rem;
+  bottom: .25rem;
+  width: 4px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent) 65%, transparent);
+}
+
+/* ---------- Vocabulary categories: better grids ---------- */
+.vocabCatsGrid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
+  gap: clamp(12px, 1.5vw, 20px);
+  margin-top: 12px;
+}
+
+.vocabCatCard{
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: color-mix(in srgb, var(--panel) 86%, transparent);
+  overflow: hidden;
+}
+
+.vocabCatHead{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 14px 14px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.vocabCatIcon{
+  width: 42px;
+  height: 42px;
+  border-radius: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(148,163,184,.10);
+  border: 1px solid var(--border);
+}
+
+.vocabCatTitle{ font-weight: 900; }
+
+.vocabCatCount{
+  min-width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(15,23,42,.18);
+  border: 1px solid var(--border);
+  font-weight: 900;
+}
+
+/* Word cards grid inside category */
+.vocabCatBody{
+  padding: 12px 12px 14px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+  gap: 10px;
+}
+
+/* Word cards: clickable, tidy */
+.vocabWordCard{
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: rgba(148,163,184,.06);
+  overflow: hidden;
+}
+
+.vocabWordSummary{
+  padding: 10px 10px 10px;
+}
+
+.vocabWordTop{ gap: 8px; flex-wrap: wrap; }
+
+.vocabTypePill, .vocabPosPill{
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: .12rem .5rem;
+  font-size: .75rem;
+  background: rgba(15,23,42,.18);
+}
+
+.vocabWordBody{
+  padding: 10px 10px 12px;
+  border-top: 1px solid var(--border);
+}
+
+/* Mobile tightening */
+@media (max-width: 420px){
+  body:not(.page-lesson) .toolbar{ padding: 12px; }
+  body:not(.page-lesson) .filterRow{ padding: 0 12px 12px; }
+  .vocabCatBody{ grid-template-columns: 1fr; }
+}
+
+/* Small phones: vocab toolbar stacks neatly */
+@media (max-width: 520px){
+  .vocabToolbar{ grid-template-columns: 1fr; }
+  .vocabToggleBtn{ width: 100%; justify-content: center; }
+}

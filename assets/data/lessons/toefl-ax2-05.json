@@ -1,0 +1,1629 @@
+{
+  "id": "toefl-ax2-05",
+  "title": "Walking Through the City with Friends",
+  "caption": "This scene reflects everyday social connection. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax2-05",
+    "src800": "assets/images/toefl-photo-ax2-05-800.webp",
+    "src1600": "assets/images/toefl-photo-ax2-05-1600.webp",
+    "alt": "Three women walk together on a city street and smile while talking."
+  },
+  "fullDescription": {
+    "en": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation.",
+    "fa": "This scene reflects everyday social connection. friends move through city environment while chatting and smiling, suggesting comfort and familiarity. bright outdoor setting and open body language imply stress-free moment, like weekend walk or casual meet-up. Their matching pace and shared attention indicate close friendship and easy conversation."
+  },
+  "simpleEnglish": {
+    "en": "Three friends walk in a city. They smile and talk together. It looks like a nice day.",
+    "fa": "Three friends walk in city. آن‌ها smile and talk together. It looks like nice day."
+  },
+  "intermediateEnglish": {
+    "en": "Three friends are walking side by side on a city street. Their casual clothing and smiles suggest a relaxed outing, possibly shopping, sightseeing, or meeting for coffee. The background shows an urban neighborhood in daylight.",
+    "fa": "Three friends راه می‌روند side by side on city street. Their casual clothing and smiles suggest relaxed outing, possibly shopping, sightseeing, or meeting for coffee. background shows urban neighborhood in daylight."
+  },
+  "advancedEnglish": {
+    "en": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation.",
+    "fa": "This scene reflects everyday social connection. friends move through city environment while chatting and smiling, suggesting comfort and familiarity. bright outdoor setting and open body language imply stress-free moment, like weekend walk or casual meet-up. Their matching pace and shared attention indicate close friendship and easy conversation."
+  },
+  "people": [
+    "3 people: friends (young women)"
+  ],
+  "ages": [
+    "young adults"
+  ],
+  "place": [
+    "city street / neighborhood"
+  ],
+  "clothing": [
+    "casual summer clothing"
+  ],
+  "appearance": [
+    "smiling faces",
+    "relaxed posture",
+    "walking side by side"
+  ],
+  "actions": [
+    "walking",
+    "chatting",
+    "enjoying the day"
+  ],
+  "objects": [
+    "city buildings",
+    "shops (background)"
+  ],
+  "feelings": [
+    "relaxed",
+    "friendly",
+    "upbeat"
+  ],
+  "environmentType": [
+    "outdoor urban"
+  ],
+  "weatherLighting": [
+    "daylight",
+    "pleasant weather"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "neighborhood",
+      "downtown",
+      "sidewalk",
+      "outfit",
+      "hang out",
+      "chat",
+      "stroll",
+      "outing",
+      "shopping",
+      "sightseeing"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "city buildings",
+      "shops (background)"
+    ],
+    "places": [
+      "city street / neighborhood"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "neighborhood",
+      "fa": "محله"
+    },
+    {
+      "en": "downtown",
+      "fa": "مرکز شهر"
+    },
+    {
+      "en": "sidewalk",
+      "fa": "پیاده‌رو"
+    },
+    {
+      "en": "outfit",
+      "fa": "لباس/استایل"
+    },
+    {
+      "en": "hang out",
+      "fa": "وقت گذراندن"
+    },
+    {
+      "en": "chat",
+      "fa": "گپ زدن"
+    },
+    {
+      "en": "stroll",
+      "fa": "قدم زدن"
+    },
+    {
+      "en": "outing",
+      "fa": "بیرون رفتن"
+    },
+    {
+      "en": "shopping",
+      "fa": "خرید"
+    },
+    {
+      "en": "sightseeing",
+      "fa": "گردش"
+    },
+    {
+      "en": "street",
+      "fa": "خیابان"
+    },
+    {
+      "en": "friendly",
+      "fa": "دوستانه"
+    },
+    {
+      "en": "relaxed",
+      "fa": "آرام"
+    },
+    {
+      "en": "meet-up",
+      "fa": "قرار دوستانه"
+    },
+    {
+      "en": "laugh",
+      "fa": "خندیدن"
+    },
+    {
+      "en": "enjoy",
+      "fa": "لذت بردن"
+    },
+    {
+      "en": "busy street",
+      "fa": "خیابان شلوغ"
+    },
+    {
+      "en": "cafe",
+      "fa": "کافه"
+    },
+    {
+      "en": "appointment",
+      "fa": "قرار"
+    },
+    {
+      "en": "spontaneous",
+      "fa": "بی‌برنامه"
+    },
+    {
+      "en": "take photos",
+      "fa": "عکس گرفتن"
+    },
+    {
+      "en": "conversation",
+      "fa": "گفتگو"
+    },
+    {
+      "en": "comfortable",
+      "fa": "راحت"
+    },
+    {
+      "en": "casual",
+      "fa": "راحت/غیررسمی"
+    },
+    {
+      "en": "weekend",
+      "fa": "آخر هفته"
+    },
+    {
+      "en": "tourist",
+      "fa": "گردشگر"
+    },
+    {
+      "en": "explore",
+      "fa": "گشتن"
+    },
+    {
+      "en": "urban",
+      "fa": "شهری"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX205-C1",
+      "en": "go for a walk",
+      "fa": "پیاده‌روی رفتن"
+    },
+    {
+      "id": "AX205-C2",
+      "en": "catch up",
+      "fa": "خبر گرفتن"
+    },
+    {
+      "id": "AX205-C3",
+      "en": "spend time together",
+      "fa": "با هم وقت گذراندن"
+    },
+    {
+      "id": "AX205-C4",
+      "en": "walk side by side",
+      "fa": "کنار هم راه رفتن"
+    },
+    {
+      "id": "AX205-C5",
+      "en": "enjoy the day",
+      "fa": "از روز لذت بردن"
+    },
+    {
+      "id": "AX205-C6",
+      "en": "explore the city",
+      "fa": "شهر را گشتن"
+    },
+    {
+      "id": "AX205-C7",
+      "en": "meet for coffee",
+      "fa": "برای قهوه دیدار کردن"
+    },
+    {
+      "id": "AX205-C8",
+      "en": "have a relaxed outing",
+      "fa": "یک بیرون رفتن آرام داشتن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous (توصیف عکس)",
+      "rule": "برای توصیف کاری که در تصویر در جریان است از حال استمراری استفاده کن.",
+      "examples": [
+        {
+          "en": "They are walking and chatting.",
+          "fa": "آن‌ها دارند راه می‌روند و صحبت می‌کنند."
+        },
+        {
+          "en": "They are enjoying a day out.",
+          "fa": "آن‌ها از بیرون رفتن لذت می‌برند."
+        }
+      ]
+    },
+    {
+      "title": "Quantifiers (some / a few / a lot of)",
+      "rule": "برای مقدار از **some/a few/a lot of** استفاده کن.",
+      "examples": [
+        {
+          "en": "There are a few shops in the background.",
+          "fa": "چند فروشگاه در پس‌زمینه هست."
+        },
+        {
+          "en": "They have some free time today.",
+          "fa": "آن‌ها امروز کمی وقت آزاد دارند."
+        }
+      ]
+    },
+    {
+      "title": "Present Simple for habits (روتین)",
+      "rule": "برای عادت‌ها و روتین‌ها از حال ساده استفاده کن.",
+      "examples": [
+        {
+          "en": "They meet on weekends to walk around the city.",
+          "fa": "آن‌ها آخر هفته‌ها برای پیاده‌روی در شهر همدیگر را می‌بینند."
+        },
+        {
+          "en": "They often hang out after work.",
+          "fa": "آن‌ها اغلب بعد از کار با هم وقت می‌گذرانند."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Walking Through the City with Friends' most likely take place?",
+        "choices": [
+          "city street / neighborhood",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Walking Through the City with Friends'?",
+        "choices": [
+          "walking",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Walking Through the City with Friends'?",
+        "choices": [
+          "relaxed",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Walking Through the City with Friends'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Walking Through the City with Friends' (city street / neighborhood). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Walking Through the City with Friends'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Walking Through the City with Friends' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 1,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adults"
+    ],
+    "setting": [
+      "city street / neighborhood"
+    ],
+    "colorsLighting": [
+      "daylight",
+      "pleasant weather"
+    ],
+    "actions": [
+      "walking",
+      "chatting",
+      "enjoying the day"
+    ],
+    "bodyLanguage": [
+      "relaxed",
+      "friendly",
+      "upbeat"
+    ],
+    "moodAtmosphere": [
+      "relaxed",
+      "friendly",
+      "upbeat"
+    ],
+    "themes": [
+      "urban lifestyle",
+      "friendship",
+      "casual routines"
+    ],
+    "objects": [
+      "city buildings",
+      "shops (background)"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation. They are in city street / neighborhood. Key action: walking; chatting. Mood: relaxed; friendly.",
+    "simple": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation. They are in city street / neighborhood. Key action: walking; chatting. Mood: relaxed; friendly.",
+    "intermediate": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation. The scene takes place in city street / neighborhood. Notable details include city buildings; shops (background). The overall atmosphere feels relaxed; friendly. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation. In this setting (city street / neighborhood), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as walking; chatting and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like city buildings; shops (background) to improve clarity. Tone words (for example: relaxed; friendly) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "Three friends walk through a city street, smiling and chatting in daylight.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The bright outdoor setting and open body language imply a stress-free moment, like a weekend walk or casual meet-up. Their matching pace and shared attention indicate a close friendship and an easy conversation."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "neighborhood",
+          "fa": "محله",
+          "task_en": "Say the Persian meaning and use \"neighborhood\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «neighborhood» یک جمله ساده بساز."
+        },
+        {
+          "en": "downtown",
+          "fa": "مرکز شهر",
+          "task_en": "Say the Persian meaning and use \"downtown\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «downtown» یک جمله ساده بساز."
+        },
+        {
+          "en": "sidewalk",
+          "fa": "پیاده‌رو",
+          "task_en": "Say the Persian meaning and use \"sidewalk\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «sidewalk» یک جمله ساده بساز."
+        },
+        {
+          "en": "outfit",
+          "fa": "لباس/استایل",
+          "task_en": "Say the Persian meaning and use \"outfit\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «outfit» یک جمله ساده بساز."
+        },
+        {
+          "en": "hang out",
+          "fa": "وقت گذراندن",
+          "task_en": "Say the Persian meaning and use \"hang out\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «hang out» یک جمله ساده بساز."
+        },
+        {
+          "en": "chat",
+          "fa": "گپ زدن",
+          "task_en": "Say the Persian meaning and use \"chat\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «chat» یک جمله ساده بساز."
+        },
+        {
+          "en": "stroll",
+          "fa": "قدم زدن",
+          "task_en": "Say the Persian meaning and use \"stroll\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «stroll» یک جمله ساده بساز."
+        },
+        {
+          "en": "outing",
+          "fa": "بیرون رفتن",
+          "task_en": "Say the Persian meaning and use \"outing\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «outing» یک جمله ساده بساز."
+        },
+        {
+          "en": "shopping",
+          "fa": "خرید",
+          "task_en": "Say the Persian meaning and use \"shopping\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «shopping» یک جمله ساده بساز."
+        },
+        {
+          "en": "sightseeing",
+          "fa": "گردش",
+          "task_en": "Say the Persian meaning and use \"sightseeing\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «sightseeing» یک جمله ساده بساز."
+        },
+        {
+          "en": "street",
+          "fa": "خیابان",
+          "task_en": "Say the Persian meaning and use \"street\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «street» یک جمله ساده بساز."
+        },
+        {
+          "en": "friendly",
+          "fa": "دوستانه",
+          "task_en": "Say the Persian meaning and use \"friendly\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «friendly» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "go for a walk",
+          "fa": "پیاده‌روی رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are going for a walk.",
+              "fa": "آن‌ها در حال پیاده‌روی رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They went for a walk yesterday.",
+              "fa": "آن‌ها دیروز پیاده‌روی رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will go for a walk.",
+              "fa": "آن‌ها فردا پیاده‌روی خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "catch up",
+          "fa": "خبر گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are catching up.",
+              "fa": "آن‌ها در حال خبر گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They catched up yesterday.",
+              "fa": "آن‌ها دیروز خبر گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will catch up.",
+              "fa": "آن‌ها فردا خبر خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "spend time together",
+          "fa": "با هم وقت گذراندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are spending time together.",
+              "fa": "آن‌ها در حال با هم وقت گذراندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They spended time together yesterday.",
+              "fa": "آن‌ها دیروز با هم وقت گذراندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will spend time together.",
+              "fa": "آن‌ها فردا با هم وقت گذراندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "walk side by side",
+          "fa": "کنار هم راه رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are walking side by side.",
+              "fa": "آن‌ها در حال کنار هم راه رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They walked side by side yesterday.",
+              "fa": "آن‌ها دیروز کنار هم راه رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will walk side by side.",
+              "fa": "آن‌ها فردا کنار هم راه خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the day",
+          "fa": "از روز لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the day.",
+              "fa": "آن‌ها در حال از روز لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the day yesterday.",
+              "fa": "آن‌ها دیروز از روز لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the day.",
+              "fa": "آن‌ها فردا از روز لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "explore the city",
+          "fa": "شهر را گشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are exploring the city.",
+              "fa": "آن‌ها در حال شهر را گشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They explored the city yesterday.",
+              "fa": "آن‌ها دیروز شهر را گشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will explore the city.",
+              "fa": "آن‌ها فردا شهر را گشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "meet for coffee",
+          "fa": "برای قهوه دیدار کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are meeting for coffee.",
+              "fa": "آن‌ها در حال برای قهوه دیدار کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They met for coffee yesterday.",
+              "fa": "آن‌ها دیروز برای قهوه دیدار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will meet for coffee.",
+              "fa": "آن‌ها فردا برای قهوه دیدار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "have a relaxed outing",
+          "fa": "یک بیرون رفتن آرام داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are having a relaxed outing.",
+              "fa": "آن‌ها در حال یک بیرون رفتن آرام داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They had a relaxed outing yesterday.",
+              "fa": "آن‌ها دیروز یک بیرون رفتن آرام داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will have a relaxed outing.",
+              "fa": "آن‌ها فردا یک بیرون رفتن آرام داشتن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Three friends walk through a city street, smiling and chatting in daylight.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Walking Through the City with Friends\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (Three friends walk through a city street, smiling and chatting in daylight.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: Three friends walk through a city street, smiling and chatting in daylight.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Walking Through the City with Friends\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (Three friends walk through a city street, smiling and chatting in daylight.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "go for a walk",
+          "fa": "پیاده‌روی رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are going for a walk.",
+              "fa": "آن‌ها در حال پیاده‌روی رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They went for a walk yesterday.",
+              "fa": "آن‌ها دیروز پیاده‌روی رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will go for a walk.",
+              "fa": "آن‌ها فردا پیاده‌روی خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "catch up",
+          "fa": "خبر گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are catching up.",
+              "fa": "آن‌ها در حال خبر گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They catched up yesterday.",
+              "fa": "آن‌ها دیروز خبر گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will catch up.",
+              "fa": "آن‌ها فردا خبر خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "spend time together",
+          "fa": "با هم وقت گذراندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are spending time together.",
+              "fa": "آن‌ها در حال با هم وقت گذراندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They spended time together yesterday.",
+              "fa": "آن‌ها دیروز با هم وقت گذراندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will spend time together.",
+              "fa": "آن‌ها فردا با هم وقت گذراندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "walk side by side",
+          "fa": "کنار هم راه رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are walking side by side.",
+              "fa": "آن‌ها در حال کنار هم راه رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They walked side by side yesterday.",
+              "fa": "آن‌ها دیروز کنار هم راه رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will walk side by side.",
+              "fa": "آن‌ها فردا کنار هم راه خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the day",
+          "fa": "از روز لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the day.",
+              "fa": "آن‌ها در حال از روز لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the day yesterday.",
+              "fa": "آن‌ها دیروز از روز لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the day.",
+              "fa": "آن‌ها فردا از روز لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "explore the city",
+          "fa": "شهر را گشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are exploring the city.",
+              "fa": "آن‌ها در حال شهر را گشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They explored the city yesterday.",
+              "fa": "آن‌ها دیروز شهر را گشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will explore the city.",
+              "fa": "آن‌ها فردا شهر را گشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "meet for coffee",
+          "fa": "برای قهوه دیدار کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are meeting for coffee.",
+              "fa": "آن‌ها در حال برای قهوه دیدار کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They met for coffee yesterday.",
+              "fa": "آن‌ها دیروز برای قهوه دیدار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will meet for coffee.",
+              "fa": "آن‌ها فردا برای قهوه دیدار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "have a relaxed outing",
+          "fa": "یک بیرون رفتن آرام داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are having a relaxed outing.",
+              "fa": "آن‌ها در حال یک بیرون رفتن آرام داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They had a relaxed outing yesterday.",
+              "fa": "آن‌ها دیروز یک بیرون رفتن آرام داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will have a relaxed outing.",
+              "fa": "آن‌ها فردا یک بیرون رفتن آرام داشتن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the city buildings in the scene.",
+          "answer_en": "There are city buildings in the scene.",
+          "task_fa": "با There is/are جمله بساز و «city buildings» را ذکر کن.",
+          "answer_fa": "There are city buildings in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:17Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "3 people: friends (young women) are at city street / neighborhood, right in the middle of a real-life moment. They are walking; chatting; enjoying the day. Three friends walk through a city street, smiling and chatting in daylight. There are city buildings, shops (background) around them, and the setting feels relaxed, friendly, upbeat. Their clothing, like casual summer clothing, matches the situation and the environment.",
+    "fa": "3 people: friends (young women) در city street / neighborhood وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال walking، chatting و enjoying the day هستند. Three friends walk through a city street, smiling and chatting in daylight. اطرافشان city buildings و shops (background) دیده می‌شود و فضا relaxed، friendly و upbeat است. لباس‌ها، مثل casual summer clothing هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "3 people: friends (young women) are at city street / neighborhood, right in the middle of a real-life moment. They are walking; chatting; enjoying the day. Three friends walk through a city street, smiling and chatting in daylight. There are city buildings, shops (background) around them, and the setting feels relaxed, friendly, upbeat. Their clothing, like casual summer clothing, matches the situation and the environment.",
+      "fa": "3 people: friends (young women) در city street / neighborhood وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال walking، chatting و enjoying the day هستند. Three friends walk through a city street, smiling and chatting in daylight. اطرافشان city buildings و shops (background) دیده می‌شود و فضا relaxed، friendly و upbeat است. لباس‌ها، مثل casual summer clothing هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "The friends are walking.",
+            "There are city buildings and shops (background) in city street / neighborhood.",
+            "The atmosphere feels relaxed."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال walking هستند.",
+            "در city street / neighborhood city buildings و shops (background) دیده می‌شود.",
+            "فضا relaxed به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at city street / neighborhood. Three friends walk through a city street, smiling and chatting in daylight. At first, I noticed city buildings, shops (background) and the way people were walking. Then I looked closer: their clothing (casual summer clothing) and their expressions made the scene feel relaxed, friendly, upbeat. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل city street / neighborhood بودم. Three friends walk through a city street, smiling and chatting in daylight. اول city buildings و shops (background) را دیدم و اینکه آدم‌ها چطور walking. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual summer clothing) و حالت چهره‌ها باعث شد فضا relaxed، friendly و upbeat به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, the friends walked.",
+            "Then, the friends checked city buildings and continued.",
+            "Finally, they felt relaxed about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، The friends walked.",
+            "بعد، The friends city buildings را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه relaxed بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as city buildings, shops (background) are not background; they guide the story. I have also learned how actions like chatting can signal feelings such as relaxed, friendly, upbeat. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل city buildings و shops (background) فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل chatting چطور می‌تواند احساساتی مثل relaxed، friendly و upbeat را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "The friends have already handled similar situations before.",
+            "The friends have learned to stay relaxed in city street / neighborhood.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "The friends قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "The friends یاد گرفته است در city street / neighborhood relaxed بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at city street / neighborhood, one small change could create a big problem. If city buildings, shops (background) had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در city street / neighborhood دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر city buildings و shops (background) نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If the friends had checked city buildings earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay relaxed.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر The friends زودتر city buildings را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید relaxed بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

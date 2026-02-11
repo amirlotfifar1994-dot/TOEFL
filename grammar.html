@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#0f172a" name="theme-color"/>
+<title>Grammar • TOEFL Academic</title>
+<link href="manifest.json" rel="manifest"/>
+<link href="assets/icons/icon-192.png" rel="icon" sizes="192x192"/>
+<link href="css/base.css" rel="stylesheet"/><link href="css/components.css" rel="stylesheet"/>
+<link href="css/custom.css" rel="stylesheet"/>
+<link href="css/theme-pro.css" rel="stylesheet"/>
+<link href="css/luxe.css" rel="stylesheet"/>
+<link href="css/theme-nebula.css" rel="stylesheet"/>
+<link href="css/slider-pro.css" rel="stylesheet"/>
+<link href="css/patch-v19.css" rel="stylesheet"/>
+<link href="css/patch-v21.css" rel="stylesheet"/>
+<link href="css/patch-v23.css" rel="stylesheet"/>
+<link href="css/patch-v28.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/patch-v29.css">
+  <link rel="stylesheet" href="css/patch-v30.css">
+  <link rel="stylesheet" href="css/patch-v31.css">
+  <link rel="stylesheet" href="css/patch-v32.css">
+<link rel="stylesheet" href="css/patch-v33.css">
+<link rel="stylesheet" href="css/patch-v35.css">
+  <link rel="stylesheet" href="css/patch-v34.css">
+<meta content="Grammar explanations and examples — bilingual, multi-level." name="description"/>
+</head>
+<body>
+<div aria-hidden="true" class="bg-animated"></div>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="appHeader">
+<a class="brand brandLink" href="index.html" aria-label="Home">
+<span aria-hidden="true" class="brandLogo">EN</span>
+<div class="brandText">
+<span>TOEFL Academic</span>
+<span class="muted small">Grammar • Bilingual</span>
+</div>
+</a>
+<div class="headerActions">
+<div class="headerButtons">
+<button aria-expanded="false" aria-label="Open menu" class="icon-button menu-toggle" id="menuToggle" type="button">☰</button>
+<button aria-label="Toggle theme" aria-pressed="false" class="icon-button" id="themeToggle" type="button">☀️</button>
+</div>
+<nav aria-label="Main navigation">
+<a class="nav-link" href="index.html#lessonsContainer">Lessons</a>
+<a class="nav-link" href="dictionary.html">Dictionary</a>
+<a class="nav-link" href="offline.html">Offline</a>
+<a class="nav-link" href="about.html">About</a>
+<a class="nav-link" href="settings.html">Settings</a>
+</nav>
+</div>
+</header>
+<main class="page" id="main">
+<section class="panel">
+<a class="btn small" href="lesson.html" id="backToLesson">← Back to lesson</a>
+<h1 class="h1" id="gTitle">Grammar</h1>
+<p class="muted" id="gSubtitle">Bilingual explanation and examples.</p>
+</section>
+<section class="card" id="gExplain">
+<h2 class="h2">Explanation</h2>
+<div class="two-col">
+<div>
+<h3 class="h3">English</h3>
+<div class="prose" id="explainEn"></div>
+</div>
+<div>
+<h3 class="h3">Persian</h3>
+<div class="prose" dir="rtl" id="explainFa"></div>
+</div>
+</div>
+<div class="mt" id="patternWrap"></div>
+</section>
+<section class="card" id="gExamples">
+<h2 class="h2">Examples</h2>
+<div aria-label="Choose level" class="level-buttons" role="tablist">
+<button class="level-btn active" data-level="beginner" role="tab">Beginner</button>
+<button class="level-btn" data-level="intermediate" role="tab">Intermediate</button>
+<button class="level-btn" data-level="advanced" role="tab">Advanced</button>
+</div>
+<div class="exampleGrid mt" id="exampleList"></div>
+</section>
+<section class="panel" id="gFallback" style="display:none">
+<h2 class="h2">Not found</h2>
+<p class="muted">This grammar item could not be loaded. Please go back and try another item.</p>
+</section>
+</main>
+<footer class="appFooter">
+<div>© TOEFL Academic — Grammar</div>
+</footer>
+
+
+
+
+<script defer="" src="js/theme.js"></script><script defer="" src="js/utils.js"></script><script defer="" src="js/main.js"></script><script defer="" src="js/grammar.js"></script><script>
+if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));}
+</script>
+</body>
+</html>

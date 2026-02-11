@@ -1,0 +1,1635 @@
+{
+  "id": "toefl-ax1-04",
+  "title": "Planning a Project with Blueprints",
+  "caption": "This is a collaborative planning moment where a team aligns on technical details. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax1-04",
+    "src800": "assets/images/toefl-photo-ax1-04-800.webp",
+    "src1600": "assets/images/toefl-photo-ax1-04-1600.webp",
+    "alt": "Three colleagues point at papers and write notes while planning at a table."
+  },
+  "fullDescription": {
+    "en": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget.",
+    "fa": "This is collaborative planning moment where team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining design, assigning tasks, or resolving constraints before execution. laptop and documents on table suggest they در حال balancing creativity with practical limits such as time and budget."
+  },
+  "simpleEnglish": {
+    "en": "Three people are working together at a table. They look at papers and draw plans. They are planning a project.",
+    "fa": "Three people کار می‌کنند together کنار یک میز. آن‌ها look at papers and draw plans. آن‌ها در حال planning project."
+  },
+  "intermediateEnglish": {
+    "en": "A small team collaborates over blueprints and notes. One person writes while another points at a specific area on the plan. A laptop and coffee suggest a long working session focused on details and deadlines.",
+    "fa": "small team collaborates over blueprints and notes. One person writes while another points at specific area on plan. laptop and coffee suggest long working session focused on details and deadlines."
+  },
+  "advancedEnglish": {
+    "en": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget.",
+    "fa": "This is collaborative planning moment where team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining design, assigning tasks, or resolving constraints before execution. laptop and documents on table suggest they در حال balancing creativity with practical limits such as time and budget."
+  },
+  "people": [
+    "3 people: mixed genders (young adults)"
+  ],
+  "ages": [
+    "young adults"
+  ],
+  "place": [
+    "office / studio meeting table"
+  ],
+  "clothing": [
+    "casual-smart clothing",
+    "rolled sleeves"
+  ],
+  "appearance": [
+    "focused faces",
+    "one person writing notes"
+  ],
+  "actions": [
+    "reviewing blueprints",
+    "taking notes",
+    "pointing to details"
+  ],
+  "objects": [
+    "blueprints/plans",
+    "laptop",
+    "notebooks",
+    "coffee cup"
+  ],
+  "feelings": [
+    "concentrated",
+    "collaborative",
+    "problem-solving"
+  ],
+  "environmentType": [
+    "indoor office / planning"
+  ],
+  "weatherLighting": [
+    "warm indoor light",
+    "work-focused atmosphere"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "blueprint",
+      "layout",
+      "draft",
+      "revise",
+      "deadline",
+      "task",
+      "assign",
+      "constraint",
+      "design",
+      "plan"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "blueprints/plans",
+      "laptop",
+      "notebooks",
+      "coffee cup"
+    ],
+    "places": [
+      "office / studio meeting table"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "blueprint",
+      "fa": "نقشه/طرح فنی"
+    },
+    {
+      "en": "layout",
+      "fa": "چیدمان/طرح"
+    },
+    {
+      "en": "draft",
+      "fa": "پیش‌نویس"
+    },
+    {
+      "en": "revise",
+      "fa": "اصلاح کردن"
+    },
+    {
+      "en": "deadline",
+      "fa": "ددلاین"
+    },
+    {
+      "en": "task",
+      "fa": "وظیفه"
+    },
+    {
+      "en": "assign",
+      "fa": "واگذار کردن"
+    },
+    {
+      "en": "constraint",
+      "fa": "محدودیت"
+    },
+    {
+      "en": "design",
+      "fa": "طراحی"
+    },
+    {
+      "en": "plan",
+      "fa": "طرح"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "dimension",
+      "fa": "ابعاد"
+    },
+    {
+      "en": "budget",
+      "fa": "بودجه"
+    },
+    {
+      "en": "timeline",
+      "fa": "خط زمانی"
+    },
+    {
+      "en": "meeting",
+      "fa": "جلسه"
+    },
+    {
+      "en": "approval",
+      "fa": "تأیید"
+    },
+    {
+      "en": "sketch",
+      "fa": "اسکچ/طرح اولیه"
+    },
+    {
+      "en": "prototype",
+      "fa": "نمونه اولیه"
+    },
+    {
+      "en": "coordinate",
+      "fa": "هماهنگ کردن"
+    },
+    {
+      "en": "allocate",
+      "fa": "اختصاص دادن"
+    },
+    {
+      "en": "resource",
+      "fa": "منبع"
+    },
+    {
+      "en": "priority",
+      "fa": "اولویت"
+    },
+    {
+      "en": "risk",
+      "fa": "ریسک"
+    },
+    {
+      "en": "solution",
+      "fa": "راه‌حل"
+    },
+    {
+      "en": "update",
+      "fa": "به‌روزرسانی"
+    },
+    {
+      "en": "feedback",
+      "fa": "بازخورد"
+    },
+    {
+      "en": "finalize",
+      "fa": "نهایی کردن"
+    },
+    {
+      "en": "deliverable",
+      "fa": "خروجی/تحویل‌دادنی"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    },
+    {
+      "en": "scenario",
+      "fa": "سناریو/موقعیت"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX104-C1",
+      "en": "work on a blueprint",
+      "fa": "کار کردن روی نقشه"
+    },
+    {
+      "id": "AX104-C2",
+      "en": "meet a deadline",
+      "fa": "رسیدن به موعد تحویل"
+    },
+    {
+      "id": "AX104-C3",
+      "en": "make adjustments",
+      "fa": "انجام تغییرات"
+    },
+    {
+      "id": "AX104-C4",
+      "en": "discuss the details",
+      "fa": "بحث درباره جزئیات"
+    },
+    {
+      "id": "AX104-C5",
+      "en": "take notes",
+      "fa": "یادداشت برداشتن"
+    },
+    {
+      "id": "AX104-C6",
+      "en": "solve a problem",
+      "fa": "حل مشکل"
+    },
+    {
+      "id": "AX104-C7",
+      "en": "finalize the plan",
+      "fa": "نهایی کردن طرح"
+    },
+    {
+      "id": "AX104-C8",
+      "en": "assign tasks",
+      "fa": "واگذار کردن وظایف"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "First Conditional (شرطی نوع اول)",
+      "rule": "برای نتیجه‌های محتمل از **If + present, will + verb** استفاده کن.",
+      "examples": [
+        {
+          "en": "If we change the layout, it will improve the workflow.",
+          "fa": "اگر چیدمان را تغییر دهیم، روند کار بهتر می‌شود."
+        },
+        {
+          "en": "If we miss the deadline, we will need a new schedule.",
+          "fa": "اگر ددلاین را از دست بدهیم، به برنامه جدید نیاز داریم."
+        }
+      ]
+    },
+    {
+      "title": "Suggestions (پیشنهاد دادن)",
+      "rule": "برای پیشنهاد از **Let’s / Why don’t we / We could** استفاده کن.",
+      "examples": [
+        {
+          "en": "Let’s revise the draft together.",
+          "fa": "بیایید پیش‌نویس را با هم اصلاح کنیم."
+        },
+        {
+          "en": "We could assign tasks by priority.",
+          "fa": "می‌توانیم وظایف را بر اساس اولویت تقسیم کنیم."
+        }
+      ]
+    },
+    {
+      "title": "Gerunds after verbs (V-ing)",
+      "rule": "بعد از بعضی فعل‌ها مثل **consider / discuss** از **V‑ing** استفاده می‌شود.",
+      "examples": [
+        {
+          "en": "They discussed revising the blueprint.",
+          "fa": "آن‌ها درباره اصلاح نقشه صحبت کردند."
+        },
+        {
+          "en": "They considered adding a new section.",
+          "fa": "آن‌ها اضافه کردن بخش جدید را بررسی کردند."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Planning a Project with Blueprints' most likely take place?",
+        "choices": [
+          "office / studio meeting table",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Planning a Project with Blueprints'?",
+        "choices": [
+          "reviewing blueprints",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Planning a Project with Blueprints'?",
+        "choices": [
+          "concentrated",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Planning a Project with Blueprints'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Planning a Project with Blueprints' (office / studio meeting table). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Planning a Project with Blueprints'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Planning a Project with Blueprints' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 1,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adults"
+    ],
+    "setting": [
+      "office / studio meeting table"
+    ],
+    "colorsLighting": [
+      "warm indoor light",
+      "work-focused atmosphere"
+    ],
+    "actions": [
+      "reviewing blueprints",
+      "taking notes",
+      "pointing to details"
+    ],
+    "bodyLanguage": [
+      "concentrated",
+      "collaborative",
+      "problem-solving"
+    ],
+    "moodAtmosphere": [
+      "concentrated",
+      "collaborative",
+      "problem-solving"
+    ],
+    "themes": [
+      "project planning",
+      "team collaboration",
+      "design"
+    ],
+    "objects": [
+      "blueprints/plans",
+      "laptop",
+      "notebooks",
+      "coffee cup"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget. They are in office / studio meeting table. Key action: reviewing blueprints; taking notes. Mood: concentrated; collaborative.",
+    "simple": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget. They are in office / studio meeting table. Key action: reviewing blueprints; taking notes. Mood: concentrated; collaborative.",
+    "intermediate": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget. The scene takes place in office / studio meeting table. Notable details include blueprints/plans; laptop. The overall atmosphere feels concentrated; collaborative. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget. In this setting (office / studio meeting table), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as reviewing blueprints; taking notes and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like blueprints/plans; laptop to improve clarity. Tone words (for example: concentrated; collaborative) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "A small team collaborates over plans, notes, and a laptop to refine a design.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-making, likely refining a design, assigning tasks, or resolving constraints before execution. The laptop and documents on the table suggest they are balancing creativity with practical limits such as time and budget."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "blueprint",
+          "fa": "نقشه/طرح فنی",
+          "task_en": "Say the Persian meaning and use \"blueprint\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «blueprint» یک جمله ساده بساز."
+        },
+        {
+          "en": "layout",
+          "fa": "چیدمان/طرح",
+          "task_en": "Say the Persian meaning and use \"layout\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «layout» یک جمله ساده بساز."
+        },
+        {
+          "en": "draft",
+          "fa": "پیش‌نویس",
+          "task_en": "Say the Persian meaning and use \"draft\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «draft» یک جمله ساده بساز."
+        },
+        {
+          "en": "revise",
+          "fa": "اصلاح کردن",
+          "task_en": "Say the Persian meaning and use \"revise\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «revise» یک جمله ساده بساز."
+        },
+        {
+          "en": "deadline",
+          "fa": "ددلاین",
+          "task_en": "Say the Persian meaning and use \"deadline\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «deadline» یک جمله ساده بساز."
+        },
+        {
+          "en": "task",
+          "fa": "وظیفه",
+          "task_en": "Say the Persian meaning and use \"task\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «task» یک جمله ساده بساز."
+        },
+        {
+          "en": "assign",
+          "fa": "واگذار کردن",
+          "task_en": "Say the Persian meaning and use \"assign\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «assign» یک جمله ساده بساز."
+        },
+        {
+          "en": "constraint",
+          "fa": "محدودیت",
+          "task_en": "Say the Persian meaning and use \"constraint\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «constraint» یک جمله ساده بساز."
+        },
+        {
+          "en": "design",
+          "fa": "طراحی",
+          "task_en": "Say the Persian meaning and use \"design\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «design» یک جمله ساده بساز."
+        },
+        {
+          "en": "plan",
+          "fa": "طرح",
+          "task_en": "Say the Persian meaning and use \"plan\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «plan» یک جمله ساده بساز."
+        },
+        {
+          "en": "detail",
+          "fa": "جزئیات",
+          "task_en": "Say the Persian meaning and use \"detail\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «detail» یک جمله ساده بساز."
+        },
+        {
+          "en": "dimension",
+          "fa": "ابعاد",
+          "task_en": "Say the Persian meaning and use \"dimension\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «dimension» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "work on a blueprint",
+          "fa": "کار کردن روی نقشه",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are working on a blueprint.",
+              "fa": "آن‌ها در حال کار کردن روی نقشه هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They worked on a blueprint yesterday.",
+              "fa": "آن‌ها دیروز کار کردن روی نقشه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will work on a blueprint.",
+              "fa": "آن‌ها فردا کار کردن روی نقشه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "meet a deadline",
+          "fa": "رسیدن به موعد تحویل",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are meeting a deadline.",
+              "fa": "آن‌ها در حال رسیدن به موعد تحویل هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They met a deadline yesterday.",
+              "fa": "آن‌ها دیروز رسیدن به موعد تحویل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will meet a deadline.",
+              "fa": "آن‌ها فردا رسیدن به موعد تحویل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "make adjustments",
+          "fa": "انجام تغییرات",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are making adjustments.",
+              "fa": "آن‌ها در حال انجام تغییرات هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They made adjustments yesterday.",
+              "fa": "آن‌ها دیروز انجام تغییرات کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will make adjustments.",
+              "fa": "آن‌ها فردا انجام تغییرات خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "discuss the details",
+          "fa": "بحث درباره جزئیات",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are discussing the details.",
+              "fa": "آن‌ها در حال بحث درباره جزئیات هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They discussed the details yesterday.",
+              "fa": "آن‌ها دیروز بحث درباره جزئیات کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will discuss the details.",
+              "fa": "آن‌ها فردا بحث درباره جزئیات خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take notes",
+          "fa": "یادداشت برداشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking notes.",
+              "fa": "آن‌ها در حال یادداشت برداشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took notes yesterday.",
+              "fa": "آن‌ها دیروز یادداشت برداشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take notes.",
+              "fa": "آن‌ها فردا یادداشت برداشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "solve a problem",
+          "fa": "حل مشکل",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are solving a problem.",
+              "fa": "آن‌ها در حال حل مشکل هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They solved a problem yesterday.",
+              "fa": "آن‌ها دیروز حل مشکل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will solve a problem.",
+              "fa": "آن‌ها فردا حل مشکل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "finalize the plan",
+          "fa": "نهایی کردن طرح",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are finalizing the plan.",
+              "fa": "آن‌ها در حال نهایی کردن طرح هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They finalized the plan yesterday.",
+              "fa": "آن‌ها دیروز نهایی کردن طرح کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will finalize the plan.",
+              "fa": "آن‌ها فردا نهایی کردن طرح خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "assign tasks",
+          "fa": "واگذار کردن وظایف",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are assigning tasks.",
+              "fa": "آن‌ها در حال واگذار کردن وظایف هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They assigned tasks yesterday.",
+              "fa": "آن‌ها دیروز واگذار کردن وظایف کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will assign tasks.",
+              "fa": "آن‌ها فردا واگذار کردن وظایف خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in A small team collaborates over plans, notes, and a laptop to refine a design.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Planning a Project with Blueprints\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (A small team collaborates over plans, notes, and a laptop to refine a design.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: A small team collaborates over plans, notes, and a laptop to refine a design.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Planning a Project with Blueprints\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (A small team collaborates over plans, notes, and a laptop to refine a design.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "work on a blueprint",
+          "fa": "کار کردن روی نقشه",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are working on a blueprint.",
+              "fa": "آن‌ها در حال کار کردن روی نقشه هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They worked on a blueprint yesterday.",
+              "fa": "آن‌ها دیروز کار کردن روی نقشه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will work on a blueprint.",
+              "fa": "آن‌ها فردا کار کردن روی نقشه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "meet a deadline",
+          "fa": "رسیدن به موعد تحویل",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are meeting a deadline.",
+              "fa": "آن‌ها در حال رسیدن به موعد تحویل هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They met a deadline yesterday.",
+              "fa": "آن‌ها دیروز رسیدن به موعد تحویل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will meet a deadline.",
+              "fa": "آن‌ها فردا رسیدن به موعد تحویل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "make adjustments",
+          "fa": "انجام تغییرات",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are making adjustments.",
+              "fa": "آن‌ها در حال انجام تغییرات هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They made adjustments yesterday.",
+              "fa": "آن‌ها دیروز انجام تغییرات کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will make adjustments.",
+              "fa": "آن‌ها فردا انجام تغییرات خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "discuss the details",
+          "fa": "بحث درباره جزئیات",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are discussing the details.",
+              "fa": "آن‌ها در حال بحث درباره جزئیات هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They discussed the details yesterday.",
+              "fa": "آن‌ها دیروز بحث درباره جزئیات کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will discuss the details.",
+              "fa": "آن‌ها فردا بحث درباره جزئیات خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take notes",
+          "fa": "یادداشت برداشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking notes.",
+              "fa": "آن‌ها در حال یادداشت برداشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took notes yesterday.",
+              "fa": "آن‌ها دیروز یادداشت برداشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take notes.",
+              "fa": "آن‌ها فردا یادداشت برداشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "solve a problem",
+          "fa": "حل مشکل",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are solving a problem.",
+              "fa": "آن‌ها در حال حل مشکل هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They solved a problem yesterday.",
+              "fa": "آن‌ها دیروز حل مشکل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will solve a problem.",
+              "fa": "آن‌ها فردا حل مشکل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "finalize the plan",
+          "fa": "نهایی کردن طرح",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are finalizing the plan.",
+              "fa": "آن‌ها در حال نهایی کردن طرح هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They finalized the plan yesterday.",
+              "fa": "آن‌ها دیروز نهایی کردن طرح کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will finalize the plan.",
+              "fa": "آن‌ها فردا نهایی کردن طرح خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "assign tasks",
+          "fa": "واگذار کردن وظایف",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are assigning tasks.",
+              "fa": "آن‌ها در حال واگذار کردن وظایف هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They assigned tasks yesterday.",
+              "fa": "آن‌ها دیروز واگذار کردن وظایف کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will assign tasks.",
+              "fa": "آن‌ها فردا واگذار کردن وظایف خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the blueprints/plans in the scene.",
+          "answer_en": "There are blueprints/plans in the scene.",
+          "task_fa": "با There is/are جمله بساز و «blueprints/plans» را ذکر کن.",
+          "answer_fa": "There are blueprints/plans in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:15Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "3 people: mixed genders (young adults) are in office / studio meeting table, right in the middle of a real-life moment. They are reviewing blueprints; taking notes; pointing to details. A small team collaborates over plans, notes, and a laptop to refine a design. There are blueprints/plans, laptop, notebooks, coffee cup around them, and the setting feels concentrated, collaborative, problem-solving. Their clothing, like casual-smart clothing, rolled sleeves, matches the situation and the environment.",
+    "fa": "3 people: mixed genders (young adults) در office / studio meeting table وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال reviewing blueprints، taking notes و pointing to details هستند. A small team collaborates over plans, notes, and a laptop to refine a design. اطرافشان blueprints/plans، laptop، notebooks و coffee cup دیده می‌شود و فضا concentrated، collaborative و problem-solving است. لباس‌ها، مثل casual-smart clothing و rolled sleeves هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "3 people: mixed genders (young adults) are in office / studio meeting table, right in the middle of a real-life moment. They are reviewing blueprints; taking notes; pointing to details. A small team collaborates over plans, notes, and a laptop to refine a design. There are blueprints/plans, laptop, notebooks, coffee cup around them, and the setting feels concentrated, collaborative, problem-solving. Their clothing, like casual-smart clothing, rolled sleeves, matches the situation and the environment.",
+      "fa": "3 people: mixed genders (young adults) در office / studio meeting table وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال reviewing blueprints، taking notes و pointing to details هستند. A small team collaborates over plans, notes, and a laptop to refine a design. اطرافشان blueprints/plans، laptop، notebooks و coffee cup دیده می‌شود و فضا concentrated، collaborative و problem-solving است. لباس‌ها، مثل casual-smart clothing و rolled sleeves هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are reviewing blueprints.",
+            "There are blueprints/plans and laptop in office / studio meeting table.",
+            "The atmosphere feels concentrated."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال reviewing blueprints هستند.",
+            "در office / studio meeting table blueprints/plans و laptop دیده می‌شود.",
+            "فضا concentrated به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself in office / studio meeting table. A small team collaborates over plans, notes, and a laptop to refine a design. At first, I noticed blueprints/plans, laptop, notebooks and the way people were reviewing blueprints. Then I looked closer: their clothing (casual-smart clothing, rolled sleeves) and their expressions made the scene feel concentrated, collaborative, problem-solving. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل office / studio meeting table بودم. A small team collaborates over plans, notes, and a laptop to refine a design. اول blueprints/plans، laptop و notebooks را دیدم و اینکه آدم‌ها چطور reviewing blueprints. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual-smart clothing و rolled sleeves) و حالت چهره‌ها باعث شد فضا concentrated، collaborative و problem-solving به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they reviewed blueprints.",
+            "Then, they checked blueprints/plans and continued.",
+            "Finally, they felt concentrated about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They reviewed blueprints.",
+            "بعد، They blueprints/plans را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه concentrated بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as blueprints/plans, laptop, notebooks, coffee cup are not background; they guide the story. I have also learned how actions like taking notes can signal feelings such as concentrated, collaborative, problem-solving. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل blueprints/plans، laptop، notebooks و coffee cup فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل taking notes چطور می‌تواند احساساتی مثل concentrated، collaborative و problem-solving را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay concentrated in office / studio meeting table.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در office / studio meeting table concentrated بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment in office / studio meeting table, one small change could create a big problem. If blueprints/plans, laptop had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در office / studio meeting table دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر blueprints/plans و laptop نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked blueprints/plans earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay concentrated.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر blueprints/plans را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید concentrated بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

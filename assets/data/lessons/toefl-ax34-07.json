@@ -1,0 +1,1659 @@
+{
+  "id": "toefl-ax34-07",
+  "title": "Quiet Embrace by the Lake: A Peaceful Romantic View",
+  "caption": "A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains.",
+  "image": {
+    "base": "toefl-photo-ax34-07",
+    "src800": "assets/images/toefl-photo-ax34-07-800.webp",
+    "src1600": "assets/images/toefl-photo-ax34-07-1600.webp",
+    "alt": "A man works at a desk in an office environment."
+  },
+  "fullDescription": {
+    "en": "A couple sits on a rock at sunrise, looking over a mountain lake and valley.",
+    "fa": "couple sits on rock at sunrise, looking over کوهستان lake and دره."
+  },
+  "simpleEnglish": {
+    "en": "A man and a woman are sitting on a rock. They are watching the sunrise over a lake. They look calm and happy.",
+    "fa": "یک مرد و یک زن نشسته‌اند on rock. آن‌ها در حال watching sunrise over lake. آن‌ها look calm and happy."
+  },
+  "intermediateEnglish": {
+    "en": "The couple rests at a viewpoint above a lake as morning light reaches the mountains. The scene feels quiet and intimate, like a pause during a trip.",
+    "fa": "couple rests at viewpoint above lake as morning light reaches کوه‌ها. scene feels quiet and intimate, like pause during trip."
+  },
+  "advancedEnglish": {
+    "en": "In the first light of day, a couple sits together on a rocky overlook, gazing at a mountain lake and distant ridges. Their close posture and the gentle sunrise colors create a calm, reflective mood—an unhurried moment before the day begins.",
+    "fa": "In first light of day, couple sits together on rocky overlook, gazing at کوهستان lake and دوردست ridges. Their close posture and gentle sunrise colors create calm, reflective mood— unhurried moment before day begins."
+  },
+  "people": [
+    "2 people: 1 man, 1 woman (young adults)"
+  ],
+  "ages": [
+    "Young adults (approx. 20s–30s)"
+  ],
+  "place": [
+    "Mountain overlook above a lake",
+    "Rocky viewpoint"
+  ],
+  "clothing": [
+    "Man: green jacket",
+    "Woman: yellow hoodie/jacket",
+    "Casual outdoor pants"
+  ],
+  "appearance": [
+    "Hair: both appear dark/light brown from back; not fully clear",
+    "Skin tones not clear from back view",
+    "Build: average",
+    "Approx. height: average; approx. weight/build: average (not measurable precisely from an image)."
+  ],
+  "actions": [
+    "Sitting close together",
+    "Watching sunrise and scenery",
+    "Hugging/arm around shoulders"
+  ],
+  "objects": [
+    "Mountain lake",
+    "Rock ledge",
+    "Sunrise sky"
+  ],
+  "feelings": [
+    "Romantic",
+    "Peaceful",
+    "Comforted"
+  ],
+  "environmentType": [
+    "Outdoor / mountains / lake"
+  ],
+  "weatherLighting": [
+    "Early morning sunrise",
+    "Soft warm light"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "work at a desk",
+      "type",
+      "read documents",
+      "analyze information",
+      "focus",
+      "observe",
+      "interpret",
+      "summarize"
+    ],
+    "feelings": [
+      "focused",
+      "serious",
+      "productive",
+      "quiet",
+      "neutral",
+      "curious",
+      "stressed"
+    ],
+    "places": [
+      "office",
+      "workspace",
+      "desk area",
+      "indoors"
+    ],
+    "academicPhrases": [
+      "it appears that",
+      "this suggests that",
+      "from my perspective",
+      "it is likely that",
+      "in contrast",
+      "as a result",
+      "for example",
+      "overall",
+      "in addition",
+      "the main focus is",
+      "a possible explanation is",
+      "this could indicate",
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "sunrise",
+      "fa": "طلوع"
+    },
+    {
+      "en": "morning light",
+      "fa": "نور صبح"
+    },
+    {
+      "en": "lake",
+      "fa": "دریاچه"
+    },
+    {
+      "en": "valley",
+      "fa": "دره"
+    },
+    {
+      "en": "viewpoint",
+      "fa": "نقطهٔ دید"
+    },
+    {
+      "en": "overlook",
+      "fa": "مشرف"
+    },
+    {
+      "en": "rock",
+      "fa": "سنگ"
+    },
+    {
+      "en": "couple",
+      "fa": "زوج"
+    },
+    {
+      "en": "hug",
+      "fa": "در آغوش گرفتن"
+    },
+    {
+      "en": "calm",
+      "fa": "آرام"
+    },
+    {
+      "en": "quiet",
+      "fa": "ساکت"
+    },
+    {
+      "en": "peaceful",
+      "fa": "آرام‌بخش"
+    },
+    {
+      "en": "reflective",
+      "fa": "متفکرانه"
+    },
+    {
+      "en": "mountain ridge",
+      "fa": "خط‌الرأس"
+    },
+    {
+      "en": "horizon",
+      "fa": "افق"
+    },
+    {
+      "en": "mist",
+      "fa": "مه"
+    },
+    {
+      "en": "fresh air",
+      "fa": "هوای تازه"
+    },
+    {
+      "en": "warmth",
+      "fa": "گرما"
+    },
+    {
+      "en": "trip",
+      "fa": "سفر"
+    },
+    {
+      "en": "moment",
+      "fa": "لحظه"
+    },
+    {
+      "en": "together",
+      "fa": "باهم"
+    },
+    {
+      "en": "scenery",
+      "fa": "منظره"
+    },
+    {
+      "en": "serene",
+      "fa": "آرام و دلنشین"
+    },
+    {
+      "en": "sit",
+      "fa": "نشستن"
+    },
+    {
+      "en": "watch",
+      "fa": "تماشا کردن"
+    },
+    {
+      "en": "enjoy",
+      "fa": "لذت بردن"
+    },
+    {
+      "en": "rest",
+      "fa": "استراحت"
+    },
+    {
+      "en": "early",
+      "fa": "زود"
+    },
+    {
+      "en": "distant",
+      "fa": "دور"
+    },
+    {
+      "en": "stillness",
+      "fa": "سکون"
+    },
+    {
+      "en": "nature",
+      "fa": "طبیعت"
+    },
+    {
+      "en": "outdoors",
+      "fa": "فضای باز"
+    },
+    {
+      "en": "cliff",
+      "fa": "صخره"
+    },
+    {
+      "en": "edge",
+      "fa": "لبه"
+    },
+    {
+      "en": "sunbeam",
+      "fa": "پرتو خورشید"
+    },
+    {
+      "en": "golden",
+      "fa": "طلایی"
+    },
+    {
+      "en": "breathtaking",
+      "fa": "نفس‌گیر"
+    },
+    {
+      "en": "comfort",
+      "fa": "آرامش"
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Explain the mood using evidence from posture and facial expression.",
+      "Use cautious language: appears to, seems to, is likely to.",
+      "End by connecting the photo to a broader theme."
+    ],
+    "qa": [
+      {
+        "q": "What is happening in the photo?",
+        "a": "Describe visible actions without guessing hidden information."
+      },
+      {
+        "q": "What details support your interpretation?",
+        "a": "Use concrete cues: objects, lighting, posture, and environment."
+      },
+      {
+        "q": "What is the mood and why?",
+        "a": "Connect mood to evidence from body language and context."
+      }
+    ],
+    "speakingPrompts": [
+      "30 seconds: overview + 3 details.",
+      "45 seconds: overview → details → mood → theme.",
+      "60 seconds: add a comparison to a similar situation."
+    ]
+  },
+  "toefl": {
+    "reading": {
+      "passage": "Strong photo descriptions separate observation from interpretation and support claims with visible evidence."
+    },
+    "questions": [
+      {
+        "question": "What is the best overall description of 'Focused Office Work'?",
+        "choices": [
+          "A calm indoor meeting with formal presentations",
+          "People in a public setting engaged in an everyday activity",
+          "A private ceremony with an audience and a stage",
+          "A laboratory experiment with specialized equipment"
+        ],
+        "answer": 1,
+        "explanation": "The scene title and context point to a public setting and routine activity rather than a formal ceremony, lab, or meeting."
+      },
+      {
+        "question": "Which phrase is best for avoiding an unsupported guess?",
+        "choices": [
+          "It is definitely true that",
+          "It appears that",
+          "There is no doubt that",
+          "Everyone knows that"
+        ],
+        "answer": 1,
+        "explanation": "'It appears that' is a hedging phrase that keeps your description evidence-based."
+      },
+      {
+        "question": "Which connector best signals a contrast between two ideas?",
+        "choices": [
+          "For example",
+          "In contrast",
+          "As a result",
+          "In addition"
+        ],
+        "answer": 1,
+        "explanation": "'In contrast' introduces an opposing idea."
+      }
+    ],
+    "listening": {
+      "note": "Practice note-taking.",
+      "script": "Setting → action → details → mood → theme."
+    },
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Focused Office Work'. What do you notice first?"
+      },
+      {
+        "prompt": "Explain how the setting in 'Focused Office Work' affects the mood of the people."
+      },
+      {
+        "prompt": "Predict what might happen next in 'Focused Office Work' and give one reason."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Focused Office Work'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 15,
+        "prompt": "Explain the relationship between the people and the setting in 'Focused Office Work'. Use at least two specific details.",
+        "sampleAnswer": "In 'Focused Office Work', the setting provides clear context for the people’s actions. Overall, the scene feels purposeful because the subjects seem engaged and oriented toward a shared goal. For example, their body language suggests focus, and the environment appears to support that activity. As a result, the mood is more organized than casual, which indicates that the moment is part of a routine rather than a spontaneous event."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 20,
+        "prompt": "Some people prefer busy environments, while others prefer quiet ones. Using 'Focused Office Work' as inspiration, state your preference and support it with reasons.",
+        "sampleAnswer": "I prefer quieter environments because they help me think clearly and work efficiently. In contrast, busy places can be distracting and make it harder to focus. For example, when I study in a calm space, I can organize my ideas and finish tasks faster. A possible explanation is that fewer interruptions reduce mental fatigue. Overall, choosing a quiet environment leads to better concentration and less stress, which improves my performance."
+      }
+    ],
+    "examTips": [
+      "Start with a one-sentence overview before details.",
+      "Use location phrases (foreground/background) to organize your description.",
+      "Avoid guessing; hedge with 'it appears' or 'it is likely'.",
+      "Include 2–3 specific details (objects, actions, setting) to support ideas.",
+      "Use linking words (overall, in contrast, as a result) for coherence.",
+      "Speak steadily and manage time: plan 5 seconds, speak 40–45 seconds."
+    ]
+  },
+  "analysis": {
+    "peopleCount": "one adult in the foreground",
+    "gender": "Appears male (appearance-based).",
+    "ages": "Likely adult in his 30s–40s (approximate).",
+    "setting": "an office or workspace with a desk and computer",
+    "colorsLighting": "Soft indoor lighting; neutral tones; screen light adds subtle highlights.",
+    "actions": "working at a desk, reading documents, and concentrating on a task",
+    "bodyLanguage": "forward-leaning posture and concentrated gaze, suggesting mental effort",
+    "moodAtmosphere": "focused, serious, productive, quiet",
+    "themes": [
+      "work culture",
+      "concentration",
+      "professional life",
+      "productivity"
+    ],
+    "objects": [
+      "desk",
+      "computer",
+      "documents",
+      "keyboard",
+      "office background"
+    ]
+  },
+  "descriptions": {
+    "beginner": "A couple sits on a rock at sunrise, looking over a mountain lake and valley. It takes place in an office or workspace with a desk and computer. Use simple sentences to describe people, actions, and objects.",
+    "intermediate": "A couple sits on a rock at sunrise, looking over a mountain lake and valley. Setting: an office or workspace with a desk and computer. Atmosphere: focused, serious, productive, quiet. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "A couple sits on a rock at sunrise, looking over a mountain lake and valley. The setting suggests: an office or workspace with a desk and computer. Overall tone: focused, serious, productive, quiet. A strong response highlights concrete visual evidence, then adds cautious inference (what is likely happening and why) without over-claiming. You will build academic vocabulary and structured answers for TOEFL-style speaking, writing tasks.",
+    "simple": "A couple sits on a rock at sunrise, looking over a mountain lake and valley. It takes place in an office or workspace with a desk and computer. Use simple sentences to describe people, actions, and objects."
+  },
+  "createdAt": "2026-01-30",
+  "collocations": [
+    {
+      "id": "L07-C1",
+      "en": "watch the sunrise",
+      "fa": "طلوع را تماشا کردن"
+    },
+    {
+      "id": "L07-C2",
+      "en": "sit close together",
+      "fa": "نزدیک هم نشستن"
+    },
+    {
+      "id": "L07-C3",
+      "en": "enjoy the view",
+      "fa": "از منظره لذت بردن"
+    },
+    {
+      "id": "L07-C4",
+      "en": "feel peaceful",
+      "fa": "احساس آرامش داشتن"
+    },
+    {
+      "id": "L07-C5",
+      "en": "take a moment",
+      "fa": "لحظه‌ای مکث کردن"
+    },
+    {
+      "id": "L07-C6",
+      "en": "breathe fresh air",
+      "fa": "هوای تازه نفس کشیدن"
+    },
+    {
+      "id": "L07-C7",
+      "en": "mountain lake",
+      "fa": "دریاچهٔ کوهستانی"
+    },
+    {
+      "id": "L07-C8",
+      "en": "soft morning light",
+      "fa": "نور ملایم صبح"
+    }
+  ],
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا",
+          "task_en": "Say the Persian meaning and use “atmosphere” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «atmosphere» یک جمله ساده بساز."
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه",
+          "task_en": "Say the Persian meaning and use “background” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «background» یک جمله ساده بساز."
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست",
+          "task_en": "Say the Persian meaning and use “gesture” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «gesture» یک جمله ساده بساز."
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره",
+          "task_en": "Say the Persian meaning and use “expression” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «expression» یک جمله ساده بساز."
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل",
+          "task_en": "Say the Persian meaning and use “interaction” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «interaction» یک جمله ساده بساز."
+        },
+        {
+          "en": "routine",
+          "fa": "روال",
+          "task_en": "Say the Persian meaning and use “routine” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «routine» یک جمله ساده بساز."
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش",
+          "task_en": "Say the Persian meaning and use “challenge” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «challenge» یک جمله ساده بساز."
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد",
+          "task_en": "Say the Persian meaning and use “achievement” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «achievement» یک جمله ساده بساز."
+        },
+        {
+          "en": "crowded",
+          "fa": "شلوغ",
+          "task_en": "Say the Persian meaning and use “crowded” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «crowded» یک جمله ساده بساز."
+        },
+        {
+          "en": "calm",
+          "fa": "آرام",
+          "task_en": "Say the Persian meaning and use “calm” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «calm» یک جمله ساده بساز."
+        },
+        {
+          "en": "anxious",
+          "fa": "نگران",
+          "task_en": "Say the Persian meaning and use “anxious” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «anxious» یک جمله ساده بساز."
+        },
+        {
+          "en": "relieved",
+          "fa": "آسوده",
+          "task_en": "Say the Persian meaning and use “relieved” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «relieved» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "watch the sunrise",
+          "fa": "طلوع را تماشا کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are watching the sunrise.",
+              "fa": "آن‌ها در حال طلوع را تماشا کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They watched the sunrise yesterday.",
+              "fa": "آن‌ها دیروز طلوع را تماشا کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will watch the sunrise.",
+              "fa": "آن‌ها فردا طلوع را تماشا خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "sit close together",
+          "fa": "نزدیک هم نشستن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sitting close together.",
+              "fa": "آن‌ها در حال نزدیک هم نشستن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They sat close together yesterday.",
+              "fa": "آن‌ها دیروز نزدیک هم نشستن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sit close together.",
+              "fa": "آن‌ها فردا نزدیک هم نشستن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the view",
+          "fa": "از منظره لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the view.",
+              "fa": "آن‌ها در حال از منظره لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the view yesterday.",
+              "fa": "آن‌ها دیروز از منظره لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the view.",
+              "fa": "آن‌ها فردا از منظره لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel peaceful",
+          "fa": "احساس آرامش داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling peaceful.",
+              "fa": "آن‌ها در حال احساس آرامش داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt peaceful yesterday.",
+              "fa": "آن‌ها دیروز احساس آرامش داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel peaceful.",
+              "fa": "آن‌ها فردا احساس آرامش داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a moment",
+          "fa": "لحظه‌ای مکث کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a moment.",
+              "fa": "آن‌ها در حال لحظه‌ای مکث کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a moment yesterday.",
+              "fa": "آن‌ها دیروز لحظه‌ای مکث کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a moment.",
+              "fa": "آن‌ها فردا لحظه‌ای مکث خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "breathe fresh air",
+          "fa": "هوای تازه نفس کشیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are breathing fresh air.",
+              "fa": "آن‌ها در حال هوای تازه نفس کشیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They breathed fresh air yesterday.",
+              "fa": "آن‌ها دیروز هوای تازه نفس کشیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will breathe fresh air.",
+              "fa": "آن‌ها فردا هوای تازه نفس کشیدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "mountain lake",
+          "fa": "دریاچهٔ کوهستانی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are mountaining lake.",
+              "fa": "آن‌ها در حال دریاچهٔ کوهستانی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They mountained lake yesterday.",
+              "fa": "آن‌ها دیروز دریاچهٔ کوهستانی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will mountain lake.",
+              "fa": "آن‌ها فردا دریاچهٔ کوهستانی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "soft morning light",
+          "fa": "نور ملایم صبح",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are softing morning light.",
+              "fa": "آن‌ها در حال نور ملایم صبح هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They softed morning light yesterday.",
+              "fa": "آن‌ها دیروز نور ملایم صبح کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will soft morning light.",
+              "fa": "آن‌ها فردا نور ملایم صبح خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in A couple sits on a rock facing a lake and distant snowy mountains. The man has his arm around the woman’s shoulders, and both look toward the soft light near the horizon. Their warm clothing and close posture create a calm, romantic atmosphere.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe the photo in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Speak with structure: overview → details → inference → wrap-up.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo and adding one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows quiet embrace by the lake: a peaceful romantic view with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا"
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه"
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست"
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره"
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل"
+        },
+        {
+          "en": "routine",
+          "fa": "روال"
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش"
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Describe the photo, infer a challenge, and propose one solution or next step.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Write 150–180 words: describe the scene and argue why this activity is beneficial (or risky).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "watch the sunrise",
+          "fa": "طلوع را تماشا کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are watching the sunrise.",
+              "fa": "آن‌ها در حال طلوع را تماشا کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They watched the sunrise yesterday.",
+              "fa": "آن‌ها دیروز طلوع را تماشا کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will watch the sunrise.",
+              "fa": "آن‌ها فردا طلوع را تماشا خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "sit close together",
+          "fa": "نزدیک هم نشستن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sitting close together.",
+              "fa": "آن‌ها در حال نزدیک هم نشستن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They sat close together yesterday.",
+              "fa": "آن‌ها دیروز نزدیک هم نشستن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sit close together.",
+              "fa": "آن‌ها فردا نزدیک هم نشستن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the view",
+          "fa": "از منظره لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the view.",
+              "fa": "آن‌ها در حال از منظره لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the view yesterday.",
+              "fa": "آن‌ها دیروز از منظره لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the view.",
+              "fa": "آن‌ها فردا از منظره لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel peaceful",
+          "fa": "احساس آرامش داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling peaceful.",
+              "fa": "آن‌ها در حال احساس آرامش داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt peaceful yesterday.",
+              "fa": "آن‌ها دیروز احساس آرامش داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel peaceful.",
+              "fa": "آن‌ها فردا احساس آرامش داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a moment",
+          "fa": "لحظه‌ای مکث کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a moment.",
+              "fa": "آن‌ها در حال لحظه‌ای مکث کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a moment yesterday.",
+              "fa": "آن‌ها دیروز لحظه‌ای مکث کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a moment.",
+              "fa": "آن‌ها فردا لحظه‌ای مکث خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "breathe fresh air",
+          "fa": "هوای تازه نفس کشیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are breathing fresh air.",
+              "fa": "آن‌ها در حال هوای تازه نفس کشیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They breathed fresh air yesterday.",
+              "fa": "آن‌ها دیروز هوای تازه نفس کشیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will breathe fresh air.",
+              "fa": "آن‌ها فردا هوای تازه نفس کشیدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "mountain lake",
+          "fa": "دریاچهٔ کوهستانی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are mountaining lake.",
+              "fa": "آن‌ها در حال دریاچهٔ کوهستانی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They mountained lake yesterday.",
+              "fa": "آن‌ها دیروز دریاچهٔ کوهستانی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will mountain lake.",
+              "fa": "آن‌ها فردا دریاچهٔ کوهستانی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "soft morning light",
+          "fa": "نور ملایم صبح",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are softing morning light.",
+              "fa": "آن‌ها در حال نور ملایم صبح هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They softed morning light yesterday.",
+              "fa": "آن‌ها دیروز نور ملایم صبح کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will soft morning light.",
+              "fa": "آن‌ها فردا نور ملایم صبح خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in past continuous: 'They take in the view.'",
+          "answer_en": "They were taking in the view.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «They take in the view.»",
+          "answer_fa": "They were taking in the view."
+        },
+        {
+          "task_en": "Add a modal: 'They reach a viewpoint.'",
+          "answer_en": "They might reach a viewpoint soon.",
+          "task_fa": "یک modal اضافه کن: «They reach a viewpoint.»",
+          "answer_fa": "They might reach a viewpoint soon."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous (حال استمراری)",
+      "rule": "برای توصیف کاری که **همین الان** در تصویر اتفاق می‌افتد از **am/is/are + V‑ing** استفاده کن.",
+      "examples": [
+        {
+          "en": "A man and a woman are sitting in mountain overlook above a lake.",
+          "fa": "آن‌ها در این صحنه در حال انجام کار هستند."
+        },
+        {
+          "en": "A man and a woman are carrying mountain lake.",
+          "fa": "آن‌ها وسایل لازم را همراه دارند."
+        }
+      ]
+    },
+    {
+      "title": "Passive Voice (ساخت مجهول)",
+      "rule": "وقتی «خودِ عمل» مهم‌تر از انجام‌دهنده است از **be + V3** استفاده کن.",
+      "examples": [
+        {
+          "en": "The landscape is shaped by nature.",
+          "fa": "وقتی انجام‌دهنده مهم نیست، از مجهول استفاده می‌کنیم."
+        },
+        {
+          "en": "Mountain lake is seen in the foreground.",
+          "fa": "ساخت مجهول: be + V3 (مثل is seen, are made)."
+        }
+      ]
+    },
+    {
+      "title": "Linking Words (کلمات ربط)",
+      "rule": "برای وصل‌کردن ایده‌ها از **because / although / while / so** استفاده کن.",
+      "examples": [
+        {
+          "en": "Although the trail is steep, they keep going.",
+          "fa": "although = با اینکه، because = چون، so = بنابراین"
+        },
+        {
+          "en": "Because the weather is clear, the view is sharp.",
+          "fa": "کلمات ربط کمک می‌کنند متن روان و منطقی شود."
+        }
+      ]
+    }
+  ],
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "In this photo, a couple sits on a rock facing a lake and distant snowy mountains. The man has his arm around the woman’s shoulders, and both look toward the soft light near the horizon Overall, the mood feels atmosphere and realistic."
+    },
+    {
+      "label": "Academic Description",
+      "text": "The image portrays a couple on a rock overlooking a lake and snowy mountains, the man has his arm around the woman. Visual elements such as lighting, posture, and setting provide contextual cues that support an interpretation of mood and purpose. The composition balances foreground action with background environment to communicate a clear everyday scenario."
+    },
+    {
+      "label": "Narrative Style",
+      "text": "The moment feels frozen in time: A couple sits on a rock facing a lake and distant snowy mountains. Small details—light, movement, and expressions—turn an ordinary scene into a memorable snapshot."
+    }
+  ],
+  "sceneDescription": "A couple sits on a rock facing a lake and distant snowy mountains. The man has his arm around the woman’s shoulders, and both look toward the soft light near the horizon. Their warm clothing and close posture create a calm, romantic atmosphere.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": {
+      "goals": [
+        "Speak for 45–60 seconds with clear structure (foreground → background → overall).",
+        "Use both Daily English and TOEFL-style academic connectors.",
+        "Add 1 inference and 1 prediction to sound more advanced."
+      ],
+      "what_to_notice": [
+        "People: number, relationships, emotions",
+        "Place: setting and atmosphere",
+        "Action: what is happening right now",
+        "Details: objects, weather/light, colors"
+      ],
+      "speaking_plan": [
+        "1) One-sentence summary of the scene.",
+        "2) Two details about people + action (present continuous).",
+        "3) One detail about background/setting.",
+        "4) One inference (seems/probably) + one prediction (will/going to).",
+        "5) Overall feeling/opinion."
+      ]
+    },
+    "fa": {
+      "goals": [
+        "۴۵ تا ۶۰ ثانیه با ساختار واضح صحبت کنید (پیش‌زمینه → پس‌زمینه → جمع‌بندی).",
+        "هم زبان روزمره و هم اتصال‌دهنده‌های آکادمیک TOEFL را به کار ببرید.",
+        "۱ نتیجه‌گیری و ۱ پیش‌بینی اضافه کنید تا سطح بالاتر به نظر برسد."
+      ],
+      "what_to_notice": [
+        "افراد: تعداد، رابطه‌ها، احساسات",
+        "مکان: فضا و حال‌وهوا",
+        "عمل: الان چه کاری در حال انجام است",
+        "جزئیات: اشیا، آب‌وهوا/نور، رنگ‌ها"
+      ],
+      "speaking_plan": [
+        "۱) یک جمله خلاصه از صحنه.",
+        "۲) دو جزئیات درباره افراد و عمل (حال استمراری).",
+        "۳) یک جزئیات درباره پس‌زمینه/مکان.",
+        "۴) یک نتیجه‌گیری (seems/probably) + یک پیش‌بینی (will/going to).",
+        "۵) جمع‌بندی حس/نظر کلی."
+      ]
+    }
+  },
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "2 people: 1 man, 1 woman (young adults) are in Mountain overlook above a lake, right in the middle of a real-life moment. They are sitting close together; watching sunrise and scenery; hugging/arm around shoulders. A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains. There are Mountain lake, Rock ledge, Sunrise sky around them, and the setting feels romantic, peaceful, comforted. Their clothing, like Man: green jacket, Woman: yellow hoodie/jacket, matches the situation and the environment.",
+    "fa": "2 people: 1 man, 1 woman (young adults) در Mountain overlook above a lake وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Sitting close together، Watching sunrise and scenery و Hugging/arm around shoulders هستند. A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains. اطرافشان Mountain lake، Rock ledge و Sunrise sky دیده می‌شود و فضا Romantic، Peaceful و Comforted است. لباس‌ها، مثل Man: green jacket و Woman: yellow hoodie/jacket هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "2 people: 1 man, 1 woman (young adults) are in Mountain overlook above a lake, right in the middle of a real-life moment. They are sitting close together; watching sunrise and scenery; hugging/arm around shoulders. A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains. There are Mountain lake, Rock ledge, Sunrise sky around them, and the setting feels romantic, peaceful, comforted. Their clothing, like Man: green jacket, Woman: yellow hoodie/jacket, matches the situation and the environment.",
+      "fa": "2 people: 1 man, 1 woman (young adults) در Mountain overlook above a lake وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Sitting close together، Watching sunrise and scenery و Hugging/arm around shoulders هستند. A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains. اطرافشان Mountain lake، Rock ledge و Sunrise sky دیده می‌شود و فضا Romantic، Peaceful و Comforted است. لباس‌ها، مثل Man: green jacket و Woman: yellow hoodie/jacket هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "The couple is Sitting close together.",
+            "There are Mountain lake and Rock ledge in Mountain overlook above a lake.",
+            "The atmosphere feels Romantic."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال Sitting close together هستند.",
+            "در Mountain overlook above a lake Mountain lake و Rock ledge دیده می‌شود.",
+            "فضا Romantic به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself in Mountain overlook above a lake. A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains. At first, I noticed Mountain lake, Rock ledge, Sunrise sky and the way people were sitting close together. Then I looked closer: their clothing (Man: green jacket, Woman: yellow hoodie/jacket) and their expressions made the scene feel romantic, peaceful, comforted. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل Mountain overlook above a lake بودم. A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains. اول Mountain lake، Rock ledge و Sunrise sky را دیدم و اینکه آدم‌ها چطور Sitting close together. بعد دقیق‌تر نگاه کردم: لباس‌ها (Man: green jacket و Woman: yellow hoodie/jacket) و حالت چهره‌ها باعث شد فضا Romantic، Peaceful و Comforted به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, the couple sat close together.",
+            "Then, the couple checked Mountain lake and continued.",
+            "Finally, they felt Romantic about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، The couple sat close together.",
+            "بعد، The couple Mountain lake را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه Romantic بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as Mountain lake, Rock ledge, Sunrise sky are not background; they guide the story. I have also learned how actions like watching sunrise and scenery can signal feelings such as romantic, peaceful, comforted. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل Mountain lake، Rock ledge و Sunrise sky فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل Watching sunrise and scenery چطور می‌تواند احساساتی مثل Romantic، Peaceful و Comforted را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "The couple has already handled similar situations before.",
+            "The couple has learned to stay Romantic in Mountain overlook above a lake.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "The couple قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "The couple یاد گرفته است در Mountain overlook above a lake Romantic بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment in Mountain overlook above a lake, one small change could create a big problem. If Mountain lake, Rock ledge had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در Mountain overlook above a lake دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر Mountain lake و Rock ledge نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If the couple had checked Mountain lake earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay Romantic.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر The couple زودتر Mountain lake را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید Romantic بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1249 @@
+{
+  "generatedAt": "2026-02-11T16:18:40.217241Z",
+  "count": 48,
+  "lessons": [
+    {
+      "id": "toefl-ax1-01",
+      "file": "assets/data/lessons/toefl-ax1-01.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "In a busy industrial facility, two workers coordinate an on-site check. Their protective gear, hard hats, and high-visibility clothing indicate a safety-focused",
+          "fa_snip": "In busy industrial facility, two کارگران coordinate on-site check. Their protective gear, hard hats, and high-visibility clothing indicate safety-focused enviro"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two coworkers are standing in a factory. They wear hard hats and safety clothes. The woman holds a tablet and talks to the man. They are checking work and safet",
+          "fa_snip": "Two coworkers ایستاده‌اند در یک کارخانه. آن‌ها wear hard hats and safety clothes. زن holds tablet and talks to مرد. آن‌ها در حال checking work and safety rules."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "Two colleagues are discussing a task on a factory floor. They are wearing protective equipment, including hard hats and safety glasses. The woman is holding a t",
+          "fa_snip": "Two colleagues بحث می‌کنند task on کارخانه floor. آن‌ها پوشیده‌اند protective equipment, including hard hats and safety glasses. زن در دست دارند tablet, likely "
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a busy industrial facility, two workers coordinate an on-site check. Their protective gear, hard hats, and high-visibility clothing indicate a safety-focused",
+          "fa_snip": "In busy industrial facility, two کارگران coordinate on-site check. Their protective gear, hard hats, and high-visibility clothing indicate safety-focused enviro"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-02",
+      "file": "assets/data/lessons/toefl-ax1-02.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "In a clinical setting, two medical professionals collaborate while reviewing documentation. Their shared focus on the clipboard suggests coordination, possibly ",
+          "fa_snip": "In clinical setting, two medical professionals collaborate while reviewing documentation. Their shared focus on clipboard suggests coordination, possibly checki"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two nurses are smiling. They wear blue scrubs. They look at notes on a clipboard together. They are working as a team in a hospital.",
+          "fa_snip": "Two nurses لبخند می‌زنند. آن‌ها wear blue scrubs. آن‌ها look at notes on clipboard together. آن‌ها کار می‌کنند as team in hospital."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "Two healthcare workers in scrubs are reviewing notes on a clipboard. One of them has a stethoscope, suggesting a clinical role. Their expressions are positive, ",
+          "fa_snip": "Two healthcare کارگران in scrubs در حال reviewing notes on clipboard. One of them has stethoscope, suggesting clinical role. Their expressions are positive, as "
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a clinical setting, two medical professionals collaborate while reviewing documentation. Their shared focus on the clipboard suggests coordination, possibly ",
+          "fa_snip": "In clinical setting, two medical professionals collaborate while reviewing documentation. Their shared focus on clipboard suggests coordination, possibly checki"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-03",
+      "file": "assets/data/lessons/toefl-ax1-03.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A business presentation is underway in a modern conference room. The presenter uses clear gestures to guide the audience through a chart, likely summarizing tre",
+          "fa_snip": "business presentation is underway in modern conference room. presenter uses clear gestures to guide audience through chart, likely summarizing trends, results, "
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man is giving a presentation in an office. He points to a chart on a screen. Other people sit and listen.",
+          "fa_snip": "man در حال giving presentation in office. او points to chart on screen. Other people sit and listen."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "In a meeting room, a presenter explains data on a large screen. The chart suggests they are discussing performance or progress over time. The audience appears a",
+          "fa_snip": "In meeting room, presenter explains data on large screen. chart suggests they بحث می‌کنند performance or progress over time. audience appears attentive and enga"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A business presentation is underway in a modern conference room. The presenter uses clear gestures to guide the audience through a chart, likely summarizing tre",
+          "fa_snip": "business presentation is underway in modern conference room. presenter uses clear gestures to guide audience through chart, likely summarizing trends, results, "
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-04",
+      "file": "assets/data/lessons/toefl-ax1-04.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-m",
+          "fa_snip": "This is collaborative planning moment where team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-makin"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Three people are working together at a table. They look at papers and draw plans. They are planning a project.",
+          "fa_snip": "Three people کار می‌کنند together کنار یک میز. آن‌ها look at papers and draw plans. آن‌ها در حال planning project."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A small team collaborates over blueprints and notes. One person writes while another points at a specific area on the plan. A laptop and coffee suggest a long w",
+          "fa_snip": "small team collaborates over blueprints and notes. One person writes while another points at specific area on plan. laptop and coffee suggest long working sessi"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This is a collaborative planning moment where a team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-m",
+          "fa_snip": "This is collaborative planning moment where team aligns on technical details. Their attention to printed layouts and active note-taking indicates decision-makin"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-05",
+      "file": "assets/data/lessons/toefl-ax1-05.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This moment captures a shared achievement. The graduates document the end of a demanding academic journey with a selfie and proudly display their diplomas. Thei",
+          "fa_snip": "This moment captures shared achievement. graduates document end of demanding academic journey with selfie and proudly display their diplomas. Their open smiles "
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Three graduates take a selfie. They wear graduation caps and gowns. They hold their diplomas and smile.",
+          "fa_snip": "Three graduates take selfie. آن‌ها wear graduation caps and gowns. آن‌ها hold their diplomas and smile."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A group of graduates celebrate a milestone by taking a selfie. Their gowns, caps, and diplomas show that they have completed an important stage of education. Th",
+          "fa_snip": "group of graduates celebrate milestone by taking selfie. Their gowns, caps, and diplomas show that they have completed important stage of education. Their smile"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This moment captures a shared achievement. The graduates document the end of a demanding academic journey with a selfie and proudly display their diplomas. Thei",
+          "fa_snip": "This moment captures shared achievement. graduates document end of demanding academic journey with selfie and proudly display their diplomas. Their open smiles "
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-06",
+      "file": "assets/data/lessons/toefl-ax1-06.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s c",
+          "fa_snip": "This image shows hands-on scientific learning. student performs precise observation with microscope, likely analyzing cells or materials. mentor’s close attenti"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A student looks through a microscope. A scientist stands next to her. They are working in a lab and studying something small.",
+          "fa_snip": "student looks through microscope. scientist stands next to her. آن‌ها کار می‌کنند in lab and studying something small."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "In a laboratory, a student examines a sample under a microscope while a mentor supervises. The older scientist appears to be explaining or checking the process.",
+          "fa_snip": "In laboratory, student examines sample under microscope while mentor supervises. older scientist appears to be explaining or checking process. scene suggests tr"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s c",
+          "fa_snip": "This image shows hands-on scientific learning. student performs precise observation with microscope, likely analyzing cells or materials. mentor’s close attenti"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-07",
+      "file": "assets/data/lessons/toefl-ax1-07.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A formal lecture is taking place in a university-style classroom. The instructor stands before a chalkboard covered in detailed writing, suggesting a challengin",
+          "fa_snip": "formal lecture گرفتن place in university-style classroom. instructor stands before chalkboard covered in detailed writing, suggesting challenging subject that r"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A teacher is talking in a big classroom. Many students sit and listen. There is a board with writing behind the teacher.",
+          "fa_snip": "teacher صحبت می‌کنند in big classroom. Many students sit and listen. There is board with writing behind teacher."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "In a lecture hall, a professor explains a topic while students take notes. The chalkboard is filled with formulas or key points, suggesting a structured lesson.",
+          "fa_snip": "In lecture hall, professor explains topic while students take notes. chalkboard is filled with formulas or key points, suggesting structured lesson. audience ap"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A formal lecture is taking place in a university-style classroom. The instructor stands before a chalkboard covered in detailed writing, suggesting a challengin",
+          "fa_snip": "formal lecture گرفتن place in university-style classroom. instructor stands before chalkboard covered in detailed writing, suggesting challenging subject that r"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax1-08",
+      "file": "assets/data/lessons/toefl-ax1-08.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This is collaborative learning in action. The students exchange ideas and clarify information by working side-by-side. The library setting provides a quiet, foc",
+          "fa_snip": "This is collaborative learning in action. students exchange ideas and clarify information by working side-by-side. library setting provides quiet, focused atmos"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Three students study in a library. They read books and smile. They help each other learn.",
+          "fa_snip": "Three students study in library. آن‌ها read books and smile. آن‌ها help each other learn."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A group of students works together at a library table. Their open books and shared attention suggest they are preparing for a test or completing an assignment. ",
+          "fa_snip": "group of students works together at library table. Their open books and shared attention suggest they در حال preparing for test or completing assignment. friend"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This is collaborative learning in action. The students exchange ideas and clarify information by working side-by-side. The library setting provides a quiet, foc",
+          "fa_snip": "This is collaborative learning in action. students exchange ideas and clarify information by working side-by-side. library setting provides quiet, focused atmos"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-01",
+      "file": "assets/data/lessons/toefl-ax2-01.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "The photo captures a shared celebration. The friends’ laughter and raised glasses suggest closeness and positive social energy. The golden lighting implies late",
+          "fa_snip": "photo captures shared celebration. friends’ laughter and raised glasses suggest closeness and positive social energy. golden lighting implies late-day sunshine,"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Friends are outside and laughing. They hold glasses and celebrate together. The weather looks warm and sunny.",
+          "fa_snip": "Friends are outside and laughing. آن‌ها hold glasses and celebrate together. weather looks warm and sunny."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A group of friends is enjoying a social moment outdoors. They are clinking glasses and smiling, suggesting a celebration or weekend gathering. The warm sunlight",
+          "fa_snip": "group of friends لذت می‌برند social moment outdoors. آن‌ها در حال clinking glasses and smiling, suggesting celebration or weekend gathering. warm sunlight and r"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "The photo captures a shared celebration. The friends’ laughter and raised glasses suggest closeness and positive social energy. The golden lighting implies late",
+          "fa_snip": "photo captures shared celebration. friends’ laughter and raised glasses suggest closeness and positive social energy. golden lighting implies late-day sunshine,"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-02",
+      "file": "assets/data/lessons/toefl-ax2-02.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and st",
+          "fa_snip": "This is high-energy moment in live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. crowd and stage ligh"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "People are at a concert. They are cheering and raising their hands. The lights are colorful and bright.",
+          "fa_snip": "People are at concert. آن‌ها در حال cheering and raising their hands. lights are colorful and bright."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The photo shows an energetic concert scene. Two people in the front are cheering with their hands raised, while a crowd behind them enjoys the music. The colorf",
+          "fa_snip": "photo shows energetic concert scene. Two people in front در حال cheering with their hands raised, while crowd behind them enjoys music. colorful lights suggest "
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and st",
+          "fa_snip": "This is high-energy moment in live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. crowd and stage ligh"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-03",
+      "file": "assets/data/lessons/toefl-ax2-03.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This image captures emotional strain in a relationship. The man’s face-in-hands posture signals frustration, exhaustion, or regret, while the woman’s closed pos",
+          "fa_snip": "This image captures emotional strain in relationship. مرد’s face-in-hands posture signals frustration, exhaustion, or regret, while زن’s closed posture suggests"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two people sit on a couch. They look sad and stressed. The man covers his face. The woman looks down.",
+          "fa_snip": "Two people sit on couch. آن‌ها look sad and stressed. مرد covers his face. زن looks down."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The scene shows a couple experiencing a difficult moment. Their body language suggests tension or sadness. They are sitting close, but they seem emotionally dis",
+          "fa_snip": "scene shows couple experiencing difficult moment. Their body language suggests tension or sadness. آن‌ها نشسته‌اند close, but they seem emotionally دوردست, poss"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This image captures emotional strain in a relationship. The man’s face-in-hands posture signals frustration, exhaustion, or regret, while the woman’s closed pos",
+          "fa_snip": "This image captures emotional strain in relationship. مرد’s face-in-hands posture signals frustration, exhaustion, or regret, while زن’s closed posture suggests"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-04",
+      "file": "assets/data/lessons/toefl-ax2-04.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflecti",
+          "fa_snip": "This photo symbolizes emotional loss. torn heart serves as visual metaphor for breakup or deep disappointment, while her downward gaze suggests reflection and g"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A woman holds a broken heart shape. She looks sad and thinks about something. The background is a city street.",
+          "fa_snip": "woman holds broken heart shape. او looks sad and thinks about something. background is city street."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The woman is standing outdoors and holding a paper heart that is torn in half. Her expression is serious and sad, suggesting heartbreak or disappointment. The b",
+          "fa_snip": "زن ایستاده‌اند outdoors and holding paper heart that is torn in half. Her expression is serious and sad, suggesting heartbreak or disappointment. blurred city b"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflecti",
+          "fa_snip": "This photo symbolizes emotional loss. torn heart serves as visual metaphor for breakup or deep disappointment, while her downward gaze suggests reflection and g"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-05",
+      "file": "assets/data/lessons/toefl-ax2-05.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The ",
+          "fa_snip": "This scene reflects everyday social connection. friends move through city environment while chatting and smiling, suggesting comfort and familiarity. bright out"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Three friends walk in a city. They smile and talk together. It looks like a nice day.",
+          "fa_snip": "Three friends walk in city. آن‌ها smile and talk together. It looks like nice day."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "Three friends are walking side by side on a city street. Their casual clothing and smiles suggest a relaxed outing, possibly shopping, sightseeing, or meeting f",
+          "fa_snip": "Three friends راه می‌روند side by side on city street. Their casual clothing and smiles suggest relaxed outing, possibly shopping, sightseeing, or meeting for c"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This scene reflects everyday social connection. The friends move through a city environment while chatting and smiling, suggesting comfort and familiarity. The ",
+          "fa_snip": "This scene reflects everyday social connection. friends move through city environment while chatting and smiling, suggesting comfort and familiarity. bright out"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-06",
+      "file": "assets/data/lessons/toefl-ax2-06.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frame",
+          "fa_snip": "This photo combines travel and social connection. friends gather casually in park, sharing food and conversation, while recognizable city landmark frames backgr"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Friends sit in a park and have a picnic. A famous tower is behind them. They talk and enjoy the day.",
+          "fa_snip": "Friends sit in park and have picnic. famous tower is behind them. آن‌ها talk and enjoy day."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A group of friends is having a picnic in a park near a famous landmark. They sit on the grass with food and drinks, chatting in a relaxed way. The scene suggest",
+          "fa_snip": "group of friends در حال having picnic in park near famous landmark. آن‌ها sit on grass with food and drinks, chatting in relaxed way. scene suggests tourism, le"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frame",
+          "fa_snip": "This photo combines travel and social connection. friends gather casually in park, sharing food and conversation, while recognizable city landmark frames backgr"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-07",
+      "file": "assets/data/lessons/toefl-ax2-07.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This photo highlights travel as a shared experience. The couple’s close posture and warm smiles show affection and comfort. The urban background suggests a scen",
+          "fa_snip": "This photo highlights travel as shared experience. couple’s close posture and warm smiles show affection and comfort. urban background suggests scenic destinati"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A couple takes a selfie in a city. They smile and stand close together. Old buildings are behind them.",
+          "fa_snip": "couple takes selfie in city. آن‌ها smile and stand close together. Old buildings are behind them."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A couple is taking a selfie during a city trip. They look happy and relaxed, standing in front of historic buildings. The scene suggests tourism, memories, and ",
+          "fa_snip": "couple گرفتن selfie during city trip. آن‌ها look happy and relaxed, standing in front of historic buildings. scene suggests tourism, memories, and spending time"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This photo highlights travel as a shared experience. The couple’s close posture and warm smiles show affection and comfort. The urban background suggests a scen",
+          "fa_snip": "This photo highlights travel as shared experience. couple’s close posture and warm smiles show affection and comfort. urban background suggests scenic destinati"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax2-08",
+      "file": "assets/data/lessons/toefl-ax2-08.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe",
+          "fa_snip": "This image shows quiet social ritual. Sharing coffee and conversation provides pause from busy schedules and strengthens relationships. comfortable cafe setting"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two friends sit at a cafe. They drink coffee and talk. They smile and enjoy the moment.",
+          "fa_snip": "Two friends sit at cafe. آن‌ها drink coffee and talk. آن‌ها smile and enjoy moment."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "Two friends are having coffee together at an outdoor cafe. They look happy and engaged in conversation. The dessert on the table suggests they are taking a brea",
+          "fa_snip": "Two friends در حال having coffee together at outdoor cafe. آن‌ها look happy and engaged in conversation. dessert on table suggests they گرفتن break and enjoying"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe",
+          "fa_snip": "This image shows quiet social ritual. Sharing coffee and conversation provides pause from busy schedules and strengthens relationships. comfortable cafe setting"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-01",
+      "file": "assets/data/lessons/toefl-ax34-01.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two hikers (a man and a woman) stand on a mountain trail, looking over a wide green valley with snow-capped peaks and wildflowers.",
+          "fa_snip": "دو کوهنورد (یک مرد و یک زن) stand on کوهستان مسیر, looking over یک دره‌ی سبز و وسیع with قله‌های پوشیده از برف and گل‌های وحشی."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "Two hikers have stopped on a trail to admire a wide valley and distant snowy peaks. The weather seems clear and mild, and the colorful wildflowers suggest late ",
+          "fa_snip": "دو کوهنورد توقف کرده‌اند روی مسیر to admire یک دره and دوردست snowy قله‌ها. weather seems clear and mild, and colorful گل‌های وحشی suggest late spring or summer"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "From a high viewpoint, a pair of hikers pause to take in an expansive alpine landscape—green meadows below and snow-capped mountains beyond. Their backpacks and",
+          "fa_snip": "From high viewpoint, دو کوهنورد pause to take in expansive alpine landscape—سبز meadows below and پوشیده از برف کوه‌ها beyond. Their کوله‌پشتی and steady stance"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-02",
+      "file": "assets/data/lessons/toefl-ax34-02.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two women hike on a forest trail with pine trees and tall mountains in the background.",
+          "fa_snip": "Two women hike on forest مسیر with pine trees and tall کوه‌ها in background."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two women are hiking in a forest. They are wearing backpacks. They are talking while they walk.",
+          "fa_snip": "Two women پیاده‌روی می‌کنند in forest. آن‌ها پوشیده‌اند کوله‌پشتی. آن‌ها صحبت می‌کنند while they walk."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The hikers move along a trail between tall pine trees, with dramatic mountains ahead. It looks like a calm day, perfect for a long walk outdoors.",
+          "fa_snip": "کوهنوردها move along مسیر between tall pine trees, with dramatic کوه‌ها ahead. It looks like calm day, perfect for long walk outdoors."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "On a quiet mountain trail, two women hike side-by-side, sharing conversation as they head deeper into the pine forest. Their backpacks and steady pace suggest p",
+          "fa_snip": "On quiet کوهستان مسیر, two women hike side-by-side, sharing conversation as they head deeper into pine forest. Their کوله‌پشتی and steady pace suggest preparati"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-03",
+      "file": "assets/data/lessons/toefl-ax34-03.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Three friends sit around a campfire at night; one person plays a guitar while others listen with warm drinks.",
+          "fa_snip": "Three friends sit around campfire at night; one person plays guitar while others listen with warm drinks."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Three friends are sitting by a campfire. One man is playing a guitar. They are smiling and relaxing.",
+          "fa_snip": "Three friends نشسته‌اند by campfire. One man بازی می‌کنند guitar. آن‌ها لبخند می‌زنند and relaxing."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The group enjoys a warm campfire at night. The guitarist plays music while the others hold hot drinks, creating a friendly and comfortable atmosphere.",
+          "fa_snip": "group enjoys warm campfire at night. guitarist plays music while others hold hot drinks, creating friendly and comfortable atmosphere."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a cozy campsite setting, three friends gather around a glowing fire as one of them strums an acoustic guitar. Warm light from the flames and nearby string li",
+          "fa_snip": "In cozy campsite setting, three friends gather around glowing fire as one of them strums acoustic guitar. Warm light from flames and nearby string lights soften"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-04",
+      "file": "assets/data/lessons/toefl-ax34-04.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A man and a woman hike on a wooded path, smiling and talking while carrying backpacks.",
+          "fa_snip": "یک مرد و یک زن hike on wooded path, smiling and talking while carrying کوله‌پشتی."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man and a woman are walking in the forest. They have backpacks. They are smiling and talking.",
+          "fa_snip": "یک مرد و یک زن راه می‌روند in forest. آن‌ها have کوله‌پشتی. آن‌ها لبخند می‌زنند and talking."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The hikers move along a sunny trail, enjoying conversation and the green surroundings. It looks like a pleasant day for an easy hike.",
+          "fa_snip": "کوهنوردها move along sunny مسیر, enjoying conversation and سبز surroundings. It looks like pleasant day for easy hike."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "Two hikers walk through a sunlit forest, sharing conversation and smiling as they follow the trail. Their comfortable clothing and packed backpacks suggest they",
+          "fa_snip": "دو کوهنورد walk through sunlit forest, sharing conversation and smiling as they follow مسیر. Their comfortable clothing and packed کوله‌پشتی suggest they are pr"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-05",
+      "file": "assets/data/lessons/toefl-ax34-05.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Four friends sit on a rocky ledge at sunset, looking over a river winding through a mountain valley.",
+          "fa_snip": "Four friends sit on rocky ledge at sunset, looking over river winding through کوهستان دره."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Four friends are sitting on a rock. They are watching the sunset. The river and mountains are in front of them.",
+          "fa_snip": "Four friends نشسته‌اند on rock. آن‌ها در حال watching sunset. river and کوه‌ها are in front of them."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The group rests at a scenic viewpoint as the sun sets over a valley. The warm light and quiet landscape make the moment feel calm and memorable.",
+          "fa_snip": "group rests at scenic viewpoint as sun sets over دره. warm light and quiet landscape make moment feel calm and memorable."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "At a high overlook, four friends sit close together, taking in a sweeping valley as a river glows under the setting sun. Their still posture suggests a shared p",
+          "fa_snip": "At high overlook, four friends sit close together, taking in sweeping دره as river glows under setting sun. Their still posture suggests shared pause— appreciat"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-06",
+      "file": "assets/data/lessons/toefl-ax34-06.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Four friends sit around a campfire near a lake at sunset; a yellow tent is set up nearby.",
+          "fa_snip": "Four friends sit around campfire near lake at sunset; yellow tent is set up nearby."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Four friends are camping by a lake. They are sitting near a fire. A yellow tent is behind them.",
+          "fa_snip": "Four friends در حال camping by lake. آن‌ها نشسته‌اند near fire. yellow tent is behind them."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The group relaxes at a lakeside campsite as the sun sets. The tent, the fire, and the calm water create a comfortable evening scene.",
+          "fa_snip": "group relaxes at lakeside campsite as sun sets. tent, fire, and calm water create comfortable evening scene."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "At a peaceful lakeside camp, four friends unwind around a crackling fire while a bright tent stands nearby. The combination of sunset colors and firelight sugge",
+          "fa_snip": "At peaceful lakeside camp, four friends unwind around crackling fire while bright tent stands nearby. combination of sunset colors and firelight suggests warm s"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-07",
+      "file": "assets/data/lessons/toefl-ax34-07.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A couple sits on a rock at sunrise, looking over a mountain lake and valley.",
+          "fa_snip": "couple sits on rock at sunrise, looking over کوهستان lake and دره."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man and a woman are sitting on a rock. They are watching the sunrise over a lake. They look calm and happy.",
+          "fa_snip": "یک مرد و یک زن نشسته‌اند on rock. آن‌ها در حال watching sunrise over lake. آن‌ها look calm and happy."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The couple rests at a viewpoint above a lake as morning light reaches the mountains. The scene feels quiet and intimate, like a pause during a trip.",
+          "fa_snip": "couple rests at viewpoint above lake as morning light reaches کوه‌ها. scene feels quiet and intimate, like pause during trip."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In the first light of day, a couple sits together on a rocky overlook, gazing at a mountain lake and distant ridges. Their close posture and the gentle sunrise ",
+          "fa_snip": "In first light of day, couple sits together on rocky overlook, gazing at کوهستان lake and دوردست ridges. Their close posture and gentle sunrise colors create ca"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-08",
+      "file": "assets/data/lessons/toefl-ax34-08.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A couple stands in heavy snowfall, bundled in winter coats with hoods up; the man hugs the woman to keep warm.",
+          "fa_snip": "couple stands in heavy snowfall, bundled in winter coats with hoods up; مرد hugs زن to keep warm."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man is hugging a woman in the snow. They are wearing warm coats. It looks very cold.",
+          "fa_snip": "man در حال hugging woman in snow. آن‌ها پوشیده‌اند warm coats. It looks very cold."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The couple stands close together during heavy snowfall. Their hoods are up, and they look like they are trying to stay warm and safe in the storm.",
+          "fa_snip": "couple stands close together during heavy snowfall. Their hoods are up, and they look like they در حال trying to stay warm and safe in storm."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a harsh winter storm, a couple huddles together as thick snow falls around them. Their layered coats and tense body language suggest biting wind and freezing",
+          "fa_snip": "In harsh winter storm, couple huddles together as thick snow falls around them. Their layered coats and tense body language suggest biting wind and freezing tem"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-09",
+      "file": "assets/data/lessons/toefl-ax34-09.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Three friends jump on a sunny beach holding hands, with the ocean behind them.",
+          "fa_snip": "Three friends jump on sunny beach holding hands, with ocean behind them."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Three friends are jumping on the beach. They are holding hands. The weather is sunny and warm.",
+          "fa_snip": "Three friends در حال jumping on beach. آن‌ها در دست دارند hands. weather is sunny and warm."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The friends celebrate together by the sea, jumping at the same time. The bright sunlight and open space create a fun, carefree feeling.",
+          "fa_snip": "friends celebrate together by sea, jumping at same time. bright sunlight and open space create fun, carefree feeling."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "On a bright beach day, three friends leap into the air with linked hands, capturing a spontaneous moment of happiness. The clean horizon and sunlit water amplif",
+          "fa_snip": "On bright beach day, three friends leap into air with linked hands, capturing spontaneous moment of happiness. clean horizon and sunlit water amplify energetic "
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-10",
+      "file": "assets/data/lessons/toefl-ax34-10.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A man and a woman stand in a dark forest at night, shining a flashlight and looking alert.",
+          "fa_snip": "یک مرد و یک زن stand in dark forest at night, shining flashlight and looking alert."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man and a woman are in the forest at night. They have a flashlight. They look worried.",
+          "fa_snip": "یک مرد و یک زن are in forest at night. آن‌ها have flashlight. آن‌ها look worried."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The pair moves carefully through the dark woods. The flashlight helps them see the path, and their faces show they are alert and a little afraid.",
+          "fa_snip": "pair moves carefully through dark woods. flashlight helps them see path, and their faces show they are alert and little afraid."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a shadowy forest at night, two hikers pause as a flashlight cuts through the darkness. Their tense expressions and close proximity suggest uncertainty—perhap",
+          "fa_snip": "In shadowy forest at night, دو کوهنورد pause as flashlight cuts through darkness. Their tense expressions and close proximity suggest uncertainty—perhaps they a"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-11",
+      "file": "assets/data/lessons/toefl-ax34-11.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A couple sits in desert sand dunes at sunset, hugging and looking across the warm landscape.",
+          "fa_snip": "couple sits in desert sand dunes at sunset, hugging and looking across warm landscape."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A couple is sitting in the desert. They are hugging. The sun is setting and the sand is orange.",
+          "fa_snip": "couple نشسته‌اند in desert. آن‌ها در حال hugging. sun در حال setting and sand is orange."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The pair rests on a dune as the sun goes down. The light is warm and the scene feels quiet and peaceful, like a private moment on a trip.",
+          "fa_snip": "pair rests on dune as sun goes down. light is warm and scene feels quiet and peaceful, like private moment on trip."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a wide desert of rolling dunes, a couple sits close together under a glowing sunset. Their relaxed posture and gentle embrace suggest comfort and intimacy, w",
+          "fa_snip": "In یک desert of rolling dunes, couple sits close together under glowing sunset. Their relaxed posture and gentle embrace suggest comfort and intimacy, while war"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-12",
+      "file": "assets/data/lessons/toefl-ax34-12.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Four friends take a selfie while hiking in a green mountain valley with a lake behind them.",
+          "fa_snip": "Four friends take selfie while hiking in سبز کوهستان دره with lake behind them."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Four friends are taking a selfie. They are smiling. The mountains and a lake are behind them.",
+          "fa_snip": "Four friends گرفتن selfie. آن‌ها لبخند می‌زنند. کوه‌ها and lake are behind them."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The group stands close together for a photo during a hike. Their backpacks and sporty clothes show they have been walking, and the bright scenery makes the mome",
+          "fa_snip": "group stands close together for photo during hike. Their کوله‌پشتی and sporty clothes show they have been walking, and bright scenery makes moment feel fun and "
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A group of four hikers captures a cheerful selfie in a lush mountain valley. The lake and steep slopes behind them signal an adventurous trip, and their wide sm",
+          "fa_snip": "group of four کوهنوردها captures cheerful selfie in lush کوهستان دره. lake and steep slopes behind them signal adventurous trip, and their وسیع smiles suggest p"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-13",
+      "file": "assets/data/lessons/toefl-ax34-13.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A couple stands in a city setting at sunset, with skyscrapers and warm light behind them.",
+          "fa_snip": "couple stands in city setting at sunset, with skyscrapers and warm light behind them."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man and a woman are in the city. They are standing close together. The sun is setting behind the buildings.",
+          "fa_snip": "یک مرد و یک زن are in city. آن‌ها ایستاده‌اند close together. sun در حال setting behind buildings."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The couple enjoys the city view at sunset. The warm light and tall buildings create a modern, romantic atmosphere.",
+          "fa_snip": "couple enjoys city view at sunset. warm light and tall buildings create modern, romantic atmosphere."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "Against a glowing city skyline, a couple stands close and shares a quiet moment as the sun sets. The golden light outlines their faces and the skyscrapers behin",
+          "fa_snip": "Against glowing city skyline, couple stands close and shares quiet moment as sun sets. golden light outlines their faces and skyscrapers behind them, suggesting"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-14",
+      "file": "assets/data/lessons/toefl-ax34-14.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A couple sits on a cliff overlooking the ocean coast at sunset, watching waves below.",
+          "fa_snip": "couple sits on cliff overlooking ocean coast at sunset, watching waves below."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A couple is sitting on a cliff. They are looking at the ocean. The sun is setting.",
+          "fa_snip": "couple نشسته‌اند on cliff. آن‌ها به ocean نگاه می‌کنند. sun در حال setting."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The couple rests above the sea, enjoying a quiet sunset. The cliffs and waves create a calm, beautiful scene.",
+          "fa_snip": "couple rests above sea, enjoying quiet sunset. cliffs and waves create calm, زیبا scene."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "On a rugged coastal overlook, a couple sits close and watches the ocean as the sun sinks toward the horizon. The warm light on the water and their relaxed postu",
+          "fa_snip": "On rugged coastal overlook, couple sits close and watches ocean as sun sinks toward horizon. warm light on water and their relaxed posture suggest slow, reflect"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-15",
+      "file": "assets/data/lessons/toefl-ax34-15.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two campers sit near a glowing orange tent under a starry sky; the Milky Way is visible above.",
+          "fa_snip": "Two campers sit near glowing orange tent under starry sky; Milky Way is visible above."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two people are camping at night. They are sitting near a tent. They are looking at the stars.",
+          "fa_snip": "Two people در حال camping at night. آن‌ها نشسته‌اند near tent. آن‌ها به stars نگاه می‌کنند."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The campers relax outside their tent while the sky is full of stars. The glowing tent and the dark landscape create a calm, magical feeling.",
+          "fa_snip": "campers relax outside their tent while sky is full of stars. glowing tent and dark landscape create calm, magical feeling."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "Under a brilliant night sky, two campers sit beside a warmly lit tent, gazing at the Milky Way stretched overhead. The contrast between the quiet darkness and t",
+          "fa_snip": "Under brilliant night sky, two campers sit beside warmly lit tent, gazing at Milky Way stretched overhead. contrast between quiet darkness and tent’s orange glo"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-16",
+      "file": "assets/data/lessons/toefl-ax34-16.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two kayakers paddle through fast whitewater; they wear helmets and life vests as water splashes around them.",
+          "fa_snip": "Two kayakers paddle through fast whitewater; they wear کلاه‌های ایمنی and life vests as water splashes around them."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two people are kayaking in a river. The water is very fast. They are wearing helmets and life vests.",
+          "fa_snip": "Two people در حال kayaking in river. water is very fast. آن‌ها پوشیده‌اند کلاه‌های ایمنی and life vests."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The kayakers paddle through rough rapids, working together to stay balanced. The splashing water and their protective gear show this is an intense outdoor sport",
+          "fa_snip": "kayakers paddle through rough rapids, working together to stay balanced. splashing water and their protective gear show this is intense outdoor sport."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a burst of whitewater, two kayakers drive their boats through churning rapids, helmets and life vests secured. Their forward-leaning posture and strong strok",
+          "fa_snip": "In burst of whitewater, two kayakers drive their boats through churning rapids, کلاه‌های ایمنی and life vests secured. Their forward-leaning posture and strong "
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-17",
+      "file": "assets/data/lessons/toefl-ax34-17.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two rock climbers climb a steep cliff with ropes and helmets; mountains and clouds fill the background.",
+          "fa_snip": "Two rock climbers climb steep cliff with ropes and کلاه‌های ایمنی; کوه‌ها and clouds fill background."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two people are rock climbing. They are wearing helmets and ropes. The mountains are behind them.",
+          "fa_snip": "Two people are rock climbing. آن‌ها پوشیده‌اند کلاه‌های ایمنی and ropes. کوه‌ها are behind them."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The climbers move carefully up a steep wall, using their hands and feet to find holds. Their helmets and harnesses show safety is important in this challenging ",
+          "fa_snip": "climbers move carefully up steep wall, using their hands and feet to find holds. Their کلاه‌های ایمنی and harnesses show safety is important in this challenging"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "On a dramatic mountain cliff, two climbers ascend a sheer rock face, secured by ropes and harnesses. The cloudy backdrop and high elevation add intensity, while",
+          "fa_snip": "On dramatic کوهستان cliff, two climbers ascend sheer rock face, secured by ropes and harnesses. cloudy backdrop and high elevation add intensity, while their ca"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-18",
+      "file": "assets/data/lessons/toefl-ax34-18.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "People sit at an outdoor café on a busy street; friends talk over drinks while bicycles and other tables fill the background.",
+          "fa_snip": "People sit at outdoor café on busy street; friends talk over drinks while bicycles and other tables fill background."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "People are sitting at an outdoor café. Friends are talking and drinking. The street looks busy.",
+          "fa_snip": "People نشسته‌اند at outdoor café. Friends صحبت می‌کنند and drinking. street looks busy."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A group of friends enjoys food and drinks outside a café. Other customers sit nearby, and bicycles and city lights make the scene feel lively and modern.",
+          "fa_snip": "group of friends enjoys food and drinks outside café. Other customers sit nearby, and bicycles and city lights make scene feel lively and modern."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "On a lively city street, friends gather at an outdoor café, chatting over drinks as the evening begins. Warm ambient lighting and the presence of other diners a",
+          "fa_snip": "On lively city street, friends gather at outdoor café, chatting over drinks as evening begins. Warm ambient lighting and presence of other diners and bicycles c"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-19",
+      "file": "assets/data/lessons/toefl-ax34-19.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A woman steps off a city bus, smiling; other pedestrians and urban buildings are in the background.",
+          "fa_snip": "woman steps off city bus, smiling; other pedestrians and urban buildings are in background."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A woman is getting off a bus. She is smiling. The city street is busy behind her.",
+          "fa_snip": "woman در حال getting off bus. او لبخند می‌زنند. city street is busy behind her."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The woman steps out of public transportation and heads into the city. She looks confident and ready for the day, carrying a bag as people move around her.",
+          "fa_snip": "زن steps out of public transportation and heads into city. او looks confident and ready for day, carrying bag as people move around her."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a bustling urban setting, a woman exits a bus and walks toward the street with a relaxed smile. Her casual outfit and shoulder bag suggest a daily commute, w",
+          "fa_snip": "In bustling urban setting, woman exits bus and walks toward street with relaxed smile. Her casual outfit and shoulder bag suggest daily commute, while backgroun"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-20",
+      "file": "assets/data/lessons/toefl-ax34-20.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A crowded city intersection with many pedestrians crossing; tall buildings, taxis, and steam create a busy downtown atmosphere.",
+          "fa_snip": "crowded city intersection with many pedestrians crossing; tall buildings, taxis, and steam create busy downtown atmosphere."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Many people are crossing the street in a big city. There are tall buildings and cars. It looks busy.",
+          "fa_snip": "Many people در حال crossing street in big city. There are tall buildings and cars. It looks busy."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A crowded intersection shows the fast pace of downtown life. Pedestrians fill the crosswalk while traffic waits, and the tall buildings make the street feel den",
+          "fa_snip": "crowded intersection shows fast pace of downtown life. Pedestrians fill crosswalk while traffic waits, and tall buildings make street feel dense and energetic."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a classic downtown scene, streams of pedestrians cross a wide intersection amid towering buildings, taxis, and rising street steam. The density of movement a",
+          "fa_snip": "In classic downtown scene, streams of pedestrians cross یک intersection amid towering buildings, taxis, and rising street steam. density of movement and layered"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-21",
+      "file": "assets/data/lessons/toefl-ax34-21.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A businessman in a suit climbs stairs from a subway entrance to the street, carrying a briefcase in a city setting.",
+          "fa_snip": "businessman in suit climbs stairs from subway entrance to street, carrying briefcase in city setting."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A man in a suit is walking up stairs. He is coming out of the subway. He looks busy.",
+          "fa_snip": "man in suit راه می‌روند up stairs. او در حال coming out of subway. او looks busy."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The businessman climbs from the underground station to the street, likely on his way to work. The scene shows a typical city commute and a professional routine.",
+          "fa_snip": "businessman climbs from underground station to street, likely on his way to work. scene shows typical city commute and professional routine."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A suited commuter ascends the subway stairs toward the street, moving with purpose through the urban environment. The formal clothing and briefcase signal a wor",
+          "fa_snip": "suited commuter ascends subway stairs toward street, moving with purpose through urban environment. formal clothing and briefcase signal workday routine, highli"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-22",
+      "file": "assets/data/lessons/toefl-ax34-22.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two women sit at an outdoor café table, laughing and talking over drinks and dessert.",
+          "fa_snip": "Two women sit at outdoor café table, laughing and talking over drinks and dessert."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two women are sitting at a café. They are talking and laughing. They have drinks on the table.",
+          "fa_snip": "Two women نشسته‌اند at café. آن‌ها صحبت می‌کنند and laughing. آن‌ها have drinks on table."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The friends enjoy a relaxed conversation outside a café. The drinks and dessert suggest they are taking a break and spending time together in the city.",
+          "fa_snip": "friends enjoy relaxed conversation outside café. drinks and dessert suggest they گرفتن break and spending time together in city."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "At a cozy outdoor café, two friends share laughter over drinks and dessert. Their open body language and warm lighting create an inviting social mood, capturing",
+          "fa_snip": "At cozy outdoor café, two friends share laughter over drinks and dessert. Their open body language and warm lighting create inviting social mood, capturing simp"
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-23",
+      "file": "assets/data/lessons/toefl-ax34-23.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Passengers ride a subway train; several people sit and stand, many looking at their smartphones.",
+          "fa_snip": "Passengers ride subway train; several people sit and stand, many looking at their smartphones."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "People are riding the subway. Some are sitting and some are standing. Many are using their phones.",
+          "fa_snip": "People در حال riding subway. Some نشسته‌اند and some ایستاده‌اند. Many در حال using their phones."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The subway car is full of commuters. Most passengers are quiet and focused on their screens, showing a typical city commute routine.",
+          "fa_snip": "subway car is full of commuters. Most passengers are quiet and focused on their screens, showing typical city commute routine."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "Inside a busy metro car, commuters sit and stand shoulder-to-shoulder under warm artificial lights. The widespread use of smartphones and the neutral expression",
+          "fa_snip": "Inside busy metro car, commuters sit and stand shoulder-to-shoulder under warm artificial lights. widespread use of smartphones and neutral expressions suggest "
+        }
+      ]
+    },
+    {
+      "id": "toefl-ax34-24",
+      "file": "assets/data/lessons/toefl-ax34-24.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two women walk along a city street, smiling; one holds a coffee while the other carries shopping bags.",
+          "fa_snip": "Two women walk along city street, smiling; one holds coffee while other carries shopping bags."
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two women are walking in the city. They are smiling and talking. One is holding coffee and the other has shopping bags.",
+          "fa_snip": "Two women راه می‌روند in city. آن‌ها لبخند می‌زنند and talking. One در دست دارند coffee and other has shopping bags."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "The friends walk through a shopping area, enjoying conversation. Their bags and drinks suggest they have been shopping and taking a break in the city.",
+          "fa_snip": "friends walk through shopping area, enjoying conversation. Their bags and drinks suggest they have been shopping and taking break in city."
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "On a lively shopping street, two friends stroll side-by-side, smiling as one carries coffee and the other holds shopping bags. Their relaxed pace and bright exp",
+          "fa_snip": "On lively shopping street, two friends stroll side-by-side, smiling as one carries coffee and other holds shopping bags. Their relaxed pace and bright expressio"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-01",
+      "file": "assets/data/lessons/toefl-axxx1-01.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A mother sits beside her young son at a desk and helps him with homework. She points at the workbook while the boy writes with a pencil. The room feels cozy and",
+          "fa_snip": "mother sits beside her young son پشت یک میز and helps him with homework. او points at workbook while boy writes with pencil. room feels cozy and organized, with"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A mother and her son are sitting at a desk. The boy is writing in a workbook. The mother is helping him and pointing at the page. They look happy and focused. T",
+          "fa_snip": "mother and her son نشسته‌اند پشت یک میز. boy می‌نویسند in workbook. mother در حال helping him and pointing at page. آن‌ها look happy and focused. There are penc"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A mother is sitting next to her son at a study desk and helping him with his homework. The boy is writing carefully in a workbook while the mother points to the",
+          "fa_snip": "mother نشسته‌اند next to her son at study desk and helping him with his homework. boy می‌نویسند carefully in workbook while mother points to correct line. آن‌ها"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "In a quiet home setting, a mother supports her son during a homework session. The child writes in a workbook while she points to the page and explains what to d",
+          "fa_snip": "In quiet home setting, mother supports her son during homework session. child writes in workbook while she points to page and explains what to do next. Their re"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-02",
+      "file": "assets/data/lessons/toefl-axxx1-02.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A family is shopping at a lively produce stall in an outdoor market. The father holds a small child while reaching toward a container of small yellow citrus fru",
+          "fa_snip": "یک خانواده خرید می‌کنند at lively محصولات stall in outdoor بازار. father holds small child while reaching toward container of small yellow citrus fruit, likely "
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A family is shopping at a market. The father is holding a child. They are choosing fruits and vegetables. The stall is full of colorful produce. The mood is hap",
+          "fa_snip": "یک خانواده خرید می‌کنند at بازار. father در دست دارند یک کودک. آن‌ها در حال choosing میوه‌ها و سبزیجات. stall is full of colorful محصولات. mood is happy and bus"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A family is standing at an outdoor market stall and selecting fresh produce. The father is holding his child and reaching toward a container of small yellow cit",
+          "fa_snip": "یک خانواده ایستاده‌اند at outdoor بازار stall and selecting محصولات تازه. father در دست دارند his child and reaching toward container of small yellow citrus fru"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "At a crowded outdoor market, a family carefully selects fresh fruits and vegetables for home cooking. The father holds his child and reaches toward a container ",
+          "fa_snip": "At crowded outdoor بازار, یک خانواده carefully selects تازه میوه‌ها و سبزیجات for home cooking. father holds his child and reaches toward container of small yel"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-03",
+      "file": "assets/data/lessons/toefl-axxx1-03.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Four workers stand around a workbench in an industrial workshop while one of them welds metal. Bright sparks fly from the point of contact, showing that the met",
+          "fa_snip": "Four کارگران stand around workbench in industrial کارگاه while one of them welds metal. Bright sparks fly from point of contact, showing that metal is extremely"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Four workers are in a workshop. One worker is welding metal, and sparks are flying. The others are watching and helping. They are wearing hard hats and gloves. ",
+          "fa_snip": "Four کارگران are در یک کارگاه. One کارگر جوشکاری می‌کنند metal, and sparks در حال flying. others در حال watching and helping. آن‌ها پوشیده‌اند hard hats and glo"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "In an industrial workshop, one worker is welding a metal piece on a workbench while three coworkers watch closely. Sparks fly into the air, so they all wear har",
+          "fa_snip": "In industrial کارگاه, one کارگر جوشکاری می‌کنند metal piece on workbench while three coworkers watch closely. Sparks fly into air, so they all wear hard hats, g"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A group of four workers gathers around a workbench as one man performs a welding task. The bright sparks and smoke indicate a high-temperature process, which ex",
+          "fa_snip": "group of four کارگران gathers around workbench as one man performs welding task. bright sparks and smoke indicate high-temperature process, which explains heavy"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-04",
+      "file": "assets/data/lessons/toefl-axxx1-04.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "In a crowded market, a customer and a vendor shake hands across a pastry counter. The older man behind the counter smiles warmly, while the younger man looks sa",
+          "fa_snip": "In crowded بازار, customer and یک فروشنده shake hands across pastry counter. older man behind counter smiles warmly, while younger man looks satisfied, suggesti"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two men are shaking hands in a market. One man is the seller, and one is the customer. They are standing by a counter full of sweets. The seller is smiling. The",
+          "fa_snip": "Two men دست می‌دهند hands در یک بازار. One man is seller, and one is customer. آن‌ها ایستاده‌اند by counter full of sweets. seller لبخند می‌زنند. mood is friend"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "In an indoor market, a customer is shaking hands with a vendor at a pastry stall. The vendor, an older man, is smiling as they finish a deal. On the counter, th",
+          "fa_snip": "In indoor بازار, customer دست می‌دهند hands with یک فروشنده at pastry stall. فروشنده, older man, لبخند می‌زنند as they finish deal. On counter, there are many t"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A handshake between a customer and a vendor suggests a successful transaction in a busy market. The older vendor smiles from behind the counter, while the young",
+          "fa_snip": "handshake between customer and یک فروشنده suggests successful transaction in busy بازار. older فروشنده smiles from behind counter, while younger customer appear"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-05",
+      "file": "assets/data/lessons/toefl-axxx1-05.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "In a narrow neighborhood alley, several children are playing soccer with a black-and-white ball. Two boys move quickly as one tries to dribble and the other tri",
+          "fa_snip": "In narrow neighborhood alley, several کودکان بازی می‌کنند soccer with black-and-white ball. Two boys move quickly as one tries to dribble and other tries to blo"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Children are playing soccer in an alley. One boy is dribbling the ball, and another boy is trying to stop him. A girl is cheering and clapping. The place looks ",
+          "fa_snip": "کودکان بازی می‌کنند soccer in alley. One boy در حال dribbling ball, and another boy در حال trying to stop him. girl در حال cheering and clapping. place looks li"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A group of children are playing soccer in a narrow alley in their neighborhood. One boy is dribbling the ball while another boy steps in to block him. A girl on",
+          "fa_snip": "group of کودکان بازی می‌کنند soccer in narrow alley in their neighborhood. One boy در حال dribbling ball while another boy steps in to block him. girl on left د"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "A lively street soccer game is happening in a small neighborhood alley. One boy dribbles the ball forward while another tries to challenge him, and their fast m",
+          "fa_snip": "lively street soccer game در حال happening in small neighborhood alley. One boy dribbles ball forward while another tries to challenge him, and their fast movem"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-06",
+      "file": "assets/data/lessons/toefl-axxx1-06.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Inside a traditional workshop, an older craftsman uses a hammer and chisel to engrave a detailed pattern into a metal tray. A younger man sits beside him, worki",
+          "fa_snip": "Inside traditional کارگاه, older craftsman uses hammer and chisel to engrave detailed pattern into metal tray. younger man sits beside him, working on another p"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "An older man is working in a workshop. He is using a hammer and a chisel on a metal tray. A younger man is working next to him. There are many metal objects aro",
+          "fa_snip": "older man کار می‌کنند در یک کارگاه. او در حال using hammer and chisel on metal tray. younger man کار می‌کنند next to him. There are many metal objects around th"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "In a traditional workshop, an older craftsman is engraving a metal tray with a hammer and chisel. A younger man sits beside him and works on another tray, so th",
+          "fa_snip": "In traditional کارگاه, older craftsman در حال engraving metal tray with hammer and chisel. younger man sits beside him and works on another tray, so they may be"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This photo shows skilled craftsmanship inside a warm, traditional workshop. The older man carefully taps a chisel with a hammer to carve an intricate pattern in",
+          "fa_snip": "This photo shows skilled craftsmanship inside warm, traditional کارگاه. older man carefully taps chisel with hammer to carve intricate pattern into metal tray, "
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-07",
+      "file": "assets/data/lessons/toefl-axxx1-07.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "Two friends sit at an outdoor café table and take a selfie with a smartphone. They lean close together and smile, showing a warm and comfortable friendship. On ",
+          "fa_snip": "Two friends sit at outdoor café table and take selfie with smartphone. آن‌ها lean close together and smile, showing warm and comfortable friendship. On table, t"
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "Two friends are sitting at a café. They are taking a selfie and smiling. There are coffee drinks on the table. A piece of cake is on a plate. The mood is relaxe",
+          "fa_snip": "Two friends نشسته‌اند at café. آن‌ها گرفتن selfie and smiling. There are coffee drinks on table. piece of cake is on plate. mood is relaxed and happy."
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "Two young women are sitting together at an outdoor café and taking a selfie with a smartphone. They are leaning close and smiling, which shows they are comforta",
+          "fa_snip": "Two young women نشسته‌اند together at outdoor café and taking selfie with smartphone. آن‌ها در حال leaning close and smiling, which shows they are comfortable w"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This photo captures a casual social moment as two friends take a selfie at a street café. Their close posture and natural smiles suggest a strong friendship and",
+          "fa_snip": "This photo captures casual social moment as two friends take selfie at street café. Their close posture and natural smiles suggest strong friendship and enjoyab"
+        }
+      ]
+    },
+    {
+      "id": "toefl-axxx1-08",
+      "file": "assets/data/lessons/toefl-axxx1-08.json",
+      "fields": [
+        {
+          "field": "fullDescription",
+          "en_snip": "A multi-generational family sits on the floor in a cozy living room and shares a meal together. An older man pours tea from a kettle into a glass while the othe",
+          "fa_snip": "multi-generational خانواده sits on floor in cozy living room and shares meal together. older man pours tea from kettle into glass while others smile and watch. "
+        },
+        {
+          "field": "simpleEnglish",
+          "en_snip": "A family is sitting together at home. The grandfather is pouring tea. There is food on a cloth on the floor. Everyone is smiling, and the child looks excited. T",
+          "fa_snip": "یک خانواده نشسته‌اند together at home. grandfather در حال pouring tea. There is food on cloth on floor. Everyone لبخند می‌زنند, and child looks excited. mood is"
+        },
+        {
+          "field": "intermediateEnglish",
+          "en_snip": "A family is sitting on the floor in a living room and sharing a meal together. The grandfather is pouring tea from a kettle into a glass. On the cloth, there is",
+          "fa_snip": "یک خانواده نشسته‌اند on floor in living room and sharing meal together. grandfather در حال pouring tea from kettle into glass. On cloth, there is flatbread, سبز"
+        },
+        {
+          "field": "advancedEnglish",
+          "en_snip": "This photo shows a warm family gathering at home with several generations sitting close together. The grandfather pours tea into a glass, which suggests a relax",
+          "fa_snip": "This photo shows warm خانواده gathering at home with several generations sitting close together. grandfather pours tea into glass, which suggests relaxed and ho"
+        }
+      ]
+    }
+  ]
+}

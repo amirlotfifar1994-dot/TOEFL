@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#0f172a" name="theme-color"/>
+<title>Settings • TOEFL Academic</title>
+<link href="manifest.json" rel="manifest"/>
+<link href="assets/icons/icon-192.png" rel="icon" sizes="192x192"/>
+<link href="assets/icons/icon-192.png" rel="apple-touch-icon"/>
+<link href="css/base.css" rel="stylesheet"/><link href="css/components.css" rel="stylesheet"/>
+<link href="css/custom.css" rel="stylesheet"/>
+<link href="css/theme-pro.css" rel="stylesheet"/>
+<link href="css/luxe.css" rel="stylesheet"/>
+<link href="css/theme-nebula.css" rel="stylesheet"/>
+<link href="css/slider-pro.css" rel="stylesheet"/>
+<link href="css/patch-v19.css" rel="stylesheet"/>
+<link href="css/patch-v21.css" rel="stylesheet"/>
+<link href="css/patch-v23.css" rel="stylesheet"/>
+<link href="css/patch-v28.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/patch-v29.css">
+  <link rel="stylesheet" href="css/patch-v30.css">
+  <link rel="stylesheet" href="css/patch-v31.css">
+  <link rel="stylesheet" href="css/patch-v32.css">
+<link rel="stylesheet" href="css/patch-v33.css">
+<link rel="stylesheet" href="css/patch-v35.css">
+  <link rel="stylesheet" href="css/patch-v34.css">
+</head>
+<body>
+<div aria-hidden="true" class="bg-animated"></div>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="appHeader">
+<a class="brand brandLink" href="index.html" aria-label="Home">
+<span aria-hidden="true" class="brandLogo">EN</span>
+<div class="brandText">
+<span>TOEFL Academic</span>
+<span class="muted small">Lessons • Offline-ready</span>
+</div>
+</a>
+<div class="headerActions">
+<div class="headerButtons">
+<button aria-expanded="false" aria-label="Open menu" class="icon-button menu-toggle" id="menuToggle" type="button">☰</button>
+<button aria-label="Toggle theme" aria-pressed="false" class="icon-button" id="themeToggle" type="button">☀️</button>
+</div>
+<nav aria-label="Main navigation">
+        <a class="nav-link" href="index.html#lessonsContainer">Lessons</a>
+\1
+      <a class="nav-link" href="dictionary.html">Dictionary</a>
+<a class="nav-link" href="offline.html">Offline</a>
+<a class="nav-link" href="about.html">About</a>
+<a class="nav-link active" href="settings.html">Settings</a>
+</nav>
+</div>
+</header>
+<main class="page" id="main">
+<section class="panel">
+<h1 class="h1">Settings</h1>
+<p class="muted">Theme, cache, and troubleshooting.</p>
+<div class="settingsRow">
+<div>
+<h2 class="h2">Theme</h2>
+<p class="muted">Use the sun/moon button in the header to switch themes.</p>
+</div>
+</div>
+<div class="settingsRow">
+<div>
+<h2 class="h2">Clear cache (PWA)</h2>
+<p class="muted">If the app looks outdated after updates, clear the cached files.</p>
+<button class="btn" id="clearCacheBtn" type="button">Clear cache now</button>
+<div aria-live="polite" class="muted small" id="cacheStatus"></div>
+</div>
+</div>
+<div class="settingsRow">
+<div>
+<h2 class="h2">Install</h2>
+<p class="muted">In Chrome/Edge: open the menu and choose “Install app”.</p>
+</div>
+</div>
+</section>
+</main>
+<script src="js/theme.js"></script>
+<script src="js/utils.js"></script>
+<script>
+    async function clearAppCache(){
+      const out = document.getElementById('cacheStatus');
+      try{
+        const keys = await caches.keys();
+        await Promise.all(keys.map(k => k.startsWith('toefl-academic-') ? caches.delete(k) : Promise.resolve()));
+        if(out) out.textContent = 'Cache cleared. Refresh the page.';
+      }catch(e){
+        if(out) out.textContent = 'Could not clear cache in this browser.';
+      }
+    }
+    document.getElementById('clearCacheBtn')?.addEventListener('click', clearAppCache);
+  </script>
+<script>
+  // Register service worker for offline support
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js', { scope: './' });
+    });
+  }
+</script></body>
+</html>

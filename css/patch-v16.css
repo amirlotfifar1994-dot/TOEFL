@@ -1,0 +1,175 @@
+/* patch-v16.css - UI declutter + responsive polish + link styling */
+
+/* --- Sections as cards (more padding / spacing) --- */
+.section, .drawerSection{
+  background: var(--panel, rgba(255,255,255,.04));
+  border: 1px solid var(--border, rgba(255,255,255,.08));
+  border-radius: var(--radius, 16px);
+  padding: 14px;
+  margin: 12px 0;
+  box-shadow: var(--shadow, 0 10px 30px rgba(0,0,0,.20));
+}
+.section h2, .section h3{ margin: 0 0 10px 0; line-height: 1.2; }
+.section p{ margin: 8px 0; }
+.section .prose{ line-height: 1.65; }
+.section .photoDesc, .section .imageDesc, .drawer-body .photoDesc, .drawer-body .imageDesc{ padding: 6px 2px; }
+
+/* --- Drawer cards (details/summary) --- */
+.drawer-card{ overflow: hidden; }
+.drawer-summary{
+  list-style: none; cursor: pointer;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 10px; padding: 10px 12px; border-radius: 12px;
+  background: rgba(255,255,255,.03);
+}
+.drawer-summary::-webkit-details-marker{ display:none; }
+.drawer-title{ font-weight: 700; }
+.drawer-chevron{ opacity: .75; transition: transform .18s ease; }
+.drawer-card[open] .drawer-chevron{ transform: rotate(180deg); }
+.drawer-body{ padding: 10px 2px 2px 2px; }
+
+/* --- Tiny circle toggles (no big buttons) --- */
+.miniToggle, .miniInfo, .faToggle{
+  width: 18px; height: 18px; border-radius: 999px;
+  border: 1px solid var(--border, rgba(255,255,255,.18));
+  background: rgba(255,255,255,.05);
+  display: inline-flex; align-items: center; justify-content: center;
+  vertical-align: middle; margin-inline-start: 8px; flex: 0 0 auto;
+}
+.miniToggle::before, .faToggle::before{ content: "FA"; font-size: 10px; opacity: .9; }
+.miniInfo::before{ content: "i"; font-size: 12px; font-weight: 800; opacity: .9; }
+.miniToggle:hover, .miniInfo:hover{ background: rgba(255,255,255,.09); }
+
+/* --- Word links: no underline, theme-friendly highlight --- */
+a.word-link{
+  text-decoration: none !important; border-bottom: none !important;
+  color: var(--accent, #4f9cf3);
+  background: rgba(79,156,243,.10);
+  padding: .05em .22em;
+  border-radius: .35em;
+  font-weight: 650;
+}
+a.word-link:hover{ background: rgba(79,156,243,.16); }
+
+/* --- Vocab extra box --- */
+.vocabMore{ margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--border, rgba(255,255,255,.18)); }
+.vocabMore.hidden{ display:none; }
+.errorSmall{ color: #ffb4b4; font-size: .92rem; }
+.subTitle{ margin-top: 8px; font-weight: 750; opacity: .9; }
+
+/* --- Tables spacing --- */
+.tableWrap, .table-wrap, table{ margin: 10px 0 14px 0; }
+.section table td, .section table th{ padding: 10px 10px; }
+
+/* --- Horizontal scroll on mobile for dense rows (contexts/chips) --- */
+@media (max-width: 640px){
+  .pillScroll, .chips, .tagRow, .contextRow{
+    overflow-x: auto; -webkit-overflow-scrolling: touch; white-space: nowrap;
+    gap: 8px; padding-bottom: 4px;
+  }
+  .pill, .chipLink{ display: inline-flex; }
+  .drawer-summary{ padding: 9px 10px; }
+  .section, .drawerSection{ padding: 12px; }
+}
+
+/* --- Word page basics --- */
+.wordHeader{ display: grid; gap: 8px; margin-bottom: 10px; }
+.wordTitle{ margin: 0; }
+.wordFaLine{ display: flex; align-items: center; gap: 10px; }
+.wordFa{ font-size: 1.05rem; opacity: .92; }
+.faHidden{ display:none; }
+.metaGrid{
+  display: grid; grid-template-columns: repeat(3, minmax(0,1fr));
+  gap: 10px; margin: 10px 0 14px 0;
+}
+.metaItem{
+  background: rgba(255,255,255,.03);
+  border: 1px solid var(--border, rgba(255,255,255,.08));
+  border-radius: 14px; padding: 10px;
+}
+.metaKey{ font-size: .8rem; opacity: .7; }
+.metaVal{ font-weight: 700; margin-top: 4px; }
+
+@media (max-width: 720px){ .metaGrid{ grid-template-columns: 1fr; } }
+
+
+
+/* === v17 UI polish: tighter toggles, lesson spacing, word details === */
+.miniToggle{
+  width:18px !important;
+  height:18px !important;
+  padding:0 !important;
+  border-radius:50% !important;
+  line-height:18px !important;
+  font-size:12px !important;
+}
+.faToggle{
+  gap:8px;
+}
+.faToggle .miniToggle{
+  box-shadow:none !important;
+}
+
+.word-link{
+  text-decoration:none !important;
+  color: var(--accent) !important;
+}
+.word-link:hover{
+  text-decoration:none !important;
+  opacity:.92;
+}
+
+/* Lesson: photo description padding + table breathing room */
+.image-desc, .photoDesc{
+  padding:10px 12px !important;
+  border-radius:14px;
+  line-height:1.75;
+}
+.lessonHero .image-desc{
+  background: rgba(255,255,255,.03);
+}
+p + table{ margin-top:14px; }
+table + p{ margin-top:14px; }
+.tableWrap{ margin-top:12px; }
+
+/* Drawer summaries: keep them compact */
+.drawer summary{
+  padding:10px 12px !important;
+}
+.drawer summary::marker{ content:""; }
+.drawer summary{
+  list-style:none;
+}
+.drawer summary .drawerTitle{
+  font-weight:700;
+}
+
+/* Word page meaning UI */
+.meaningList{ display:grid; gap:12px; }
+.meaningGroup{ padding:10px 12px; border-radius:16px; background: rgba(255,255,255,.03); }
+.meaningPOS{ font-weight:800; margin-bottom:6px; }
+.meaningUl{ margin:0; padding-left:18px; }
+.meaningUl li{ margin:6px 0; }
+.examplesTiny{ display:flex; gap:8px; align-items:flex-start; flex-wrap:wrap; }
+.chip{ display:inline-flex; align-items:center; gap:6px; padding:2px 8px; border-radius:999px; font-size:.78rem; background: rgba(255,255,255,.06); }
+.chipWrap{ display:flex; flex-wrap:wrap; gap:8px; }
+.chipLabel{ width:100%; margin-top:6px; font-weight:800; opacity:.85; }
+.chipLink{
+  text-decoration:none !important;
+  padding:6px 10px;
+  border-radius:999px;
+  background: rgba(255,255,255,.05);
+  color: var(--text) !important;
+}
+.chipLink:hover{ background: rgba(255,255,255,.08); }
+.chipLinkAlt{ background: rgba(255,255,255,.04); opacity:.95; }
+
+/* Mobile: make long context rows horizontally scrollable by default */
+@media (max-width: 768px){
+  .contextRow{
+    overflow-x:auto;
+    -webkit-overflow-scrolling: touch;
+    gap:10px;
+  }
+  .contextRow > *{ min-width: 260px; }
+}

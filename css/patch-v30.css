@@ -1,0 +1,117 @@
+/* Patch v30: cleaner lesson cards + more consistent lesson details */
+
+/* --- Lesson cards (index) --- */
+.lesson-metaRow{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.35rem;
+  margin:0 .75rem .55rem;
+}
+.lesson-tagChip{
+  display:inline-flex;
+  align-items:center;
+  padding:.18rem .55rem;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:rgba(148,163,184,.10);
+  color:var(--muted);
+  font-size:.78rem;
+  line-height:1.25;
+}
+.lesson-pills{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.35rem;
+  margin:0 .75rem .95rem;
+}
+.lesson-pill{
+  display:inline-flex;
+  align-items:center;
+  padding:.2rem .6rem;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:rgba(15,23,42,.18);
+  font-size:.78rem;
+  color:var(--text);
+}
+.lesson-card p.lesson-caption{
+  display:-webkit-box;
+  -webkit-line-clamp:3;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+.lesson-card img{height:170px}
+@media (max-width:420px){
+  .lesson-card img{height:150px}
+}
+
+/* --- Lesson meta line (lesson page) --- */
+.meta-line{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.55rem;
+  align-items:center;
+  margin:.2rem 0 .4rem;
+}
+.meta-tags{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.35rem;
+}
+.meta-tag{
+  display:inline-flex;
+  align-items:center;
+  padding:.2rem .6rem;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:rgba(148,163,184,.10);
+  color:var(--text);
+  font-size:.8rem;
+}
+.meta-stats{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.45rem;
+  margin-left:auto;
+}
+@media (max-width:600px){
+  .meta-stats{margin-left:0}
+}
+.meta-stat{
+  display:inline-flex;
+  align-items:center;
+  padding:.2rem .55rem;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:rgba(15,23,42,.18);
+  color:var(--muted);
+  font-size:.78rem;
+}
+
+/* --- Levelled description block --- */
+#sec-levels .level-pane{
+  border:1px solid var(--border);
+  border-radius:14px;
+  padding:.85rem .95rem;
+  background:rgba(15,23,42,.10);
+}
+#sec-levels .level-pane h4{
+  margin:0 0 .45rem;
+}
+#sec-levels .level-pane p{margin:0}
+
+/* --- Vocab quick review --- */
+.vocabQuick{
+  border:1px solid var(--border);
+  border-radius:14px;
+  background:rgba(148,163,184,.08);
+  overflow:hidden;
+  margin:0 0 .8rem;
+}
+.vocabQuickSummary{
+  cursor:pointer;
+  padding:.7rem .85rem;
+  font-weight:800;
+}
+.vocabQuick[open] .vocabQuickSummary{border-bottom:1px solid var(--border)}
+.vocabQuickBody{padding:.6rem .7rem .85rem}

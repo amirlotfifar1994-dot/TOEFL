@@ -1,0 +1,107 @@
+
+/* patch-v14.css
+   هدف: یکسان‌سازی ظاهر بین صفحات، رفع ریسپانسیو (responsive) دیکشنری/درس/صفحه لغت،
+   و کنترل برخی تداخل‌های آبشاری (cascade) بدون شکستن تم‌های قبلی.
+*/
+
+:root{
+  --bp-mobile: 768px;
+  --bp-tablet: 1024px;
+}
+
+/* ---------- Generic layout helpers ---------- */
+.grid2{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+@media (max-width: 768px){
+  .grid2{ grid-template-columns: 1fr; }
+}
+
+.panel{
+  background: var(--card, rgba(255,255,255,.06));
+  border: 1px solid var(--border, rgba(255,255,255,.12));
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+
+.mini-list{
+  margin: 8px 0 0;
+  padding-inline-start: 18px;
+}
+.mini-list li{ margin: 6px 0; }
+.mini-list code{
+  padding: 2px 6px;
+  border-radius: 8px;
+  background: rgba(0,0,0,.12);
+  border: 1px solid rgba(0,0,0,.08);
+}
+
+/* ---------- Word page (word.html) ---------- */
+.wordSection h2, .wordSection h3{
+  scroll-margin-top: 90px;
+}
+.exCard{
+  border: 1px solid var(--border, rgba(255,255,255,.12));
+  border-radius: 14px;
+  padding: 10px 12px;
+  margin-top: 10px;
+}
+.exEn{ font-weight: 650; line-height: 1.55; }
+.exFa{ margin-top: 6px; }
+
+/* ---------- Dictionary page responsive ---------- */
+.dictLayout{
+  display:grid;
+  grid-template-columns: 320px 1fr;
+  gap: 12px;
+}
+@media (max-width: 900px){
+  .dictLayout{ grid-template-columns: 1fr; }
+  .dictSidebar{ position: static !important; top:auto !important; }
+}
+
+/* Make long lists scroll nicely */
+.dictResults{
+  max-height: calc(100vh - 180px);
+  overflow:auto;
+}
+
+/* ---------- Lesson cards/layout tweaks ---------- */
+/* Avoid overflow in small screens */
+.lessonHeader, .lessonTop, .lessonMeta{
+  word-break: break-word;
+}
+
+
+/* ---------- Dictionary (page-dictionary) responsive ---------- */
+.page-dictionary .row{ flex-wrap: wrap; }
+@media (max-width: 900px){
+  .page-dictionary .col{ flex: 1 1 100% !important; width: 100% !important; }
+  .page-dictionary .col-6{ flex: 1 1 100% !important; width: 100% !important; }
+  .page-dictionary .card{ overflow: hidden; }
+  .page-dictionary .list{ max-height: 52vh; overflow:auto; }
+  .page-dictionary .entry{ word-break: break-word; }
+}
+
+
+/* ---------- FA toggle blocks ---------- */
+.fa-hidden{ display:none; }
+.fa-toggle-btn{
+  margin-top: 6px;
+  padding: 8px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border, rgba(255,255,255,.14));
+  background: rgba(255,255,255,.06);
+  color: inherit;
+  cursor: pointer;
+}
+.fa-block{
+  margin-top: 8px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px dashed rgba(255,255,255,.18);
+  background: rgba(255,255,255,.04);
+  line-height: 1.75;
+}

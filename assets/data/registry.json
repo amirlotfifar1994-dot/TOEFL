@@ -1,0 +1,834 @@
+{
+  "lessons": [
+    {
+      "id": "toefl-ax34-03",
+      "title": "Campfire Music Session: Warmth and Social Bonding",
+      "caption": "Friends relax by a campfire as one plays guitar and others sip warm drinks.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-03.json",
+      "image800": "assets/images/toefl-photo-ax34-03-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-03-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-04",
+      "title": "Smiling on a Woodland Path: Companionship in Nature",
+      "caption": "A man and woman hike a forest path, laughing as sunlight filters through the trees.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-04.json",
+      "image800": "assets/images/toefl-photo-ax34-04-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-04-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-05",
+      "title": "Sunset Over a Lake: Friends Sharing a Golden Moment",
+      "caption": "Four friends sit on a rocky viewpoint, drinking and watching the sun set over a wide lake.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-05.json",
+      "image800": "assets/images/toefl-photo-ax34-05-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-05-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-08",
+      "title": "Snowstorm Survival: Support in Harsh Weather",
+      "caption": "Two people in heavy jackets huddle together in a blizzard, trying to stay warm.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-08.json",
+      "image800": "assets/images/toefl-photo-ax34-08-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-08-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-09",
+      "title": "Joy on the Beach: Friends Jumping in the Surf",
+      "caption": "Three friends jump on a sunny beach holding hands, with the ocean behind them. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-09.json",
+      "image800": "assets/images/toefl-photo-ax34-09-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-09-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-10",
+      "title": "Searching in a Dark Forest: Caution and Curiosity",
+      "caption": "A man and a woman stand in a dark forest at night, shining a flashlight and looking alert. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-10.json",
+      "image800": "assets/images/toefl-photo-ax34-10-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-10-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-11",
+      "title": "Desert Sunset Calm: A Couple on Sand Dunes",
+      "caption": "A couple sits on warm sand dunes as the sun sets over the desert.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-11.json",
+      "image800": "assets/images/toefl-photo-ax34-11-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-11-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-12",
+      "title": "Mountain Group Selfie: Friends Capturing a Memory",
+      "caption": "Four friends smile for a selfie on a mountain trail with a green valley behind them.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-12.json",
+      "image800": "assets/images/toefl-photo-ax34-12-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-12-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-13",
+      "title": "City View at Sunset: A Couple Above the Skyline",
+      "caption": "A couple stands on a rooftop, watching the glowing skyline as the day ends.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-13.json",
+      "image800": "assets/images/toefl-photo-ax34-13-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-13-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-14",
+      "title": "Coastal Cliffs at Golden Hour: Waves and Wide Horizons",
+      "caption": "A couple sits on a cliff overlooking the ocean coast at sunset, watching waves below. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-14.json",
+      "image800": "assets/images/toefl-photo-ax34-14-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-14-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-15",
+      "title": "Night Sky Camping: Pointing at the Milky Way",
+      "caption": "Two campers sit by a lit tent and small fire, admiring a star-filled sky.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-15.json",
+      "image800": "assets/images/toefl-photo-ax34-15-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-15-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-16",
+      "title": "Kayaking Whitewater Rapids: Focus and Adrenaline",
+      "caption": "Two kayakers paddle through fast whitewater; they wear helmets and life vests as water splashes around them. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-16.json",
+      "image800": "assets/images/toefl-photo-ax34-16-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-16-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-17",
+      "title": "Rock Climbing Ascent: Determination on a Steep Face",
+      "caption": "Two climbers use ropes and safety gear to climb a high rocky wall above snowy terrain.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-17.json",
+      "image800": "assets/images/toefl-photo-ax34-17-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-17-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-18",
+      "title": "Busy Street Café: Conversation in the City",
+      "caption": "Friends sit at a round table outdoors, chatting as pedestrians and bicycles pass by.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-18.json",
+      "image800": "assets/images/toefl-photo-ax34-18-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-18-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-19",
+      "title": "Boarding a City Bus: Public Transit Routine",
+      "caption": "A woman steps onto a blue bus on a busy street, carrying a shoulder bag.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-19.json",
+      "image800": "assets/images/toefl-photo-ax34-19-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-19-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-20",
+      "title": "Crowded Crosswalk: Urban Movement and Noise",
+      "caption": "A crowded city intersection with many pedestrians crossing; tall buildings, taxis, and steam create a busy downtown atmosphere. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-20.json",
+      "image800": "assets/images/toefl-photo-ax34-20-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-20-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-21",
+      "title": "Leaving the Subway: Starting a Workday",
+      "caption": "A man in a suit climbs out of the subway into a bright city morning.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-21.json",
+      "image800": "assets/images/toefl-photo-ax34-21-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-21-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-22",
+      "title": "Outdoor Café Talk: Two Friends Sharing News",
+      "caption": "Two women sit at an outdoor café table, laughing and talking over drinks and dessert. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-22.json",
+      "image800": "assets/images/toefl-photo-ax34-22-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-22-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-23",
+      "title": "Inside the Subway Car: Quiet Routine and Screens",
+      "caption": "Passengers sit and stand in a bright subway car, many focused on their phones.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-23.json",
+      "image800": "assets/images/toefl-photo-ax34-23-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-23-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-24",
+      "title": "Shopping and Strolling: Friends Enjoying City Stores",
+      "caption": "Two women walk and laugh in a busy shopping street, carrying bags and coffee.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "urban",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax34-24.json",
+      "image800": "assets/images/toefl-photo-ax34-24-800.webp",
+      "image1600": "assets/images/toefl-photo-ax34-24-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-01",
+      "title": "Mountain Valley View: Two Hikers Taking in the Scenery",
+      "caption": "A hiking couple pauses on a wildflower slope to admire a wide green valley and snowy peaks.",
+      "file": "assets/data/lessons/toefl-ax34-01.json",
+      "image800": "assets/images/toefl-photo-ax34-01-800.webp",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "image1600": "assets/images/toefl-photo-ax34-01-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-02",
+      "title": "Forest Walk Conversation: Friendship on the Trail",
+      "caption": "Two hikers walk through a green forest, smiling as they chat on a sunny path.",
+      "file": "assets/data/lessons/toefl-ax34-02.json",
+      "image800": "assets/images/toefl-photo-ax34-02-800.webp",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "image1600": "assets/images/toefl-photo-ax34-02-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-06",
+      "title": "Lakeside Camp at Dusk: Warm Conversation by the Fire",
+      "caption": "Friends sit near a yellow tent by a lake, sipping from metal mugs as the sun sets.",
+      "file": "assets/data/lessons/toefl-ax34-06.json",
+      "image800": "assets/images/toefl-photo-ax34-06-800.webp",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "image1600": "assets/images/toefl-photo-ax34-06-1600.webp"
+    },
+    {
+      "id": "toefl-ax34-07",
+      "title": "Quiet Embrace by the Lake: A Peaceful Romantic View",
+      "caption": "A couple sits on a rock, wrapped in warm clothes, watching light over a lake and snowy mountains.",
+      "file": "assets/data/lessons/toefl-ax34-07.json",
+      "image800": "assets/images/toefl-photo-ax34-07-800.webp",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax34",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "image1600": "assets/images/toefl-photo-ax34-07-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-01",
+      "title": "Safety Check on the Factory Floor",
+      "caption": "In a busy industrial facility, two workers coordinate an on-site check. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-01.json",
+      "image800": "assets/images/toefl-photo-ax1-01-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-01-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-02",
+      "title": "Nurses Reviewing Patient Notes",
+      "caption": "In a clinical setting, two medical professionals collaborate while reviewing documentation. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-02.json",
+      "image800": "assets/images/toefl-photo-ax1-02-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-02-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-03",
+      "title": "Presenting Results in a Meeting",
+      "caption": "A business presentation is underway in a modern conference room. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-03.json",
+      "image800": "assets/images/toefl-photo-ax1-03-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-03-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-04",
+      "title": "Planning a Project with Blueprints",
+      "caption": "This is a collaborative planning moment where a team aligns on technical details. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-04.json",
+      "image800": "assets/images/toefl-photo-ax1-04-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-04-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-05",
+      "title": "Graduation Selfie",
+      "caption": "This moment captures a shared achievement. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-05.json",
+      "image800": "assets/images/toefl-photo-ax1-05-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-05-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-06",
+      "title": "Learning in a Science Lab",
+      "caption": "This image shows hands-on scientific learning. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-06.json",
+      "image800": "assets/images/toefl-photo-ax1-06-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-06-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-07",
+      "title": "University Lecture in Progress",
+      "caption": "A formal lecture is taking place in a university-style classroom. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-07.json",
+      "image800": "assets/images/toefl-photo-ax1-07-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-07-1600.webp"
+    },
+    {
+      "id": "toefl-ax1-08",
+      "title": "Studying Together in the Library",
+      "caption": "This is collaborative learning in action. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax1-08.json",
+      "image800": "assets/images/toefl-photo-ax1-08-800.webp",
+      "image1600": "assets/images/toefl-photo-ax1-08-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-01",
+      "title": "Celebrating with Friends Outdoors",
+      "caption": "The photo captures a shared celebration. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-01.json",
+      "image800": "assets/images/toefl-photo-ax2-01-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-01-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-02",
+      "title": "Cheering at a Concert",
+      "caption": "This is a high-energy moment in a live music setting. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-02.json",
+      "image800": "assets/images/toefl-photo-ax2-02-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-02-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-03",
+      "title": "A Difficult Conversation",
+      "caption": "This image captures emotional strain in a relationship. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-03.json",
+      "image800": "assets/images/toefl-photo-ax2-03-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-03-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-04",
+      "title": "Moving On After a Breakup",
+      "caption": "This photo symbolizes emotional loss. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-04.json",
+      "image800": "assets/images/toefl-photo-ax2-04-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-04-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-05",
+      "title": "Walking Through the City with Friends",
+      "caption": "This scene reflects everyday social connection. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-05.json",
+      "image800": "assets/images/toefl-photo-ax2-05-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-05-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-06",
+      "title": "Picnic Near a Famous Landmark",
+      "caption": "This photo combines travel and social connection. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-06.json",
+      "image800": "assets/images/toefl-photo-ax2-06-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-06-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-07",
+      "title": "Couple Taking a Travel Selfie",
+      "caption": "This photo highlights travel as a shared experience. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-07.json",
+      "image800": "assets/images/toefl-photo-ax2-07-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-07-1600.webp"
+    },
+    {
+      "id": "toefl-ax2-08",
+      "title": "Coffee and Conversation",
+      "caption": "This image shows a quiet social ritual. Focus: clear description, cautious inference, and TOEFL practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "ax2",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-ax2-08.json",
+      "image800": "assets/images/toefl-photo-ax2-08-800.webp",
+      "image1600": "assets/images/toefl-photo-ax2-08-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-01",
+      "title": "Homework Help at the Kitchen Table",
+      "caption": "A mother guides her son as he writes in a workbook during a calm study session at home.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-01.json",
+      "image800": "assets/images/toefl-photo-axxx1-01-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-01-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-02",
+      "title": "Choosing Fresh Produce at the Market",
+      "caption": "A family is shopping at a lively produce stall in an outdoor market. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-02.json",
+      "image800": "assets/images/toefl-photo-axxx1-02-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-02-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-03",
+      "title": "Welding Training on the Workshop Floor",
+      "caption": "Four workers in hard hats focus on welding metal, with sparks flying from the workbench.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-03.json",
+      "image800": "assets/images/toefl-photo-axxx1-03-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-03-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-04",
+      "title": "A Friendly Deal at the Pastry Counter",
+      "caption": "A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-04.json",
+      "image800": "assets/images/toefl-photo-axxx1-04-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-04-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-05",
+      "title": "Street Soccer in a Narrow Alley",
+      "caption": "In a narrow neighborhood alley, several children are playing soccer with a black-and-white ball. Focus: clear description, inference, and TOEFL-style speaking, writing practice.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-05.json",
+      "image800": "assets/images/toefl-photo-axxx1-05-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-05-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-06",
+      "title": "Traditional Metal Engraving Workshop",
+      "caption": "An experienced craftsman and an assistant engrave detailed patterns into metal trays in a warm workshop.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-06.json",
+      "image800": "assets/images/toefl-photo-axxx1-06-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-06-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-07",
+      "title": "Café Selfie with Coffee and Dessert",
+      "caption": "Two friends smile for a selfie at an outdoor café table with hot drinks and a slice of cake.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-07.json",
+      "image800": "assets/images/toefl-photo-axxx1-07-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-07-1600.webp"
+    },
+    {
+      "id": "toefl-axxx1-08",
+      "title": "Family Tea and a Shared Meal at Home",
+      "caption": "A multi-generational family sits together on the floor, sharing food and tea in a cozy living room.",
+      "tags": [
+        "3-level",
+        "analysis",
+        "axxx1",
+        "deep",
+        "photo",
+        "speaking",
+        "writing"
+      ],
+      "file": "assets/data/lessons/toefl-axxx1-08.json",
+      "image800": "assets/images/toefl-photo-axxx1-08-800.webp",
+      "image1600": "assets/images/toefl-photo-axxx1-08-1600.webp"
+    }
+  ],
+  "version": "30.8.8",
+  "updatedAt": "2026-02-02T12:00:00Z",
+  "lessonCount": 48,
+  "updated_at": "2026-02-02T00:00:00Z"
+}

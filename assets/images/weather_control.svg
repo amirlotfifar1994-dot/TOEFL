@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B1220"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.25"/>
+    <stop offset="1" stop-color="#F97316" stop-opacity="0.18"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="12" stdDeviation="22" flood-color="#000" flood-opacity="0.40"/>
+  </filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<text x="110" y="120" font-family="Arial" font-size="42" fill="#E0E7FF" opacity="0.92">Weather forecasting control room</text>
+<text x="110" y="160" font-family="Arial" font-size="20" fill="#93C5FD" opacity="0.9">Indoor • modern • focused atmosphere</text>
+
+<!-- Curved video wall -->
+<path d="M160,210 C520,120 1080,120 1440,210 L1440,560 C1080,650 520,650 160,560 Z" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.14)" filter="url(#shadow)"/>
+<path d="M200,245 C540,165 1060,165 1400,245 L1400,520 C1060,600 540,600 200,520 Z" fill="url(#wall)" stroke="rgba(255,255,255,0.18)"/>
+
+<!-- Cyclone patterns -->
+<g opacity="0.95">
+  <g transform="translate(360,340)">
+    <circle cx="0" cy="0" r="110" fill="#0EA5E9" opacity="0.35"/>
+    <circle cx="0" cy="0" r="78" fill="#22C55E" opacity="0.35"/>
+    <circle cx="0" cy="0" r="48" fill="#F59E0B" opacity="0.35"/>
+    <circle cx="0" cy="0" r="26" fill="#FB7185" opacity="0.35"/>
+    <path d="M-96,-10 C-30,-80 60,-80 96,-10 C40,-30 -40,-30 -96,-10 Z" fill="#93C5FD" opacity="0.45"/>
+  </g>
+  <g transform="translate(820,320)">
+    <circle cx="0" cy="0" r="120" fill="#3B82F6" opacity="0.30"/>
+    <circle cx="0" cy="0" r="86" fill="#F97316" opacity="0.25"/>
+    <circle cx="0" cy="0" r="54" fill="#EF4444" opacity="0.22"/>
+    <path d="M-110,8 C-20,-70 70,-60 110,8 C50,-6 -50,-6 -110,8 Z" fill="#A5B4FC" opacity="0.45"/>
+  </g>
+  <g transform="translate(1180,360)">
+    <circle cx="0" cy="0" r="96" fill="#06B6D4" opacity="0.25"/>
+    <circle cx="0" cy="0" r="66" fill="#F59E0B" opacity="0.22"/>
+    <circle cx="0" cy="0" r="34" fill="#FB7185" opacity="0.22"/>
+  </g>
+</g>
+
+<!-- Data panel -->
+<g transform="translate(1280,270)" opacity="0.95">
+  <rect x="0" y="0" width="190" height="260" rx="18" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.14)"/>
+  <text x="16" y="36" font-family="Arial" font-size="18" fill="#E0E7FF">Data panel</text>
+  <g font-family="Arial" font-size="14" fill="#93C5FD" opacity="0.95">
+    <text x="16" y="70">Wind: 42 km/h</text>
+    <text x="16" y="98">Pressure: 980 hPa</text>
+    <text x="16" y="126">Humidity: 78%</text>
+    <text x="16" y="154">Direction: NE</text>
+    <text x="16" y="182">Alert: moderate</text>
+  </g>
+</g>
+
+<!-- Desks + monitors -->
+<g transform="translate(170,590)" opacity="0.9">
+  <rect x="0" y="0" width="1260" height="220" rx="32" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.10)"/>
+  <!-- rows of monitors -->
+  <rect x="46" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="56" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="60" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="194" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="204" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="208" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="342" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="352" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="356" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="490" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="500" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="504" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="638" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="648" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="652" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="786" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="796" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="800" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="934" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="944" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="948" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="1082" y="28" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="1092" y="38" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="1096" y="76" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="46" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="56" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="60" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="194" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="204" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="208" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="342" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="352" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="356" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="490" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="500" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="504" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="638" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="648" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="652" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="786" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="796" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="800" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="934" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="944" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="948" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+  <rect x="1082" y="124" width="120" height="62" rx="14" fill="#111827" opacity="0.85"/><rect x="1092" y="134" width="100" height="34" rx="10" fill="#60A5FA" opacity="0.45"/><rect x="1096" y="172" width="70" height="8" rx="4" fill="#334155" opacity="0.9"/>
+</g>
+
+<!-- People in suits -->
+<g opacity="0.95">
+  <!-- Analyst 1 -->
+  <g transform="translate(420,720)">
+    <circle cx="0" cy="0" r="18" fill="#CBD5E1"/>
+    <rect x="-18" y="22" width="36" height="86" rx="18" fill="#0F172A"/>
+    <rect x="-18" y="54" width="36" height="28" rx="10" fill="#111827" opacity="0.85"/>
+    <rect x="-10" y="62" width="20" height="10" rx="5" fill="#94A3B8" opacity="0.85"/>
+  </g>
+  <!-- Analyst 2 -->
+  <g transform="translate(640,735)">
+    <circle cx="0" cy="0" r="18" fill="#CBD5E1"/>
+    <rect x="-18" y="22" width="36" height="86" rx="18" fill="#1F2937"/>
+    <rect x="-14" y="112" width="12" height="44" rx="6" fill="#0B1220"/>
+    <rect x="2" y="112" width="12" height="44" rx="6" fill="#0B1220"/>
+  </g>
+  <!-- Analyst 3 -->
+  <g transform="translate(880,725)">
+    <circle cx="0" cy="0" r="18" fill="#CBD5E1"/>
+    <rect x="-18" y="22" width="36" height="86" rx="18" fill="#111827"/>
+    <rect x="-12" y="50" width="24" height="14" rx="7" fill="#93C5FD" opacity="0.5"/>
+  </g>
+</g>
+
+<text x="110" y="860" font-family="Arial" font-size="18" fill="#94A3B8" opacity="0.9">Focused • analytical • high-tech</text>
+</svg>

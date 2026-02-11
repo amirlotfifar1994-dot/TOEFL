@@ -1,0 +1,67 @@
+/* === v15 fa toggle icon === */
+.fa-toggle-btn{
+  width: 22px;
+  height: 22px;
+  min-width: 22px;
+  min-height: 22px;
+  padding: 0;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255,255,255,.18);
+  background: rgba(255,255,255,.06);
+  color: inherit;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+}
+.fa-toggle-btn:hover{ background: rgba(255,255,255,.10); }
+.fa-toggle-btn:active{ transform: translateY(1px); }
+.fa-toggle-btn svg{ width: 14px; height: 14px; opacity: .9; }
+.fa-toggle-btn.is-open{ background: rgba(255,255,255,.14); }
+
+.fa-block{
+  direction: rtl;
+  text-align: right;
+  padding: .55rem .7rem;
+  border-radius: .9rem;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(255,255,255,.04);
+  margin-top: .4rem;
+  line-height: 1.75;
+}
+.fa-hidden{ display:none !important; }
+.fa-shown{ display:block; }
+
+/* === v15 lesson declutter === */
+.lesson-section{
+  margin: .9rem 0;
+  border: 1px solid rgba(255,255,255,.10);
+  border-radius: 1rem;
+  background: rgba(255,255,255,.03);
+  overflow: hidden;
+}
+.lesson-section > summary{
+  list-style: none;
+  cursor: pointer;
+  padding: .75rem .9rem;
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap:.6rem;
+  user-select:none;
+  font-weight: 700;
+}
+.lesson-section > summary::-webkit-details-marker{ display:none; }
+.lesson-section > summary .muted{ font-weight: 500; opacity:.8; }
+.lesson-section[open] > summary{ background: rgba(255,255,255,.05); }
+.lesson-section .section-body{ padding: .85rem .95rem; }
+
+/* Better spacing around tables */
+table{ border-collapse: collapse; }
+.table-wrap{ overflow:auto; border-radius: .9rem; border:1px solid rgba(255,255,255,.10); }
+.table-wrap table{ width:100%; }
+.table-wrap + *{ margin-top: .9rem !important; }
+.section-body p{ margin: .55rem 0; }
+.section-body ul, .section-body ol{ margin: .55rem 0 .8rem; padding-inline-start: 1.2rem; }

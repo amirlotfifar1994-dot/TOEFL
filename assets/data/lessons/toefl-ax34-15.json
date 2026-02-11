@@ -1,0 +1,1672 @@
+{
+  "id": "toefl-ax34-15",
+  "title": "Night Sky Camping: Pointing at the Milky Way",
+  "caption": "Two campers sit by a lit tent and small fire, admiring a star-filled sky.",
+  "image": {
+    "src800": "assets/images/toefl-photo-ax34-15-800.webp",
+    "src1600": "assets/images/toefl-photo-ax34-15-1600.webp",
+    "alt": "Practice photo 15 for TOEFL-style description"
+  },
+  "fullDescription": {
+    "en": "Two campers sit near a glowing orange tent under a starry sky; the Milky Way is visible above.",
+    "fa": "Two campers sit near glowing orange tent under starry sky; Milky Way is visible above."
+  },
+  "simpleEnglish": {
+    "en": "Two people are camping at night. They are sitting near a tent. They are looking at the stars.",
+    "fa": "Two people در حال camping at night. آن‌ها نشسته‌اند near tent. آن‌ها به stars نگاه می‌کنند."
+  },
+  "advancedEnglish": {
+    "en": "Under a brilliant night sky, two campers sit beside a warmly lit tent, gazing at the Milky Way stretched overhead. The contrast between the quiet darkness and the tent’s orange glow creates a sense of wonder and peaceful exploration.",
+    "fa": "Under brilliant night sky, two campers sit beside warmly lit tent, gazing at Milky Way stretched overhead. contrast between quiet darkness and tent’s orange glow creates sense of wonder and peaceful exploration."
+  },
+  "people": [
+    "2 people (young adults); genders not fully clear in silhouette"
+  ],
+  "ages": [
+    "Young adults (approx. 20s–30s)"
+  ],
+  "place": [
+    "Night campsite",
+    "Open landscape for stargazing"
+  ],
+  "clothing": [
+    "Warm jackets",
+    "Outdoor pants",
+    "Sitting near a campfire (small)"
+  ],
+  "appearance": [
+    "Faces not visible (silhouettes)",
+    "Build: average",
+    "Approx. height: average; approx. weight/build: average (not measurable precisely from an image)."
+  ],
+  "actions": [
+    "Sitting and looking at the stars",
+    "Pointing toward the sky"
+  ],
+  "objects": [
+    "Tent (orange)",
+    "Campfire glow",
+    "Starry sky / Milky Way"
+  ],
+  "feelings": [
+    "Amazed",
+    "Peaceful",
+    "Curious"
+  ],
+  "environmentType": [
+    "Outdoor / camping / night"
+  ],
+  "weatherLighting": [
+    "Night sky",
+    "Light from tent and fire"
+  ],
+  "vocabularyExtended": {
+    "people": [
+      "participants",
+      "observers",
+      "speakers"
+    ],
+    "places": [
+      "setting",
+      "environment",
+      "location"
+    ],
+    "actions": [
+      "sitting by the campfire",
+      "pointing at the Milky Way",
+      "holding hot drinks",
+      "taking photographs of the stars",
+      "talking quietly",
+      "gazing upward",
+      "tending the fire",
+      "listening to night sounds"
+    ],
+    "objects": [
+      "detail",
+      "background",
+      "foreground",
+      "context clue"
+    ],
+    "feelings": [
+      "quiet",
+      "reflective",
+      "serious",
+      "vibrant",
+      "romantic",
+      "inspired",
+      "adventurous",
+      "peaceful"
+    ],
+    "academicPhrases": [
+      "it appears that",
+      "this suggests that",
+      "from my perspective",
+      "it is likely that",
+      "in contrast",
+      "as a result",
+      "for example",
+      "overall",
+      "in addition",
+      "the main focus is",
+      "a possible explanation is",
+      "this could indicate",
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "camping",
+      "fa": "کمپینگ"
+    },
+    {
+      "en": "tent",
+      "fa": "چادر"
+    },
+    {
+      "en": "stars",
+      "fa": "ستاره‌ها"
+    },
+    {
+      "en": "night sky",
+      "fa": "آسمان شب"
+    },
+    {
+      "en": "Milky Way",
+      "fa": "راه شیری"
+    },
+    {
+      "en": "stargazing",
+      "fa": "ستاره‌بینی"
+    },
+    {
+      "en": "glow",
+      "fa": "درخشش"
+    },
+    {
+      "en": "campfire",
+      "fa": "آتش کمپ"
+    },
+    {
+      "en": "silhouette",
+      "fa": "سایه‌نما"
+    },
+    {
+      "en": "constellation",
+      "fa": "صورت فلکی"
+    },
+    {
+      "en": "galaxy",
+      "fa": "کهکشان"
+    },
+    {
+      "en": "space",
+      "fa": "فضا"
+    },
+    {
+      "en": "quiet",
+      "fa": "سکوت"
+    },
+    {
+      "en": "peaceful",
+      "fa": "آرام"
+    },
+    {
+      "en": "wonder",
+      "fa": "شگفتی"
+    },
+    {
+      "en": "magical",
+      "fa": "جادویی"
+    },
+    {
+      "en": "darkness",
+      "fa": "تاریکی"
+    },
+    {
+      "en": "lamp",
+      "fa": "چراغ"
+    },
+    {
+      "en": "sleeping bag",
+      "fa": "کیسه خواب"
+    },
+    {
+      "en": "warm",
+      "fa": "گرم"
+    },
+    {
+      "en": "jacket",
+      "fa": "کاپشن"
+    },
+    {
+      "en": "explore",
+      "fa": "کاوش کردن"
+    },
+    {
+      "en": "adventure",
+      "fa": "ماجراجویی"
+    },
+    {
+      "en": "clear sky",
+      "fa": "آسمان صاف"
+    },
+    {
+      "en": "horizon",
+      "fa": "افق"
+    },
+    {
+      "en": "point",
+      "fa": "اشاره کردن"
+    },
+    {
+      "en": "observe",
+      "fa": "مشاهده کردن"
+    },
+    {
+      "en": "firelight",
+      "fa": "نور آتش"
+    },
+    {
+      "en": "campground",
+      "fa": "محوطه کمپ"
+    },
+    {
+      "en": "nightfall",
+      "fa": "فرارسیدن شب"
+    },
+    {
+      "en": "set up",
+      "fa": "برپا کردن"
+    },
+    {
+      "en": "pack up",
+      "fa": "جمع کردن"
+    },
+    {
+      "en": "quietness",
+      "fa": "آرامش"
+    },
+    {
+      "en": "breathtaking",
+      "fa": "نفس‌گیر"
+    },
+    {
+      "en": "sparkle",
+      "fa": "درخشیدن"
+    },
+    {
+      "en": "universe",
+      "fa": "جهان"
+    },
+    {
+      "en": "astronomy",
+      "fa": "نجوم"
+    },
+    {
+      "en": "trail",
+      "fa": "مسیر"
+    },
+    {
+      "en": "remote",
+      "fa": "دورافتاده"
+    },
+    {
+      "en": "safety",
+      "fa": "ایمنی"
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "In the foreground, I can see a key detail that helps explain the situation.",
+      "The scene appears to take place in a real-world setting, based on visual clues.",
+      "One noticeable object suggests what the main activity might be.",
+      "The mood seems quiet, which may be influenced by lighting and body language.",
+      "Overall, the photo suggests a situation that can be explained with evidence-based language."
+    ],
+    "qa": [
+      {
+        "q": "What is the main action in the photo?",
+        "a": "I describe the main action using visible evidence and avoid guessing."
+      },
+      {
+        "q": "Where does it take place?",
+        "a": "I explain indoor/outdoor clues and describe the environment without naming a specific city."
+      },
+      {
+        "q": "What is the mood and why?",
+        "a": "I describe mood using facial expressions, posture, and lighting (if visible)."
+      }
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 30 seconds using 3 visible details.",
+      "Give a 45-second response: description + likely situation + one broader idea.",
+      "Explain the mood and support your answer with two pieces of evidence."
+    ]
+  },
+  "toefl": {
+    "reading": {
+      "passage": "Evidence-based description is a core academic skill. When describing a photo or a scene, strong speakers separate observation from interpretation. Observation focuses on what can be verified directly from the image, while interpretation uses cautious language to propose what might be happening."
+    },
+    "questions": [
+      {
+        "question": "What is the best overall description of 'Camping Under the Stars'?",
+        "choices": [
+          "A calm indoor meeting with formal presentations",
+          "People in a public setting engaged in an everyday activity",
+          "A private ceremony with an audience and a stage",
+          "A laboratory experiment with specialized equipment"
+        ],
+        "answer": 1,
+        "explanation": "The scene title and context point to a public setting and routine activity rather than a formal ceremony, lab, or meeting."
+      },
+      {
+        "question": "Which phrase is best for avoiding an unsupported guess?",
+        "choices": [
+          "It is definitely true that",
+          "It appears that",
+          "There is no doubt that",
+          "Everyone knows that"
+        ],
+        "answer": 1,
+        "explanation": "'It appears that' is a hedging phrase that keeps your description evidence-based."
+      },
+      {
+        "question": "Which connector best signals a contrast between two ideas?",
+        "choices": [
+          "For example",
+          "In contrast",
+          "As a result",
+          "In addition"
+        ],
+        "answer": 1,
+        "explanation": "'In contrast' introduces an opposing idea."
+      }
+    ],
+    "listening": {
+      "note": "Read this as a script and practice note-taking.",
+      "script": "Today we will practice describing a photo. First, list what you can see. Second, explain what it might mean. Finally, connect it to a broader idea."
+    },
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Camping Under the Stars'. What do you notice first?"
+      },
+      {
+        "prompt": "Explain how the setting in 'Camping Under the Stars' affects the mood of the people."
+      },
+      {
+        "prompt": "Predict what might happen next in 'Camping Under the Stars' and give one reason."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Camping Under the Stars'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 15,
+        "prompt": "Explain the relationship between the people and the setting in 'Camping Under the Stars'. Use at least two specific details.",
+        "sampleAnswer": "In 'Camping Under the Stars', the setting provides clear context for the people’s actions. Overall, the scene feels purposeful because the subjects seem engaged and oriented toward a shared goal. For example, their body language suggests focus, and the environment appears to support that activity. As a result, the mood is more organized than casual, which indicates that the moment is part of a routine rather than a spontaneous event."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 20,
+        "prompt": "Some people prefer busy environments, while others prefer quiet ones. Using 'Camping Under the Stars' as inspiration, state your preference and support it with reasons.",
+        "sampleAnswer": "I prefer quieter environments because they help me think clearly and work efficiently. In contrast, busy places can be distracting and make it harder to focus. For example, when I study in a calm space, I can organize my ideas and finish tasks faster. A possible explanation is that fewer interruptions reduce mental fatigue. Overall, choosing a quiet environment leads to better concentration and less stress, which improves my performance."
+      }
+    ],
+    "examTips": [
+      "Start with a one-sentence overview before details.",
+      "Use location phrases (foreground/background) to organize your description.",
+      "Avoid guessing; hedge with 'it appears' or 'it is likely'.",
+      "Include 2–3 specific details (objects, actions, setting) to support ideas.",
+      "Use linking words (overall, in contrast, as a result) for coherence.",
+      "Speak steadily and manage time: plan 5 seconds, speak 40–45 seconds."
+    ]
+  },
+  "analysis": {
+    "peopleCount": "2 people near a tent.",
+    "gender": "Mixed (appearance-based).",
+    "ages": "Likely adults.",
+    "setting": "Campsite at night under a star-filled sky.",
+    "colorsLighting": "Dark sky; warm tent light; visible Milky Way.",
+    "actions": "Sitting, pointing at the sky.",
+    "bodyLanguage": "Upward gaze suggests curiosity and awe.",
+    "moodAtmosphere": "Awe, calm, contemplative.",
+    "themes": [
+      "nature",
+      "wonder",
+      "escape from routine"
+    ],
+    "objects": [
+      "tent",
+      "stars",
+      "campfire",
+      "night sky"
+    ]
+  },
+  "descriptions": {
+    "beginner": "Two campers sit near a glowing orange tent under a starry sky; the Milky Way is… It takes place in Campsite at night under a star-filled sky.. Use simple sentences to describe people, actions, and objects.",
+    "intermediate": "Two campers sit near a glowing orange tent under a starry sky; the Milky Way is visible above. Setting: Campsite at night under a star-filled sky.. Atmosphere: Awe, calm, contemplative.. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "Two campers sit near a glowing orange tent under a starry sky; the Milky Way is visible above. The setting suggests: Campsite at night under a star-filled sky.. Overall tone: Awe, calm, contemplative.. A strong response highlights concrete visual evidence, then adds cautious inference (what is likely happening and why) without over-claiming. You will build academic vocabulary and structured answers for TOEFL-style speaking, writing tasks.",
+    "simple": "Two campers sit near a glowing orange tent under a starry sky; the Milky Way is… It takes place in Campsite at night under a star-filled sky.. Use simple sentences to describe people, actions, and objects."
+  },
+  "intermediateEnglish": {
+    "en": "The campers relax outside their tent while the sky is full of stars. The glowing tent and the dark landscape create a calm, magical feeling.",
+    "fa": "campers relax outside their tent while sky is full of stars. glowing tent and dark landscape create calm, magical feeling."
+  },
+  "collocations": [
+    {
+      "id": "L15-C1",
+      "en": "set up a tent",
+      "fa": "چادر برپا کردن"
+    },
+    {
+      "id": "L15-C2",
+      "en": "look up at the stars",
+      "fa": "به ستاره‌ها نگاه کردن"
+    },
+    {
+      "id": "L15-C3",
+      "en": "go stargazing",
+      "fa": "ستاره‌بینی رفتن"
+    },
+    {
+      "id": "L15-C4",
+      "en": "clear night sky",
+      "fa": "آسمان صاف شب"
+    },
+    {
+      "id": "L15-C5",
+      "en": "feel amazed",
+      "fa": "شگفت‌زده شدن"
+    },
+    {
+      "id": "L15-C6",
+      "en": "glowing tent",
+      "fa": "چادر درخشان"
+    },
+    {
+      "id": "L15-C7",
+      "en": "peaceful night",
+      "fa": "شب آرام"
+    },
+    {
+      "id": "L15-C8",
+      "en": "camp under the stars",
+      "fa": "زیر ستاره‌ها کمپ زدن"
+    }
+  ],
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا",
+          "task_en": "Say the Persian meaning and use “atmosphere” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «atmosphere» یک جمله ساده بساز."
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه",
+          "task_en": "Say the Persian meaning and use “background” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «background» یک جمله ساده بساز."
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست",
+          "task_en": "Say the Persian meaning and use “gesture” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «gesture» یک جمله ساده بساز."
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره",
+          "task_en": "Say the Persian meaning and use “expression” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «expression» یک جمله ساده بساز."
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل",
+          "task_en": "Say the Persian meaning and use “interaction” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «interaction» یک جمله ساده بساز."
+        },
+        {
+          "en": "routine",
+          "fa": "روال",
+          "task_en": "Say the Persian meaning and use “routine” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «routine» یک جمله ساده بساز."
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش",
+          "task_en": "Say the Persian meaning and use “challenge” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «challenge» یک جمله ساده بساز."
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد",
+          "task_en": "Say the Persian meaning and use “achievement” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «achievement» یک جمله ساده بساز."
+        },
+        {
+          "en": "crowded",
+          "fa": "شلوغ",
+          "task_en": "Say the Persian meaning and use “crowded” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «crowded» یک جمله ساده بساز."
+        },
+        {
+          "en": "calm",
+          "fa": "آرام",
+          "task_en": "Say the Persian meaning and use “calm” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «calm» یک جمله ساده بساز."
+        },
+        {
+          "en": "anxious",
+          "fa": "نگران",
+          "task_en": "Say the Persian meaning and use “anxious” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «anxious» یک جمله ساده بساز."
+        },
+        {
+          "en": "relieved",
+          "fa": "آسوده",
+          "task_en": "Say the Persian meaning and use “relieved” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «relieved» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "set up a tent",
+          "fa": "چادر برپا کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are setting up a tent.",
+              "fa": "آن‌ها در حال چادر برپا کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They set up a tent yesterday.",
+              "fa": "آن‌ها دیروز چادر برپا کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will set up a tent.",
+              "fa": "آن‌ها فردا چادر برپا خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "look up at the stars",
+          "fa": "به ستاره‌ها نگاه کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are looking up at the stars.",
+              "fa": "آن‌ها در حال به ستاره‌ها نگاه کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They looked up at the stars yesterday.",
+              "fa": "آن‌ها دیروز به ستاره‌ها نگاه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will look up at the stars.",
+              "fa": "آن‌ها فردا به ستاره‌ها نگاه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "go stargazing",
+          "fa": "ستاره‌بینی رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are going stargazing.",
+              "fa": "آن‌ها در حال ستاره‌بینی رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They went stargazing yesterday.",
+              "fa": "آن‌ها دیروز ستاره‌بینی رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will go stargazing.",
+              "fa": "آن‌ها فردا ستاره‌بینی خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "clear night sky",
+          "fa": "آسمان صاف شب",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are clearing night sky.",
+              "fa": "آن‌ها در حال آسمان صاف شب هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They cleared night sky yesterday.",
+              "fa": "آن‌ها دیروز آسمان صاف شب کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will clear night sky.",
+              "fa": "آن‌ها فردا آسمان صاف شب خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel amazed",
+          "fa": "شگفت‌زده شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling amazed.",
+              "fa": "آن‌ها در حال شگفت‌زده شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt amazed yesterday.",
+              "fa": "آن‌ها دیروز شگفت‌زده شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel amazed.",
+              "fa": "آن‌ها فردا شگفت‌زده خواهند شد."
+            }
+          ]
+        },
+        {
+          "en": "glowing tent",
+          "fa": "چادر درخشان",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are glowinging tent.",
+              "fa": "آن‌ها در حال چادر درخشان هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They glowinged tent yesterday.",
+              "fa": "آن‌ها دیروز چادر درخشان کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will glowing tent.",
+              "fa": "آن‌ها فردا چادر درخشان خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "peaceful night",
+          "fa": "شب آرام",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are peacefulling night.",
+              "fa": "آن‌ها در حال شب آرام هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They peacefulled night yesterday.",
+              "fa": "آن‌ها دیروز شب آرام کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will peaceful night.",
+              "fa": "آن‌ها فردا شب آرام خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "camp under the stars",
+          "fa": "زیر ستاره‌ها کمپ زدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are camping under the stars.",
+              "fa": "آن‌ها در حال زیر ستاره‌ها کمپ زدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They camped under the stars yesterday.",
+              "fa": "آن‌ها دیروز زیر ستاره‌ها کمپ زدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will camp under the stars.",
+              "fa": "آن‌ها فردا زیر ستاره‌ها کمپ زدن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Two people sit near a glowing tent and a small campfire under a sky full of stars. One of them points upward toward the Milky Way, and faint city lights appear on the horizon. The contrast between warm firelight and cool starlight creates a magical, quiet mood.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe the photo in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Speak with structure: overview → details → inference → wrap-up.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo and adding one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows night sky camping: pointing at the milky way with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا"
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه"
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست"
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره"
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل"
+        },
+        {
+          "en": "routine",
+          "fa": "روال"
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش"
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Describe the photo, infer a challenge, and propose one solution or next step.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Write 150–180 words: describe the scene and argue why this activity is beneficial (or risky).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "set up a tent",
+          "fa": "چادر برپا کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are setting up a tent.",
+              "fa": "آن‌ها در حال چادر برپا کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They set up a tent yesterday.",
+              "fa": "آن‌ها دیروز چادر برپا کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will set up a tent.",
+              "fa": "آن‌ها فردا چادر برپا خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "look up at the stars",
+          "fa": "به ستاره‌ها نگاه کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are looking up at the stars.",
+              "fa": "آن‌ها در حال به ستاره‌ها نگاه کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They looked up at the stars yesterday.",
+              "fa": "آن‌ها دیروز به ستاره‌ها نگاه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will look up at the stars.",
+              "fa": "آن‌ها فردا به ستاره‌ها نگاه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "go stargazing",
+          "fa": "ستاره‌بینی رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are going stargazing.",
+              "fa": "آن‌ها در حال ستاره‌بینی رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They went stargazing yesterday.",
+              "fa": "آن‌ها دیروز ستاره‌بینی رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will go stargazing.",
+              "fa": "آن‌ها فردا ستاره‌بینی خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "clear night sky",
+          "fa": "آسمان صاف شب",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are clearing night sky.",
+              "fa": "آن‌ها در حال آسمان صاف شب هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They cleared night sky yesterday.",
+              "fa": "آن‌ها دیروز آسمان صاف شب کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will clear night sky.",
+              "fa": "آن‌ها فردا آسمان صاف شب خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel amazed",
+          "fa": "شگفت‌زده شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling amazed.",
+              "fa": "آن‌ها در حال شگفت‌زده شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt amazed yesterday.",
+              "fa": "آن‌ها دیروز شگفت‌زده شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel amazed.",
+              "fa": "آن‌ها فردا شگفت‌زده خواهند شد."
+            }
+          ]
+        },
+        {
+          "en": "glowing tent",
+          "fa": "چادر درخشان",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are glowinging tent.",
+              "fa": "آن‌ها در حال چادر درخشان هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They glowinged tent yesterday.",
+              "fa": "آن‌ها دیروز چادر درخشان کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will glowing tent.",
+              "fa": "آن‌ها فردا چادر درخشان خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "peaceful night",
+          "fa": "شب آرام",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are peacefulling night.",
+              "fa": "آن‌ها در حال شب آرام هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They peacefulled night yesterday.",
+              "fa": "آن‌ها دیروز شب آرام کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will peaceful night.",
+              "fa": "آن‌ها فردا شب آرام خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "camp under the stars",
+          "fa": "زیر ستاره‌ها کمپ زدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are camping under the stars.",
+              "fa": "آن‌ها در حال زیر ستاره‌ها کمپ زدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They camped under the stars yesterday.",
+              "fa": "آن‌ها دیروز زیر ستاره‌ها کمپ زدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will camp under the stars.",
+              "fa": "آن‌ها فردا زیر ستاره‌ها کمپ زدن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in past continuous: 'They take in the view.'",
+          "answer_en": "They were taking in the view.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «They take in the view.»",
+          "answer_fa": "They were taking in the view."
+        },
+        {
+          "task_en": "Add a modal: 'They reach a viewpoint.'",
+          "answer_en": "They might reach a viewpoint soon.",
+          "task_fa": "یک modal اضافه کن: «They reach a viewpoint.»",
+          "answer_fa": "They might reach a viewpoint soon."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous (حال استمراری)",
+      "rule": "برای توصیف کاری که **همین الان** در تصویر اتفاق می‌افتد از **am/is/are + V‑ing** استفاده کن.",
+      "examples": [
+        {
+          "en": "Two people are looking in night campsite.",
+          "fa": "آن‌ها در این صحنه در حال انجام کار هستند."
+        },
+        {
+          "en": "Two people are carrying tent (orange).",
+          "fa": "آن‌ها وسایل لازم را همراه دارند."
+        }
+      ]
+    },
+    {
+      "title": "Conditionals (جملات شرطی)",
+      "rule": "برای پیش‌بینی از **If + present, will** و برای حالت فرضی از **If + past, would** استفاده کن.",
+      "examples": [
+        {
+          "en": "If the weather stays calm, they will continue hiking.",
+          "fa": "شرطی نوع 1: If + present, will + V"
+        },
+        {
+          "en": "If they had more time, they would explore further.",
+          "fa": "شرطی نوع 2: If + past, would + V"
+        }
+      ]
+    },
+    {
+      "title": "Prepositions of Place (حروف اضافه مکان)",
+      "rule": "برای گفتن موقعیت چیزها از **in / on / at / next to / behind / in front of** استفاده کن.",
+      "examples": [
+        {
+          "en": "Tent (orange) is next to campfire glow.",
+          "fa": "برای گفتن موقعیت اشیا از «کنارِ، پشتِ، جلویِ، رویِ، داخلِ» استفاده می‌کنیم."
+        },
+        {
+          "en": "Two people are in night campsite.",
+          "fa": "آن‌ها در یک مکان مشخص قرار دارند."
+        }
+      ]
+    }
+  ],
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "In this photo, two people sit near a glowing tent and a small campfire under a sky full of stars. One of them points upward toward the Milky Way, and faint city lights appear on the horizon Overall, the mood feels mood and realistic."
+    },
+    {
+      "label": "Academic Description",
+      "text": "The image portrays two campers near a glowing tent and a small fire at night; one points at the Milky Way. Visual elements such as lighting, posture, and setting provide contextual cues that support an interpretation of mood and purpose. The composition balances foreground action with background environment to communicate a clear everyday scenario."
+    },
+    {
+      "label": "Narrative Style",
+      "text": "The moment feels frozen in time: Two people sit near a glowing tent and a small campfire under a sky full of stars. Small details—light, movement, and expressions—turn an ordinary scene into a memorable snapshot."
+    }
+  ],
+  "sceneDescription": "Two people sit near a glowing tent and a small campfire under a sky full of stars. One of them points upward toward the Milky Way, and faint city lights appear on the horizon. The contrast between warm firelight and cool starlight creates a magical, quiet mood.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": {
+      "goals": [
+        "Speak for 45–60 seconds with clear structure (foreground → background → overall).",
+        "Use both Daily English and TOEFL-style academic connectors.",
+        "Add 1 inference and 1 prediction to sound more advanced."
+      ],
+      "what_to_notice": [
+        "People: number, relationships, emotions",
+        "Place: setting and atmosphere",
+        "Action: what is happening right now",
+        "Details: objects, weather/light, colors"
+      ],
+      "speaking_plan": [
+        "1) One-sentence summary of the scene.",
+        "2) Two details about people + action (present continuous).",
+        "3) One detail about background/setting.",
+        "4) One inference (seems/probably) + one prediction (will/going to).",
+        "5) Overall feeling/opinion."
+      ]
+    },
+    "fa": {
+      "goals": [
+        "۴۵ تا ۶۰ ثانیه با ساختار واضح صحبت کنید (پیش‌زمینه → پس‌زمینه → جمع‌بندی).",
+        "هم زبان روزمره و هم اتصال‌دهنده‌های آکادمیک TOEFL را به کار ببرید.",
+        "۱ نتیجه‌گیری و ۱ پیش‌بینی اضافه کنید تا سطح بالاتر به نظر برسد."
+      ],
+      "what_to_notice": [
+        "افراد: تعداد، رابطه‌ها، احساسات",
+        "مکان: فضا و حال‌وهوا",
+        "عمل: الان چه کاری در حال انجام است",
+        "جزئیات: اشیا، آب‌وهوا/نور، رنگ‌ها"
+      ],
+      "speaking_plan": [
+        "۱) یک جمله خلاصه از صحنه.",
+        "۲) دو جزئیات درباره افراد و عمل (حال استمراری).",
+        "۳) یک جزئیات درباره پس‌زمینه/مکان.",
+        "۴) یک نتیجه‌گیری (seems/probably) + یک پیش‌بینی (will/going to).",
+        "۵) جمع‌بندی حس/نظر کلی."
+      ]
+    }
+  },
+  "updatedAt": "2026-02-02T17:38:23Z",
+  "scenario": {
+    "en": "2 people (young adults); genders not fully clear in silhouette are at Night campsite, right in the middle of a real-life moment. They are sitting and looking at the stars; pointing toward the sky. Two campers sit by a lit tent and small fire, admiring a star-filled sky. There are Tent (orange), Campfire glow, Starry sky / Milky Way around them, and the setting feels amazed, peaceful, curious. Their clothing, like Warm jackets, Outdoor pants, matches the situation and the environment.",
+    "fa": "2 people (young adults); genders not fully clear in silhouette در Night campsite وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Sitting and looking at the stars و Pointing toward the sky هستند. Two campers sit by a lit tent and small fire, admiring a star-filled sky. اطرافشان Tent (orange)، Campfire glow و Starry sky / Milky Way دیده می‌شود و فضا Amazed، Peaceful و Curious است. لباس‌ها، مثل Warm jackets و Outdoor pants هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "2 people (young adults); genders not fully clear in silhouette are at Night campsite, right in the middle of a real-life moment. They are sitting and looking at the stars; pointing toward the sky. Two campers sit by a lit tent and small fire, admiring a star-filled sky. There are Tent (orange), Campfire glow, Starry sky / Milky Way around them, and the setting feels amazed, peaceful, curious. Their clothing, like Warm jackets, Outdoor pants, matches the situation and the environment.",
+      "fa": "2 people (young adults); genders not fully clear in silhouette در Night campsite وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Sitting and looking at the stars و Pointing toward the sky هستند. Two campers sit by a lit tent and small fire, admiring a star-filled sky. اطرافشان Tent (orange)، Campfire glow و Starry sky / Milky Way دیده می‌شود و فضا Amazed، Peaceful و Curious است. لباس‌ها، مثل Warm jackets و Outdoor pants هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are Sitting and looking at the stars.",
+            "There are Tent (orange) and Campfire glow in Night campsite.",
+            "The atmosphere feels Amazed."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال Sitting and looking at the stars هستند.",
+            "در Night campsite Tent (orange) و Campfire glow دیده می‌شود.",
+            "فضا Amazed به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at Night campsite. Two campers sit by a lit tent and small fire, admiring a star-filled sky. At first, I noticed Tent (orange), Campfire glow, Starry sky / Milky Way and the way people were sitting and looking at the stars. Then I looked closer: their clothing (Warm jackets, Outdoor pants) and their expressions made the scene feel amazed, peaceful, curious. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل Night campsite بودم. Two campers sit by a lit tent and small fire, admiring a star-filled sky. اول Tent (orange)، Campfire glow و Starry sky / Milky Way را دیدم و اینکه آدم‌ها چطور Sitting and looking at the stars. بعد دقیق‌تر نگاه کردم: لباس‌ها (Warm jackets و Outdoor pants) و حالت چهره‌ها باعث شد فضا Amazed، Peaceful و Curious به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they sat and looking at the stars.",
+            "Then, they checked Tent (orange) and continued.",
+            "Finally, they felt Amazed about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They sat and looking at the stars.",
+            "بعد، They Tent (orange) را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه Amazed بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as Tent (orange), Campfire glow, Starry sky / Milky Way are not background; they guide the story. I have also learned how actions like pointing toward the sky can signal feelings such as amazed, peaceful, curious. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل Tent (orange)، Campfire glow و Starry sky / Milky Way فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل Pointing toward the sky چطور می‌تواند احساساتی مثل Amazed، Peaceful و Curious را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay Amazed in Night campsite.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در Night campsite Amazed بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at Night campsite, one small change could create a big problem. If Tent (orange), Campfire glow had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در Night campsite دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر Tent (orange) و Campfire glow نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked Tent (orange) earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay Amazed.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر Tent (orange) را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید Amazed بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

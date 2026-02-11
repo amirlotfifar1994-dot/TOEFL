@@ -1,0 +1,18 @@
+name: Quality Checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lesson-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run lesson quality checker (strict)
+        working-directory: new_pwa_compressed
+        run: |
+          python3 scripts/lesson-quality-check.py --strict

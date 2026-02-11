@@ -1,0 +1,374 @@
+/* Project-specific styles (kept small; shared components live in css/components.css) */
+
+/* Header accents */
+header.appHeader{
+  background: var(--panel);
+  border-bottom: 1px solid var(--border);
+}
+header.appHeader nav a{
+  color: var(--text);
+  text-decoration: none;
+  padding: .45rem .6rem;
+  border-radius: 10px;
+}
+header.appHeader nav a:hover{
+  background: color-mix(in srgb, var(--card) 85%, transparent);
+}
+
+/* Page spacing */
+main{padding: 1rem}
+
+/* Lesson list grid */
+.lesson-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+@media (max-width: 420px){
+  .lesson-grid{grid-template-columns: 1fr}
+}
+
+/* Card for each lesson */
+.lesson-card{
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  transition: transform .12s ease;
+}
+.lesson-card:hover{transform: translateY(-2px)}
+.lesson-card img{
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+.lesson-card h2{
+  font-size: 1.05rem;
+  margin: .75rem .75rem .25rem;
+}
+.lesson-card p{
+  margin: 0 .75rem .9rem;
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+/* Lesson details page */
+.lesson-details{
+  max-width: 900px;
+  margin: 0 auto;
+}
+.lesson-details img.lesson-image{
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: .5rem 0 1rem;
+  border: 1px solid var(--border);
+}
+.section{margin-bottom: 2rem}
+.section h3{
+  margin-bottom: .5rem;
+  font-size: 1.15rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: .25rem;
+}
+
+/* Vocabulary table */
+table.vocab-table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: .5rem;
+  font-size: .95rem;
+}
+table.vocab-table th,
+table.vocab-table td{
+  border: 1px solid var(--border);
+  padding: .55rem;
+  text-align: left;
+  vertical-align: top;
+}
+table.vocab-table th{
+  background: var(--panel);
+  font-weight: 700;
+}
+
+.back-link{
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.back-link:hover{text-decoration: underline}
+
+
+/* --- UX additions (6.2.0) --- */
+.sr-only{
+  position:absolute;
+  width:1px; height:1px;
+  padding:0; margin:-1px;
+  overflow:hidden; clip:rect(0,0,0,0);
+  white-space:nowrap; border:0;
+}
+
+.skip-link{
+  position:absolute;
+  top:10px; right:10px;
+  background:var(--panel);
+  border:1px solid var(--border);
+  color:var(--text);
+  padding:.5rem .75rem;
+  border-radius:12px;
+  text-decoration:none;
+  transform:translateY(-150%);
+  transition:transform .15s ease;
+  z-index:999;
+}
+.skip-link:focus{transform:translateY(0)}
+
+.icon-button{
+  border:1px solid var(--border);
+  background:var(--panel);
+  color:var(--text);
+  border-radius:12px;
+  padding:.45rem .6rem;
+  cursor:pointer;
+  line-height:1;
+  min-width:44px; min-height:44px;
+}
+.icon-button:hover{background: color-mix(in srgb, var(--card) 85%, transparent)}
+.icon-button:active{transform:translateY(1px)}
+
+.toolbar{
+  display:flex;
+  gap:.75rem;
+  align-items:center;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  margin-top:1rem;
+}
+.searchField{flex:1; min-width:220px}
+.searchField input{
+  width:100%;
+  padding:.7rem .9rem;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background:var(--panel);
+  color:var(--text);
+}
+.searchField input::placeholder{color:color-mix(in srgb, var(--muted) 75%, transparent)}
+.resultMeta{min-width:140px; text-align:left}
+
+/* Lesson page: two-column layout with sticky TOC */
+.lesson-layout{
+  display:grid;
+  grid-template-columns: 1fr;
+  gap:1rem;
+  align-items:start;
+}
+@media (min-width: 980px){
+  .lesson-layout{
+    grid-template-columns: 280px 1fr;
+  }
+}
+
+.lesson-toc{
+  border:1px solid var(--border);
+  background:var(--panel);
+  border-radius:12px;
+  padding:.75rem;
+}
+@media (min-width: 980px){
+  .lesson-toc{
+    position:sticky;
+    top:12px;
+    max-height:calc(100vh - 24px);
+    overflow:auto;
+  }
+}
+.lesson-toc details > summary{
+  cursor:pointer;
+  list-style:none;
+  font-weight:700;
+}
+.lesson-toc details > summary::-webkit-details-marker{display:none}
+.lesson-toc nav{display:flex; flex-direction:column; gap:.35rem; margin-top:.6rem}
+.lesson-toc a{
+  text-decoration:none;
+  color:var(--text);
+  padding:.45rem .55rem;
+  border-radius:10px;
+  border:1px solid transparent;
+}
+.lesson-toc a:hover{background: color-mix(in srgb, var(--card) 85%, transparent)}
+.lesson-toc a.isActive{
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+}
+
+.lesson-nav{
+  display:flex;
+  justify-content:space-between;
+  gap:.75rem;
+  margin: .75rem 0 1rem;
+  flex-wrap:wrap;
+}
+.lesson-nav a{
+  flex:1;
+  min-width:220px;
+  text-decoration:none;
+  color:var(--text);
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:12px;
+  padding:.6rem .75rem;
+}
+.lesson-nav a:hover{background: color-mix(in srgb, var(--card) 85%, transparent)}
+.lesson-nav .hint{display:block; color:var(--muted); font-size:.85rem}
+
+
+/* Image description paragraph */
+.image-desc{
+  line-height: 1.9;
+  font-size: 1rem;
+}
+
+
+/* Lesson: checklist + answer reveal */
+.checklist{padding-left: 1.1rem;}
+.checklist li{margin:.3rem 0; color: var(--muted);}
+.checklist strong{color: var(--text);}
+details.answer{margin-top:.5rem; border:1px solid var(--border); border-radius:12px; padding:.45rem .7rem; background: color-mix(in srgb, var(--card) 88%, transparent);}
+details.answer summary{cursor:pointer; color: var(--accent); font-weight:600;}
+details.answer p{margin:.55rem 0 0; color: var(--text);}
+
+/* Level toggle */
+.level-toggle { margin-bottom: 1rem; }
+.level-buttons { display: flex; gap: .5rem; }
+.level-btn {
+  padding: .4rem .8rem;
+  border-radius: .5rem;
+  border: 1px solid var(--border-color, #ccc);
+  background: transparent;
+  cursor: pointer;
+}
+.level-btn.active {
+  background: #0f172a;
+  color: #fff;
+}
+
+
+/* Exercise page */
+.exerciseGrid{display:grid;grid-template-columns:1.6fr 1fr;gap:16px}
+@media (max-width: 900px){.exerciseGrid{grid-template-columns:1fr}}
+.exerciseCard{background:var(--bg-card);border:1px solid var(--border);border-radius:16px;padding:16px;box-shadow:var(--shadow)}
+.phaseList{display:grid;gap:8px;margin:12px 0}
+.phaseRow{display:flex;justify-content:space-between;align-items:center;padding:8px 10px;border:1px solid var(--border);border-radius:12px;background:rgba(255,255,255,0.03)}
+.timerBox{margin-top:12px;padding:14px;border-radius:16px;border:1px solid var(--border);background:rgba(255,255,255,0.03);text-align:center}
+.timerReadout{font-size:42px;letter-spacing:1px;font-weight:800}
+.timerPhase{margin-top:6px;color:var(--muted)}
+.timerControls{display:flex;gap:10px;justify-content:center;margin-top:12px;flex-wrap:wrap}
+.kvList{list-style:none;padding:0;margin:10px 0;display:grid;gap:8px}
+.kvList li{display:flex;justify-content:space-between;gap:10px;padding:8px 10px;border:1px solid var(--border);border-radius:12px;background:rgba(255,255,255,0.02)}
+.kvEn{font-weight:700}
+.kvFa{color:var(--muted)}
+.miniSection{margin-top:12px}
+.backLink{display:inline-block;margin-bottom:8px}
+
+
+/* Lesson exercise list */
+.exercise-level{border:1px solid var(--border);border-radius:16px;padding:12px;margin:12px 0;background:rgba(255,255,255,0.02)}
+.exercise-level-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.exercise-list{list-style:none;padding:0;margin:10px 0 0;display:grid;gap:10px}
+.exercise-link{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:10px 12px;border:1px solid var(--border);border-radius:14px;background:var(--bg-card);text-decoration:none;color:inherit}
+.exercise-link:hover{transform:translateY(-1px)}
+.ex-name{font-weight:600}
+.ex-meta{opacity:.8;font-size:.9em}
+
+/* Word links inside lessons (clickable vocab/collocations) */
+.word-link{
+  color: var(--accent, #d6b15d);
+  text-decoration: none;
+  border-bottom: 1px dashed color-mix(in oklab, var(--accent, #d6b15d) 55%, transparent);
+  padding-bottom: 1px;
+}
+.word-link:hover{
+  text-decoration: none;
+  border-bottom-style: solid;
+}
+
+/* Fuzzy suggestions list (dictionary) */
+.matchList{
+  list-style:none;
+  padding:0;
+  margin:6px 0 0;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+.matchList a{
+  display:inline-flex;
+  align-items:center;
+  padding:6px 10px;
+  border:1px solid var(--border);
+  border-radius:999px;
+  background:var(--bg-card);
+  text-decoration:none;
+  color:inherit;
+}
+.matchList a:hover{
+  transform: translateY(-1px);
+}
+
+
+/* --- TTS controls (Web Speech API) --- */
+.ttsBar{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin:10px 0 6px;
+  flex-wrap:wrap;
+}
+.ttsBar .ttsBtn{
+  padding:6px 10px;
+  font-size:14px;
+  line-height:1.1;
+  border-radius:10px;
+}
+.ttsBar .ttsNote{
+  font-size:12px;
+  opacity:.75;
+  margin-left:4px;
+}
+.ttsBar.isSpeaking .ttsNote{ opacity:1; }
+.ttsBar.isPaused .ttsNote{ opacity:.9; }
+/* --- end TTS controls --- */
+
+/* --- Scenario cards (multi-level) --- */
+.scenarioWrap{ display:flex; flex-direction:column; gap:14px; }
+.scenarioCard{
+  padding:14px;
+  border:1px solid var(--border);
+  background:var(--bg-card);
+  border-radius:16px;
+}
+.scenarioCard h4{ margin:0 0 8px; font-size:1.05rem; }
+.scenarioCard .chipRow{ margin:6px 0 10px; }
+.scenarioCard p{ margin:0 0 10px; }
+/* --- end Scenario cards --- */
+
+
+/* Brand link */
+.brandLink{ text-decoration:none; color:inherit; }
+.brandLink:focus{ outline:2px solid color-mix(in srgb, var(--accent,#5aa9ff) 70%, transparent); outline-offset:4px; border-radius:14px; }
+
+
+/* TTS word highlight */
+.ttsWord{ padding:0 1px; border-radius:4px; }
+.ttsWord.ttsCurrent{ background: color-mix(in srgb, var(--accent,#5aa9ff) 35%, transparent); box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent,#5aa9ff) 25%, transparent) inset; }

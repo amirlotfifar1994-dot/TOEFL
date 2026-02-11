@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#0f172a" name="theme-color"/>
+<title>About • TOEFL Academic</title>
+<link href="manifest.json" rel="manifest"/>
+<link href="assets/icons/icon-192.png" rel="icon" sizes="192x192"/>
+<link href="assets/icons/icon-192.png" rel="apple-touch-icon"/>
+<link href="css/base.css" rel="stylesheet"/><link href="css/components.css" rel="stylesheet"/>
+<link href="css/custom.css" rel="stylesheet"/>
+<link href="css/theme-pro.css" rel="stylesheet"/>
+<link href="css/luxe.css" rel="stylesheet"/>
+<link href="css/theme-nebula.css" rel="stylesheet"/>
+<link href="css/slider-pro.css" rel="stylesheet"/>
+<link href="css/patch-v19.css" rel="stylesheet"/>
+<link href="css/patch-v21.css" rel="stylesheet"/>
+<link href="css/patch-v23.css" rel="stylesheet"/>
+<link href="css/patch-v28.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/patch-v29.css">
+  <link rel="stylesheet" href="css/patch-v30.css">
+  <link rel="stylesheet" href="css/patch-v31.css">
+  <link rel="stylesheet" href="css/patch-v32.css">
+<link rel="stylesheet" href="css/patch-v33.css">
+<link rel="stylesheet" href="css/patch-v35.css">
+  <link rel="stylesheet" href="css/patch-v34.css">
+</head>
+<body>
+<div aria-hidden="true" class="bg-animated"></div>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="appHeader">
+<a class="brand brandLink" href="index.html" aria-label="Home">
+<span aria-hidden="true" class="brandLogo">EN</span>
+<div class="brandText">
+<span>TOEFL Academic</span>
+<span class="muted small">Lessons • Offline-ready</span>
+</div>
+</a>
+<div class="headerActions">
+<div class="headerButtons">
+<button aria-expanded="false" aria-label="Open menu" class="icon-button menu-toggle" id="menuToggle" type="button">☰</button>
+<button aria-label="Toggle theme" aria-pressed="false" class="icon-button" id="themeToggle" type="button">☀️</button>
+</div>
+<nav aria-label="Main navigation">
+        <a class="nav-link" href="index.html#lessonsContainer">Lessons</a>
+\1
+      <a class="nav-link" href="dictionary.html">Dictionary</a>
+<a class="nav-link" href="offline.html">Offline</a>
+<a class="nav-link active" href="about.html">About</a>
+<a class="nav-link" href="settings.html">Settings</a>
+</nav>
+</div>
+</header>
+<main class="page" id="main">
+<section class="panel">
+<h1 class="h1">About this app</h1>
+<p class="muted">
+        TOEFL Academic is a photo-based English learning app. Each lesson includes three levels (Beginner/Intermediate/Advanced),
+        vocabulary with Persian translation, and TOEFL-style practice.
+      </p>
+<h2 class="h2">How to use</h2>
+<ul class="list">
+<li>Open a lesson from <strong>Lessons</strong>.</li>
+<li>Pick a <strong>Practice level</strong> and follow the tasks.</li>
+<li>Use the bilingual vocabulary (EN/FA) to study and review.</li>
+<li>Install as a PWA for faster access and offline usage.</li>
+</ul>
+<h2 class="h2">Offline</h2>
+<p class="muted">
+        After you open lessons once, the app caches files for offline use. If you update the app and things look old, use
+        <strong>Settings → Clear cache</strong>.
+      </p>
+</section>
+</main>
+<script src="js/theme.js"></script>
+<script src="js/utils.js"></script>
+<script>
+  // Register service worker for offline support
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js', { scope: './' });
+    });
+  }
+</script></body>
+</html>

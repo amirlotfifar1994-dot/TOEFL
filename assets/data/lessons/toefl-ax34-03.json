@@ -1,0 +1,1666 @@
+{
+  "id": "toefl-ax34-03",
+  "title": "Campfire Music Session: Warmth and Social Bonding",
+  "caption": "Friends relax by a campfire as one plays guitar and others sip warm drinks.",
+  "image": {
+    "src800": "assets/images/toefl-photo-ax34-03-800.webp",
+    "src1600": "assets/images/toefl-photo-ax34-03-1600.webp",
+    "alt": "Practice photo 03 for TOEFL-style description"
+  },
+  "fullDescription": {
+    "en": "Three friends sit around a campfire at night; one person plays a guitar while others listen with warm drinks.",
+    "fa": "Three friends sit around campfire at night; one person plays guitar while others listen with warm drinks."
+  },
+  "simpleEnglish": {
+    "en": "Three friends are sitting by a campfire. One man is playing a guitar. They are smiling and relaxing.",
+    "fa": "Three friends نشسته‌اند by campfire. One man بازی می‌کنند guitar. آن‌ها لبخند می‌زنند and relaxing."
+  },
+  "advancedEnglish": {
+    "en": "In a cozy campsite setting, three friends gather around a glowing fire as one of them strums an acoustic guitar. Warm light from the flames and nearby string lights softens the scene, and their relaxed posture suggests a peaceful evening of music, conversation, and shared memories.",
+    "fa": "In cozy campsite setting, three friends gather around glowing fire as one of them strums acoustic guitar. Warm light from flames and nearby string lights softens scene, and their relaxed posture suggests peaceful evening of music, conversation, and shared memories."
+  },
+  "people": [
+    "3 people: 2 women, 1 man (young adults)"
+  ],
+  "ages": [
+    "Young adults (approx. 20s–30s)"
+  ],
+  "place": [
+    "Campsite at dusk/night",
+    "Outdoor gathering near a fire"
+  ],
+  "clothing": [
+    "Casual jackets/sweaters",
+    "Jeans",
+    "Warm layers for evening"
+  ],
+  "appearance": [
+    "Hair: one woman blonde/red-tinted; one woman dark/curly; man dark hair and beard",
+    "Skin tones appear light-to-medium (not certain)",
+    "Build: average",
+    "Approx. height: average; approx. weight/build: average (not measurable precisely from an image)."
+  ],
+  "actions": [
+    "Sitting around a campfire",
+    "Playing acoustic guitar",
+    "Drinking from mugs and chatting"
+  ],
+  "objects": [
+    "Campfire",
+    "Acoustic guitar",
+    "Mugs/cups",
+    "String lights (background)"
+  ],
+  "feelings": [
+    "Cozy",
+    "Happy",
+    "Social"
+  ],
+  "environmentType": [
+    "Outdoor / camping"
+  ],
+  "weatherLighting": [
+    "Night lighting from fire and warm bulbs",
+    "Cool evening"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "Playing an acoustic guitar",
+      "smiling",
+      "holding warm drinks",
+      "listening",
+      "and chatting",
+      "observe",
+      "interpret",
+      "describe"
+    ],
+    "feelings": [
+      "Cozy",
+      "cheerful",
+      "intimate",
+      "nostalgic",
+      "a sense of belonging",
+      "curious",
+      "confident",
+      "nervous"
+    ],
+    "places": [
+      "outdoors",
+      "natural setting",
+      "open landscape",
+      "forest",
+      "mountain area",
+      "river"
+    ],
+    "academicPhrases": [
+      "it appears that",
+      "this suggests that",
+      "from my perspective",
+      "it is likely that",
+      "in contrast",
+      "as a result",
+      "for example",
+      "overall",
+      "in addition",
+      "the main focus is",
+      "a possible explanation is",
+      "this could indicate",
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "campfire",
+      "fa": "آتش کمپ"
+    },
+    {
+      "en": "campsite",
+      "fa": "محل کمپ"
+    },
+    {
+      "en": "guitar",
+      "fa": "گیتار"
+    },
+    {
+      "en": "acoustic",
+      "fa": "آکوستیک"
+    },
+    {
+      "en": "strum",
+      "fa": "ضربه زدن/نواختن"
+    },
+    {
+      "en": "melody",
+      "fa": "ملودی"
+    },
+    {
+      "en": "song",
+      "fa": "آهنگ"
+    },
+    {
+      "en": "mug",
+      "fa": "ماگ/لیوان"
+    },
+    {
+      "en": "hot drink",
+      "fa": "نوشیدنی گرم"
+    },
+    {
+      "en": "warmth",
+      "fa": "گرما"
+    },
+    {
+      "en": "friends",
+      "fa": "دوستان"
+    },
+    {
+      "en": "gather",
+      "fa": "جمع شدن"
+    },
+    {
+      "en": "relax",
+      "fa": "ریلکس کردن"
+    },
+    {
+      "en": "cozy",
+      "fa": "دنج"
+    },
+    {
+      "en": "flames",
+      "fa": "شعله‌ها"
+    },
+    {
+      "en": "spark",
+      "fa": "جرقه"
+    },
+    {
+      "en": "smoke",
+      "fa": "دود"
+    },
+    {
+      "en": "nighttime",
+      "fa": "شب"
+    },
+    {
+      "en": "string lights",
+      "fa": "چراغ‌های ریسه‌ای"
+    },
+    {
+      "en": "laughter",
+      "fa": "خنده"
+    },
+    {
+      "en": "conversation",
+      "fa": "گفت‌وگو"
+    },
+    {
+      "en": "story",
+      "fa": "داستان"
+    },
+    {
+      "en": "memory",
+      "fa": "خاطره"
+    },
+    {
+      "en": "blanket",
+      "fa": "پتو"
+    },
+    {
+      "en": "jacket",
+      "fa": "کاپشن"
+    },
+    {
+      "en": "sit around",
+      "fa": "دور هم نشستن"
+    },
+    {
+      "en": "outdoors",
+      "fa": "فضای باز"
+    },
+    {
+      "en": "camping",
+      "fa": "کمپینگ"
+    },
+    {
+      "en": "peaceful",
+      "fa": "آرام"
+    },
+    {
+      "en": "rhythm",
+      "fa": "ریتم"
+    },
+    {
+      "en": "tune",
+      "fa": "آهنگ/کوک"
+    },
+    {
+      "en": "comfortable",
+      "fa": "راحت"
+    },
+    {
+      "en": "glow",
+      "fa": "درخشش"
+    },
+    {
+      "en": "gathering",
+      "fa": "دورهمی"
+    },
+    {
+      "en": "evening",
+      "fa": "غروب/عصر"
+    },
+    {
+      "en": "roast",
+      "fa": "کباب کردن"
+    },
+    {
+      "en": "marshmallow",
+      "fa": "مارشمالو"
+    },
+    {
+      "en": "bond",
+      "fa": "پیوند"
+    },
+    {
+      "en": "sharing",
+      "fa": "به‌اشتراک‌گذاری"
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence about the setting and the main action.",
+      "Mention two foreground details and one background detail as evidence.",
+      "Explain the mood using facial expressions, posture, and lighting.",
+      "Use cautious language (appears to, seems to, is likely to) to avoid overclaiming.",
+      "End by connecting the scene to a broader theme."
+    ],
+    "qa": [
+      {
+        "q": "What is happening in the photo?",
+        "a": "I describe the visible action and avoid guessing hidden details."
+      },
+      {
+        "q": "Which details support your interpretation?",
+        "a": "I point to concrete cues such as objects, lighting, and posture."
+      },
+      {
+        "q": "What is the mood and why?",
+        "a": "I connect the mood to evidence from body language and the environment."
+      }
+    ],
+    "speakingPrompts": [
+      "30 seconds: overview + 3 concrete details.",
+      "45 seconds: overview → details → mood → theme.",
+      "60 seconds: add a comparison or personal connection."
+    ]
+  },
+  "toefl": {
+    "reading": {
+      "passage": "Strong photo descriptions separate observation from interpretation and support claims with visible evidence."
+    },
+    "questions": [
+      {
+        "question": "What is the best overall description of 'Campfire Music Session'?",
+        "choices": [
+          "A calm indoor meeting with formal presentations",
+          "People in a public setting engaged in an everyday activity",
+          "A private ceremony with an audience and a stage",
+          "A laboratory experiment with specialized equipment"
+        ],
+        "answer": 1,
+        "explanation": "The scene title and context point to a public setting and routine activity rather than a formal ceremony, lab, or meeting."
+      },
+      {
+        "question": "Which phrase is best for avoiding an unsupported guess?",
+        "choices": [
+          "It is definitely true that",
+          "It appears that",
+          "There is no doubt that",
+          "Everyone knows that"
+        ],
+        "answer": 1,
+        "explanation": "'It appears that' is a hedging phrase that keeps your description evidence-based."
+      },
+      {
+        "question": "Which connector best signals a contrast between two ideas?",
+        "choices": [
+          "For example",
+          "In contrast",
+          "As a result",
+          "In addition"
+        ],
+        "answer": 1,
+        "explanation": "'In contrast' introduces an opposing idea."
+      }
+    ],
+    "listening": {
+      "note": "Practice note-taking.",
+      "script": "Setting → action → details → mood → theme."
+    },
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Campfire Music Session'. What do you notice first?"
+      },
+      {
+        "prompt": "Explain how the setting in 'Campfire Music Session' affects the mood of the people."
+      },
+      {
+        "prompt": "Predict what might happen next in 'Campfire Music Session' and give one reason."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Campfire Music Session'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 15,
+        "prompt": "Explain the relationship between the people and the setting in 'Campfire Music Session'. Use at least two specific details.",
+        "sampleAnswer": "In 'Campfire Music Session', the setting provides clear context for the people’s actions. Overall, the scene feels purposeful because the subjects seem engaged and oriented toward a shared goal. For example, their body language suggests focus, and the environment appears to support that activity. As a result, the mood is more organized than casual, which indicates that the moment is part of a routine rather than a spontaneous event."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 20,
+        "prompt": "Some people prefer busy environments, while others prefer quiet ones. Using 'Campfire Music Session' as inspiration, state your preference and support it with reasons.",
+        "sampleAnswer": "I prefer quieter environments because they help me think clearly and work efficiently. In contrast, busy places can be distracting and make it harder to focus. For example, when I study in a calm space, I can organize my ideas and finish tasks faster. A possible explanation is that fewer interruptions reduce mental fatigue. Overall, choosing a quiet environment leads to better concentration and less stress, which improves my performance."
+      }
+    ],
+    "examTips": [
+      "Start with a one-sentence overview before details.",
+      "Use location phrases (foreground/background) to organize your description.",
+      "Avoid guessing; hedge with 'it appears' or 'it is likely'.",
+      "Include 2–3 specific details (objects, actions, setting) to support ideas.",
+      "Use linking words (overall, in contrast, as a result) for coherence.",
+      "Speak steadily and manage time: plan 5 seconds, speak 40–45 seconds."
+    ]
+  },
+  "analysis": {
+    "peopleCount": "3 adults seated around a campfire.",
+    "gender": "Two appear female and one appears male (appearance-based; not certain).",
+    "ages": "Likely adults in their 20s–40s (approximate).",
+    "setting": "Campsite near water; tents and string lights in the background; evening/night.",
+    "colorsLighting": "Warm orange firelight on faces; darker cool background; soft bokeh from string lights.",
+    "actions": "Playing an acoustic guitar, smiling, holding warm drinks, listening, and chatting.",
+    "bodyLanguage": "Relaxed seated posture; open smiles; attention oriented toward the music and each other.",
+    "moodAtmosphere": "Cozy, cheerful, intimate, nostalgic; a sense of belonging.",
+    "themes": [
+      "friendship",
+      "ritual and tradition",
+      "comfort",
+      "music as connection",
+      "shared leisure"
+    ],
+    "objects": [
+      "campfire",
+      "acoustic guitar",
+      "mugs/cups",
+      "tents",
+      "string lights"
+    ]
+  },
+  "descriptions": {
+    "beginner": "Three friends sit around a campfire at night; one person plays a guitar while others listen… It takes place in Campsite near water; tents and string lights in the background; evening/night.. Use simple sentences to describe people, actions, and objects.",
+    "intermediate": "Three friends sit around a campfire at night; one person plays a guitar while others listen with warm drinks. Setting: Campsite near water; tents and string lights in the background; evening/night.. Atmosphere: Cozy, cheerful, intimate, nostalgic; a sense of belonging.. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "Three friends sit around a campfire at night; one person plays a guitar while others listen with warm drinks. The setting suggests: Campsite near water; tents and string lights in the background; evening/night.. Overall tone: Cozy, cheerful, intimate, nostalgic; a sense of belonging.. A strong response highlights concrete visual evidence, then adds cautious inference (what is likely happening and why) without over-claiming. You will build academic vocabulary and structured answers for TOEFL-style speaking, writing tasks.",
+    "simple": "Three friends sit around a campfire at night; one person plays a guitar while others listen… It takes place in Campsite near water; tents and string lights in the background; evening/night.. Use simple sentences to describe people, actions, and objects."
+  },
+  "intermediateEnglish": {
+    "en": "The group enjoys a warm campfire at night. The guitarist plays music while the others hold hot drinks, creating a friendly and comfortable atmosphere.",
+    "fa": "group enjoys warm campfire at night. guitarist plays music while others hold hot drinks, creating friendly and comfortable atmosphere."
+  },
+  "collocations": [
+    {
+      "id": "L03-C1",
+      "en": "sit around a campfire",
+      "fa": "دور آتش نشستن"
+    },
+    {
+      "id": "L03-C2",
+      "en": "play the guitar",
+      "fa": "گیتار زدن"
+    },
+    {
+      "id": "L03-C3",
+      "en": "sing along",
+      "fa": "همراهی کردن در خواندن"
+    },
+    {
+      "id": "L03-C4",
+      "en": "share stories",
+      "fa": "داستان‌ها را تعریف کردن"
+    },
+    {
+      "id": "L03-C5",
+      "en": "warm up",
+      "fa": "گرم شدن"
+    },
+    {
+      "id": "L03-C6",
+      "en": "enjoy the evening",
+      "fa": "از شب لذت بردن"
+    },
+    {
+      "id": "L03-C7",
+      "en": "feel relaxed",
+      "fa": "احساس آرامش داشتن"
+    },
+    {
+      "id": "L03-C8",
+      "en": "cozy atmosphere",
+      "fa": "فضای دنج"
+    }
+  ],
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا",
+          "task_en": "Say the Persian meaning and use “atmosphere” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «atmosphere» یک جمله ساده بساز."
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه",
+          "task_en": "Say the Persian meaning and use “background” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «background» یک جمله ساده بساز."
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست",
+          "task_en": "Say the Persian meaning and use “gesture” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «gesture» یک جمله ساده بساز."
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره",
+          "task_en": "Say the Persian meaning and use “expression” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «expression» یک جمله ساده بساز."
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل",
+          "task_en": "Say the Persian meaning and use “interaction” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «interaction» یک جمله ساده بساز."
+        },
+        {
+          "en": "routine",
+          "fa": "روال",
+          "task_en": "Say the Persian meaning and use “routine” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «routine» یک جمله ساده بساز."
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش",
+          "task_en": "Say the Persian meaning and use “challenge” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «challenge» یک جمله ساده بساز."
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد",
+          "task_en": "Say the Persian meaning and use “achievement” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «achievement» یک جمله ساده بساز."
+        },
+        {
+          "en": "crowded",
+          "fa": "شلوغ",
+          "task_en": "Say the Persian meaning and use “crowded” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «crowded» یک جمله ساده بساز."
+        },
+        {
+          "en": "calm",
+          "fa": "آرام",
+          "task_en": "Say the Persian meaning and use “calm” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «calm» یک جمله ساده بساز."
+        },
+        {
+          "en": "anxious",
+          "fa": "نگران",
+          "task_en": "Say the Persian meaning and use “anxious” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «anxious» یک جمله ساده بساز."
+        },
+        {
+          "en": "relieved",
+          "fa": "آسوده",
+          "task_en": "Say the Persian meaning and use “relieved” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «relieved» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "sit around a campfire",
+          "fa": "دور آتش نشستن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sitting around a campfire.",
+              "fa": "آن‌ها در حال دور آتش نشستن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They sat around a campfire yesterday.",
+              "fa": "آن‌ها دیروز دور آتش نشستن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sit around a campfire.",
+              "fa": "آن‌ها فردا دور آتش نشستن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "play the guitar",
+          "fa": "گیتار زدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are playing the guitar.",
+              "fa": "آن‌ها در حال گیتار زدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They played the guitar yesterday.",
+              "fa": "آن‌ها دیروز گیتار زدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will play the guitar.",
+              "fa": "آن‌ها فردا گیتار زدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "sing along",
+          "fa": "همراهی کردن در خواندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are singing along.",
+              "fa": "آن‌ها در حال همراهی کردن در خواندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They singed along yesterday.",
+              "fa": "آن‌ها دیروز همراهی کردن در خواندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sing along.",
+              "fa": "آن‌ها فردا همراهی کردن در خواندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "share stories",
+          "fa": "داستان‌ها را تعریف کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sharing stories.",
+              "fa": "آن‌ها در حال داستان‌ها را تعریف کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They shared stories yesterday.",
+              "fa": "آن‌ها دیروز داستان‌ها را تعریف کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will share stories.",
+              "fa": "آن‌ها فردا داستان‌ها را تعریف خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "warm up",
+          "fa": "گرم شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are warming up.",
+              "fa": "آن‌ها در حال گرم شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They warmed up yesterday.",
+              "fa": "آن‌ها دیروز گرم شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will warm up.",
+              "fa": "آن‌ها فردا گرم خواهند شد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the evening",
+          "fa": "از شب لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the evening.",
+              "fa": "آن‌ها در حال از شب لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the evening yesterday.",
+              "fa": "آن‌ها دیروز از شب لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the evening.",
+              "fa": "آن‌ها فردا از شب لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel relaxed",
+          "fa": "احساس آرامش داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling relaxed.",
+              "fa": "آن‌ها در حال احساس آرامش داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt relaxed yesterday.",
+              "fa": "آن‌ها دیروز احساس آرامش داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel relaxed.",
+              "fa": "آن‌ها فردا احساس آرامش داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "cozy atmosphere",
+          "fa": "فضای دنج",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are cozying atmosphere.",
+              "fa": "آن‌ها در حال فضای دنج هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They cozied atmosphere yesterday.",
+              "fa": "آن‌ها دیروز فضای دنج کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will cozy atmosphere.",
+              "fa": "آن‌ها فردا فضای دنج خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Three friends sit close to a small campfire at dusk. One person plays a guitar while the others hold warm drinks in mugs, smiling and listening. Tents and soft string lights appear in the background, and the scene feels cozy, social, and safe—like a memorable night outdoors.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe the photo in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Speak with structure: overview → details → inference → wrap-up.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo and adding one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows campfire music session: warmth and social bonding with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا"
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه"
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست"
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره"
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل"
+        },
+        {
+          "en": "routine",
+          "fa": "روال"
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش"
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Describe the photo, infer a challenge, and propose one solution or next step.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Write 150–180 words: describe the scene and argue why this activity is beneficial (or risky).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "sit around a campfire",
+          "fa": "دور آتش نشستن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sitting around a campfire.",
+              "fa": "آن‌ها در حال دور آتش نشستن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They sat around a campfire yesterday.",
+              "fa": "آن‌ها دیروز دور آتش نشستن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sit around a campfire.",
+              "fa": "آن‌ها فردا دور آتش نشستن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "play the guitar",
+          "fa": "گیتار زدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are playing the guitar.",
+              "fa": "آن‌ها در حال گیتار زدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They played the guitar yesterday.",
+              "fa": "آن‌ها دیروز گیتار زدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will play the guitar.",
+              "fa": "آن‌ها فردا گیتار زدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "sing along",
+          "fa": "همراهی کردن در خواندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are singing along.",
+              "fa": "آن‌ها در حال همراهی کردن در خواندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They singed along yesterday.",
+              "fa": "آن‌ها دیروز همراهی کردن در خواندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sing along.",
+              "fa": "آن‌ها فردا همراهی کردن در خواندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "share stories",
+          "fa": "داستان‌ها را تعریف کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sharing stories.",
+              "fa": "آن‌ها در حال داستان‌ها را تعریف کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They shared stories yesterday.",
+              "fa": "آن‌ها دیروز داستان‌ها را تعریف کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will share stories.",
+              "fa": "آن‌ها فردا داستان‌ها را تعریف خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "warm up",
+          "fa": "گرم شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are warming up.",
+              "fa": "آن‌ها در حال گرم شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They warmed up yesterday.",
+              "fa": "آن‌ها دیروز گرم شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will warm up.",
+              "fa": "آن‌ها فردا گرم خواهند شد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the evening",
+          "fa": "از شب لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the evening.",
+              "fa": "آن‌ها در حال از شب لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the evening yesterday.",
+              "fa": "آن‌ها دیروز از شب لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the evening.",
+              "fa": "آن‌ها فردا از شب لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel relaxed",
+          "fa": "احساس آرامش داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling relaxed.",
+              "fa": "آن‌ها در حال احساس آرامش داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt relaxed yesterday.",
+              "fa": "آن‌ها دیروز احساس آرامش داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel relaxed.",
+              "fa": "آن‌ها فردا احساس آرامش داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "cozy atmosphere",
+          "fa": "فضای دنج",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are cozying atmosphere.",
+              "fa": "آن‌ها در حال فضای دنج هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They cozied atmosphere yesterday.",
+              "fa": "آن‌ها دیروز فضای دنج کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will cozy atmosphere.",
+              "fa": "آن‌ها فردا فضای دنج خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in past continuous: 'They take in the view.'",
+          "answer_en": "They were taking in the view.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «They take in the view.»",
+          "answer_fa": "They were taking in the view."
+        },
+        {
+          "task_en": "Add a modal: 'They reach a viewpoint.'",
+          "answer_en": "They might reach a viewpoint soon.",
+          "task_fa": "یک modal اضافه کن: «They reach a viewpoint.»",
+          "answer_fa": "They might reach a viewpoint soon."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous (حال استمراری)",
+      "rule": "برای توصیف کاری که **همین الان** در تصویر اتفاق می‌افتد از **am/is/are + V‑ing** استفاده کن.",
+      "examples": [
+        {
+          "en": "Three friends are sitting at a campsite at dusk/night.",
+          "fa": "آن‌ها در این صحنه در حال انجام کار هستند."
+        },
+        {
+          "en": "Three friends are gathering around the campfire.",
+          "fa": "آن‌ها وسایل لازم را همراه دارند."
+        }
+      ]
+    },
+    {
+      "title": "Comparatives (صفت‌های تفضیلی)",
+      "rule": "برای مقایسه از **-er + than** یا **more + adjective + than** استفاده کن.",
+      "examples": [
+        {
+          "en": "The view looks wider than it seems at first.",
+          "fa": "برای مقایسه از -er/more + adjective + than استفاده می‌کنیم."
+        },
+        {
+          "en": "This place is quieter than a busy street.",
+          "fa": "مثال: quieter than, more crowded than."
+        }
+      ]
+    },
+    {
+      "title": "Quantifiers (کمیت‌سنج‌ها)",
+      "rule": "برای تعدادهای نامشخص از **some / many / several / a few / a lot of** استفاده کن.",
+      "examples": [
+        {
+          "en": "There are several campfires in the scene.",
+          "fa": "several = چند، many = زیاد، a few = چندتا"
+        },
+        {
+          "en": "Only a few details stand out at first.",
+          "fa": "کمیت‌سنج‌ها برای تعداد/مقدارهای نامشخص کاربرد دارند."
+        }
+      ]
+    }
+  ],
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "In this picture, a small group of friends are sitting around a campfire. One person is playing the guitar, and the others are holding mugs, probably with something hot to drink. There are tents behind them, so it looks like they are camping. The mood is warm and cheerful, and they seem to be enjoying a relaxing night together."
+    },
+    {
+      "label": "Academic Description",
+      "text": "The photograph presents an outdoor social gathering centered on a campfire. The guitar performance functions as the focal activity, while surrounding tents and ambient lighting establish a temporary campsite. The subjects’ posture and facial expressions indicate comfort, leisure, and group cohesion."
+    },
+    {
+      "label": "Narrative Style",
+      "text": "The fire keeps time with the music—spark, strum, laugh. Somewhere behind them, the tents wait like quiet promises of sleep, but for now the night belongs to songs and stories."
+    }
+  ],
+  "sceneDescription": "Three friends sit close to a small campfire at dusk. One person plays a guitar while the others hold warm drinks in mugs, smiling and listening. Tents and soft string lights appear in the background, and the scene feels cozy, social, and safe—like a memorable night outdoors.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": {
+      "goals": [
+        "Speak for 45–60 seconds with clear structure (foreground → background → overall).",
+        "Use both Daily English and TOEFL-style academic connectors.",
+        "Add 1 inference and 1 prediction to sound more advanced."
+      ],
+      "what_to_notice": [
+        "People: number, relationships, emotions",
+        "Place: setting and atmosphere",
+        "Action: what is happening right now",
+        "Details: objects, weather/light, colors"
+      ],
+      "speaking_plan": [
+        "1) One-sentence summary of the scene.",
+        "2) Two details about people + action (present continuous).",
+        "3) One detail about background/setting.",
+        "4) One inference (seems/probably) + one prediction (will/going to).",
+        "5) Overall feeling/opinion."
+      ]
+    },
+    "fa": {
+      "goals": [
+        "۴۵ تا ۶۰ ثانیه با ساختار واضح صحبت کنید (پیش‌زمینه → پس‌زمینه → جمع‌بندی).",
+        "هم زبان روزمره و هم اتصال‌دهنده‌های آکادمیک TOEFL را به کار ببرید.",
+        "۱ نتیجه‌گیری و ۱ پیش‌بینی اضافه کنید تا سطح بالاتر به نظر برسد."
+      ],
+      "what_to_notice": [
+        "افراد: تعداد، رابطه‌ها، احساسات",
+        "مکان: فضا و حال‌وهوا",
+        "عمل: الان چه کاری در حال انجام است",
+        "جزئیات: اشیا، آب‌وهوا/نور، رنگ‌ها"
+      ],
+      "speaking_plan": [
+        "۱) یک جمله خلاصه از صحنه.",
+        "۲) دو جزئیات درباره افراد و عمل (حال استمراری).",
+        "۳) یک جزئیات درباره پس‌زمینه/مکان.",
+        "۴) یک نتیجه‌گیری (seems/probably) + یک پیش‌بینی (will/going to).",
+        "۵) جمع‌بندی حس/نظر کلی."
+      ]
+    }
+  },
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "3 people: 2 women, 1 man (young adults) are at Campsite at dusk/night, right in the middle of a real-life moment. They are sitting around a campfire; playing acoustic guitar; drinking from mugs and chatting. Friends relax by a campfire as one plays guitar and others sip warm drinks. There are Campfire, Acoustic guitar, Mugs/cups, String lights (background) around them, and the setting feels cozy, happy, social. Their clothing, like Casual jackets/sweaters, Jeans, matches the situation and the environment.",
+    "fa": "3 people: 2 women, 1 man (young adults) در Campsite at dusk/night وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Sitting around a campfire، Playing acoustic guitar و Drinking from mugs and chatting هستند. Friends relax by a campfire as one plays guitar and others sip warm drinks. اطرافشان Campfire، Acoustic guitar، Mugs/cups و String lights (background) دیده می‌شود و فضا Cozy، Happy و Social است. لباس‌ها، مثل Casual jackets/sweaters و Jeans هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "3 people: 2 women, 1 man (young adults) are at Campsite at dusk/night, right in the middle of a real-life moment. They are sitting around a campfire; playing acoustic guitar; drinking from mugs and chatting. Friends relax by a campfire as one plays guitar and others sip warm drinks. There are Campfire, Acoustic guitar, Mugs/cups, String lights (background) around them, and the setting feels cozy, happy, social. Their clothing, like Casual jackets/sweaters, Jeans, matches the situation and the environment.",
+      "fa": "3 people: 2 women, 1 man (young adults) در Campsite at dusk/night وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Sitting around a campfire، Playing acoustic guitar و Drinking from mugs and chatting هستند. Friends relax by a campfire as one plays guitar and others sip warm drinks. اطرافشان Campfire، Acoustic guitar، Mugs/cups و String lights (background) دیده می‌شود و فضا Cozy، Happy و Social است. لباس‌ها، مثل Casual jackets/sweaters و Jeans هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "The friends are Sitting around a campfire.",
+            "There are Campfire and Acoustic guitar in Campsite at dusk/night.",
+            "The atmosphere feels Cozy."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال Sitting around a campfire هستند.",
+            "در Campsite at dusk/night Campfire و Acoustic guitar دیده می‌شود.",
+            "فضا Cozy به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at Campsite at dusk/night. Friends relax by a campfire as one plays guitar and others sip warm drinks. At first, I noticed Campfire, Acoustic guitar, Mugs/cups and the way people were sitting around a campfire. Then I looked closer: their clothing (Casual jackets/sweaters, Jeans) and their expressions made the scene feel cozy, happy, social. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل Campsite at dusk/night بودم. Friends relax by a campfire as one plays guitar and others sip warm drinks. اول Campfire، Acoustic guitar و Mugs/cups را دیدم و اینکه آدم‌ها چطور Sitting around a campfire. بعد دقیق‌تر نگاه کردم: لباس‌ها (Casual jackets/sweaters و Jeans) و حالت چهره‌ها باعث شد فضا Cozy، Happy و Social به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, the friends sat around a campfire.",
+            "Then, the friends checked Campfire and continued.",
+            "Finally, they felt Cozy about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، The friends sat around a campfire.",
+            "بعد، The friends Campfire را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه Cozy بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as Campfire, Acoustic guitar, Mugs/cups, String lights (background) are not background; they guide the story. I have also learned how actions like playing acoustic guitar can signal feelings such as cozy, happy, social. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل Campfire، Acoustic guitar، Mugs/cups و String lights (background) فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل Playing acoustic guitar چطور می‌تواند احساساتی مثل Cozy، Happy و Social را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "The friends have already handled similar situations before.",
+            "The friends have learned to stay Cozy in Campsite at dusk/night.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "The friends قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "The friends یاد گرفته است در Campsite at dusk/night Cozy بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at Campsite at dusk/night, one small change could create a big problem. If Campfire, Acoustic guitar had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در Campsite at dusk/night دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر Campfire و Acoustic guitar نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If the friends had checked Campfire earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay Cozy.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر The friends زودتر Campfire را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید Cozy بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

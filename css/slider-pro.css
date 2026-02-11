@@ -1,0 +1,643 @@
+/**
+ * 🎠 Professional Multi-Style Slider
+ * 
+ * 5 Different Slider Styles:
+ * 1. Classic Fade - نرم و کلاسیک
+ * 2. 3D Carousel - چرخشی سه‌بعدی
+ * 3. Parallax Cards - کارت‌های موازی
+ * 4. Ken Burns - زوم سینمایی
+ * 5. Stacked - کارت‌های روی هم
+ * 
+ * Features:
+ * - سازگار با Dark/Light/Nebula
+ * - Responsive (موبایل تا دسکتاپ)
+ * - Touch/Swipe support
+ * - Keyboard navigation
+ * - Auto-play با pause on hover
+ * - Progress indicator
+ * - Lazy loading
+ */
+
+/* ============================================
+   BASE SLIDER STRUCTURE
+   ============================================ */
+
+.pro-slider {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 24px;
+  background: var(--slider-bg, rgba(0, 0, 0, 0.1));
+}
+
+.pro-slider__viewport {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .pro-slider__viewport {
+    aspect-ratio: 4 / 3;
+  }
+}
+
+.pro-slider__track {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.pro-slider__slide {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.6s ease, transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: none;
+  will-change: transform, opacity;
+}
+
+.pro-slider__slide.is-active {
+  opacity: 1;
+  pointer-events: auto;
+  z-index: 2;
+}
+
+/* ============================================
+   SLIDE CONTENT
+   ============================================ */
+
+.pro-slider__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.pro-slider__content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 40px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
+  color: white;
+  z-index: 3;
+  transform: translateY(20px);
+  opacity: 0;
+  transition: all 0.6s ease 0.3s;
+}
+
+.pro-slider__slide.is-active .pro-slider__content {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.pro-slider__title {
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+  font-weight: 800;
+  margin: 0 0 10px 0;
+  line-height: 1.2;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.pro-slider__caption {
+  font-size: clamp(0.9rem, 2vw, 1.1rem);
+  margin: 0 0 15px 0;
+  opacity: 0.9;
+  max-width: 600px;
+}
+
+.pro-slider__tags {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pro-slider__tag {
+  padding: 6px 12px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  font-size: 0.85rem;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* ============================================
+   NAVIGATION CONTROLS
+   ============================================ */
+
+.pro-slider__nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  opacity: 0;
+}
+
+.pro-slider:hover .pro-slider__nav {
+  opacity: 1;
+}
+
+.pro-slider__nav:hover {
+  background: rgba(0, 0, 0, 0.8);
+  transform: translateY(-50%) scale(1.1);
+}
+
+.pro-slider__nav--prev {
+  left: 20px;
+}
+
+.pro-slider__nav--next {
+  right: 20px;
+}
+
+@media (max-width: 768px) {
+  .pro-slider__nav {
+    width: 40px;
+    height: 40px;
+    opacity: 0.8;
+  }
+  .pro-slider__nav--prev { left: 10px; }
+  .pro-slider__nav--next { right: 10px; }
+}
+
+/* ============================================
+   PAGINATION DOTS
+   ============================================ */
+
+.pro-slider__pagination {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+  z-index: 10;
+}
+
+.pro-slider__dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.pro-slider__dot:hover {
+  background: rgba(255, 255, 255, 0.6);
+  transform: scale(1.2);
+}
+
+.pro-slider__dot.is-active {
+  background: white;
+  width: 30px;
+  border-radius: 6px;
+}
+
+/* Progress ring animation */
+.pro-slider__dot.is-active::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: inherit;
+  border: 2px solid white;
+  opacity: 0.3;
+  animation: pulse-ring 1s ease-in-out infinite;
+}
+
+@keyframes pulse-ring {
+  0%, 100% { transform: scale(1); opacity: 0.3; }
+  50% { transform: scale(1.2); opacity: 0; }
+}
+
+/* ============================================
+   PROGRESS BAR
+   ============================================ */
+
+.pro-slider__progress {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.2);
+  z-index: 11;
+  overflow: hidden;
+}
+
+.pro-slider__progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, 
+    var(--slider-accent-1, #a78bfa) 0%, 
+    var(--slider-accent-2, #ec4899) 50%,
+    var(--slider-accent-3, #22d3ee) 100%);
+  width: 0;
+  transition: width 0.1s linear;
+}
+
+.pro-slider.is-playing .pro-slider__progress-bar {
+  animation: progress-fill var(--slider-duration, 5s) linear infinite;
+}
+
+@keyframes progress-fill {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
+
+/* ============================================
+   STYLE 1: CLASSIC FADE
+   ============================================ */
+
+.pro-slider--fade .pro-slider__slide {
+  transform: scale(1.05);
+}
+
+.pro-slider--fade .pro-slider__slide.is-active {
+  transform: scale(1);
+}
+
+/* ============================================
+   STYLE 2: 3D CAROUSEL
+   ============================================ */
+
+.pro-slider--carousel .pro-slider__viewport {
+  perspective: 1200px;
+  transform-style: preserve-3d;
+}
+
+.pro-slider--carousel .pro-slider__slide {
+  transform: rotateY(-30deg) translateX(100%) scale(0.8);
+  opacity: 0.5;
+}
+
+.pro-slider--carousel .pro-slider__slide.is-active {
+  transform: rotateY(0deg) translateX(0) scale(1);
+  opacity: 1;
+}
+
+.pro-slider--carousel .pro-slider__slide.is-prev {
+  transform: rotateY(30deg) translateX(-100%) scale(0.8);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* ============================================
+   STYLE 3: PARALLAX CARDS
+   ============================================ */
+
+.pro-slider--parallax .pro-slider__track {
+  display: flex;
+  gap: 20px;
+}
+
+.pro-slider--parallax .pro-slider__slide {
+  position: relative;
+  flex: 0 0 100%;
+  transform: translateX(0) scale(0.9);
+  opacity: 0.6;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+.pro-slider--parallax .pro-slider__slide.is-active {
+  transform: translateX(0) scale(1);
+  opacity: 1;
+  z-index: 2;
+}
+
+.pro-slider--parallax .pro-slider__slide.is-next {
+  transform: translateX(-10%) scale(0.95);
+  opacity: 0.8;
+}
+
+.pro-slider--parallax .pro-slider__slide.is-prev {
+  transform: translateX(10%) scale(0.95);
+  opacity: 0.8;
+}
+
+/* Parallax image movement */
+.pro-slider--parallax .pro-slider__slide.is-active .pro-slider__image {
+  animation: parallax-move 15s ease-in-out infinite;
+}
+
+@keyframes parallax-move {
+  0%, 100% { transform: scale(1.05) translateY(0); }
+  50% { transform: scale(1.1) translateY(-2%); }
+}
+
+/* ============================================
+   STYLE 4: KEN BURNS (Cinematic Zoom)
+   ============================================ */
+
+.pro-slider--kenburns .pro-slider__image {
+  transform: scale(1);
+  transform-origin: center;
+}
+
+.pro-slider--kenburns .pro-slider__slide.is-active .pro-slider__image {
+  animation: ken-burns 12s ease-in-out forwards;
+}
+
+@keyframes ken-burns {
+  0% {
+    transform: scale(1) translate(0, 0);
+  }
+  100% {
+    transform: scale(1.15) translate(-3%, -2%);
+  }
+}
+
+/* Alternate zoom directions */
+.pro-slider--kenburns .pro-slider__slide:nth-child(even).is-active .pro-slider__image {
+  animation: ken-burns-alt 12s ease-in-out forwards;
+}
+
+@keyframes ken-burns-alt {
+  0% {
+    transform: scale(1.15) translate(3%, 2%);
+  }
+  100% {
+    transform: scale(1) translate(0, 0);
+  }
+}
+
+/* ============================================
+   STYLE 5: STACKED CARDS
+   ============================================ */
+
+.pro-slider--stacked .pro-slider__slide {
+  transform: scale(0.9) translateY(50px);
+  opacity: 0;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.4);
+}
+
+.pro-slider--stacked .pro-slider__slide.is-active {
+  transform: scale(1) translateY(0);
+  opacity: 1;
+  z-index: 5;
+}
+
+.pro-slider--stacked .pro-slider__slide.is-next {
+  transform: scale(0.95) translateY(20px);
+  opacity: 0.8;
+  z-index: 4;
+}
+
+.pro-slider--stacked .pro-slider__slide:nth-child(n+3) {
+  transform: scale(0.9) translateY(40px);
+  opacity: 0.5;
+  z-index: 3;
+}
+
+/* ============================================
+   THEME INTEGRATION
+   ============================================ */
+
+/* Dark Theme */
+:root {
+  --slider-bg: rgba(0, 0, 0, 0.2);
+  --slider-accent-1: #10B981;
+  --slider-accent-2: #3B82F6;
+  --slider-accent-3: #F59E0B;
+}
+
+/* Light Theme */
+:root[data-theme="light"] {
+  --slider-bg: rgba(255, 255, 255, 0.5);
+  --slider-accent-1: #059669;
+  --slider-accent-2: #2563eb;
+  --slider-accent-3: #d97706;
+}
+
+:root[data-theme="light"] .pro-slider__nav {
+  background: rgba(255, 255, 255, 0.9);
+  color: #1e293b;
+}
+
+:root[data-theme="light"] .pro-slider__content {
+  background: linear-gradient(to top, rgba(255, 255, 255, 0.95), transparent);
+  color: #1e293b;
+}
+
+/* Nebula Theme */
+:root[data-theme="nebula"],
+body[data-theme="nebula"] {
+  --slider-accent-1: #a78bfa;
+  --slider-accent-2: #ec4899;
+  --slider-accent-3: #22d3ee;
+}
+
+:root[data-theme="nebula"] .pro-slider,
+body[data-theme="nebula"] .pro-slider {
+  box-shadow: 0 20px 60px rgba(139, 92, 246, 0.3);
+  border: 1px solid rgba(167, 139, 250, 0.2);
+}
+
+:root[data-theme="nebula"] .pro-slider__nav,
+body[data-theme="nebula"] .pro-slider__nav {
+  background: rgba(139, 92, 246, 0.3);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(167, 139, 250, 0.4);
+}
+
+:root[data-theme="nebula"] .pro-slider__nav:hover,
+body[data-theme="nebula"] .pro-slider__nav:hover {
+  background: rgba(139, 92, 246, 0.5);
+  box-shadow: 0 0 20px rgba(167, 139, 250, 0.5);
+}
+
+:root[data-theme="nebula"] .pro-slider__dot,
+body[data-theme="nebula"] .pro-slider__dot {
+  background: rgba(167, 139, 250, 0.4);
+  border-color: rgba(167, 139, 250, 0.6);
+}
+
+:root[data-theme="nebula"] .pro-slider__dot.is-active,
+body[data-theme="nebula"] .pro-slider__dot.is-active {
+  background: linear-gradient(135deg, #a78bfa, #ec4899);
+  box-shadow: 0 0 15px rgba(167, 139, 250, 0.6);
+}
+
+/* ============================================
+   HOVER EFFECTS
+   ============================================ */
+
+.pro-slider__slide {
+  cursor: pointer;
+}
+
+.pro-slider__slide.is-active:hover .pro-slider__image {
+  transform: scale(1.05);
+  transition: transform 0.8s ease;
+}
+
+.pro-slider__slide.is-active:hover .pro-slider__content {
+  transform: translateY(-10px);
+}
+
+/* ============================================
+   LOADING STATE
+   ============================================ */
+
+.pro-slider.is-loading .pro-slider__slide {
+  opacity: 0;
+}
+
+.pro-slider.is-loading::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, 
+    transparent, 
+    rgba(255, 255, 255, 0.1), 
+    transparent);
+  animation: skeleton-loading 1.5s infinite;
+}
+
+@keyframes skeleton-loading {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+/* ============================================
+   ACCESSIBILITY
+   ============================================ */
+
+.pro-slider__nav:focus-visible,
+.pro-slider__dot:focus-visible {
+  outline: 3px solid var(--slider-accent-1);
+  outline-offset: 4px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .pro-slider__slide,
+  .pro-slider__content,
+  .pro-slider__image,
+  .pro-slider__nav {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* High contrast */
+@media (prefers-contrast: more) {
+  .pro-slider__nav {
+    background: rgba(0, 0, 0, 0.9);
+    border: 2px solid white;
+  }
+  
+  .pro-slider__dot {
+    border-width: 3px;
+  }
+}
+
+/* ============================================
+   MOBILE OPTIMIZATIONS
+   ============================================ */
+
+@media (max-width: 768px) {
+  .pro-slider__content {
+    padding: 20px;
+  }
+  
+  .pro-slider__title {
+    font-size: 1.5rem;
+  }
+  
+  .pro-slider__caption {
+    font-size: 0.9rem;
+  }
+  
+  .pro-slider__pagination {
+    bottom: 10px;
+    gap: 6px;
+  }
+  
+  .pro-slider__dot {
+    width: 8px;
+    height: 8px;
+  }
+  
+  .pro-slider__dot.is-active {
+    width: 20px;
+  }
+  
+  /* Simplify animations on mobile */
+  .pro-slider--carousel .pro-slider__slide,
+  .pro-slider--parallax .pro-slider__slide {
+    transform: none !important;
+  }
+  
+  .pro-slider--carousel .pro-slider__slide.is-active,
+  .pro-slider--parallax .pro-slider__slide.is-active {
+    opacity: 1;
+  }
+}
+
+/* Touch feedback */
+@media (hover: none) {
+  .pro-slider__nav:active {
+    transform: translateY(-50%) scale(0.95);
+  }
+  
+  .pro-slider__dot:active {
+    transform: scale(0.9);
+  }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+.pro-slider--autoplay .pro-slider__progress {
+  display: block;
+}
+
+.pro-slider--no-controls .pro-slider__nav,
+.pro-slider--no-controls .pro-slider__pagination {
+  display: none;
+}
+
+.pro-slider--fullscreen {
+  max-width: 100%;
+  border-radius: 0;
+}
+
+.pro-slider--fullscreen .pro-slider__viewport {
+  aspect-ratio: 21 / 9;
+}
+
+@media (max-width: 768px) {
+  .pro-slider--fullscreen .pro-slider__viewport {
+    aspect-ratio: 16 / 9;
+  }
+}
+
+
+/* Hero slider: show full image (no cropping) */
+.pro-slider--hero .pro-slider__image{ object-fit: contain; }
+.pro-slider--hero .pro-slider__viewport{ background: var(--bg, #0b0f14); }

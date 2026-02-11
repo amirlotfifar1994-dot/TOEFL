@@ -1,0 +1,63 @@
+:root{
+  --bg:#0b1220;
+  --panel:#0f172a;
+  --card:#111c33;
+  --text:#e6eefc;
+  --muted:#9fb0ca;
+  --border:#1d2942;
+  --accent:#4f9cf3;
+  --accent2:#22c55e;
+  --warn:#f97316;
+  --danger:#ef4444;
+  --shadow:0 10px 30px rgba(0,0,0,.35);
+  --radius:14px;
+  --radiusSm:10px;
+  --gap:14px;
+  --max:1180px;
+  --font: system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+:root[data-theme="light"]{
+  --bg:#f7fafc;
+  --panel:#ffffff;
+  --card:#f3f6fb;
+  --text:#0b1220;
+  --muted:#4a5568;
+  --border:#d8e1f0;
+  --accent:#2563eb;
+  --accent2:#16a34a;
+  --shadow:0 10px 22px rgba(15,23,42,.08);
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font:16px/1.7 var(--font);
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+img{max-width:100%; display:block}
+button, input, select, textarea{font:inherit}
+
+.muted{color:var(--muted)}
+.small{font-size:.92rem}
+.h1{margin:0 0 8px 0; font-size:1.25rem}
+.h2{margin:0 0 8px 0; font-size:1.1rem}
+.h3{margin:0 0 6px 0; font-size:1rem}
+.hr{height:1px; background:var(--border); margin:12px 0}
+
+.main{max-width:var(--max); margin:0 auto; padding:14px}
+.view{display:none}
+.view.isActive{display:block}
+
+
+:focus{outline:none}
+:focus-visible{outline:3px solid var(--accent); outline-offset:2px}
+
+@media (prefers-reduced-motion: reduce){
+  *{scroll-behavior:auto !important; transition:none !important; animation:none !important}
+}

@@ -1,0 +1,1633 @@
+{
+  "id": "toefl-ax2-02",
+  "title": "Cheering at a Concert",
+  "caption": "This is a high-energy moment in a live music setting. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax2-02",
+    "src800": "assets/images/toefl-photo-ax2-02-800.webp",
+    "src1600": "assets/images/toefl-photo-ax2-02-1600.webp",
+    "alt": "Concert crowd with two excited people cheering under bright colorful lights."
+  },
+  "fullDescription": {
+    "en": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music.",
+    "fa": "This is high-energy moment in live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. crowd and stage lighting create dynamic atmosphere where people feel connected through rhythm and sound. scene suggests entertainment, community, and release of stress through music."
+  },
+  "simpleEnglish": {
+    "en": "People are at a concert. They are cheering and raising their hands. The lights are colorful and bright.",
+    "fa": "People are at concert. آن‌ها در حال cheering and raising their hands. lights are colorful and bright."
+  },
+  "intermediateEnglish": {
+    "en": "The photo shows an energetic concert scene. Two people in the front are cheering with their hands raised, while a crowd behind them enjoys the music. The colorful lights suggest a live performance at night.",
+    "fa": "photo shows energetic concert scene. Two people in front در حال cheering with their hands raised, while crowd behind them enjoys music. colorful lights suggest live performance at night."
+  },
+  "advancedEnglish": {
+    "en": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music.",
+    "fa": "This is high-energy moment in live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. crowd and stage lighting create dynamic atmosphere where people feel connected through rhythm and sound. scene suggests entertainment, community, and release of stress through music."
+  },
+  "people": [
+    "many people: crowd (young adults)"
+  ],
+  "ages": [
+    "young adults"
+  ],
+  "place": [
+    "concert or festival venue (night)"
+  ],
+  "clothing": [
+    "casual clothing"
+  ],
+  "appearance": [
+    "excited faces",
+    "hands raised"
+  ],
+  "actions": [
+    "cheering",
+    "shouting",
+    "raising hands",
+    "enjoying music"
+  ],
+  "objects": [
+    "stage lights",
+    "crowd",
+    "possible stage (background)"
+  ],
+  "feelings": [
+    "excited",
+    "energized",
+    "joyful"
+  ],
+  "environmentType": [
+    "indoor/outdoor event"
+  ],
+  "weatherLighting": [
+    "nighttime lighting",
+    "colorful stage lights"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "concert",
+      "crowd",
+      "cheer",
+      "stage",
+      "performance",
+      "festival",
+      "music",
+      "lyrics",
+      "beat",
+      "speaker"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "stage lights",
+      "crowd",
+      "possible stage (background)"
+    ],
+    "places": [
+      "concert or festival venue (night)"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "concert",
+      "fa": "کنسرت"
+    },
+    {
+      "en": "crowd",
+      "fa": "جمعیت"
+    },
+    {
+      "en": "cheer",
+      "fa": "تشویق کردن"
+    },
+    {
+      "en": "stage",
+      "fa": "صحنه"
+    },
+    {
+      "en": "performance",
+      "fa": "اجرا"
+    },
+    {
+      "en": "festival",
+      "fa": "فستیوال"
+    },
+    {
+      "en": "music",
+      "fa": "موسیقی"
+    },
+    {
+      "en": "lyrics",
+      "fa": "ترانه"
+    },
+    {
+      "en": "beat",
+      "fa": "ریتم"
+    },
+    {
+      "en": "speaker",
+      "fa": "بلندگو"
+    },
+    {
+      "en": "lights",
+      "fa": "نورها"
+    },
+    {
+      "en": "loud",
+      "fa": "پرسروصدا"
+    },
+    {
+      "en": "excited",
+      "fa": "هیجان‌زده"
+    },
+    {
+      "en": "energy",
+      "fa": "انرژی"
+    },
+    {
+      "en": "audience",
+      "fa": "تماشاگران"
+    },
+    {
+      "en": "applause",
+      "fa": "تشویق"
+    },
+    {
+      "en": "sing along",
+      "fa": "همراه خواندن"
+    },
+    {
+      "en": "dance",
+      "fa": "رقصیدن"
+    },
+    {
+      "en": "wave",
+      "fa": "تکان دادن"
+    },
+    {
+      "en": "headline",
+      "fa": "خواننده اصلی"
+    },
+    {
+      "en": "ticket",
+      "fa": "بلیت"
+    },
+    {
+      "en": "crowded",
+      "fa": "شلوغ"
+    },
+    {
+      "en": "vibrate",
+      "fa": "لرزیدن"
+    },
+    {
+      "en": "shout",
+      "fa": "داد زدن"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "حال‌وهوا"
+    },
+    {
+      "en": "memorable",
+      "fa": "به‌یادماندنی"
+    },
+    {
+      "en": "favorite song",
+      "fa": "آهنگ مورد علاقه"
+    },
+    {
+      "en": "encore",
+      "fa": "اجرای دوباره"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    },
+    {
+      "en": "scenario",
+      "fa": "سناریو/موقعیت"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX202-C1",
+      "en": "live performance",
+      "fa": "اجرای زنده"
+    },
+    {
+      "id": "AX202-C2",
+      "en": "raise your hands",
+      "fa": "دست‌ها را بالا بردن"
+    },
+    {
+      "id": "AX202-C3",
+      "en": "sing along",
+      "fa": "همراه خواندن"
+    },
+    {
+      "id": "AX202-C4",
+      "en": "cheer loudly",
+      "fa": "با صدای بلند تشویق کردن"
+    },
+    {
+      "id": "AX202-C5",
+      "en": "feel the beat",
+      "fa": "ریتم را حس کردن"
+    },
+    {
+      "id": "AX202-C6",
+      "en": "join the crowd",
+      "fa": "به جمعیت پیوستن"
+    },
+    {
+      "id": "AX202-C7",
+      "en": "enjoy the show",
+      "fa": "از اجرا لذت بردن"
+    },
+    {
+      "id": "AX202-C8",
+      "en": "take a video",
+      "fa": "فیلم گرفتن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Intensifiers (شدت‌دهنده‌ها)",
+      "rule": "برای احساس قوی از **so / really / extremely** استفاده کن.",
+      "examples": [
+        {
+          "en": "The concert is so exciting.",
+          "fa": "کنسرت خیلی هیجان‌انگیز است."
+        },
+        {
+          "en": "They are extremely enthusiastic.",
+          "fa": "آن‌ها فوق‌العاده هیجان‌زده‌اند."
+        }
+      ]
+    },
+    {
+      "title": "Exclamations (جملات تعجبی)",
+      "rule": "برای هیجان از ساختارهای تعجبی استفاده کن.",
+      "examples": [
+        {
+          "en": "What an amazing show!",
+          "fa": "چه اجرای فوق‌العاده‌ای!"
+        },
+        {
+          "en": "How loud the crowd is!",
+          "fa": "جمعیت چقدر پرسروصداست!"
+        }
+      ]
+    },
+    {
+      "title": "Present Continuous (توصیف لحظه)",
+      "rule": "برای توصیف اتفاقِ در جریان در عکس از حال استمراری استفاده کن.",
+      "examples": [
+        {
+          "en": "They are cheering and waving their hands.",
+          "fa": "آن‌ها دارند تشویق می‌کنند و دست تکان می‌دهند."
+        },
+        {
+          "en": "The crowd is enjoying the music.",
+          "fa": "جمعیت از موسیقی لذت می‌برد."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Cheering at a Concert' most likely take place?",
+        "choices": [
+          "concert or festival venue (night)",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Cheering at a Concert'?",
+        "choices": [
+          "cheering",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Cheering at a Concert'?",
+        "choices": [
+          "excited",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Cheering at a Concert'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Cheering at a Concert' (concert or festival venue (night)). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Cheering at a Concert'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Cheering at a Concert' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 0,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adults"
+    ],
+    "setting": [
+      "concert or festival venue (night)"
+    ],
+    "colorsLighting": [
+      "nighttime lighting",
+      "colorful stage lights"
+    ],
+    "actions": [
+      "cheering",
+      "shouting",
+      "raising hands",
+      "enjoying music"
+    ],
+    "bodyLanguage": [
+      "excited",
+      "energized",
+      "joyful"
+    ],
+    "moodAtmosphere": [
+      "excited",
+      "energized",
+      "joyful"
+    ],
+    "themes": [
+      "live events",
+      "shared emotion",
+      "music culture"
+    ],
+    "objects": [
+      "stage lights",
+      "crowd",
+      "possible stage (background)"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music. They are in concert or festival venue (night). Key action: cheering; shouting. Mood: excited; energized.",
+    "simple": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music. They are in concert or festival venue (night). Key action: cheering; shouting. Mood: excited; energized.",
+    "intermediate": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music. The scene takes place in concert or festival venue (night). Notable details include stage lights; crowd. The overall atmosphere feels excited; energized. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music. In this setting (concert or festival venue (night)), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as cheering; shouting and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like stage lights; crowd to improve clarity. Tone words (for example: excited; energized) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "Two people cheer with raised arms in a crowded concert under colorful lights.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This is a high-energy moment in a live music setting. Raised arms, open mouths, and intense expressions indicate excitement and shared emotion. The crowd and stage lighting create a dynamic atmosphere where people feel connected through rhythm and sound. The scene suggests entertainment, community, and the release of stress through music."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "concert",
+          "fa": "کنسرت",
+          "task_en": "Say the Persian meaning and use \"concert\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «concert» یک جمله ساده بساز."
+        },
+        {
+          "en": "crowd",
+          "fa": "جمعیت",
+          "task_en": "Say the Persian meaning and use \"crowd\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «crowd» یک جمله ساده بساز."
+        },
+        {
+          "en": "cheer",
+          "fa": "تشویق کردن",
+          "task_en": "Say the Persian meaning and use \"cheer\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «cheer» یک جمله ساده بساز."
+        },
+        {
+          "en": "stage",
+          "fa": "صحنه",
+          "task_en": "Say the Persian meaning and use \"stage\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «stage» یک جمله ساده بساز."
+        },
+        {
+          "en": "performance",
+          "fa": "اجرا",
+          "task_en": "Say the Persian meaning and use \"performance\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «performance» یک جمله ساده بساز."
+        },
+        {
+          "en": "festival",
+          "fa": "فستیوال",
+          "task_en": "Say the Persian meaning and use \"festival\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «festival» یک جمله ساده بساز."
+        },
+        {
+          "en": "music",
+          "fa": "موسیقی",
+          "task_en": "Say the Persian meaning and use \"music\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «music» یک جمله ساده بساز."
+        },
+        {
+          "en": "lyrics",
+          "fa": "ترانه",
+          "task_en": "Say the Persian meaning and use \"lyrics\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «lyrics» یک جمله ساده بساز."
+        },
+        {
+          "en": "beat",
+          "fa": "ریتم",
+          "task_en": "Say the Persian meaning and use \"beat\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «beat» یک جمله ساده بساز."
+        },
+        {
+          "en": "speaker",
+          "fa": "بلندگو",
+          "task_en": "Say the Persian meaning and use \"speaker\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «speaker» یک جمله ساده بساز."
+        },
+        {
+          "en": "lights",
+          "fa": "نورها",
+          "task_en": "Say the Persian meaning and use \"lights\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «lights» یک جمله ساده بساز."
+        },
+        {
+          "en": "loud",
+          "fa": "پرسروصدا",
+          "task_en": "Say the Persian meaning and use \"loud\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «loud» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "live performance",
+          "fa": "اجرای زنده",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are living performance.",
+              "fa": "آن‌ها در حال اجرای زنده هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They lived performance yesterday.",
+              "fa": "آن‌ها دیروز اجرای زنده کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will live performance.",
+              "fa": "آن‌ها فردا اجرای زنده خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "raise your hands",
+          "fa": "دست‌ها را بالا بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are raising your hands.",
+              "fa": "آن‌ها در حال دست‌ها را بالا بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They raised your hands yesterday.",
+              "fa": "آن‌ها دیروز دست‌ها را بالا بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will raise your hands.",
+              "fa": "آن‌ها فردا دست‌ها را بالا بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "sing along",
+          "fa": "همراه خواندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are singing along.",
+              "fa": "آن‌ها در حال همراه خواندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They singed along yesterday.",
+              "fa": "آن‌ها دیروز همراه خواندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sing along.",
+              "fa": "آن‌ها فردا همراه خواندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "cheer loudly",
+          "fa": "با صدای بلند تشویق کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are cheering loudly.",
+              "fa": "آن‌ها در حال با صدای بلند تشویق کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They cheered loudly yesterday.",
+              "fa": "آن‌ها دیروز با صدای بلند تشویق کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will cheer loudly.",
+              "fa": "آن‌ها فردا با صدای بلند تشویق خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel the beat",
+          "fa": "ریتم را حس کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling the beat.",
+              "fa": "آن‌ها در حال ریتم را حس کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt the beat yesterday.",
+              "fa": "آن‌ها دیروز ریتم را حس کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel the beat.",
+              "fa": "آن‌ها فردا ریتم را حس خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "join the crowd",
+          "fa": "به جمعیت پیوستن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are joining the crowd.",
+              "fa": "آن‌ها در حال به جمعیت پیوستن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They joined the crowd yesterday.",
+              "fa": "آن‌ها دیروز به جمعیت پیوستن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will join the crowd.",
+              "fa": "آن‌ها فردا به جمعیت پیوستن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the show",
+          "fa": "از اجرا لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the show.",
+              "fa": "آن‌ها در حال از اجرا لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the show yesterday.",
+              "fa": "آن‌ها دیروز از اجرا لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the show.",
+              "fa": "آن‌ها فردا از اجرا لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a video",
+          "fa": "فیلم گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a video.",
+              "fa": "آن‌ها در حال فیلم گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a video yesterday.",
+              "fa": "آن‌ها دیروز فیلم گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a video.",
+              "fa": "آن‌ها فردا فیلم خواهند گرفت."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Two people cheer with raised arms in a crowded concert under colorful lights.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Cheering at a Concert\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (Two people cheer with raised arms in a crowded concert under colorful lights.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: Two people cheer with raised arms in a crowded concert under colorful lights.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Cheering at a Concert\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (Two people cheer with raised arms in a crowded concert under colorful lights.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "live performance",
+          "fa": "اجرای زنده",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are living performance.",
+              "fa": "آن‌ها در حال اجرای زنده هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They lived performance yesterday.",
+              "fa": "آن‌ها دیروز اجرای زنده کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will live performance.",
+              "fa": "آن‌ها فردا اجرای زنده خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "raise your hands",
+          "fa": "دست‌ها را بالا بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are raising your hands.",
+              "fa": "آن‌ها در حال دست‌ها را بالا بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They raised your hands yesterday.",
+              "fa": "آن‌ها دیروز دست‌ها را بالا بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will raise your hands.",
+              "fa": "آن‌ها فردا دست‌ها را بالا بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "sing along",
+          "fa": "همراه خواندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are singing along.",
+              "fa": "آن‌ها در حال همراه خواندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They singed along yesterday.",
+              "fa": "آن‌ها دیروز همراه خواندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will sing along.",
+              "fa": "آن‌ها فردا همراه خواندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "cheer loudly",
+          "fa": "با صدای بلند تشویق کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are cheering loudly.",
+              "fa": "آن‌ها در حال با صدای بلند تشویق کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They cheered loudly yesterday.",
+              "fa": "آن‌ها دیروز با صدای بلند تشویق کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will cheer loudly.",
+              "fa": "آن‌ها فردا با صدای بلند تشویق خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel the beat",
+          "fa": "ریتم را حس کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling the beat.",
+              "fa": "آن‌ها در حال ریتم را حس کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt the beat yesterday.",
+              "fa": "آن‌ها دیروز ریتم را حس کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel the beat.",
+              "fa": "آن‌ها فردا ریتم را حس خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "join the crowd",
+          "fa": "به جمعیت پیوستن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are joining the crowd.",
+              "fa": "آن‌ها در حال به جمعیت پیوستن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They joined the crowd yesterday.",
+              "fa": "آن‌ها دیروز به جمعیت پیوستن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will join the crowd.",
+              "fa": "آن‌ها فردا به جمعیت پیوستن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the show",
+          "fa": "از اجرا لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the show.",
+              "fa": "آن‌ها در حال از اجرا لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the show yesterday.",
+              "fa": "آن‌ها دیروز از اجرا لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the show.",
+              "fa": "آن‌ها فردا از اجرا لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a video",
+          "fa": "فیلم گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a video.",
+              "fa": "آن‌ها در حال فیلم گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a video yesterday.",
+              "fa": "آن‌ها دیروز فیلم گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a video.",
+              "fa": "آن‌ها فردا فیلم خواهند گرفت."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the stage lights in the scene.",
+          "answer_en": "There are stage lights in the scene.",
+          "task_fa": "با There is/are جمله بساز و «stage lights» را ذکر کن.",
+          "answer_fa": "There are stage lights in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:16Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "many people: crowd (young adults) are in concert or festival venue (night), right in the middle of a real-life moment. They are cheering; shouting; raising hands. Two people cheer with raised arms in a crowded concert under colorful lights. There are stage lights, crowd, possible stage (background) around them, and the setting feels excited, energized, joyful. Their clothing, like casual clothing, matches the situation and the environment.",
+    "fa": "many people: crowd (young adults) در concert or festival venue (night) وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال cheering، shouting و raising hands هستند. Two people cheer with raised arms in a crowded concert under colorful lights. اطرافشان stage lights، crowd و possible stage (background) دیده می‌شود و فضا excited، energized و joyful است. لباس‌ها، مثل casual clothing هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "many people: crowd (young adults) are in concert or festival venue (night), right in the middle of a real-life moment. They are cheering; shouting; raising hands. Two people cheer with raised arms in a crowded concert under colorful lights. There are stage lights, crowd, possible stage (background) around them, and the setting feels excited, energized, joyful. Their clothing, like casual clothing, matches the situation and the environment.",
+      "fa": "many people: crowd (young adults) در concert or festival venue (night) وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال cheering، shouting و raising hands هستند. Two people cheer with raised arms in a crowded concert under colorful lights. اطرافشان stage lights، crowd و possible stage (background) دیده می‌شود و فضا excited، energized و joyful است. لباس‌ها، مثل casual clothing هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are cheering.",
+            "There are stage lights and crowd in concert or festival venue (night).",
+            "The atmosphere feels excited."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال cheering هستند.",
+            "در concert or festival venue (night) stage lights و crowd دیده می‌شود.",
+            "فضا excited به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself in concert or festival venue (night). Two people cheer with raised arms in a crowded concert under colorful lights. At first, I noticed stage lights, crowd, possible stage (background) and the way people were cheering. Then I looked closer: their clothing (casual clothing) and their expressions made the scene feel excited, energized, joyful. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل concert or festival venue (night) بودم. Two people cheer with raised arms in a crowded concert under colorful lights. اول stage lights، crowd و possible stage (background) را دیدم و اینکه آدم‌ها چطور cheering. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual clothing) و حالت چهره‌ها باعث شد فضا excited، energized و joyful به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they cheered.",
+            "Then, they checked stage lights and continued.",
+            "Finally, they felt excited about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They cheered.",
+            "بعد، They stage lights را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه excited بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as stage lights, crowd, possible stage (background) are not background; they guide the story. I have also learned how actions like shouting can signal feelings such as excited, energized, joyful. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل stage lights، crowd و possible stage (background) فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل shouting چطور می‌تواند احساساتی مثل excited، energized و joyful را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay excited in concert or festival venue (night).",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در concert or festival venue (night) excited بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment in concert or festival venue (night), one small change could create a big problem. If stage lights, crowd had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در concert or festival venue (night) دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر stage lights و crowd نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked stage lights earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay excited.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر stage lights را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید excited بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

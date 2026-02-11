@@ -1,0 +1,1632 @@
+{
+  "id": "toefl-ax2-08",
+  "title": "Coffee and Conversation",
+  "caption": "This image shows a quiet social ritual. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax2-08",
+    "src800": "assets/images/toefl-photo-ax2-08-800.webp",
+    "src1600": "assets/images/toefl-photo-ax2-08-1600.webp",
+    "alt": "Two women sit at an outdoor cafe table holding coffee cups and smiling."
+  },
+  "fullDescription": {
+    "en": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness.",
+    "fa": "This image shows quiet social ritual. Sharing coffee and conversation provides pause from busy schedules and strengthens relationships. comfortable cafe setting, warm expressions, and small dessert create cozy mood. Their body language suggests trust and ease, like they در حال catching up, exchanging stories, and enjoying everyday happiness."
+  },
+  "simpleEnglish": {
+    "en": "Two friends sit at a cafe. They drink coffee and talk. They smile and enjoy the moment.",
+    "fa": "Two friends sit at cafe. آن‌ها drink coffee and talk. آن‌ها smile and enjoy moment."
+  },
+  "intermediateEnglish": {
+    "en": "Two friends are having coffee together at an outdoor cafe. They look happy and engaged in conversation. The dessert on the table suggests they are taking a break and enjoying a relaxed social routine.",
+    "fa": "Two friends در حال having coffee together at outdoor cafe. آن‌ها look happy and engaged in conversation. dessert on table suggests they گرفتن break and enjoying relaxed social routine."
+  },
+  "advancedEnglish": {
+    "en": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness.",
+    "fa": "This image shows quiet social ritual. Sharing coffee and conversation provides pause from busy schedules and strengthens relationships. comfortable cafe setting, warm expressions, and small dessert create cozy mood. Their body language suggests trust and ease, like they در حال catching up, exchanging stories, and enjoying everyday happiness."
+  },
+  "people": [
+    "2 people: friends (young women)"
+  ],
+  "ages": [
+    "young adults"
+  ],
+  "place": [
+    "outdoor cafe terrace"
+  ],
+  "clothing": [
+    "casual-smart clothing"
+  ],
+  "appearance": [
+    "smiling faces",
+    "holding cups",
+    "leaning toward each other"
+  ],
+  "actions": [
+    "drinking coffee",
+    "talking",
+    "laughing"
+  ],
+  "objects": [
+    "coffee cups",
+    "dessert plate",
+    "cafe table"
+  ],
+  "feelings": [
+    "warm",
+    "friendly",
+    "relaxed"
+  ],
+  "environmentType": [
+    "outdoor cafe / urban"
+  ],
+  "weatherLighting": [
+    "daylight",
+    "cozy city ambiance"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "cafe",
+      "coffee",
+      "dessert",
+      "conversation",
+      "catch up",
+      "relax",
+      "routine",
+      "break",
+      "friendly",
+      "laugh"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "coffee cups",
+      "dessert plate",
+      "cafe table"
+    ],
+    "places": [
+      "outdoor cafe terrace"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "cafe",
+      "fa": "کافه"
+    },
+    {
+      "en": "coffee",
+      "fa": "قهوه"
+    },
+    {
+      "en": "dessert",
+      "fa": "دسر"
+    },
+    {
+      "en": "conversation",
+      "fa": "گفتگو"
+    },
+    {
+      "en": "catch up",
+      "fa": "گپ زدن بعد از مدت‌ها"
+    },
+    {
+      "en": "relax",
+      "fa": "ریلکس کردن"
+    },
+    {
+      "en": "routine",
+      "fa": "روتین"
+    },
+    {
+      "en": "break",
+      "fa": "استراحت"
+    },
+    {
+      "en": "friendly",
+      "fa": "دوستانه"
+    },
+    {
+      "en": "laugh",
+      "fa": "خندیدن"
+    },
+    {
+      "en": "story",
+      "fa": "داستان"
+    },
+    {
+      "en": "schedule",
+      "fa": "برنامه"
+    },
+    {
+      "en": "comfortable",
+      "fa": "راحت"
+    },
+    {
+      "en": "warm",
+      "fa": "گرم"
+    },
+    {
+      "en": "terrace",
+      "fa": "تراس"
+    },
+    {
+      "en": "enjoy",
+      "fa": "لذت بردن"
+    },
+    {
+      "en": "pastry",
+      "fa": "شیرینی"
+    },
+    {
+      "en": "order",
+      "fa": "سفارش دادن"
+    },
+    {
+      "en": "menu",
+      "fa": "منو"
+    },
+    {
+      "en": "barista",
+      "fa": "باریستا"
+    },
+    {
+      "en": "meeting",
+      "fa": "دیدار"
+    },
+    {
+      "en": "quiet",
+      "fa": "آرام"
+    },
+    {
+      "en": "cozy",
+      "fa": "دنج"
+    },
+    {
+      "en": "chat",
+      "fa": "گپ زدن"
+    },
+    {
+      "en": "sip",
+      "fa": "جرعه نوشیدن"
+    },
+    {
+      "en": "cup",
+      "fa": "فنجان"
+    },
+    {
+      "en": "table",
+      "fa": "میز"
+    },
+    {
+      "en": "street",
+      "fa": "خیابان"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX208-C1",
+      "en": "grab a coffee",
+      "fa": "یک قهوه گرفتن"
+    },
+    {
+      "id": "AX208-C2",
+      "en": "catch up over coffee",
+      "fa": "با قهوه گپ زدن"
+    },
+    {
+      "id": "AX208-C3",
+      "en": "enjoy a dessert",
+      "fa": "از دسر لذت بردن"
+    },
+    {
+      "id": "AX208-C4",
+      "en": "take a break",
+      "fa": "استراحت کردن"
+    },
+    {
+      "id": "AX208-C5",
+      "en": "have a conversation",
+      "fa": "گفتگو کردن"
+    },
+    {
+      "id": "AX208-C6",
+      "en": "meet at a cafe",
+      "fa": "در کافه دیدار کردن"
+    },
+    {
+      "id": "AX208-C7",
+      "en": "relax after work",
+      "fa": "بعد از کار ریلکس کردن"
+    },
+    {
+      "id": "AX208-C8",
+      "en": "share stories",
+      "fa": "داستان‌ها را به اشتراک گذاشتن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Simple (عادت‌ها)",
+      "rule": "برای روتین و عادت‌ها از حال ساده استفاده کن.",
+      "examples": [
+        {
+          "en": "They meet for coffee every weekend.",
+          "fa": "آن‌ها هر آخر هفته برای قهوه دیدار می‌کنند."
+        },
+        {
+          "en": "She usually orders a latte.",
+          "fa": "او معمولاً لاته سفارش می‌دهد."
+        }
+      ]
+    },
+    {
+      "title": "Present Continuous (توصیف عکس)",
+      "rule": "برای توصیف کاری که همین الان در تصویر در حال انجام است از حال استمراری استفاده کن.",
+      "examples": [
+        {
+          "en": "They are drinking coffee and laughing.",
+          "fa": "آن‌ها دارند قهوه می‌خورند و می‌خندند."
+        },
+        {
+          "en": "They are talking about their day.",
+          "fa": "آن‌ها دارند درباره روزشان صحبت می‌کنند."
+        }
+      ]
+    },
+    {
+      "title": "Reported speech (گزارش حرف دیگران)",
+      "rule": "برای گفتن اینکه کسی چه گفت از reported speech استفاده کن.",
+      "examples": [
+        {
+          "en": "She said she was busy last week.",
+          "fa": "او گفت هفته گذشته سرش شلوغ بوده است."
+        },
+        {
+          "en": "He told me he would call later.",
+          "fa": "او به من گفت بعداً تماس می‌گیرد."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Coffee and Conversation' most likely take place?",
+        "choices": [
+          "outdoor cafe terrace",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Coffee and Conversation'?",
+        "choices": [
+          "drinking coffee",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Coffee and Conversation'?",
+        "choices": [
+          "warm",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Coffee and Conversation'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Coffee and Conversation' (outdoor cafe terrace). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Coffee and Conversation'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Coffee and Conversation' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 1,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adults"
+    ],
+    "setting": [
+      "outdoor cafe terrace"
+    ],
+    "colorsLighting": [
+      "daylight",
+      "cozy city ambiance"
+    ],
+    "actions": [
+      "drinking coffee",
+      "talking",
+      "laughing"
+    ],
+    "bodyLanguage": [
+      "warm",
+      "friendly",
+      "relaxed"
+    ],
+    "moodAtmosphere": [
+      "warm",
+      "friendly",
+      "relaxed"
+    ],
+    "themes": [
+      "daily routines",
+      "friendship",
+      "conversation"
+    ],
+    "objects": [
+      "coffee cups",
+      "dessert plate",
+      "cafe table"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness. They are in outdoor cafe terrace. Key action: drinking coffee; talking. Mood: warm; friendly.",
+    "simple": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness. They are in outdoor cafe terrace. Key action: drinking coffee; talking. Mood: warm; friendly.",
+    "intermediate": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness. The scene takes place in outdoor cafe terrace. Notable details include coffee cups; dessert plate. The overall atmosphere feels warm; friendly. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness. In this setting (outdoor cafe terrace), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as drinking coffee; talking and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like coffee cups; dessert plate to improve clarity. Tone words (for example: warm; friendly) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This image shows a quiet social ritual. Sharing coffee and conversation provides a pause from busy schedules and strengthens relationships. The comfortable cafe setting, warm expressions, and small dessert create a cozy mood. Their body language suggests trust and ease, like they are catching up, exchanging stories, and enjoying everyday happiness."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "cafe",
+          "fa": "کافه",
+          "task_en": "Say the Persian meaning and use \"cafe\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «cafe» یک جمله ساده بساز."
+        },
+        {
+          "en": "coffee",
+          "fa": "قهوه",
+          "task_en": "Say the Persian meaning and use \"coffee\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «coffee» یک جمله ساده بساز."
+        },
+        {
+          "en": "dessert",
+          "fa": "دسر",
+          "task_en": "Say the Persian meaning and use \"dessert\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «dessert» یک جمله ساده بساز."
+        },
+        {
+          "en": "conversation",
+          "fa": "گفتگو",
+          "task_en": "Say the Persian meaning and use \"conversation\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «conversation» یک جمله ساده بساز."
+        },
+        {
+          "en": "catch up",
+          "fa": "گپ زدن بعد از مدت‌ها",
+          "task_en": "Say the Persian meaning and use \"catch up\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «catch up» یک جمله ساده بساز."
+        },
+        {
+          "en": "relax",
+          "fa": "ریلکس کردن",
+          "task_en": "Say the Persian meaning and use \"relax\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «relax» یک جمله ساده بساز."
+        },
+        {
+          "en": "routine",
+          "fa": "روتین",
+          "task_en": "Say the Persian meaning and use \"routine\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «routine» یک جمله ساده بساز."
+        },
+        {
+          "en": "break",
+          "fa": "استراحت",
+          "task_en": "Say the Persian meaning and use \"break\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «break» یک جمله ساده بساز."
+        },
+        {
+          "en": "friendly",
+          "fa": "دوستانه",
+          "task_en": "Say the Persian meaning and use \"friendly\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «friendly» یک جمله ساده بساز."
+        },
+        {
+          "en": "laugh",
+          "fa": "خندیدن",
+          "task_en": "Say the Persian meaning and use \"laugh\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «laugh» یک جمله ساده بساز."
+        },
+        {
+          "en": "story",
+          "fa": "داستان",
+          "task_en": "Say the Persian meaning and use \"story\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «story» یک جمله ساده بساز."
+        },
+        {
+          "en": "schedule",
+          "fa": "برنامه",
+          "task_en": "Say the Persian meaning and use \"schedule\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «schedule» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "grab a coffee",
+          "fa": "یک قهوه گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are grabbing a coffee.",
+              "fa": "آن‌ها در حال یک قهوه گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They grabbed a coffee yesterday.",
+              "fa": "آن‌ها دیروز یک قهوه گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will grab a coffee.",
+              "fa": "آن‌ها فردا یک قهوه خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "catch up over coffee",
+          "fa": "با قهوه گپ زدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are catching up over coffee.",
+              "fa": "آن‌ها در حال با قهوه گپ زدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They catched up over coffee yesterday.",
+              "fa": "آن‌ها دیروز با قهوه گپ زدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will catch up over coffee.",
+              "fa": "آن‌ها فردا با قهوه گپ زدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy a dessert",
+          "fa": "از دسر لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying a dessert.",
+              "fa": "آن‌ها در حال از دسر لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed a dessert yesterday.",
+              "fa": "آن‌ها دیروز از دسر لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy a dessert.",
+              "fa": "آن‌ها فردا از دسر لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a break",
+          "fa": "استراحت کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a break.",
+              "fa": "آن‌ها در حال استراحت کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a break yesterday.",
+              "fa": "آن‌ها دیروز استراحت کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a break.",
+              "fa": "آن‌ها فردا استراحت خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "have a conversation",
+          "fa": "گفتگو کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are having a conversation.",
+              "fa": "آن‌ها در حال گفتگو کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They had a conversation yesterday.",
+              "fa": "آن‌ها دیروز گفتگو کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will have a conversation.",
+              "fa": "آن‌ها فردا گفتگو خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "meet at a cafe",
+          "fa": "در کافه دیدار کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are meeting at a cafe.",
+              "fa": "آن‌ها در حال در کافه دیدار کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They met at a cafe yesterday.",
+              "fa": "آن‌ها دیروز در کافه دیدار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will meet at a cafe.",
+              "fa": "آن‌ها فردا در کافه دیدار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "relax after work",
+          "fa": "بعد از کار ریلکس کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are relaxing after work.",
+              "fa": "آن‌ها در حال بعد از کار ریلکس کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They relaxxed after work yesterday.",
+              "fa": "آن‌ها دیروز بعد از کار ریلکس کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will relax after work.",
+              "fa": "آن‌ها فردا بعد از کار ریلکس خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "share stories",
+          "fa": "داستان‌ها را به اشتراک گذاشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sharing stories.",
+              "fa": "آن‌ها در حال داستان‌ها را به اشتراک گذاشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They shared stories yesterday.",
+              "fa": "آن‌ها دیروز داستان‌ها را به اشتراک گذاشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will share stories.",
+              "fa": "آن‌ها فردا داستان‌ها را به اشتراک گذاشتن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Coffee and Conversation\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Coffee and Conversation\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "grab a coffee",
+          "fa": "یک قهوه گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are grabbing a coffee.",
+              "fa": "آن‌ها در حال یک قهوه گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They grabbed a coffee yesterday.",
+              "fa": "آن‌ها دیروز یک قهوه گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will grab a coffee.",
+              "fa": "آن‌ها فردا یک قهوه خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "catch up over coffee",
+          "fa": "با قهوه گپ زدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are catching up over coffee.",
+              "fa": "آن‌ها در حال با قهوه گپ زدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They catched up over coffee yesterday.",
+              "fa": "آن‌ها دیروز با قهوه گپ زدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will catch up over coffee.",
+              "fa": "آن‌ها فردا با قهوه گپ زدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy a dessert",
+          "fa": "از دسر لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying a dessert.",
+              "fa": "آن‌ها در حال از دسر لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed a dessert yesterday.",
+              "fa": "آن‌ها دیروز از دسر لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy a dessert.",
+              "fa": "آن‌ها فردا از دسر لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a break",
+          "fa": "استراحت کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a break.",
+              "fa": "آن‌ها در حال استراحت کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a break yesterday.",
+              "fa": "آن‌ها دیروز استراحت کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a break.",
+              "fa": "آن‌ها فردا استراحت خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "have a conversation",
+          "fa": "گفتگو کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are having a conversation.",
+              "fa": "آن‌ها در حال گفتگو کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They had a conversation yesterday.",
+              "fa": "آن‌ها دیروز گفتگو کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will have a conversation.",
+              "fa": "آن‌ها فردا گفتگو خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "meet at a cafe",
+          "fa": "در کافه دیدار کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are meeting at a cafe.",
+              "fa": "آن‌ها در حال در کافه دیدار کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They met at a cafe yesterday.",
+              "fa": "آن‌ها دیروز در کافه دیدار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will meet at a cafe.",
+              "fa": "آن‌ها فردا در کافه دیدار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "relax after work",
+          "fa": "بعد از کار ریلکس کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are relaxing after work.",
+              "fa": "آن‌ها در حال بعد از کار ریلکس کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They relaxxed after work yesterday.",
+              "fa": "آن‌ها دیروز بعد از کار ریلکس کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will relax after work.",
+              "fa": "آن‌ها فردا بعد از کار ریلکس خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "share stories",
+          "fa": "داستان‌ها را به اشتراک گذاشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are sharing stories.",
+              "fa": "آن‌ها در حال داستان‌ها را به اشتراک گذاشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They shared stories yesterday.",
+              "fa": "آن‌ها دیروز داستان‌ها را به اشتراک گذاشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will share stories.",
+              "fa": "آن‌ها فردا داستان‌ها را به اشتراک گذاشتن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the coffee cups in the scene.",
+          "answer_en": "There are coffee cups in the scene.",
+          "task_fa": "با There is/are جمله بساز و «coffee cups» را ذکر کن.",
+          "answer_fa": "There are coffee cups in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:18Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "2 people: friends (young women) are at outdoor cafe terrace, right in the middle of a real-life moment. They are drinking coffee; talking; laughing. Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing. There are coffee cups, dessert plate, cafe table around them, and the setting feels warm, friendly, relaxed. Their clothing, like casual-smart clothing, matches the situation and the environment.",
+    "fa": "2 people: friends (young women) در outdoor cafe terrace وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال drinking coffee، talking و laughing هستند. Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing. اطرافشان coffee cups، dessert plate و cafe table دیده می‌شود و فضا warm، friendly و relaxed است. لباس‌ها، مثل casual-smart clothing هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "2 people: friends (young women) are at outdoor cafe terrace, right in the middle of a real-life moment. They are drinking coffee; talking; laughing. Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing. There are coffee cups, dessert plate, cafe table around them, and the setting feels warm, friendly, relaxed. Their clothing, like casual-smart clothing, matches the situation and the environment.",
+      "fa": "2 people: friends (young women) در outdoor cafe terrace وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال drinking coffee، talking و laughing هستند. Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing. اطرافشان coffee cups، dessert plate و cafe table دیده می‌شود و فضا warm، friendly و relaxed است. لباس‌ها، مثل casual-smart clothing هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "The friends are drinking coffee.",
+            "There are coffee cups and dessert plate in outdoor cafe terrace.",
+            "The atmosphere feels warm."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال drinking coffee هستند.",
+            "در outdoor cafe terrace coffee cups و dessert plate دیده می‌شود.",
+            "فضا warm به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at outdoor cafe terrace. Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing. At first, I noticed coffee cups, dessert plate, cafe table and the way people were drinking coffee. Then I looked closer: their clothing (casual-smart clothing) and their expressions made the scene feel warm, friendly, relaxed. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل outdoor cafe terrace بودم. Two friends enjoy coffee and dessert at an outdoor cafe while chatting and laughing. اول coffee cups، dessert plate و cafe table را دیدم و اینکه آدم‌ها چطور drinking coffee. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual-smart clothing) و حالت چهره‌ها باعث شد فضا warm، friendly و relaxed به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, the friends drank coffee.",
+            "Then, the friends checked coffee cups and continued.",
+            "Finally, they felt warm about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، The friends drank coffee.",
+            "بعد، The friends coffee cups را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه warm بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as coffee cups, dessert plate, cafe table are not background; they guide the story. I have also learned how actions like talking can signal feelings such as warm, friendly, relaxed. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل coffee cups، dessert plate و cafe table فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل talking چطور می‌تواند احساساتی مثل warm، friendly و relaxed را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "The friends have already handled similar situations before.",
+            "The friends have learned to stay warm in outdoor cafe terrace.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "The friends قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "The friends یاد گرفته است در outdoor cafe terrace warm بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at outdoor cafe terrace, one small change could create a big problem. If coffee cups, dessert plate had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در outdoor cafe terrace دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر coffee cups و dessert plate نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If the friends had checked coffee cups earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay warm.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر The friends زودتر coffee cups را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید warm بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

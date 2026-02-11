@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#0f172a" name="theme-color"/>
+<title>Lessons • TOEFL Academic</title>
+<link href="manifest.json" rel="manifest"/>
+<link href="assets/icons/icon-192.png" rel="icon" sizes="192x192"/>
+<link href="css/base.css" rel="stylesheet"/><link href="css/components.css" rel="stylesheet"/>
+<link href="css/custom.css" rel="stylesheet"/>
+<link href="css/theme-pro.css" rel="stylesheet"/>
+<link href="css/luxe.css" rel="stylesheet"/>
+
+
+
+
+
+  <link href="css/theme-nebula.css" rel="stylesheet"/>
+<link rel="stylesheet" href="css/slider-pro.css">
+    <link rel="stylesheet" href="css/patch-v19.css">
+    <link rel="stylesheet" href="css/patch-v21.css">
+<link rel="stylesheet" href="css/patch-v23.css">
+  <link rel="stylesheet" href="css/patch-v28.css">
+  <link rel="stylesheet" href="css/patch-v29.css">
+  <link rel="stylesheet" href="css/patch-v30.css">
+  <link rel="stylesheet" href="css/patch-v31.css">
+  <link rel="stylesheet" href="css/patch-v32.css">
+<link rel="stylesheet" href="css/patch-v33.css">
+<link rel="stylesheet" href="css/patch-v35.css">
+  <link rel="stylesheet" href="css/patch-v34.css">
+<meta content="Learn English with images — TOEFL-style academic lessons with offline support (PWA)." name="description"/><meta content="index,follow" name="robots"/><link href="./index.html" rel="canonical"><meta content="Lessons • TOEFL Academic" property="og:title"/><meta content="Learn English with images — TOEFL-style academic lessons with offline support (PWA)." property="og:description"/><meta content="website" property="og:type"/><meta content="en_US" property="og:locale"/><meta content="assets/icons/icon-512.png" property="og:image"/><meta content="summary" name="twitter:card"/><meta content="Lessons • TOEFL Academic" name="twitter:title"/><meta content="Learn English with images — TOEFL-style academic lessons with offline support (PWA)." name="twitter:description"/><meta content="assets/icons/icon-512.png" name="twitter:image"/><meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/><meta content="TOEFL Academic" name="apple-mobile-web-app-title"/><link href="assets/icons/icon-192.png" rel="apple-touch-icon"><script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "TOEFL Academic Lessons",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "All",
+  "inLanguage": "en-US",
+  "description": "Learn English with images — TOEFL-style academic lessons with offline support (PWA).",
+  "url": "./index.html",
+  "isAccessibleForFree": true
+}</script>
+</link></link></head>
+<body class="has-hero-slider">
+<div aria-hidden="true" class="bg-animated"></div>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="appHeader">
+<a class="brand brandLink" href="index.html" aria-label="Home">
+<span aria-hidden="true" class="brandLogo">EN</span>
+<div class="brandText">
+<span>TOEFL Academic</span>
+<span class="muted small">Lessons • Offline-ready</span>
+</div>
+</a>
+<div class="headerActions">
+<div class="headerButtons">
+<button aria-expanded="false" aria-label="Open menu" class="icon-button menu-toggle" id="menuToggle" type="button">☰</button>
+<button aria-label="Toggle theme" aria-pressed="false" class="icon-button" id="themeToggle" type="button">☀️</button>
+</div>
+<nav aria-label="Main navigation">
+<a class="nav-link" href="#lessonsContainer">Lessons</a>
+<a class="nav-link" href="dictionary.html">Dictionary</a>
+<a class="nav-link" href="offline.html">Offline</a>
+<a class="nav-link" href="about.html">About</a>
+<a class="nav-link" href="settings.html">Settings</a>
+</nav>
+</div>
+</header>
+<main id="main">
+
+  <section class="heroSliderBlock" aria-label="Featured lessons">
+    <div class="pro-slider pro-slider--hero pro-slider--fullpage is-loading" id="featuredSlider" data-slider data-slider-autoinit="false" data-slider-style="fade" data-slider-autoplay="true" data-slider-duration="5500" data-slider-autoinit="false">
+      <div class="pro-slider__viewport">
+        <div class="pro-slider__track" id="featuredSliderTrack">
+          <!-- slides injected by main.js -->
+        </div>
+      </div>
+    </div>
+  </section>
+<h1>Lessons</h1>
+<p class="muted">Click a lesson to open its page.</p>
+<div class="toolbar">
+<label class="searchField">
+<span class="sr-only">Search</span>
+<span aria-hidden="true" class="searchIcon">🔎</span>
+<input aria-label="Search lessons" autocomplete="off" id="searchInput" placeholder="Search lessons (title, level, tags)..." type="search"/>
+</label>
+<div aria-live="polite" class="resultMeta muted small" id="resultMeta"></div>
+</div>
+<div aria-label="Filters" class="filterRow">
+<div aria-label="Filter by topic" class="chipScroll" id="filterChips" role="tablist"></div>
+</div>
+<div class="lesson-grid" id="lessonsContainer"></div>
+</main>
+<script src="js/theme.js"></script>
+<script src="js/utils.js"></script>
+<script defer="" src="js/image-loader.js"></script>
+<script src="js/slider-pro.js" defer></script>
+    <script defer="" src="js/main.js"></script>
+<script>
+    // Register service worker for offline support
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js', { scope: './' });
+      });
+    }
+  </script>
+</body>
+</html>

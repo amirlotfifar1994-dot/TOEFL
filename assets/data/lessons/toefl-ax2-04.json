@@ -1,0 +1,1626 @@
+{
+  "id": "toefl-ax2-04",
+  "title": "Moving On After a Breakup",
+  "caption": "This photo symbolizes emotional loss. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax2-04",
+    "src800": "assets/images/toefl-photo-ax2-04-800.webp",
+    "src1600": "assets/images/toefl-photo-ax2-04-1600.webp",
+    "alt": "A woman looks down while holding a broken heart-shaped paper on a city street."
+  },
+  "fullDescription": {
+    "en": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery.",
+    "fa": "This photo symbolizes emotional loss. torn heart serves as visual metaphor for breakup or deep disappointment, while her downward gaze suggests reflection and grief. busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. strong red color draws attention to idea of love, loss, and recovery."
+  },
+  "simpleEnglish": {
+    "en": "A woman holds a broken heart shape. She looks sad and thinks about something. The background is a city street.",
+    "fa": "woman holds broken heart shape. او looks sad and thinks about something. background is city street."
+  },
+  "intermediateEnglish": {
+    "en": "The woman is standing outdoors and holding a paper heart that is torn in half. Her expression is serious and sad, suggesting heartbreak or disappointment. The blurred city background emphasizes her feelings rather than the location.",
+    "fa": "زن ایستاده‌اند outdoors and holding paper heart that is torn in half. Her expression is serious and sad, suggesting heartbreak or disappointment. blurred city background emphasizes her feelings rather than location."
+  },
+  "advancedEnglish": {
+    "en": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery.",
+    "fa": "This photo symbolizes emotional loss. torn heart serves as visual metaphor for breakup or deep disappointment, while her downward gaze suggests reflection and grief. busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. strong red color draws attention to idea of love, loss, and recovery."
+  },
+  "people": [
+    "1 person: young woman"
+  ],
+  "ages": [
+    "young adult"
+  ],
+  "place": [
+    "outdoor city street"
+  ],
+  "clothing": [
+    "casual jacket/denim",
+    "everyday clothing"
+  ],
+  "appearance": [
+    "serious expression",
+    "holding a torn red heart"
+  ],
+  "actions": [
+    "looking down",
+    "holding the torn heart",
+    "reflecting"
+  ],
+  "objects": [
+    "torn paper heart"
+  ],
+  "feelings": [
+    "sad",
+    "thoughtful",
+    "hurt"
+  ],
+  "environmentType": [
+    "outdoor urban"
+  ],
+  "weatherLighting": [
+    "cool daylight",
+    "muted background colors"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "heartbreak",
+      "breakup",
+      "disappointment",
+      "symbol",
+      "metaphor",
+      "tear (paper)",
+      "recover",
+      "heal",
+      "grief",
+      "reflect"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "torn paper heart"
+    ],
+    "places": [
+      "outdoor city street"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "heartbreak",
+      "fa": "دل‌شکستگی"
+    },
+    {
+      "en": "breakup",
+      "fa": "جدایی"
+    },
+    {
+      "en": "disappointment",
+      "fa": "ناامیدی"
+    },
+    {
+      "en": "symbol",
+      "fa": "نماد"
+    },
+    {
+      "en": "metaphor",
+      "fa": "استعاره"
+    },
+    {
+      "en": "tear (paper)",
+      "fa": "پاره کردن"
+    },
+    {
+      "en": "recover",
+      "fa": "بهبود یافتن"
+    },
+    {
+      "en": "heal",
+      "fa": "ترمیم شدن"
+    },
+    {
+      "en": "grief",
+      "fa": "اندوه"
+    },
+    {
+      "en": "reflect",
+      "fa": "تأمل کردن"
+    },
+    {
+      "en": "move on",
+      "fa": "عبور کردن"
+    },
+    {
+      "en": "lonely",
+      "fa": "تنها"
+    },
+    {
+      "en": "sadness",
+      "fa": "غم"
+    },
+    {
+      "en": "memory",
+      "fa": "خاطره"
+    },
+    {
+      "en": "hope",
+      "fa": "امید"
+    },
+    {
+      "en": "acceptance",
+      "fa": "پذیرش"
+    },
+    {
+      "en": "emotional",
+      "fa": "عاطفی"
+    },
+    {
+      "en": "support",
+      "fa": "حمایت"
+    },
+    {
+      "en": "self-care",
+      "fa": "مراقبت از خود"
+    },
+    {
+      "en": "closure",
+      "fa": "جمع‌بندی/پایان"
+    },
+    {
+      "en": "regret",
+      "fa": "پشیمانی"
+    },
+    {
+      "en": "future",
+      "fa": "آینده"
+    },
+    {
+      "en": "strength",
+      "fa": "قدرت"
+    },
+    {
+      "en": "cope",
+      "fa": "کنار آمدن"
+    },
+    {
+      "en": "pain",
+      "fa": "درد"
+    },
+    {
+      "en": "loss",
+      "fa": "از دست دادن"
+    },
+    {
+      "en": "let go",
+      "fa": "رها کردن"
+    },
+    {
+      "en": "eventually",
+      "fa": "در نهایت"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX204-C1",
+      "en": "go through a breakup",
+      "fa": "تجربه جدایی داشتن"
+    },
+    {
+      "id": "AX204-C2",
+      "en": "feel heartbroken",
+      "fa": "دل‌شکسته بودن"
+    },
+    {
+      "id": "AX204-C3",
+      "en": "move on",
+      "fa": "پیش رفتن/عبور کردن"
+    },
+    {
+      "id": "AX204-C4",
+      "en": "heal emotionally",
+      "fa": "ترمیم عاطفی"
+    },
+    {
+      "id": "AX204-C5",
+      "en": "deal with pain",
+      "fa": "با درد کنار آمدن"
+    },
+    {
+      "id": "AX204-C6",
+      "en": "let go of the past",
+      "fa": "گذشته را رها کردن"
+    },
+    {
+      "id": "AX204-C7",
+      "en": "seek support",
+      "fa": "حمایت گرفتن"
+    },
+    {
+      "id": "AX204-C8",
+      "en": "find closure",
+      "fa": "به پایان/جمع‌بندی رسیدن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Used to (وضعیت گذشته)",
+      "rule": "برای وضعیت/عادت گذشته که تغییر کرده از **used to** استفاده کن.",
+      "examples": [
+        {
+          "en": "She used to feel confident in the relationship.",
+          "fa": "او قبلاً در رابطه احساس اعتمادبه‌نفس داشت."
+        },
+        {
+          "en": "They used to spend weekends together.",
+          "fa": "آن‌ها قبلاً آخر هفته‌ها را با هم می‌گذراندند."
+        }
+      ]
+    },
+    {
+      "title": "Time markers (at first, eventually)",
+      "rule": "برای تغییر در طول زمان از **at first / then / eventually** استفاده کن.",
+      "examples": [
+        {
+          "en": "At first, she felt shocked. Eventually, she began to recover.",
+          "fa": "اول شوکه شد. در نهایت شروع کرد بهتر شود."
+        },
+        {
+          "en": "Then, she focused on self-care.",
+          "fa": "بعد، روی مراقبت از خود تمرکز کرد."
+        }
+      ]
+    },
+    {
+      "title": "Present Perfect (تا الان)",
+      "rule": "برای تجربه‌ها و اثرات تا این لحظه از حال کامل استفاده کن.",
+      "examples": [
+        {
+          "en": "She has learned a lot about herself.",
+          "fa": "او چیزهای زیادی درباره خودش یاد گرفته است."
+        },
+        {
+          "en": "Time has helped her heal.",
+          "fa": "زمان به او کمک کرده ترمیم شود."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Moving On After a Breakup' most likely take place?",
+        "choices": [
+          "outdoor city street",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Moving On After a Breakup'?",
+        "choices": [
+          "looking down",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Moving On After a Breakup'?",
+        "choices": [
+          "sad",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Moving On After a Breakup'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Moving On After a Breakup' (outdoor city street). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Moving On After a Breakup'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Moving On After a Breakup' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 1,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adult"
+    ],
+    "setting": [
+      "outdoor city street"
+    ],
+    "colorsLighting": [
+      "cool daylight",
+      "muted background colors"
+    ],
+    "actions": [
+      "looking down",
+      "holding the torn heart",
+      "reflecting"
+    ],
+    "bodyLanguage": [
+      "sad",
+      "thoughtful",
+      "hurt"
+    ],
+    "moodAtmosphere": [
+      "sad",
+      "thoughtful",
+      "hurt"
+    ],
+    "themes": [
+      "emotional recovery",
+      "self-reflection",
+      "symbolism"
+    ],
+    "objects": [
+      "torn paper heart"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery. They are in outdoor city street. Key action: looking down; holding the torn heart. Mood: sad; thoughtful.",
+    "simple": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery. They are in outdoor city street. Key action: looking down; holding the torn heart. Mood: sad; thoughtful.",
+    "intermediate": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery. The scene takes place in outdoor city street. Notable details include torn paper heart. The overall atmosphere feels sad; thoughtful. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery. In this setting (outdoor city street), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as looking down; holding the torn heart and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like torn paper heart to improve clarity. Tone words (for example: sad; thoughtful) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "A young woman holds a torn paper heart, symbolizing heartbreak and reflection.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This photo symbolizes emotional loss. The torn heart serves as a visual metaphor for a breakup or deep disappointment, while her downward gaze suggests reflection and grief. The busy street behind her contrasts with her quiet focus, implying that life continues around her even as she processes pain. The strong red color draws attention to the idea of love, loss, and recovery."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "heartbreak",
+          "fa": "دل‌شکستگی",
+          "task_en": "Say the Persian meaning and use \"heartbreak\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «heartbreak» یک جمله ساده بساز."
+        },
+        {
+          "en": "breakup",
+          "fa": "جدایی",
+          "task_en": "Say the Persian meaning and use \"breakup\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «breakup» یک جمله ساده بساز."
+        },
+        {
+          "en": "disappointment",
+          "fa": "ناامیدی",
+          "task_en": "Say the Persian meaning and use \"disappointment\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «disappointment» یک جمله ساده بساز."
+        },
+        {
+          "en": "symbol",
+          "fa": "نماد",
+          "task_en": "Say the Persian meaning and use \"symbol\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «symbol» یک جمله ساده بساز."
+        },
+        {
+          "en": "metaphor",
+          "fa": "استعاره",
+          "task_en": "Say the Persian meaning and use \"metaphor\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «metaphor» یک جمله ساده بساز."
+        },
+        {
+          "en": "tear (paper)",
+          "fa": "پاره کردن",
+          "task_en": "Say the Persian meaning and use \"tear (paper)\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «tear (paper)» یک جمله ساده بساز."
+        },
+        {
+          "en": "recover",
+          "fa": "بهبود یافتن",
+          "task_en": "Say the Persian meaning and use \"recover\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «recover» یک جمله ساده بساز."
+        },
+        {
+          "en": "heal",
+          "fa": "ترمیم شدن",
+          "task_en": "Say the Persian meaning and use \"heal\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «heal» یک جمله ساده بساز."
+        },
+        {
+          "en": "grief",
+          "fa": "اندوه",
+          "task_en": "Say the Persian meaning and use \"grief\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «grief» یک جمله ساده بساز."
+        },
+        {
+          "en": "reflect",
+          "fa": "تأمل کردن",
+          "task_en": "Say the Persian meaning and use \"reflect\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «reflect» یک جمله ساده بساز."
+        },
+        {
+          "en": "move on",
+          "fa": "عبور کردن",
+          "task_en": "Say the Persian meaning and use \"move on\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «move on» یک جمله ساده بساز."
+        },
+        {
+          "en": "lonely",
+          "fa": "تنها",
+          "task_en": "Say the Persian meaning and use \"lonely\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «lonely» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "go through a breakup",
+          "fa": "تجربه جدایی داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are going through a breakup.",
+              "fa": "آن‌ها در حال تجربه جدایی داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They went through a breakup yesterday.",
+              "fa": "آن‌ها دیروز تجربه جدایی داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will go through a breakup.",
+              "fa": "آن‌ها فردا تجربه جدایی داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel heartbroken",
+          "fa": "دل‌شکسته بودن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling heartbroken.",
+              "fa": "آن‌ها در حال دل‌شکسته بودن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt heartbroken yesterday.",
+              "fa": "آن‌ها دیروز دل‌شکسته بودند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel heartbroken.",
+              "fa": "آن‌ها فردا دل‌شکسته خواهند بود."
+            }
+          ]
+        },
+        {
+          "en": "move on",
+          "fa": "پیش رفتن/عبور کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are moving on.",
+              "fa": "آن‌ها در حال پیش رفتن/عبور کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They moved on yesterday.",
+              "fa": "آن‌ها دیروز پیش رفتن/عبور کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will move on.",
+              "fa": "آن‌ها فردا پیش رفتن/عبور خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "heal emotionally",
+          "fa": "ترمیم عاطفی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are healing emotionally.",
+              "fa": "آن‌ها در حال ترمیم عاطفی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They healed emotionally yesterday.",
+              "fa": "آن‌ها دیروز ترمیم عاطفی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will heal emotionally.",
+              "fa": "آن‌ها فردا ترمیم عاطفی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "deal with pain",
+          "fa": "با درد کنار آمدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are dealing with pain.",
+              "fa": "آن‌ها در حال با درد کنار آمدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They dealed with pain yesterday.",
+              "fa": "آن‌ها دیروز با درد کنار آمدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will deal with pain.",
+              "fa": "آن‌ها فردا با درد کنار خواهند آمد."
+            }
+          ]
+        },
+        {
+          "en": "let go of the past",
+          "fa": "گذشته را رها کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are letting go of the past.",
+              "fa": "آن‌ها در حال گذشته را رها کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They letted go of the past yesterday.",
+              "fa": "آن‌ها دیروز گذشته را رها کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will let go of the past.",
+              "fa": "آن‌ها فردا گذشته را رها خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "seek support",
+          "fa": "حمایت گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are seeking support.",
+              "fa": "آن‌ها در حال حمایت گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They seeked support yesterday.",
+              "fa": "آن‌ها دیروز حمایت گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will seek support.",
+              "fa": "آن‌ها فردا حمایت خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "find closure",
+          "fa": "به پایان/جمع‌بندی رسیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are finding closure.",
+              "fa": "آن‌ها در حال به پایان/جمع‌بندی رسیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They found closure yesterday.",
+              "fa": "آن‌ها دیروز به پایان/جمع‌بندی رسیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will find closure.",
+              "fa": "آن‌ها فردا به پایان/جمع‌بندی رسیدن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in A young woman holds a torn paper heart, symbolizing heartbreak and reflection.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Moving On After a Breakup\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (A young woman holds a torn paper heart, symbolizing heartbreak and reflection.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: A young woman holds a torn paper heart, symbolizing heartbreak and reflection.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Moving On After a Breakup\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (A young woman holds a torn paper heart, symbolizing heartbreak and reflection.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "go through a breakup",
+          "fa": "تجربه جدایی داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are going through a breakup.",
+              "fa": "آن‌ها در حال تجربه جدایی داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They went through a breakup yesterday.",
+              "fa": "آن‌ها دیروز تجربه جدایی داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will go through a breakup.",
+              "fa": "آن‌ها فردا تجربه جدایی داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "feel heartbroken",
+          "fa": "دل‌شکسته بودن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are feeling heartbroken.",
+              "fa": "آن‌ها در حال دل‌شکسته بودن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They felt heartbroken yesterday.",
+              "fa": "آن‌ها دیروز دل‌شکسته بودند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will feel heartbroken.",
+              "fa": "آن‌ها فردا دل‌شکسته خواهند بود."
+            }
+          ]
+        },
+        {
+          "en": "move on",
+          "fa": "پیش رفتن/عبور کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are moving on.",
+              "fa": "آن‌ها در حال پیش رفتن/عبور کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They moved on yesterday.",
+              "fa": "آن‌ها دیروز پیش رفتن/عبور کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will move on.",
+              "fa": "آن‌ها فردا پیش رفتن/عبور خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "heal emotionally",
+          "fa": "ترمیم عاطفی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are healing emotionally.",
+              "fa": "آن‌ها در حال ترمیم عاطفی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They healed emotionally yesterday.",
+              "fa": "آن‌ها دیروز ترمیم عاطفی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will heal emotionally.",
+              "fa": "آن‌ها فردا ترمیم عاطفی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "deal with pain",
+          "fa": "با درد کنار آمدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are dealing with pain.",
+              "fa": "آن‌ها در حال با درد کنار آمدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They dealed with pain yesterday.",
+              "fa": "آن‌ها دیروز با درد کنار آمدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will deal with pain.",
+              "fa": "آن‌ها فردا با درد کنار خواهند آمد."
+            }
+          ]
+        },
+        {
+          "en": "let go of the past",
+          "fa": "گذشته را رها کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are letting go of the past.",
+              "fa": "آن‌ها در حال گذشته را رها کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They letted go of the past yesterday.",
+              "fa": "آن‌ها دیروز گذشته را رها کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will let go of the past.",
+              "fa": "آن‌ها فردا گذشته را رها خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "seek support",
+          "fa": "حمایت گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are seeking support.",
+              "fa": "آن‌ها در حال حمایت گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They seeked support yesterday.",
+              "fa": "آن‌ها دیروز حمایت گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will seek support.",
+              "fa": "آن‌ها فردا حمایت خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "find closure",
+          "fa": "به پایان/جمع‌بندی رسیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are finding closure.",
+              "fa": "آن‌ها در حال به پایان/جمع‌بندی رسیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They found closure yesterday.",
+              "fa": "آن‌ها دیروز به پایان/جمع‌بندی رسیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will find closure.",
+              "fa": "آن‌ها فردا به پایان/جمع‌بندی رسیدن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the torn paper heart in the scene.",
+          "answer_en": "There are torn paper heart in the scene.",
+          "task_fa": "با There is/are جمله بساز و «torn paper heart» را ذکر کن.",
+          "answer_fa": "There are torn paper heart in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:17Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "1 person: young woman are at outdoor city street, right in the middle of a real-life moment. They are looking down; holding the torn heart; reflecting. A young woman holds a torn paper heart, symbolizing heartbreak and reflection. There are torn paper heart around them, and the setting feels sad, thoughtful, hurt. Their clothing, like casual jacket/denim, everyday clothing, matches the situation and the environment.",
+    "fa": "1 person: young woman در outdoor city street وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال looking down، holding the torn heart و reflecting هستند. A young woman holds a torn paper heart, symbolizing heartbreak and reflection. اطرافشان torn paper heart دیده می‌شود و فضا sad، thoughtful و hurt است. لباس‌ها، مثل casual jacket/denim و everyday clothing هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "1 person: young woman are at outdoor city street, right in the middle of a real-life moment. They are looking down; holding the torn heart; reflecting. A young woman holds a torn paper heart, symbolizing heartbreak and reflection. There are torn paper heart around them, and the setting feels sad, thoughtful, hurt. Their clothing, like casual jacket/denim, everyday clothing, matches the situation and the environment.",
+      "fa": "1 person: young woman در outdoor city street وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال looking down، holding the torn heart و reflecting هستند. A young woman holds a torn paper heart, symbolizing heartbreak and reflection. اطرافشان torn paper heart دیده می‌شود و فضا sad، thoughtful و hurt است. لباس‌ها، مثل casual jacket/denim و everyday clothing هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are looking down.",
+            "There are torn paper heart in outdoor city street.",
+            "The atmosphere feels sad."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال looking down هستند.",
+            "در outdoor city street torn paper heart دیده می‌شود.",
+            "فضا sad به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at outdoor city street. A young woman holds a torn paper heart, symbolizing heartbreak and reflection. At first, I noticed torn paper heart and the way people were looking down. Then I looked closer: their clothing (casual jacket/denim, everyday clothing) and their expressions made the scene feel sad, thoughtful, hurt. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل outdoor city street بودم. A young woman holds a torn paper heart, symbolizing heartbreak and reflection. اول torn paper heart را دیدم و اینکه آدم‌ها چطور looking down. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual jacket/denim و everyday clothing) و حالت چهره‌ها باعث شد فضا sad، thoughtful و hurt به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they looked down.",
+            "Then, they checked torn paper heart and continued.",
+            "Finally, they felt sad about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They looked down.",
+            "بعد، They torn paper heart را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه sad بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as torn paper heart are not background; they guide the story. I have also learned how actions like holding the torn heart can signal feelings such as sad, thoughtful, hurt. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل torn paper heart فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل holding the torn heart چطور می‌تواند احساساتی مثل sad، thoughtful و hurt را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay sad in outdoor city street.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در outdoor city street sad بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at outdoor city street, one small change could create a big problem. If torn paper heart had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در outdoor city street دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر torn paper heart نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked torn paper heart earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay sad.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر torn paper heart را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید sad بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

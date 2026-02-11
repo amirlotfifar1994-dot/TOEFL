@@ -1,0 +1,573 @@
+/**
+ * 🌌 NEBULA THEME - Modern Cosmic Design
+ * 
+ * A vibrant, professional theme featuring:
+ * - Purple, pink, blue cosmic gradients
+ * - Smooth glassmorphism effects
+ * - Particle animations
+ * - Glow effects on hover
+ * - Aurora-inspired backgrounds
+ * 
+ * Usage: Add data-theme="nebula" to <html> or <body>
+ */
+
+/* ============================================
+   NEBULA COLOR PALETTE
+   ============================================ */
+
+:root[data-theme="nebula"],
+body[data-theme="nebula"] {
+  /* Primary Colors - Deep Space */
+  --nebula-bg-deep: #0a0118;
+  --nebula-bg-space: #1a0b2e;
+  --nebula-bg-void: #16213e;
+  
+  /* Card & Surface Colors */
+  --nebula-surface: rgba(37, 20, 66, 0.65);
+  --nebula-card: rgba(45, 25, 85, 0.45);
+  --nebula-glass: rgba(60, 35, 110, 0.25);
+  
+  /* Accent Colors - Cosmic Spectrum */
+  --nebula-purple: #a78bfa;      /* Lavender */
+  --nebula-violet: #8b5cf6;      /* Deep Purple */
+  --nebula-pink: #ec4899;        /* Hot Pink */
+  --nebula-cyan: #22d3ee;        /* Cyan */
+  --nebula-blue: #3b82f6;        /* Blue */
+  --nebula-amber: #fbbf24;       /* Amber */
+  
+  /* Gradient Stops */
+  --nebula-gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --nebula-gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  --nebula-gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  --nebula-gradient-cosmic: linear-gradient(135deg, 
+    #667eea 0%, 
+    #764ba2 25%, 
+    #f093fb 50%, 
+    #8b5cf6 75%, 
+    #a78bfa 100%);
+  
+  /* Text Colors */
+  --nebula-text-primary: #f3f4f6;
+  --nebula-text-secondary: #d1d5db;
+  --nebula-text-muted: #9ca3af;
+  --nebula-text-glow: rgba(167, 139, 250, 0.9);
+  
+  /* Border & Shadow */
+  --nebula-border: rgba(167, 139, 250, 0.2);
+  --nebula-border-bright: rgba(167, 139, 250, 0.4);
+  --nebula-shadow-sm: 0 2px 8px rgba(139, 92, 246, 0.15);
+  --nebula-shadow-md: 0 8px 24px rgba(139, 92, 246, 0.25);
+  --nebula-shadow-lg: 0 16px 48px rgba(139, 92, 246, 0.35);
+  --nebula-shadow-glow: 0 0 20px rgba(167, 139, 250, 0.4);
+  
+  /* Effects */
+  --nebula-blur-glass: blur(12px);
+  --nebula-blur-heavy: blur(20px);
+  
+  /* Animation Durations */
+  --nebula-transition-fast: 0.2s;
+  --nebula-transition-normal: 0.35s;
+  --nebula-transition-slow: 0.6s;
+}
+
+/* ============================================
+   COSMIC BACKGROUND
+   ============================================ */
+
+:root[data-theme="nebula"] body,
+body[data-theme="nebula"] {
+  background: var(--nebula-bg-deep);
+  color: var(--nebula-text-primary);
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Animated Aurora Background */
+:root[data-theme="nebula"] body::before,
+body[data-theme="nebula"]::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background: 
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(139, 92, 246, 0.3), transparent),
+    radial-gradient(ellipse 60% 40% at 80% 60%, rgba(236, 72, 153, 0.2), transparent),
+    radial-gradient(ellipse 50% 60% at 20% 80%, rgba(34, 211, 238, 0.15), transparent);
+  animation: nebula-aurora 20s ease-in-out infinite;
+}
+
+/* Starfield Effect */
+:root[data-theme="nebula"] body::after,
+body[data-theme="nebula"]::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image: 
+    radial-gradient(2px 2px at 20% 30%, white, transparent),
+    radial-gradient(2px 2px at 60% 70%, white, transparent),
+    radial-gradient(1px 1px at 50% 50%, white, transparent),
+    radial-gradient(1px 1px at 80% 10%, white, transparent),
+    radial-gradient(2px 2px at 90% 60%, white, transparent),
+    radial-gradient(1px 1px at 33% 80%, white, transparent),
+    radial-gradient(1px 1px at 15% 90%, white, transparent);
+  background-size: 200% 200%;
+  background-position: 0% 0%;
+  animation: nebula-twinkle 60s linear infinite;
+  opacity: 0.4;
+}
+
+/* Floating Particles */
+.nebula-particles {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.nebula-particle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: var(--nebula-purple);
+  border-radius: 50%;
+  opacity: 0;
+  animation: nebula-float 15s ease-in-out infinite;
+  box-shadow: 0 0 10px var(--nebula-purple);
+}
+
+.nebula-particle:nth-child(1) { left: 10%; animation-delay: 0s; }
+.nebula-particle:nth-child(2) { left: 30%; animation-delay: 3s; }
+.nebula-particle:nth-child(3) { left: 50%; animation-delay: 6s; }
+.nebula-particle:nth-child(4) { left: 70%; animation-delay: 9s; }
+.nebula-particle:nth-child(5) { left: 90%; animation-delay: 12s; }
+
+/* ============================================
+   GLASSMORPHISM EFFECTS
+   ============================================ */
+
+:root[data-theme="nebula"] .appHeader,
+body[data-theme="nebula"] .appHeader {
+  background: var(--nebula-glass);
+  backdrop-filter: var(--nebula-blur-glass);
+  border-bottom: 1px solid var(--nebula-border);
+  box-shadow: 
+    0 4px 12px rgba(0, 0, 0, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+:root[data-theme="nebula"] .panel,
+:root[data-theme="nebula"] .card,
+body[data-theme="nebula"] .panel,
+body[data-theme="nebula"] .card {
+  background: var(--nebula-card);
+  backdrop-filter: var(--nebula-blur-glass);
+  border: 1px solid var(--nebula-border);
+  box-shadow: var(--nebula-shadow-md);
+  transition: all var(--nebula-transition-normal) ease;
+}
+
+:root[data-theme="nebula"] .lesson-card,
+body[data-theme="nebula"] .lesson-card {
+  background: var(--nebula-surface);
+  backdrop-filter: var(--nebula-blur-glass);
+  border: 1px solid var(--nebula-border);
+  box-shadow: var(--nebula-shadow-sm);
+  position: relative;
+  overflow: hidden;
+  transition: all var(--nebula-transition-normal) cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Glow on Hover */
+:root[data-theme="nebula"] .lesson-card:hover,
+body[data-theme="nebula"] .lesson-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  border-color: var(--nebula-border-bright);
+  box-shadow: 
+    var(--nebula-shadow-lg),
+    var(--nebula-shadow-glow);
+}
+
+/* Shimmer Effect on Cards */
+:root[data-theme="nebula"] .lesson-card::before,
+body[data-theme="nebula"] .lesson-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(167, 139, 250, 0.2),
+    transparent
+  );
+  transition: left 0.6s ease;
+}
+
+:root[data-theme="nebula"] .lesson-card:hover::before,
+body[data-theme="nebula"] .lesson-card:hover::before {
+  left: 100%;
+}
+
+/* ============================================
+   BUTTONS & INTERACTIONS
+   ============================================ */
+
+:root[data-theme="nebula"] .btn,
+:root[data-theme="nebula"] .icon-button,
+body[data-theme="nebula"] .btn,
+body[data-theme="nebula"] .icon-button {
+  background: var(--nebula-surface);
+  border: 1px solid var(--nebula-border);
+  color: var(--nebula-text-primary);
+  backdrop-filter: var(--nebula-blur-glass);
+  transition: all var(--nebula-transition-fast) ease;
+  position: relative;
+  overflow: hidden;
+}
+
+:root[data-theme="nebula"] .btn:hover,
+:root[data-theme="nebula"] .icon-button:hover,
+body[data-theme="nebula"] .btn:hover,
+body[data-theme="nebula"] .icon-button:hover {
+  background: var(--nebula-card);
+  border-color: var(--nebula-border-bright);
+  transform: translateY(-2px);
+  box-shadow: var(--nebula-shadow-glow);
+}
+
+/* Primary Button - Gradient */
+:root[data-theme="nebula"] .btnPrimary,
+:root[data-theme="nebula"] .btn-primary,
+body[data-theme="nebula"] .btnPrimary,
+body[data-theme="nebula"] .btn-primary {
+  background: var(--nebula-gradient-cosmic);
+  border: none;
+  color: white;
+  font-weight: 700;
+  box-shadow: var(--nebula-shadow-md);
+}
+
+:root[data-theme="nebula"] .btnPrimary:hover,
+:root[data-theme="nebula"] .btn-primary:hover,
+body[data-theme="nebula"] .btnPrimary:hover,
+body[data-theme="nebula"] .btn-primary:hover {
+  box-shadow: 
+    var(--nebula-shadow-lg),
+    0 0 30px rgba(139, 92, 246, 0.5);
+  transform: translateY(-2px) scale(1.05);
+}
+
+/* Ripple Effect */
+:root[data-theme="nebula"] .btn::after,
+body[data-theme="nebula"] .btn::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(167, 139, 250, 0.5);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+:root[data-theme="nebula"] .btn:active::after,
+body[data-theme="nebula"] .btn:active::after {
+  width: 300px;
+  height: 300px;
+  opacity: 0;
+}
+
+/* ============================================
+   BADGES & CHIPS
+   ============================================ */
+
+:root[data-theme="nebula"] .badge,
+:root[data-theme="nebula"] .chip,
+body[data-theme="nebula"] .badge,
+body[data-theme="nebula"] .chip {
+  background: var(--nebula-glass);
+  backdrop-filter: var(--nebula-blur-glass);
+  border: 1px solid var(--nebula-border);
+  color: var(--nebula-text-primary);
+  transition: all var(--nebula-transition-fast) ease;
+}
+
+:root[data-theme="nebula"] .chip:hover,
+body[data-theme="nebula"] .chip:hover {
+  background: var(--nebula-card);
+  border-color: var(--nebula-purple);
+  box-shadow: 0 0 15px rgba(167, 139, 250, 0.3);
+}
+
+:root[data-theme="nebula"] .chip.active,
+body[data-theme="nebula"] .chip.active {
+  background: var(--nebula-gradient-1);
+  border-color: var(--nebula-violet);
+  color: white;
+  box-shadow: 0 0 20px rgba(139, 92, 246, 0.4);
+}
+
+/* ============================================
+   INPUTS & FORMS
+   ============================================ */
+
+:root[data-theme="nebula"] .input,
+:root[data-theme="nebula"] .textarea,
+:root[data-theme="nebula"] input[type="text"],
+:root[data-theme="nebula"] input[type="search"],
+body[data-theme="nebula"] .input,
+body[data-theme="nebula"] .textarea,
+body[data-theme="nebula"] input[type="text"],
+body[data-theme="nebula"] input[type="search"] {
+  background: var(--nebula-card);
+  backdrop-filter: var(--nebula-blur-glass);
+  border: 1px solid var(--nebula-border);
+  color: var(--nebula-text-primary);
+  transition: all var(--nebula-transition-normal) ease;
+}
+
+:root[data-theme="nebula"] .input:focus,
+:root[data-theme="nebula"] input:focus,
+body[data-theme="nebula"] .input:focus,
+body[data-theme="nebula"] input:focus {
+  border-color: var(--nebula-purple);
+  box-shadow: 
+    0 0 0 3px rgba(167, 139, 250, 0.2),
+    0 0 20px rgba(139, 92, 246, 0.3);
+  outline: none;
+}
+
+:root[data-theme="nebula"] ::placeholder,
+body[data-theme="nebula"] ::placeholder {
+  color: var(--nebula-text-muted);
+}
+
+/* ============================================
+   TEXT & TYPOGRAPHY
+   ============================================ */
+
+:root[data-theme="nebula"] .muted,
+body[data-theme="nebula"] .muted {
+  color: var(--nebula-text-muted);
+}
+
+:root[data-theme="nebula"] h1,
+:root[data-theme="nebula"] h2,
+:root[data-theme="nebula"] h3,
+body[data-theme="nebula"] h1,
+body[data-theme="nebula"] h2,
+body[data-theme="nebula"] h3 {
+  color: var(--nebula-text-primary);
+  text-shadow: 0 2px 8px rgba(139, 92, 246, 0.3);
+}
+
+/* Glow Text Effect for Headers */
+:root[data-theme="nebula"] .h1,
+:root[data-theme="nebula"] .title,
+body[data-theme="nebula"] .h1,
+body[data-theme="nebula"] .title {
+  background: var(--nebula-gradient-cosmic);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: nebula-text-glow 3s ease-in-out infinite;
+}
+
+/* ============================================
+   SPECIAL EFFECTS
+   ============================================ */
+
+/* Floating Animation for Images */
+:root[data-theme="nebula"] .lesson-card img,
+body[data-theme="nebula"] .lesson-card img {
+  transition: transform var(--nebula-transition-normal) ease;
+}
+
+:root[data-theme="nebula"] .lesson-card:hover img,
+body[data-theme="nebula"] .lesson-card:hover img {
+  transform: scale(1.05);
+  filter: brightness(1.1) saturate(1.2);
+}
+
+/* Gradient Border Animation */
+.nebula-border-glow {
+  position: relative;
+}
+
+.nebula-border-glow::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  background: var(--nebula-gradient-cosmic);
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity var(--nebula-transition-normal) ease;
+  z-index: -1;
+}
+
+.nebula-border-glow:hover::before {
+  opacity: 1;
+  animation: nebula-rotate-gradient 3s linear infinite;
+}
+
+/* ============================================
+   ANIMATIONS
+   ============================================ */
+
+@keyframes nebula-aurora {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+    opacity: 0.8;
+  }
+  33% {
+    transform: translateY(-10px) scale(1.05);
+    opacity: 0.9;
+  }
+  66% {
+    transform: translateY(10px) scale(0.95);
+    opacity: 0.85;
+  }
+}
+
+@keyframes nebula-twinkle {
+  0%, 100% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+}
+
+@keyframes nebula-float {
+  0% {
+    transform: translateY(100vh) translateX(0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.8;
+  }
+  90% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(-100vh) translateX(100px);
+    opacity: 0;
+  }
+}
+
+@keyframes nebula-text-glow {
+  0%, 100% {
+    filter: brightness(1) drop-shadow(0 0 10px rgba(167, 139, 250, 0.5));
+  }
+  50% {
+    filter: brightness(1.2) drop-shadow(0 0 20px rgba(167, 139, 250, 0.8));
+  }
+}
+
+@keyframes nebula-rotate-gradient {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes nebula-pulse {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(167, 139, 250, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(167, 139, 250, 0.6);
+  }
+}
+
+/* Fade In Animation */
+@keyframes nebula-fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+:root[data-theme="nebula"] .lesson-card,
+body[data-theme="nebula"] .lesson-card {
+  animation: nebula-fadeIn 0.6s ease-out backwards;
+}
+
+:root[data-theme="nebula"] .lesson-card:nth-child(1),
+body[data-theme="nebula"] .lesson-card:nth-child(1) { animation-delay: 0.05s; }
+:root[data-theme="nebula"] .lesson-card:nth-child(2),
+body[data-theme="nebula"] .lesson-card:nth-child(2) { animation-delay: 0.1s; }
+:root[data-theme="nebula"] .lesson-card:nth-child(3),
+body[data-theme="nebula"] .lesson-card:nth-child(3) { animation-delay: 0.15s; }
+:root[data-theme="nebula"] .lesson-card:nth-child(4),
+body[data-theme="nebula"] .lesson-card:nth-child(4) { animation-delay: 0.2s; }
+:root[data-theme="nebula"] .lesson-card:nth-child(5),
+body[data-theme="nebula"] .lesson-card:nth-child(5) { animation-delay: 0.25s; }
+
+/* ============================================
+   ACCESSIBILITY
+   ============================================ */
+
+/* Respect user preferences */
+@media (prefers-reduced-motion: reduce) {
+  :root[data-theme="nebula"] *,
+  body[data-theme="nebula"] * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* High contrast mode adjustments */
+@media (prefers-contrast: more) {
+  body[data-theme="nebula"]{
+    --nebula-border: rgba(255,255,255,.28);
+  }
+
+  body[data-theme="nebula"] .card,
+  body[data-theme="nebula"] .panel,
+  body[data-theme="nebula"] .lesson-card,
+  body[data-theme="nebula"] .pro-slider__nav{
+    border-color: rgba(255,255,255,.28);
+  }
+}
+
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+.nebula-glow {
+  box-shadow: 0 0 20px var(--nebula-purple);
+  animation: nebula-pulse 2s ease-in-out infinite;
+}
+
+.nebula-gradient-text {
+  background: var(--nebula-gradient-cosmic);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.nebula-glass-panel {
+  background: var(--nebula-glass);
+  backdrop-filter: var(--nebula-blur-glass);
+  border: 1px solid var(--nebula-border);
+  border-radius: 16px;
+  padding: 1.5rem;
+}

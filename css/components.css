@@ -1,0 +1,143 @@
+.appHeader{
+  max-width:var(--max);
+  margin:0 auto;
+  padding:12px 14px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+}
+.brand{display:flex; align-items:center; gap:10px}
+.brandLogo{
+  display:inline-flex; align-items:center; justify-content:center;
+  width:40px; height:40px;
+  border-radius:12px;
+  background:var(--accent);
+  color:#001028;
+  font-weight:800;
+}
+.brandText{display:flex; flex-direction:column; line-height:1.2}
+.headerActions{display:flex; align-items:center; gap:8px; flex-wrap:wrap}
+
+.tabs{
+  position:sticky; top:0; z-index:10;
+  background:color-mix(in oklab, var(--bg) 70%, transparent);
+  backdrop-filter:saturate(120%) blur(8px);
+  border-top:1px solid var(--border);
+  border-bottom:1px solid var(--border);
+  display:flex; gap:8px;
+  padding:10px 12px;
+  overflow:auto;
+}
+.tab{
+  border:1px solid var(--border);
+  background:var(--panel);
+  color:var(--text);
+  padding:9px 12px;
+  border-radius:999px;
+  cursor:pointer;
+  white-space:nowrap;
+}
+.tab.isActive{outline:2px solid var(--accent)}
+.tab:active{transform:translateY(1px)}
+
+.panel, .card{
+  background:var(--panel);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+  padding:14px;
+}
+
+.card{background:var(--card)}
+
+.btn{
+  border:1px solid var(--border);
+  background:var(--panel);
+  color:var(--text);
+  padding:9px 12px;
+  border-radius:12px;
+  cursor:pointer;
+}
+.btn:active{transform:translateY(1px)}
+.btnPrimary{
+  background:var(--accent);
+  color:#001028;
+  border-color:transparent;
+  font-weight:700;
+}
+.btnGhost{background:transparent}
+.btn[disabled]{opacity:.55; cursor:not-allowed}
+
+.pill{
+  display:inline-flex; align-items:center; gap:6px;
+  border:1px solid var(--border);
+  background:var(--card);
+  padding:6px 10px;
+  border-radius:999px;
+}
+.pillWarn{border-color:color-mix(in oklab, var(--warn) 35%, var(--border)); color:color-mix(in oklab, var(--warn) 70%, var(--text))}
+
+.input, .select, .textarea{
+  border:1px solid var(--border);
+  background:var(--panel);
+  color:var(--text);
+  border-radius:12px;
+  padding:10px 12px;
+  outline:none;
+}
+.textarea{width:100%}
+
+.row{display:flex; align-items:center; gap:10px}
+.row.wrap{flex-wrap:wrap}
+
+.mono{
+  font-family:var(--mono);
+  white-space:pre-wrap;
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:12px;
+  padding:12px;
+}
+
+.audio{width:100%; margin-top:10px}
+
+.list{margin:0; padding:0 18px}
+.steps{margin:0; padding:0 20px}
+
+
+/* Image details (جزئیات عکس) */
+.visual-card .muted{
+  margin-top: .25rem;
+}
+.kv-list{
+  list-style: none;
+  padding: 0;
+  margin: .75rem 0 0;
+  display: grid;
+  gap: .5rem;
+}
+.kv-list li{
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: .75rem;
+  padding: .5rem .6rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: color-mix(in srgb, var(--card) 92%, transparent);
+}
+.kv-list .k{
+  font-weight: 600;
+  color: var(--text);
+  opacity: .92;
+}
+.kv-list .v{
+  color: var(--muted);
+  line-height: 1.5;
+}
+@media (max-width: 520px){
+  .kv-list li{
+    grid-template-columns: 1fr;
+    gap: .35rem;
+  }
+}

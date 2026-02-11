@@ -1,0 +1,69 @@
+/* Patch v32: fix “desktop feels narrow” and reduce unnecessary vertical scrolling.
+
+   Problem reported (Windows/desktop): content and lesson grids look stuck in a
+   narrow centered column, so users have to scroll far down.
+
+   Fixes:
+   - Let main content use full available width (no artificial max-width).
+   - Keep reading comfort by limiting only long text blocks, not the whole page.
+   - Improve lesson card grid density on large screens.
+*/
+
+/* 1) Full-width layout on desktop (Windows complaint).
+   theme-pro.css sets main#main max-width: var(--container); we override that.
+*/
+main#main{
+  max-width: 100% !important;
+  width: 100%;
+}
+
+/* Keep the header aligned with the wider main area */
+.appHeader{
+  max-width: 100% !important;
+}
+
+/* 2) Reduce vertical scrolling: more columns where it makes sense */
+
+/* Lessons grid (index) */
+.lesson-grid{
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)) !important;
+}
+
+@media (min-width: 1400px){
+  .lesson-grid{ grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)) !important; }
+}
+
+/* Vocabulary categories: show more columns on wide screens */
+.vocabCatsGrid{
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)) !important;
+}
+
+/* Word cards inside category */
+.vocabCatBody{
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)) !important;
+}
+
+/* 3) Reading comfort: limit paragraph line-length instead of limiting the whole page */
+.page-lesson .lesson-details p,
+.page-lesson .lesson-details li,
+.page-lesson .lesson-details .image-desc{
+  max-width: 85ch;
+}
+
+/* But allow grids and media to stretch fully */
+.page-lesson .lesson-details .lesson-image,
+.page-lesson .lesson-details .vocabCatsGrid,
+.page-lesson .lesson-details .meta-line,
+.page-lesson .lesson-details .lesson-nav,
+.page-lesson .lesson-details .level-panes,
+.page-lesson .lesson-details .scenarioWrap,
+.page-lesson .lesson-details .exerciseGrid,
+.page-lesson .lesson-details table{
+  max-width: none;
+}
+
+/* 4) Make sure layout never collapses into a “tiny column” due to rogue max-width */
+.page-lesson .lesson-layout,
+.page-lesson .lesson-details{
+  min-width: 0;
+}

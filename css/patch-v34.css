@@ -1,0 +1,53 @@
+/* Patch v34
+   Lesson Vocabulary: compact, responsive word-card grid + safer FA display.
+   - Fix: each word card taking a huge grid area (single-column).
+   - Fix: overly wide cards on desktop, nicer density.
+*/
+
+/* Word cards inside each vocabulary category should form a responsive grid */
+.page-lesson .vocabCatBody{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+  align-items: start;
+}
+
+/* Prevent cards from stretching weirdly */
+.page-lesson .vocabWordCard{
+  height: fit-content;
+}
+
+/* Make the summary more compact */
+.page-lesson .vocabWordSummary{
+  padding: 10px 10px;
+}
+
+/* Long words/definitions should wrap nicely */
+.page-lesson .vocabWordTop,
+.page-lesson .vocabFa,
+.page-lesson .vocabDef,
+.page-lesson .vocabExample{
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* On very wide screens, avoid comically huge cards */
+@media (min-width: 1200px){
+  .page-lesson .vocabCatBody{
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  }
+}
+
+/* On small screens keep it single-column */
+@media (max-width: 560px){
+  .page-lesson .vocabCatBody{
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Visual hint for incomplete Persian translations */
+.fa.isIncomplete{
+  opacity: .9;
+  border-inline-start: 3px solid color-mix(in srgb, var(--accent) 70%, transparent);
+  padding-inline-start: .5rem;
+}

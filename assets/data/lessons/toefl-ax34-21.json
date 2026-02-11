@@ -1,0 +1,1673 @@
+{
+  "id": "toefl-ax34-21",
+  "title": "Leaving the Subway: Starting a Workday",
+  "caption": "A man in a suit climbs out of the subway into a bright city morning.",
+  "image": {
+    "src800": "assets/images/toefl-photo-ax34-21-800.webp",
+    "src1600": "assets/images/toefl-photo-ax34-21-1600.webp",
+    "alt": "Practice photo 21 for TOEFL-style description"
+  },
+  "fullDescription": {
+    "en": "A businessman in a suit climbs stairs from a subway entrance to the street, carrying a briefcase in a city setting.",
+    "fa": "businessman in suit climbs stairs from subway entrance to street, carrying briefcase in city setting."
+  },
+  "simpleEnglish": {
+    "en": "A man in a suit is walking up stairs. He is coming out of the subway. He looks busy.",
+    "fa": "man in suit راه می‌روند up stairs. او در حال coming out of subway. او looks busy."
+  },
+  "advancedEnglish": {
+    "en": "A suited commuter ascends the subway stairs toward the street, moving with purpose through the urban environment. The formal clothing and briefcase signal a workday routine, highlighting how public transit connects underground movement to the city’s surface flow.",
+    "fa": "suited commuter ascends subway stairs toward street, moving with purpose through urban environment. formal clothing and briefcase signal workday routine, highlighting how public transit connects underground movement to city’s surface flow."
+  },
+  "people": [
+    "1 man (adult)"
+  ],
+  "ages": [
+    "Adult (approx. 30s–50s)"
+  ],
+  "place": [
+    "Subway entrance/exit",
+    "City street stairway"
+  ],
+  "clothing": [
+    "Business suit",
+    "Dress shoes",
+    "Carrying a bag/briefcase"
+  ],
+  "appearance": [
+    "Hair: short (not clear from back)",
+    "Skin tone not clear",
+    "Build: average",
+    "Approx. height: average; approx. weight/build: average (not measurable precisely from an image)."
+  ],
+  "actions": [
+    "Walking up stairs",
+    "Leaving the subway"
+  ],
+  "objects": [
+    "Subway stairs",
+    "Railings",
+    "City buildings",
+    "Bag/briefcase"
+  ],
+  "feelings": [
+    "Focused",
+    "Busy",
+    "Professional"
+  ],
+  "environmentType": [
+    "Urban / commute / business"
+  ],
+  "weatherLighting": [
+    "Daylight",
+    "Neutral city light"
+  ],
+  "vocabularyExtended": {
+    "people": [
+      "participants",
+      "observers",
+      "speakers"
+    ],
+    "places": [
+      "setting",
+      "environment",
+      "location"
+    ],
+    "actions": [
+      "walking up stairs",
+      "holding the handrail",
+      "carrying a briefcase",
+      "looking at the phone",
+      "checking the time",
+      "emerging into daylight",
+      "adjusting clothing",
+      "breathing in fresh air"
+    ],
+    "objects": [
+      "detail",
+      "background",
+      "foreground",
+      "context clue"
+    ],
+    "feelings": [
+      "quiet",
+      "reflective",
+      "serious",
+      "determined",
+      "focused",
+      "sleepy",
+      "anticipatory",
+      "business‑like"
+    ],
+    "academicPhrases": [
+      "it appears that",
+      "this suggests that",
+      "from my perspective",
+      "it is likely that",
+      "in contrast",
+      "as a result",
+      "for example",
+      "overall",
+      "in addition",
+      "the main focus is",
+      "a possible explanation is",
+      "this could indicate",
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "businessman",
+      "fa": "تاجر/کارمند"
+    },
+    {
+      "en": "suit",
+      "fa": "کت‌وشلوار"
+    },
+    {
+      "en": "commute",
+      "fa": "رفت‌وآمد"
+    },
+    {
+      "en": "subway",
+      "fa": "مترو"
+    },
+    {
+      "en": "stairs",
+      "fa": "پله‌ها"
+    },
+    {
+      "en": "entrance",
+      "fa": "ورودی"
+    },
+    {
+      "en": "exit",
+      "fa": "خروجی"
+    },
+    {
+      "en": "briefcase",
+      "fa": "کیف دستی"
+    },
+    {
+      "en": "office",
+      "fa": "اداره"
+    },
+    {
+      "en": "workday",
+      "fa": "روز کاری"
+    },
+    {
+      "en": "routine",
+      "fa": "روال"
+    },
+    {
+      "en": "professional",
+      "fa": "حرفه‌ای"
+    },
+    {
+      "en": "rush",
+      "fa": "عجله"
+    },
+    {
+      "en": "schedule",
+      "fa": "برنامه"
+    },
+    {
+      "en": "platform",
+      "fa": "سکو"
+    },
+    {
+      "en": "station",
+      "fa": "ایستگاه"
+    },
+    {
+      "en": "underground",
+      "fa": "زیرزمینی"
+    },
+    {
+      "en": "downtown",
+      "fa": "مرکز شهر"
+    },
+    {
+      "en": "railings",
+      "fa": "نرده‌ها"
+    },
+    {
+      "en": "step",
+      "fa": "قدم/پله"
+    },
+    {
+      "en": "carry",
+      "fa": "حمل کردن"
+    },
+    {
+      "en": "arrive",
+      "fa": "رسیدن"
+    },
+    {
+      "en": "depart",
+      "fa": "حرکت کردن"
+    },
+    {
+      "en": "traffic",
+      "fa": "ترافیک"
+    },
+    {
+      "en": "public transport",
+      "fa": "حمل‌ونقل عمومی"
+    },
+    {
+      "en": "conference",
+      "fa": "جلسه"
+    },
+    {
+      "en": "meeting",
+      "fa": "ملاقات کاری"
+    },
+    {
+      "en": "deadline",
+      "fa": "ددلاین"
+    },
+    {
+      "en": "commuter",
+      "fa": "مسافر روزانه"
+    },
+    {
+      "en": "crowd",
+      "fa": "جمعیت"
+    },
+    {
+      "en": "direction",
+      "fa": "جهت"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "purpose",
+      "fa": "هدف"
+    },
+    {
+      "en": "city street",
+      "fa": "خیابان شهری"
+    },
+    {
+      "en": "neighborhood",
+      "fa": "محله"
+    },
+    {
+      "en": "walk briskly",
+      "fa": "سریع قدم زدن"
+    },
+    {
+      "en": "formal",
+      "fa": "رسمی"
+    },
+    {
+      "en": "back view",
+      "fa": "نمای پشت"
+    },
+    {
+      "en": "urban",
+      "fa": "شهری"
+    },
+    {
+      "en": "connect",
+      "fa": "وصل کردن"
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "In the foreground, I can see a key detail that helps explain the situation.",
+      "The scene appears to take place in a real-world setting, based on visual clues.",
+      "One noticeable object suggests what the main activity might be.",
+      "The mood seems quiet, which may be influenced by lighting and body language.",
+      "Overall, the photo suggests a situation that can be explained with evidence-based language."
+    ],
+    "qa": [
+      {
+        "q": "What is the main action in the photo?",
+        "a": "I describe the main action using visible evidence and avoid guessing."
+      },
+      {
+        "q": "Where does it take place?",
+        "a": "I explain indoor/outdoor clues and describe the environment without naming a specific city."
+      },
+      {
+        "q": "What is the mood and why?",
+        "a": "I describe mood using facial expressions, posture, and lighting (if visible)."
+      }
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 30 seconds using 3 visible details.",
+      "Give a 45-second response: description + likely situation + one broader idea.",
+      "Explain the mood and support your answer with two pieces of evidence."
+    ]
+  },
+  "toefl": {
+    "reading": {
+      "passage": "Evidence-based description is a core academic skill. When describing a photo or a scene, strong speakers separate observation from interpretation. Observation focuses on what can be verified directly from the image, while interpretation uses cautious language to propose what might be happening."
+    },
+    "questions": [
+      {
+        "question": "What is the best overall description of 'Professional Leaving the Subway'?",
+        "choices": [
+          "A calm indoor meeting with formal presentations",
+          "People in a public setting engaged in an everyday activity",
+          "A private ceremony with an audience and a stage",
+          "A laboratory experiment with specialized equipment"
+        ],
+        "answer": 1,
+        "explanation": "The scene title and context point to a public setting and routine activity rather than a formal ceremony, lab, or meeting."
+      },
+      {
+        "question": "Which phrase is best for avoiding an unsupported guess?",
+        "choices": [
+          "It is definitely true that",
+          "It appears that",
+          "There is no doubt that",
+          "Everyone knows that"
+        ],
+        "answer": 1,
+        "explanation": "'It appears that' is a hedging phrase that keeps your description evidence-based."
+      },
+      {
+        "question": "Which connector best signals a contrast between two ideas?",
+        "choices": [
+          "For example",
+          "In contrast",
+          "As a result",
+          "In addition"
+        ],
+        "answer": 1,
+        "explanation": "'In contrast' introduces an opposing idea."
+      }
+    ],
+    "listening": {
+      "note": "Read this as a script and practice note-taking.",
+      "script": "Today we will practice describing a photo. First, list what you can see. Second, explain what it might mean. Finally, connect it to a broader idea."
+    },
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Professional Leaving the Subway'. What do you notice first?"
+      },
+      {
+        "prompt": "Explain how the setting in 'Professional Leaving the Subway' affects the mood of the people."
+      },
+      {
+        "prompt": "Predict what might happen next in 'Professional Leaving the Subway' and give one reason."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Professional Leaving the Subway'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 15,
+        "prompt": "Explain the relationship between the people and the setting in 'Professional Leaving the Subway'. Use at least two specific details.",
+        "sampleAnswer": "In 'Professional Leaving the Subway', the setting provides clear context for the people’s actions. Overall, the scene feels purposeful because the subjects seem engaged and oriented toward a shared goal. For example, their body language suggests focus, and the environment appears to support that activity. As a result, the mood is more organized than casual, which indicates that the moment is part of a routine rather than a spontaneous event."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 20,
+        "prompt": "Some people prefer busy environments, while others prefer quiet ones. Using 'Professional Leaving the Subway' as inspiration, state your preference and support it with reasons.",
+        "sampleAnswer": "I prefer quieter environments because they help me think clearly and work efficiently. In contrast, busy places can be distracting and make it harder to focus. For example, when I study in a calm space, I can organize my ideas and finish tasks faster. A possible explanation is that fewer interruptions reduce mental fatigue. Overall, choosing a quiet environment leads to better concentration and less stress, which improves my performance."
+      }
+    ],
+    "examTips": [
+      "Start with a one-sentence overview before details.",
+      "Use location phrases (foreground/background) to organize your description.",
+      "Avoid guessing; hedge with 'it appears' or 'it is likely'.",
+      "Include 2–3 specific details (objects, actions, setting) to support ideas.",
+      "Use linking words (overall, in contrast, as a result) for coherence.",
+      "Speak steadily and manage time: plan 5 seconds, speak 40–45 seconds."
+    ]
+  },
+  "analysis": {
+    "peopleCount": "1 man in the foreground.",
+    "gender": "Appears male (appearance-based).",
+    "ages": "Likely adult in his 30s–50s (approximate).",
+    "setting": "Subway exit stairs in a city environment.",
+    "colorsLighting": "Natural daylight at exit; darker interior behind.",
+    "actions": "Walking up stairs, holding belongings.",
+    "bodyLanguage": "Upright posture suggests purpose and routine.",
+    "moodAtmosphere": "Focused, neutral.",
+    "themes": [
+      "daily routine",
+      "urban mobility",
+      "work life"
+    ],
+    "objects": [
+      "stairs",
+      "handrails",
+      "city buildings"
+    ]
+  },
+  "descriptions": {
+    "beginner": "A businessman in a suit climbs stairs from a subway entrance to the street, carrying a… It takes place in Subway exit stairs in a city environment.. Use simple sentences to describe people, actions, and objects.",
+    "intermediate": "A businessman in a suit climbs stairs from a subway entrance to the street, carrying a briefcase in a city setting. Setting: Subway exit stairs in a city environment.. Atmosphere: Focused, neutral.. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "A businessman in a suit climbs stairs from a subway entrance to the street, carrying a briefcase in a city setting. The setting suggests: Subway exit stairs in a city environment.. Overall tone: Focused, neutral.. A strong response highlights concrete visual evidence, then adds cautious inference (what is likely happening and why) without over-claiming. You will build academic vocabulary and structured answers for TOEFL-style speaking, writing tasks.",
+    "simple": "A businessman in a suit climbs stairs from a subway entrance to the street, carrying a… It takes place in Subway exit stairs in a city environment.. Use simple sentences to describe people, actions, and objects."
+  },
+  "intermediateEnglish": {
+    "en": "The businessman climbs from the underground station to the street, likely on his way to work. The scene shows a typical city commute and a professional routine.",
+    "fa": "businessman climbs from underground station to street, likely on his way to work. scene shows typical city commute and professional routine."
+  },
+  "collocations": [
+    {
+      "id": "L21-C1",
+      "en": "take the subway",
+      "fa": "مترو سوار شدن"
+    },
+    {
+      "id": "L21-C2",
+      "en": "walk up the stairs",
+      "fa": "از پله‌ها بالا رفتن"
+    },
+    {
+      "id": "L21-C3",
+      "en": "wear a suit",
+      "fa": "کت‌وشلوار پوشیدن"
+    },
+    {
+      "id": "L21-C4",
+      "en": "carry a briefcase",
+      "fa": "کیف دستی حمل کردن"
+    },
+    {
+      "id": "L21-C5",
+      "en": "head to the office",
+      "fa": "به سمت اداره رفتن"
+    },
+    {
+      "id": "L21-C6",
+      "en": "daily routine",
+      "fa": "روال روزانه"
+    },
+    {
+      "id": "L21-C7",
+      "en": "busy commute",
+      "fa": "رفت‌وآمد شلوغ"
+    },
+    {
+      "id": "L21-C8",
+      "en": "leave the station",
+      "fa": "از ایستگاه خارج شدن"
+    }
+  ],
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا",
+          "task_en": "Say the Persian meaning and use “atmosphere” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «atmosphere» یک جمله ساده بساز."
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه",
+          "task_en": "Say the Persian meaning and use “background” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «background» یک جمله ساده بساز."
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست",
+          "task_en": "Say the Persian meaning and use “gesture” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «gesture» یک جمله ساده بساز."
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره",
+          "task_en": "Say the Persian meaning and use “expression” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «expression» یک جمله ساده بساز."
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل",
+          "task_en": "Say the Persian meaning and use “interaction” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «interaction» یک جمله ساده بساز."
+        },
+        {
+          "en": "routine",
+          "fa": "روال",
+          "task_en": "Say the Persian meaning and use “routine” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «routine» یک جمله ساده بساز."
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش",
+          "task_en": "Say the Persian meaning and use “challenge” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «challenge» یک جمله ساده بساز."
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد",
+          "task_en": "Say the Persian meaning and use “achievement” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «achievement» یک جمله ساده بساز."
+        },
+        {
+          "en": "crowded",
+          "fa": "شلوغ",
+          "task_en": "Say the Persian meaning and use “crowded” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «crowded» یک جمله ساده بساز."
+        },
+        {
+          "en": "calm",
+          "fa": "آرام",
+          "task_en": "Say the Persian meaning and use “calm” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «calm» یک جمله ساده بساز."
+        },
+        {
+          "en": "anxious",
+          "fa": "نگران",
+          "task_en": "Say the Persian meaning and use “anxious” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «anxious» یک جمله ساده بساز."
+        },
+        {
+          "en": "relieved",
+          "fa": "آسوده",
+          "task_en": "Say the Persian meaning and use “relieved” in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «relieved» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "take the subway",
+          "fa": "مترو سوار شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking the subway.",
+              "fa": "آن‌ها در حال مترو سوار شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took the subway yesterday.",
+              "fa": "آن‌ها دیروز مترو سوار شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take the subway.",
+              "fa": "آن‌ها فردا مترو سوار خواهند شد."
+            }
+          ]
+        },
+        {
+          "en": "walk up the stairs",
+          "fa": "از پله‌ها بالا رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are walking up the stairs.",
+              "fa": "آن‌ها در حال از پله‌ها بالا رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They walked up the stairs yesterday.",
+              "fa": "آن‌ها دیروز از پله‌ها بالا رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will walk up the stairs.",
+              "fa": "آن‌ها فردا از پله‌ها بالا خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "wear a suit",
+          "fa": "کت‌وشلوار پوشیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are wearing a suit.",
+              "fa": "آن‌ها در حال کت‌وشلوار پوشیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They wore a suit yesterday.",
+              "fa": "آن‌ها دیروز کت‌وشلوار پوشیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will wear a suit.",
+              "fa": "آن‌ها فردا کت‌وشلوار پوشیدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "carry a briefcase",
+          "fa": "کیف دستی حمل کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are carrying a briefcase.",
+              "fa": "آن‌ها در حال کیف دستی حمل کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They carried a briefcase yesterday.",
+              "fa": "آن‌ها دیروز کیف دستی حمل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will carry a briefcase.",
+              "fa": "آن‌ها فردا کیف دستی حمل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "head to the office",
+          "fa": "به سمت اداره رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are heading to the office.",
+              "fa": "آن‌ها در حال به سمت اداره رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They headed to the office yesterday.",
+              "fa": "آن‌ها دیروز به سمت اداره رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will head to the office.",
+              "fa": "آن‌ها فردا به سمت اداره خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "daily routine",
+          "fa": "روال روزانه",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are dailying routine.",
+              "fa": "آن‌ها در حال روال روزانه هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They dailied routine yesterday.",
+              "fa": "آن‌ها دیروز روال روزانه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will daily routine.",
+              "fa": "آن‌ها فردا روال روزانه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "busy commute",
+          "fa": "رفت‌وآمد شلوغ",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are busying commute.",
+              "fa": "آن‌ها در حال رفت‌وآمد شلوغ هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They busied commute yesterday.",
+              "fa": "آن‌ها دیروز رفت‌وآمد شلوغ کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will busy commute.",
+              "fa": "آن‌ها فردا رفت‌وآمد شلوغ خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "leave the station",
+          "fa": "از ایستگاه خارج شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are leaving the station.",
+              "fa": "آن‌ها در حال از ایستگاه خارج شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They left the station yesterday.",
+              "fa": "آن‌ها دیروز از ایستگاه خارج شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will leave the station.",
+              "fa": "آن‌ها فردا از ایستگاه خارج خواهند شد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in A man in a suit walks up the stairs from a subway station into a bright city street. Office buildings and traffic signals surround the exit, suggesting a central business area. The image conveys routine, time pressure, and the start of a typical workday.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe the photo in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Speak with structure: overview → details → inference → wrap-up.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo and adding one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows leaving the subway: starting a workday with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "atmosphere",
+          "fa": "فضا/حال‌وهوا"
+        },
+        {
+          "en": "background",
+          "fa": "پس‌زمینه"
+        },
+        {
+          "en": "gesture",
+          "fa": "اشاره/ژست"
+        },
+        {
+          "en": "expression",
+          "fa": "حالت چهره"
+        },
+        {
+          "en": "interaction",
+          "fa": "تعامل"
+        },
+        {
+          "en": "routine",
+          "fa": "روال"
+        },
+        {
+          "en": "challenge",
+          "fa": "چالش"
+        },
+        {
+          "en": "achievement",
+          "fa": "دستاورد"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Describe the photo, infer a challenge, and propose one solution or next step.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Write 150–180 words: describe the scene and argue why this activity is beneficial (or risky).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "take the subway",
+          "fa": "مترو سوار شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking the subway.",
+              "fa": "آن‌ها در حال مترو سوار شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took the subway yesterday.",
+              "fa": "آن‌ها دیروز مترو سوار شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take the subway.",
+              "fa": "آن‌ها فردا مترو سوار خواهند شد."
+            }
+          ]
+        },
+        {
+          "en": "walk up the stairs",
+          "fa": "از پله‌ها بالا رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are walking up the stairs.",
+              "fa": "آن‌ها در حال از پله‌ها بالا رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They walked up the stairs yesterday.",
+              "fa": "آن‌ها دیروز از پله‌ها بالا رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will walk up the stairs.",
+              "fa": "آن‌ها فردا از پله‌ها بالا خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "wear a suit",
+          "fa": "کت‌وشلوار پوشیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are wearing a suit.",
+              "fa": "آن‌ها در حال کت‌وشلوار پوشیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They wore a suit yesterday.",
+              "fa": "آن‌ها دیروز کت‌وشلوار پوشیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will wear a suit.",
+              "fa": "آن‌ها فردا کت‌وشلوار پوشیدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "carry a briefcase",
+          "fa": "کیف دستی حمل کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are carrying a briefcase.",
+              "fa": "آن‌ها در حال کیف دستی حمل کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They carried a briefcase yesterday.",
+              "fa": "آن‌ها دیروز کیف دستی حمل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will carry a briefcase.",
+              "fa": "آن‌ها فردا کیف دستی حمل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "head to the office",
+          "fa": "به سمت اداره رفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are heading to the office.",
+              "fa": "آن‌ها در حال به سمت اداره رفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They headed to the office yesterday.",
+              "fa": "آن‌ها دیروز به سمت اداره رفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will head to the office.",
+              "fa": "آن‌ها فردا به سمت اداره خواهند رفت."
+            }
+          ]
+        },
+        {
+          "en": "daily routine",
+          "fa": "روال روزانه",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are dailying routine.",
+              "fa": "آن‌ها در حال روال روزانه هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They dailied routine yesterday.",
+              "fa": "آن‌ها دیروز روال روزانه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will daily routine.",
+              "fa": "آن‌ها فردا روال روزانه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "busy commute",
+          "fa": "رفت‌وآمد شلوغ",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are busying commute.",
+              "fa": "آن‌ها در حال رفت‌وآمد شلوغ هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They busied commute yesterday.",
+              "fa": "آن‌ها دیروز رفت‌وآمد شلوغ کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will busy commute.",
+              "fa": "آن‌ها فردا رفت‌وآمد شلوغ خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "leave the station",
+          "fa": "از ایستگاه خارج شدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are leaving the station.",
+              "fa": "آن‌ها در حال از ایستگاه خارج شدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They left the station yesterday.",
+              "fa": "آن‌ها دیروز از ایستگاه خارج شدند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will leave the station.",
+              "fa": "آن‌ها فردا از ایستگاه خارج خواهند شد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in past continuous: 'They take in the view.'",
+          "answer_en": "They were taking in the view.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «They take in the view.»",
+          "answer_fa": "They were taking in the view."
+        },
+        {
+          "task_en": "Add a modal: 'They reach a viewpoint.'",
+          "answer_en": "They might reach a viewpoint soon.",
+          "task_fa": "یک modal اضافه کن: «They reach a viewpoint.»",
+          "answer_fa": "They might reach a viewpoint soon."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous (حال استمراری)",
+      "rule": "برای توصیف کاری که **همین الان** در تصویر اتفاق می‌افتد از **am/is/are + V‑ing** استفاده کن.",
+      "examples": [
+        {
+          "en": "A man in a suit are walking in subway entrance/exit.",
+          "fa": "آن‌ها در این صحنه در حال انجام کار هستند."
+        },
+        {
+          "en": "A man in a suit are carrying subway stairs.",
+          "fa": "آن‌ها وسایل لازم را همراه دارند."
+        }
+      ]
+    },
+    {
+      "title": "Comparatives (صفت‌های تفضیلی)",
+      "rule": "برای مقایسه از **-er + than** یا **more + adjective + than** استفاده کن.",
+      "examples": [
+        {
+          "en": "The view looks wider than it seems at first.",
+          "fa": "برای مقایسه از -er/more + adjective + than استفاده می‌کنیم."
+        },
+        {
+          "en": "This place is quieter than a busy street.",
+          "fa": "مثال: quieter than, more crowded than."
+        }
+      ]
+    },
+    {
+      "title": "Linking Words (کلمات ربط)",
+      "rule": "برای وصل‌کردن ایده‌ها از **because / although / while / so** استفاده کن.",
+      "examples": [
+        {
+          "en": "Although the trail is steep, they keep going.",
+          "fa": "although = با اینکه، because = چون، so = بنابراین"
+        },
+        {
+          "en": "Because the weather is clear, the view is sharp.",
+          "fa": "کلمات ربط کمک می‌کنند متن روان و منطقی شود."
+        }
+      ]
+    }
+  ],
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "In this photo, a man in a suit walks up the stairs from a subway station into a bright city street. Office buildings and traffic signals surround the exit, suggesting a central business area Overall, the mood feels workday and realistic."
+    },
+    {
+      "label": "Academic Description",
+      "text": "The image portrays a man in a suit walking up subway stairs toward a busy street and office buildings. Visual elements such as lighting, posture, and setting provide contextual cues that support an interpretation of mood and purpose. The composition balances foreground action with background environment to communicate a clear everyday scenario."
+    },
+    {
+      "label": "Narrative Style",
+      "text": "The moment feels frozen in time: A man in a suit walks up the stairs from a subway station into a bright city street. Small details—light, movement, and expressions—turn an ordinary scene into a memorable snapshot."
+    }
+  ],
+  "sceneDescription": "A man in a suit walks up the stairs from a subway station into a bright city street. Office buildings and traffic signals surround the exit, suggesting a central business area. The image conveys routine, time pressure, and the start of a typical workday.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": {
+      "goals": [
+        "Speak for 45–60 seconds with clear structure (foreground → background → overall).",
+        "Use both Daily English and TOEFL-style academic connectors.",
+        "Add 1 inference and 1 prediction to sound more advanced."
+      ],
+      "what_to_notice": [
+        "People: number, relationships, emotions",
+        "Place: setting and atmosphere",
+        "Action: what is happening right now",
+        "Details: objects, weather/light, colors"
+      ],
+      "speaking_plan": [
+        "1) One-sentence summary of the scene.",
+        "2) Two details about people + action (present continuous).",
+        "3) One detail about background/setting.",
+        "4) One inference (seems/probably) + one prediction (will/going to).",
+        "5) Overall feeling/opinion."
+      ]
+    },
+    "fa": {
+      "goals": [
+        "۴۵ تا ۶۰ ثانیه با ساختار واضح صحبت کنید (پیش‌زمینه → پس‌زمینه → جمع‌بندی).",
+        "هم زبان روزمره و هم اتصال‌دهنده‌های آکادمیک TOEFL را به کار ببرید.",
+        "۱ نتیجه‌گیری و ۱ پیش‌بینی اضافه کنید تا سطح بالاتر به نظر برسد."
+      ],
+      "what_to_notice": [
+        "افراد: تعداد، رابطه‌ها، احساسات",
+        "مکان: فضا و حال‌وهوا",
+        "عمل: الان چه کاری در حال انجام است",
+        "جزئیات: اشیا، آب‌وهوا/نور، رنگ‌ها"
+      ],
+      "speaking_plan": [
+        "۱) یک جمله خلاصه از صحنه.",
+        "۲) دو جزئیات درباره افراد و عمل (حال استمراری).",
+        "۳) یک جزئیات درباره پس‌زمینه/مکان.",
+        "۴) یک نتیجه‌گیری (seems/probably) + یک پیش‌بینی (will/going to).",
+        "۵) جمع‌بندی حس/نظر کلی."
+      ]
+    }
+  },
+  "updatedAt": "2026-02-02T17:38:23Z",
+  "scenario": {
+    "en": "1 man (adult) are at Subway entrance/exit, right in the middle of a real-life moment. They are walking up stairs; leaving the subway. A man in a suit climbs out of the subway into a bright city morning. There are Subway stairs, Railings, City buildings, Bag/briefcase around them, and the setting feels focused, busy, professional. Their clothing, like Business suit, Dress shoes, matches the situation and the environment.",
+    "fa": "1 man (adult) در Subway entrance/exit وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Walking up stairs و Leaving the subway هستند. A man in a suit climbs out of the subway into a bright city morning. اطرافشان Subway stairs، Railings، City buildings و Bag/briefcase دیده می‌شود و فضا Focused، Busy و Professional است. لباس‌ها، مثل Business suit و Dress shoes هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "1 man (adult) are at Subway entrance/exit, right in the middle of a real-life moment. They are walking up stairs; leaving the subway. A man in a suit climbs out of the subway into a bright city morning. There are Subway stairs, Railings, City buildings, Bag/briefcase around them, and the setting feels focused, busy, professional. Their clothing, like Business suit, Dress shoes, matches the situation and the environment.",
+      "fa": "1 man (adult) در Subway entrance/exit وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال Walking up stairs و Leaving the subway هستند. A man in a suit climbs out of the subway into a bright city morning. اطرافشان Subway stairs، Railings، City buildings و Bag/briefcase دیده می‌شود و فضا Focused، Busy و Professional است. لباس‌ها، مثل Business suit و Dress shoes هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are Walking up stairs.",
+            "There are Subway stairs and Railings in Subway entrance/exit.",
+            "The atmosphere feels Focused."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال Walking up stairs هستند.",
+            "در Subway entrance/exit Subway stairs و Railings دیده می‌شود.",
+            "فضا Focused به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at Subway entrance/exit. A man in a suit climbs out of the subway into a bright city morning. At first, I noticed Subway stairs, Railings, City buildings and the way people were walking up stairs. Then I looked closer: their clothing (Business suit, Dress shoes) and their expressions made the scene feel focused, busy, professional. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل Subway entrance/exit بودم. A man in a suit climbs out of the subway into a bright city morning. اول Subway stairs، Railings و City buildings را دیدم و اینکه آدم‌ها چطور Walking up stairs. بعد دقیق‌تر نگاه کردم: لباس‌ها (Business suit و Dress shoes) و حالت چهره‌ها باعث شد فضا Focused، Busy و Professional به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they walked up stairs.",
+            "Then, they checked Subway stairs and continued.",
+            "Finally, they felt Focused about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They walked up stairs.",
+            "بعد، They Subway stairs را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه Focused بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as Subway stairs, Railings, City buildings, Bag/briefcase are not background; they guide the story. I have also learned how actions like leaving the subway can signal feelings such as focused, busy, professional. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل Subway stairs، Railings، City buildings و Bag/briefcase فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل Leaving the subway چطور می‌تواند احساساتی مثل Focused، Busy و Professional را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay Focused in Subway entrance/exit.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در Subway entrance/exit Focused بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at Subway entrance/exit, one small change could create a big problem. If Subway stairs, Railings had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در Subway entrance/exit دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر Subway stairs و Railings نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked Subway stairs earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay Focused.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر Subway stairs را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید Focused بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

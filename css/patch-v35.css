@@ -1,0 +1,68 @@
+/* v35: Quick review compact grid + fix oversized vocabulary cards */
+
+/* Quick review grid */
+.kv-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 14px;
+  margin-top: 12px;
+}
+
+@media (max-width: 768px) {
+  .kv-grid {
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+  }
+}
+
+/* Compact key vocab card */
+.kv-card {
+  position: relative;
+  padding: 12px;
+  border-radius: 14px;
+  background: var(--card, var(--card-bg, rgba(255,255,255,0.06)));
+  border: 1px solid var(--card-border, rgba(255,255,255,0.08));
+  overflow: hidden;
+}
+
+.kv-en {
+  font-weight: 650;
+  font-size: 15px;
+  line-height: 1.2;
+  word-break: break-word;
+}
+
+.kv-fa {
+  margin-top: 8px;
+  font-size: 13px;
+  line-height: 1.6;
+  word-break: break-word;
+}
+
+.kv-missing {
+  opacity: 0.75;
+}
+
+.kv-tr {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  padding: 6px 8px;
+  border-radius: 10px;
+  font-size: 12px;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(0,0,0,0.18);
+}
+
+.kv-tr.is-on {
+  background: rgba(255,255,255,0.12);
+}
+
+/* Make the old slider version not create huge columns if it shows up somewhere */
+.vocabQuickBody .pro-slider .pro-track {
+  gap: 12px;
+}
+
+.vocabQuickBody .pro-slider .pro-slide {
+  max-width: 220px;
+}

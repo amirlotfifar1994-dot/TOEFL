@@ -1,0 +1,309 @@
+/* patch-v29.css — Home slider + card consistency + responsive polish */
+
+/* ---------- Home hero slider: show a graceful placeholder while loading ---------- */
+.has-hero-slider .pro-slider.is-loading .pro-slider__viewport{
+  background:
+    radial-gradient(1200px 600px at 50% 40%, rgba(255,255,255,.06), transparent 60%),
+    linear-gradient(180deg, rgba(0,0,0,.38), rgba(0,0,0,.12));
+}
+
+.has-hero-slider .pro-slider.is-loading .pro-slider__viewport::after{
+  content: 'Loading featured lessons…';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: .75rem 1rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, rgba(0,0,0,.72) 80%, transparent);
+  border: 1px solid rgba(255,255,255,.18);
+  color: rgba(255,255,255,.88);
+  font-weight: 800;
+  letter-spacing: .01em;
+  backdrop-filter: blur(10px);
+}
+
+/* Slightly calmer full-page hero: keep it immersive but not absurdly tall */
+.has-hero-slider .pro-slider--fullpage .pro-slider__viewport{
+  height: min(100vh, 760px);
+  min-height: 480px;
+}
+@supports (height: 100svh){
+  .has-hero-slider .pro-slider--fullpage .pro-slider__viewport{
+    height: min(100svh, 760px);
+  }
+}
+@media (max-width: 768px){
+  .has-hero-slider .pro-slider--fullpage .pro-slider__viewport{
+    height: min(88vh, 640px);
+    min-height: 420px;
+  }
+  @supports (height: 100svh){
+    .has-hero-slider .pro-slider--fullpage .pro-slider__viewport{
+      height: min(88svh, 640px);
+    }
+  }
+}
+
+/* Slider content spacing on smaller screens */
+@media (max-width: 768px){
+  .pro-slider__content{ padding: 22px; }
+  .pro-slider__pagination{ bottom: 14px; }
+}
+
+/* Make the CTA button look like a real button */
+.pro-slider__btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  padding: .8rem 1.1rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--primary, #10b981) 88%, rgba(255,255,255,.12));
+  color: #fff;
+  text-decoration: none;
+  font-weight: 900;
+  border: 1px solid rgba(255,255,255,.14);
+  box-shadow: 0 10px 24px rgba(0,0,0,.22);
+}
+.pro-slider__btn:hover{
+  filter: brightness(1.05);
+  transform: translateY(-1px);
+}
+
+/* ---------- Lesson cards: keep heights consistent and text tidy ---------- */
+.lesson-card h2{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.lesson-card .lesson-caption{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+
+/* Make card images consistent */
+.lesson-card img{
+  aspect-ratio: 16 / 9;
+  height: auto;
+}
+
+/* Slightly denser grid on narrow screens */
+@media (max-width: 560px){
+  .lesson-grid{
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .lesson-card{ border-radius: 18px; }
+}
+
+/* ---------- Small UX polish ---------- */
+.toolbar{ align-items: stretch; }
+.resultMeta{ min-width: unset; }
+
+
+/* ============================================================
+   Vocabulary UI refresh (v31)
+   - Category cards grid
+   - Word cards with lazy definitions (from word_profiles)
+   - Better spacing + mobile friendliness
+   ============================================================ */
+
+.vocabToolbar{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  align-items: center;
+}
+
+.vocabToggleBtn{
+  display: inline-flex;
+  align-items: center;
+  gap: .55rem;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.16));
+  background: color-mix(in srgb, rgba(255,255,255,.06) 70%, transparent);
+  color: var(--text, inherit);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.vocabToggleIcon{
+  font-weight: 900;
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.18));
+  background: rgba(0,0,0,.12);
+}
+.vocabToggleText{ font-weight: 800; opacity: .9; }
+
+.vocabToggleBtn[aria-pressed="false"]{
+  opacity: .75;
+}
+
+.vocabSection.vocab-hide-fa .vocabFa,
+.vocabSection.vocab-hide-fa .vocabExampleFa{
+  display: none !important;
+}
+
+.vocabCatsGrid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+}
+
+.vocabCatCard{
+  border: 1px solid var(--hairline, rgba(255,255,255,.12));
+  border-radius: 18px;
+  background: var(--panel, rgba(255,255,255,.03));
+  overflow: hidden;
+}
+
+.vocabCatHead{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 14px 10px;
+  border-bottom: 1px solid var(--hairline, rgba(255,255,255,.10));
+}
+
+.vocabCatLeft{
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  min-width: 0;
+}
+
+.vocabCatIcon{
+  width: 38px;
+  height: 38px;
+  border-radius: 14px;
+  display: grid;
+  place-items: center;
+  background: rgba(255,255,255,.06);
+  border: 1px solid var(--hairline, rgba(255,255,255,.14));
+  flex: 0 0 38px;
+}
+
+.vocabCatTitleWrap{ min-width: 0; }
+.vocabCatTitle{ font-weight: 950; letter-spacing: .01em; }
+.vocabCatHint{ margin-top: 3px; line-height: 1.55; }
+
+.vocabCatCount{
+  font-size: 12px;
+  opacity: .85;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.14));
+  background: rgba(0,0,0,.10);
+  font-weight: 900;
+}
+
+.vocabCatBody{
+  padding: 12px;
+  display: grid;
+  gap: 10px;
+}
+
+/* Word cards */
+.vocabWordCard{
+  border: 1px solid var(--hairline, rgba(255,255,255,.12));
+  border-radius: 16px;
+  background: color-mix(in srgb, rgba(255,255,255,.04) 70%, transparent);
+  overflow: hidden;
+}
+
+.vocabWordCard > summary{
+  list-style: none;
+}
+.vocabWordCard > summary::-webkit-details-marker{ display:none; }
+
+.vocabWordSummary{
+  cursor: pointer;
+  padding: 12px 12px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.vocabWordSummary:focus-visible{
+  outline: 2px solid rgba(255,255,255,.25);
+  outline-offset: 2px;
+}
+
+.vocabWordLeft{ min-width: 0; }
+.vocabWordTop{ display:flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+
+.vocabTypePill,
+.vocabPosPill{
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.16));
+  background: rgba(0,0,0,.10);
+  opacity: .92;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+}
+
+.vocabPosPill{ text-transform: none; letter-spacing: 0; opacity: .85; }
+
+.vocabFa{
+  margin-top: 4px;
+  font-size: 13px;
+  opacity: .92;
+  line-height: 1.6;
+  word-break: break-word;
+}
+
+.vocabWordBody{
+  padding: 12px 12px 14px;
+  border-top: 1px solid var(--hairline, rgba(255,255,255,.10));
+}
+
+.vocabDef{ font-size: 14px; line-height: 1.65; margin-bottom: 10px; }
+
+.vocabExamples{
+  display: grid;
+  gap: 8px;
+  margin: 10px 0 6px;
+}
+.vocabExample{
+  padding: 10px 10px;
+  border-radius: 14px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.12));
+  background: rgba(0,0,0,.10);
+}
+.vocabExampleFa{ margin-top: 6px; opacity: .9; }
+
+.vocabSynWrap{ margin-top: 10px; }
+.vocabChipRow{ display:flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+.vocabChip{
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.14));
+  background: rgba(255,255,255,.04);
+  text-decoration: none;
+}
+
+.vocabOpenWord{
+  display: inline-flex;
+  margin-top: 12px;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+@media (max-width: 640px){
+  .vocabToolbar{ grid-template-columns: 1fr; }
+  .vocabToggleBtn{ justify-content: center; }
+  .vocabCatsGrid{ grid-template-columns: 1fr; }
+}

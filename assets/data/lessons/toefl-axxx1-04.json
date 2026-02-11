@@ -1,0 +1,1673 @@
+{
+  "id": "toefl-axxx1-04",
+  "title": "A Friendly Deal at the Pastry Counter",
+  "caption": "A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries.",
+  "image": {
+    "base": "toefl-photo-axxx1-04",
+    "src800": "assets/images/toefl-photo-axxx1-04-800.webp",
+    "src1600": "assets/images/toefl-photo-axxx1-04-1600.webp",
+    "alt": "Two men shake hands over a counter displaying trays of pastries and sweets in a market."
+  },
+  "fullDescription": {
+    "en": "In a crowded market, a customer and a vendor shake hands across a pastry counter. The older man behind the counter smiles warmly, while the younger man looks satisfied, suggesting they have agreed on a purchase or price. In front of them, many trays display assorted sweets and pastries, some topped with nuts or syrup. The background is busy with other shoppers, and the warm lighting creates a welcoming atmosphere typical of a traditional bazaar.",
+    "fa": "In crowded بازار, customer and یک فروشنده shake hands across pastry counter. older man behind counter smiles warmly, while younger man looks satisfied, suggesting they have agreed on purchase or price. In front of them, many trays display assorted sweets and pastries, some topped with nuts or syrup. background is busy with other shoppers, and warm lighting creates welcoming atmosphere typical of traditional bazaar."
+  },
+  "simpleEnglish": {
+    "en": "Two men are shaking hands in a market. One man is the seller, and one is the customer. They are standing by a counter full of sweets. The seller is smiling. The mood is friendly.",
+    "fa": "Two men دست می‌دهند hands در یک بازار. One man is seller, and one is customer. آن‌ها ایستاده‌اند by counter full of sweets. seller لبخند می‌زنند. mood is friendly."
+  },
+  "intermediateEnglish": {
+    "en": "In an indoor market, a customer is shaking hands with a vendor at a pastry stall. The vendor, an older man, is smiling as they finish a deal. On the counter, there are many trays of sweets and cookies, which shows the shop sells a large variety. The background is crowded, so the market seems lively and popular.",
+    "fa": "In indoor بازار, customer دست می‌دهند hands with یک فروشنده at pastry stall. فروشنده, older man, لبخند می‌زنند as they finish deal. On counter, there are many trays of sweets and cookies, which shows shop sells large variety. background is crowded, so بازار seems lively and popular."
+  },
+  "advancedEnglish": {
+    "en": "A handshake between a customer and a vendor suggests a successful transaction in a busy market. The older vendor smiles from behind the counter, while the younger customer appears satisfied, as if the price and choice of pastries have been agreed upon. The display is packed with trays of sweets, including cookies and other bite-sized pastries, some topped with nuts. Warm lights and a blurred crowd create a welcoming atmosphere where shopping is also a social experience. After this moment, the vendor will probably pack the order, and the customer will pay and leave with a small box of desserts.",
+    "fa": "handshake between customer and یک فروشنده suggests successful transaction in busy بازار. older فروشنده smiles from behind counter, while younger customer appears satisfied, as if price and choice of pastries have been agreed upon. display is packed with trays of sweets, including cookies and other bite-sized pastries, some topped with nuts. Warm lights and blurred crowd create welcoming atmosphere where shopping is also social experience. After this moment, فروشنده will probably pack order, and customer will pay and leave with small box of desserts."
+  },
+  "people": [
+    "2 people: 2 men (customer and vendor)"
+  ],
+  "ages": [
+    "young adult (20s–30s)",
+    "older adult (50s–60s)"
+  ],
+  "place": [
+    "indoor market / pastry stall"
+  ],
+  "clothing": [
+    "casual sweater",
+    "white button-up shirt"
+  ],
+  "appearance": [
+    "the older man stands behind the counter and smiles",
+    "the younger man faces him and shakes hands",
+    "trays of pastries line the display"
+  ],
+  "actions": [
+    "shaking hands",
+    "finalizing a purchase",
+    "talking politely",
+    "serving customers"
+  ],
+  "objects": [
+    "pastries",
+    "cookies",
+    "sweets",
+    "nuts",
+    "trays",
+    "display counter"
+  ],
+  "feelings": [
+    "friendly",
+    "satisfied",
+    "trusting",
+    "welcoming"
+  ],
+  "environmentType": [
+    "market / shop"
+  ],
+  "weatherLighting": [
+    "warm indoor market lighting",
+    "busy background"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "shake hands",
+      "finalize a deal",
+      "sell pastries",
+      "smile politely",
+      "choose sweets",
+      "count the money",
+      "wrap the order",
+      "point at the display",
+      "hand over a bag"
+    ],
+    "feelings": [
+      "friendly",
+      "satisfied",
+      "welcoming",
+      "happy",
+      "relaxed",
+      "appreciative",
+      "excited",
+      "comfortable"
+    ],
+    "places": [
+      "pastry shop",
+      "market counter",
+      "sweet stall"
+    ],
+    "academicPhrases": [
+      "it appears that",
+      "this suggests that",
+      "overall",
+      "for example",
+      "in addition",
+      "as a result",
+      "it is likely that",
+      "in contrast",
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "vendor",
+      "fa": "فروشنده"
+    },
+    {
+      "en": "customer",
+      "fa": "مشتری"
+    },
+    {
+      "en": "counter",
+      "fa": "پیشخوان"
+    },
+    {
+      "en": "stall",
+      "fa": "غرفه"
+    },
+    {
+      "en": "bazaar",
+      "fa": "بازار سنتی"
+    },
+    {
+      "en": "deal",
+      "fa": "معامله"
+    },
+    {
+      "en": "agreement",
+      "fa": "توافق"
+    },
+    {
+      "en": "handshake",
+      "fa": "دست دادن"
+    },
+    {
+      "en": "transaction",
+      "fa": "تراکنش/معامله"
+    },
+    {
+      "en": "purchase",
+      "fa": "خرید"
+    },
+    {
+      "en": "price",
+      "fa": "قیمت"
+    },
+    {
+      "en": "discount",
+      "fa": "تخفیف"
+    },
+    {
+      "en": "sweets",
+      "fa": "شیرینی‌ها"
+    },
+    {
+      "en": "pastry",
+      "fa": "شیرینی/کیک"
+    },
+    {
+      "en": "cookie",
+      "fa": "کلوچه/بیسکویت"
+    },
+    {
+      "en": "dessert",
+      "fa": "دسر"
+    },
+    {
+      "en": "tray",
+      "fa": "سینی"
+    },
+    {
+      "en": "display",
+      "fa": "ویترین/نمایش"
+    },
+    {
+      "en": "assortment",
+      "fa": "تنوع"
+    },
+    {
+      "en": "variety",
+      "fa": "گوناگونی"
+    },
+    {
+      "en": "nuts",
+      "fa": "آجیل/مغزها"
+    },
+    {
+      "en": "pistachio",
+      "fa": "پسته"
+    },
+    {
+      "en": "walnut",
+      "fa": "گردو"
+    },
+    {
+      "en": "syrup",
+      "fa": "شربت/شهد"
+    },
+    {
+      "en": "fresh",
+      "fa": "تازه"
+    },
+    {
+      "en": "bake",
+      "fa": "پختن"
+    },
+    {
+      "en": "bakery",
+      "fa": "قنادی"
+    },
+    {
+      "en": "shopkeeper",
+      "fa": "صاحب مغازه"
+    },
+    {
+      "en": "crowded",
+      "fa": "شلوغ"
+    },
+    {
+      "en": "lively",
+      "fa": "پرجنب‌وجوش"
+    },
+    {
+      "en": "warm lighting",
+      "fa": "نور گرم"
+    },
+    {
+      "en": "welcoming",
+      "fa": "خوش‌آمدگو"
+    },
+    {
+      "en": "polite",
+      "fa": "مودب"
+    },
+    {
+      "en": "satisfied",
+      "fa": "راضی"
+    },
+    {
+      "en": "trust",
+      "fa": "اعتماد"
+    },
+    {
+      "en": "pack",
+      "fa": "بسته‌بندی کردن"
+    },
+    {
+      "en": "receipt",
+      "fa": "رسید"
+    },
+    {
+      "en": "recommend",
+      "fa": "پیشنهاد دادن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "routine",
+      "fa": "روال"
+    },
+    {
+      "en": "relationship",
+      "fa": "رابطه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AXX104-C1",
+      "en": "shake hands",
+      "fa": "دست دادن"
+    },
+    {
+      "id": "AXX104-C2",
+      "en": "finalize a deal",
+      "fa": "معامله را نهایی کردن"
+    },
+    {
+      "id": "AXX104-C3",
+      "en": "make a purchase",
+      "fa": "خرید کردن"
+    },
+    {
+      "id": "AXX104-C4",
+      "en": "offer a discount",
+      "fa": "تخفیف دادن"
+    },
+    {
+      "id": "AXX104-C5",
+      "en": "a wide variety of sweets",
+      "fa": "تنوع زیاد شیرینی"
+    },
+    {
+      "id": "AXX104-C6",
+      "en": "pack the order",
+      "fa": "سفارش را بسته‌بندی کردن"
+    },
+    {
+      "id": "AXX104-C7",
+      "en": "a crowded bazaar",
+      "fa": "بازار شلوغ"
+    },
+    {
+      "id": "AXX104-C8",
+      "en": "a friendly vendor",
+      "fa": "فروشنده خوش‌برخورد"
+    },
+    {
+      "id": "AXXX104-C9",
+      "en": "pay close attention",
+      "fa": "دقت زیاد کردن"
+    },
+    {
+      "id": "AXXX104-C10",
+      "en": "have a good time",
+      "fa": "خوش گذراندن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous برای تعامل در لحظه",
+      "rule": "برای کارهای در حال انجام در عکس از حال استمراری استفاده کن.",
+      "examples": [
+        {
+          "en": "They are shaking hands across the counter.",
+          "fa": "آن‌ها از روی پیشخوان با هم دست می‌دهند."
+        },
+        {
+          "en": "The vendor is smiling and serving customers.",
+          "fa": "فروشنده لبخند می‌زند و به مشتری‌ها سرویس می‌دهد."
+        }
+      ]
+    },
+    {
+      "title": "Present Perfect (حال کامل) برای نتیجه‌ی معامله",
+      "rule": "برای گفتن کاری که **تازه تمام شده** و اثرش باقی است از **have/has + p.p.** استفاده کن.",
+      "examples": [
+        {
+          "en": "They have agreed on the price.",
+          "fa": "آن‌ها روی قیمت توافق کرده‌اند."
+        },
+        {
+          "en": "The customer has chosen a box of sweets.",
+          "fa": "مشتری یک جعبه شیرینی انتخاب کرده است."
+        }
+      ]
+    },
+    {
+      "title": "Future with will / going to برای ادامه‌ی منطقی",
+      "rule": "برای گفتن اینکه بعدش چه می‌شود از **will / be going to** استفاده کن.",
+      "examples": [
+        {
+          "en": "The vendor will probably pack the pastries.",
+          "fa": "احتمالاً فروشنده شیرینی‌ها را بسته‌بندی می‌کند."
+        },
+        {
+          "en": "The customer is going to pay and leave.",
+          "fa": "مشتری قرار است پول بدهد و برود."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'A Friendly Deal at the Pastry Counter' most likely take place?",
+        "choices": [
+          "indoor market pastry stall",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'A Friendly Deal at the Pastry Counter'?",
+        "choices": [
+          "handshake",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'A Friendly Deal at the Pastry Counter'?",
+        "choices": [
+          "friendly",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'A Friendly Deal at the Pastry Counter'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'A Friendly Deal at the Pastry Counter' (indoor market pastry stall). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'A Friendly Deal at the Pastry Counter'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer spending time alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'A Friendly Deal at the Pastry Counter' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": "2",
+    "gender": "2 men",
+    "ages": [
+      "young adult",
+      "older adult"
+    ],
+    "setting": "indoor market pastry stall",
+    "colorsLighting": "warm gold lighting; colorful trays of sweets",
+    "actions": [
+      "handshake",
+      "finalizing purchase"
+    ],
+    "bodyLanguage": [
+      "smiling faces",
+      "firm handshake"
+    ],
+    "moodAtmosphere": [
+      "friendly",
+      "welcoming",
+      "busy"
+    ],
+    "themes": [
+      "commerce",
+      "community",
+      "food culture"
+    ],
+    "objects": [
+      "trays of pastries",
+      "counter display"
+    ]
+  },
+  "descriptions": {
+    "simple": "Two men are shaking hands in a market. One man is the seller, and one is the customer. They are standing by a counter full of sweets. The seller is smiling. The mood is friendly.",
+    "beginner": "Two men are shaking hands in a market. One man is the seller, and one is the customer. They are standing by a counter full of sweets. The seller is smiling. The mood is friendly.",
+    "intermediate": "In an indoor market, a customer is shaking hands with a vendor at a pastry stall. The vendor, an older man, is smiling as they finish a deal. On the counter, there are many trays of sweets and cookies, which shows the shop sells a large variety. The background is crowded, so the market seems lively and popular.",
+    "advanced": "A handshake between a customer and a vendor suggests a successful transaction in a busy market. The older vendor smiles from behind the counter, while the younger customer appears satisfied, as if the price and choice of pastries have been agreed upon. The display is packed with trays of sweets, including cookies and other bite-sized pastries, some topped with nuts. Warm lights and a blurred crowd create a welcoming atmosphere where shopping is also a social experience. After this moment, the vendor will probably pack the order, and the customer will pay and leave with a small box of desserts."
+  },
+  "sceneNotes": [
+    "Name what you see on the counter (trays, sweets, nuts) before making inferences.",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant."
+  ],
+  "sceneDescription": "A vendor and a customer shake hands at a pastry stall in a busy market.",
+  "lessonOverview": {
+    "en": "This lesson builds everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس زبان روزمره و آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Start with Simple → Intermediate → Advanced. Then study vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌ها را از ساده تا پیشرفته بخوان. سپس واژگان و کالوکیشن‌ها را تمرین کن و در نهایت تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "A handshake between a customer and a vendor suggests a successful transaction in a busy market. The older vendor smiles from behind the counter, while the younger customer appears satisfied, as if the price and choice of pastries have been agreed upon. The display is packed with trays of sweets, including cookies and other bite-sized pastries, some topped with nuts. Warm lights and a blurred crowd create a welcoming atmosphere where shopping is also a social experience. After this moment, the vendor will probably pack the order, and the customer will pay and leave with a small box of desserts."
+    },
+    {
+      "label": "Academic Description",
+      "text": "In a crowded market, a customer and a vendor shake hands across a pastry counter. The older man behind the counter smiles warmly, while the younger man looks satisfied, suggesting they have agreed on a purchase or price. In front of them, many trays display assorted sweets and pastries, some topped with nuts or syrup. The background is busy with other shoppers, and the warm lighting creates a welcoming atmosphere typical of a traditional bazaar."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "vendor",
+          "fa": "فروشنده",
+          "task_en": "Say the Persian meaning and use \"vendor\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «vendor» یک جمله ساده بساز."
+        },
+        {
+          "en": "customer",
+          "fa": "مشتری",
+          "task_en": "Say the Persian meaning and use \"customer\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «customer» یک جمله ساده بساز."
+        },
+        {
+          "en": "counter",
+          "fa": "پیشخوان",
+          "task_en": "Say the Persian meaning and use \"counter\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «counter» یک جمله ساده بساز."
+        },
+        {
+          "en": "stall",
+          "fa": "غرفه",
+          "task_en": "Say the Persian meaning and use \"stall\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «stall» یک جمله ساده بساز."
+        },
+        {
+          "en": "bazaar",
+          "fa": "بازار سنتی",
+          "task_en": "Say the Persian meaning and use \"bazaar\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «bazaar» یک جمله ساده بساز."
+        },
+        {
+          "en": "deal",
+          "fa": "معامله",
+          "task_en": "Say the Persian meaning and use \"deal\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «deal» یک جمله ساده بساز."
+        },
+        {
+          "en": "agreement",
+          "fa": "توافق",
+          "task_en": "Say the Persian meaning and use \"agreement\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «agreement» یک جمله ساده بساز."
+        },
+        {
+          "en": "handshake",
+          "fa": "دست دادن",
+          "task_en": "Say the Persian meaning and use \"handshake\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «handshake» یک جمله ساده بساز."
+        },
+        {
+          "en": "transaction",
+          "fa": "تراکنش/معامله",
+          "task_en": "Say the Persian meaning and use \"transaction\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «transaction» یک جمله ساده بساز."
+        },
+        {
+          "en": "purchase",
+          "fa": "خرید",
+          "task_en": "Say the Persian meaning and use \"purchase\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «purchase» یک جمله ساده بساز."
+        },
+        {
+          "en": "price",
+          "fa": "قیمت",
+          "task_en": "Say the Persian meaning and use \"price\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «price» یک جمله ساده بساز."
+        },
+        {
+          "en": "discount",
+          "fa": "تخفیف",
+          "task_en": "Say the Persian meaning and use \"discount\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «discount» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "shake hands",
+          "fa": "دست دادن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are shaking hands.",
+              "fa": "آن‌ها در حال دست دادن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They shook hands yesterday.",
+              "fa": "آن‌ها دیروز دست دادند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will shake hands.",
+              "fa": "آن‌ها فردا دست خواهند داد."
+            }
+          ]
+        },
+        {
+          "en": "finalize a deal",
+          "fa": "معامله را نهایی کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are finalizing a deal.",
+              "fa": "آن‌ها در حال معامله را نهایی کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They finalized a deal yesterday.",
+              "fa": "آن‌ها دیروز معامله را نهایی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will finalize a deal.",
+              "fa": "آن‌ها فردا معامله را نهایی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "make a purchase",
+          "fa": "خرید کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are making a purchase.",
+              "fa": "آن‌ها در حال خرید کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They made a purchase yesterday.",
+              "fa": "آن‌ها دیروز خرید کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will make a purchase.",
+              "fa": "آن‌ها فردا خرید خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "offer a discount",
+          "fa": "تخفیف دادن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are offerring a discount.",
+              "fa": "آن‌ها در حال تخفیف دادن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They offerred a discount yesterday.",
+              "fa": "آن‌ها دیروز تخفیف دادند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will offer a discount.",
+              "fa": "آن‌ها فردا تخفیف خواهند داد."
+            }
+          ]
+        },
+        {
+          "en": "a wide variety of sweets",
+          "fa": "تنوع زیاد شیرینی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are aing wide variety of sweets.",
+              "fa": "آن‌ها در حال تنوع زیاد شیرینی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They aed wide variety of sweets yesterday.",
+              "fa": "آن‌ها دیروز تنوع زیاد شیرینی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will a wide variety of sweets.",
+              "fa": "آن‌ها فردا تنوع زیاد شیرینی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "pack the order",
+          "fa": "سفارش را بسته‌بندی کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are packing the order.",
+              "fa": "آن‌ها در حال سفارش را بسته‌بندی کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They packed the order yesterday.",
+              "fa": "آن‌ها دیروز سفارش را بسته‌بندی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will pack the order.",
+              "fa": "آن‌ها فردا سفارش را بسته‌بندی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "a crowded bazaar",
+          "fa": "بازار شلوغ",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are aing crowded bazaar.",
+              "fa": "آن‌ها در حال بازار شلوغ هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They aed crowded bazaar yesterday.",
+              "fa": "آن‌ها دیروز بازار شلوغ کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will a crowded bazaar.",
+              "fa": "آن‌ها فردا بازار شلوغ خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "a friendly vendor",
+          "fa": "فروشنده خوش‌برخورد",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are aing friendly vendor.",
+              "fa": "آن‌ها در حال فروشنده خوش‌برخورد هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They aed friendly vendor yesterday.",
+              "fa": "آن‌ها دیروز فروشنده خوش‌برخورد کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will a friendly vendor.",
+              "fa": "آن‌ها فردا فروشنده خوش‌برخورد خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in A vendor and a customer shake hands at a pastry stall in a busy market.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Say what the men are doing and name 3 kinds of sweets you can see.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Describe the interaction at the counter and the atmosphere in the market.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write 80–110 words describing a friendly purchase in a market. Use present continuous + past simple once.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "vendor",
+          "fa": "فروشنده"
+        },
+        {
+          "en": "customer",
+          "fa": "مشتری"
+        },
+        {
+          "en": "counter",
+          "fa": "پیشخوان"
+        },
+        {
+          "en": "stall",
+          "fa": "غرفه"
+        },
+        {
+          "en": "bazaar",
+          "fa": "بازار سنتی"
+        },
+        {
+          "en": "deal",
+          "fa": "معامله"
+        },
+        {
+          "en": "agreement",
+          "fa": "توافق"
+        },
+        {
+          "en": "handshake",
+          "fa": "دست دادن"
+        },
+        {
+          "en": "transaction",
+          "fa": "تراکنش/معامله"
+        },
+        {
+          "en": "purchase",
+          "fa": "خرید"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "TOEFL-style: explain the social meaning of a handshake and describe the transaction. Use contrast (while/whereas).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated-style: Describe the photo, then explain how trust and community affect small businesses.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "shake hands",
+          "fa": "دست دادن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are shaking hands.",
+              "fa": "آن‌ها در حال دست دادن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They shook hands yesterday.",
+              "fa": "آن‌ها دیروز دست دادند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will shake hands.",
+              "fa": "آن‌ها فردا دست خواهند داد."
+            }
+          ]
+        },
+        {
+          "en": "finalize a deal",
+          "fa": "معامله را نهایی کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are finalizing a deal.",
+              "fa": "آن‌ها در حال معامله را نهایی کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They finalized a deal yesterday.",
+              "fa": "آن‌ها دیروز معامله را نهایی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will finalize a deal.",
+              "fa": "آن‌ها فردا معامله را نهایی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "make a purchase",
+          "fa": "خرید کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are making a purchase.",
+              "fa": "آن‌ها در حال خرید کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They made a purchase yesterday.",
+              "fa": "آن‌ها دیروز خرید کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will make a purchase.",
+              "fa": "آن‌ها فردا خرید خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "offer a discount",
+          "fa": "تخفیف دادن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are offerring a discount.",
+              "fa": "آن‌ها در حال تخفیف دادن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They offerred a discount yesterday.",
+              "fa": "آن‌ها دیروز تخفیف دادند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will offer a discount.",
+              "fa": "آن‌ها فردا تخفیف خواهند داد."
+            }
+          ]
+        },
+        {
+          "en": "a wide variety of sweets",
+          "fa": "تنوع زیاد شیرینی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are aing wide variety of sweets.",
+              "fa": "آن‌ها در حال تنوع زیاد شیرینی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They aed wide variety of sweets yesterday.",
+              "fa": "آن‌ها دیروز تنوع زیاد شیرینی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will a wide variety of sweets.",
+              "fa": "آن‌ها فردا تنوع زیاد شیرینی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "pack the order",
+          "fa": "سفارش را بسته‌بندی کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are packing the order.",
+              "fa": "آن‌ها در حال سفارش را بسته‌بندی کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They packed the order yesterday.",
+              "fa": "آن‌ها دیروز سفارش را بسته‌بندی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will pack the order.",
+              "fa": "آن‌ها فردا سفارش را بسته‌بندی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "a crowded bazaar",
+          "fa": "بازار شلوغ",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are aing crowded bazaar.",
+              "fa": "آن‌ها در حال بازار شلوغ هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They aed crowded bazaar yesterday.",
+              "fa": "آن‌ها دیروز بازار شلوغ کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will a crowded bazaar.",
+              "fa": "آن‌ها فردا بازار شلوغ خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "a friendly vendor",
+          "fa": "فروشنده خوش‌برخورد",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are aing friendly vendor.",
+              "fa": "آن‌ها در حال فروشنده خوش‌برخورد هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They aed friendly vendor yesterday.",
+              "fa": "آن‌ها دیروز فروشنده خوش‌برخورد کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will a friendly vendor.",
+              "fa": "آن‌ها فردا فروشنده خوش‌برخورد خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'They shake hands.'",
+          "answer_en": "They are shaking hands.",
+          "task_fa": "به حال استمراری تبدیل کن.",
+          "answer_fa": "They are shaking hands."
+        },
+        {
+          "task_en": "Use 'have just': 'They finish the deal.'",
+          "answer_en": "They have just finished the deal.",
+          "task_fa": "با have just جمله بساز.",
+          "answer_fa": "They have just finished the deal."
+        },
+        {
+          "task_en": "Use 'There are': Mention the trays.",
+          "answer_en": "There are trays of pastries on the counter.",
+          "task_fa": "با There are سینی‌ها را ذکر کن.",
+          "answer_fa": "There are trays of pastries on the counter."
+        },
+        {
+          "task_en": "Combine with 'while': 'The vendor smiles. The customer pays.'",
+          "answer_en": "The vendor smiles while the customer pays.",
+          "task_fa": "با while دو جمله را ترکیب کن.",
+          "answer_fa": "The vendor smiles while the customer pays."
+        },
+        {
+          "task_en": "Change to past simple: 'They make a purchase.'",
+          "answer_en": "They made a purchase.",
+          "task_fa": "به گذشته ساده تبدیل کن.",
+          "answer_fa": "They made a purchase."
+        },
+        {
+          "task_en": "Make an inference with 'seems': 'They know each other.'",
+          "answer_en": "It seems they know each other.",
+          "task_fa": "با seems حدس بزن.",
+          "answer_fa": "It seems they know each other."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-02T10:11:54Z",
+  "updatedAt": "2026-02-02T17:38:23Z",
+  "scenario": {
+    "en": "2 people: 2 men (customer and vendor) are at indoor market / pastry stall, right in the middle of a real-life moment. They are shaking hands; finalizing a purchase; talking politely. A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries. There are pastries, cookies, sweets, nuts around them, and the setting feels friendly, satisfied, trusting. Their clothing, like casual sweater, white button-up shirt, matches the situation and the environment.",
+    "fa": "2 people: 2 men (customer and vendor) در indoor market / pastry stall وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال shaking hands، finalizing a purchase و talking politely هستند. A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries. اطرافشان pastries، cookies، sweets و nuts دیده می‌شود و فضا friendly، satisfied و trusting است. لباس‌ها، مثل casual sweater و white button-up shirt هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "2 people: 2 men (customer and vendor) are at indoor market / pastry stall, right in the middle of a real-life moment. They are shaking hands; finalizing a purchase; talking politely. A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries. There are pastries, cookies, sweets, nuts around them, and the setting feels friendly, satisfied, trusting. Their clothing, like casual sweater, white button-up shirt, matches the situation and the environment.",
+      "fa": "2 people: 2 men (customer and vendor) در indoor market / pastry stall وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال shaking hands، finalizing a purchase و talking politely هستند. A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries. اطرافشان pastries، cookies، sweets و nuts دیده می‌شود و فضا friendly، satisfied و trusting است. لباس‌ها، مثل casual sweater و white button-up shirt هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are shaking hands.",
+            "There are pastries and cookies in indoor market / pastry stall.",
+            "The atmosphere feels friendly."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال shaking hands هستند.",
+            "در indoor market / pastry stall pastries و cookies دیده می‌شود.",
+            "فضا friendly به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at indoor market / pastry stall. A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries. At first, I noticed pastries, cookies, sweets and the way people were shaking hands. Then I looked closer: their clothing (casual sweater, white button-up shirt) and their expressions made the scene feel friendly, satisfied, trusting. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل indoor market / pastry stall بودم. A customer and a vendor shake hands in a bustling market stall filled with sweets and pastries. اول pastries، cookies و sweets را دیدم و اینکه آدم‌ها چطور shaking hands. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual sweater و white button-up shirt) و حالت چهره‌ها باعث شد فضا friendly، satisfied و trusting به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they shook hands.",
+            "Then, they checked pastries and continued.",
+            "Finally, they felt friendly about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They shook hands.",
+            "بعد، They pastries را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه friendly بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as pastries, cookies, sweets, nuts are not background; they guide the story. I have also learned how actions like finalizing a purchase can signal feelings such as friendly, satisfied, trusting. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل pastries، cookies، sweets و nuts فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل finalizing a purchase چطور می‌تواند احساساتی مثل friendly، satisfied و trusting را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay friendly in indoor market / pastry stall.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در indoor market / pastry stall friendly بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at indoor market / pastry stall, one small change could create a big problem. If pastries, cookies had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در indoor market / pastry stall دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر pastries و cookies نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked pastries earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay friendly.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر pastries را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید friendly بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

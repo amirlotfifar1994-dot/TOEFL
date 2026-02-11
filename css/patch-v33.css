@@ -1,0 +1,124 @@
+/* Patch v33
+   Lesson pages: make layout truly responsive and full-width on desktop.
+
+   Root cause of “tiny column” on wide screens:
+   - .lesson-layout becomes a 2-column grid (280px + 1fr) at >=980px
+   - TOC (lesson-toc) was missing, so the only child (article) landed in the
+     first 280px column.
+
+   JS now appends a TOC. CSS below is hardened so the page still looks correct
+   even if the TOC fails to render.
+*/
+
+/* Make sure the lesson page can use the full viewport width */
+.page-lesson main#main{
+  max-width: none !important;
+  width: 100%;
+}
+
+/* The host element in lesson.html used to have class=lesson-details (legacy).
+   Ensure it never constrains width even if the class remains.
+*/
+.page-lesson #lessonContainer{
+  max-width: none !important;
+  width: 100%;
+  margin: 0 !important;
+  padding: 0;
+}
+
+/* The grid wrapper should fill available width and have comfortable padding */
+.page-lesson .lesson-layout{
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0 clamp(12px, 2vw, 28px) 28px;
+  box-sizing: border-box;
+}
+
+/* If the layout has only the article (TOC missing), let the article span full grid */
+.page-lesson .lesson-layout > article.lesson-details{
+  max-width: none !important;
+  width: 100%;
+  margin: 0 !important;
+  min-width: 0;
+  grid-column: 1 / -1;
+}
+
+/* When TOC exists, place it in column 1 and article in column 2 */
+@media (min-width: 980px){
+  .page-lesson .lesson-layout{
+    grid-template-columns: 300px 1fr;
+  }
+  .page-lesson .lesson-layout > .lesson-toc{
+    grid-column: 1;
+  }
+  .page-lesson .lesson-layout > article.lesson-details{
+    grid-column: 2;
+  }
+}
+
+@media (min-width: 1400px){
+  .page-lesson .lesson-layout{ grid-template-columns: 320px 1fr; }
+}
+
+/* Keep long text readable without shrinking the entire layout */
+.page-lesson article.lesson-details p,
+.page-lesson article.lesson-details li{
+  max-width: 85ch;
+}
+
+/* Let grids/media stretch */
+.page-lesson article.lesson-details .vocabCatsGrid,
+.page-lesson article.lesson-details .vocabCatBody,
+.page-lesson article.lesson-details .exerciseGrid,
+.page-lesson article.lesson-details .scenarioWrap,
+.page-lesson article.lesson-details table,
+.page-lesson article.lesson-details .lesson-image{
+  max-width: none;
+}
+
+/* Vocabulary grids: denser on desktop, single column on small phones */
+.page-lesson .vocabCatsGrid{
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+  gap: 14px;
+}
+
+.page-lesson .vocabCatBody{
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)) !important;
+}
+
+@media (max-width: 520px){
+  .page-lesson .vocabCatsGrid{ grid-template-columns: 1fr; }
+  .page-lesson .vocabCatBody{ grid-template-columns: 1fr !important; }
+}
+
+/* Prevent weird overflows in grid cards */
+.page-lesson .vocabCatCard,
+.page-lesson .vocabWordCard{
+  min-width: 0;
+}
+
+.page-lesson .vocabWordLeft,
+.page-lesson .vocabWordSummary,
+.page-lesson .vocabWordTop{
+  min-width: 0;
+}
+
+.page-lesson .vocabWordTop a{
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Persian blocks: enforce RTL and proper shaping even inside LTR pages */
+.page-lesson .fa,
+.page-lesson [data-fa]{
+  direction: rtl;
+  text-align: right;
+  unicode-bidi: plaintext;
+}
+
+/* Keep English tokens readable when mixed inside bilingual lines */
+.page-lesson .bi [data-en],
+.page-lesson .toggle-fa{
+  unicode-bidi: plaintext;
+}

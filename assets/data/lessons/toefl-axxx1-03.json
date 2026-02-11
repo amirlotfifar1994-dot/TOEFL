@@ -1,0 +1,1678 @@
+{
+  "id": "toefl-axxx1-03",
+  "title": "Welding Training on the Workshop Floor",
+  "caption": "Four workers in hard hats focus on welding metal, with sparks flying from the workbench.",
+  "image": {
+    "base": "toefl-photo-axxx1-03",
+    "src800": "assets/images/toefl-photo-axxx1-03-800.webp",
+    "src1600": "assets/images/toefl-photo-axxx1-03-1600.webp",
+    "alt": "Four workers in safety helmets watch as one welds metal on a workbench, creating bright sparks."
+  },
+  "fullDescription": {
+    "en": "Four workers stand around a workbench in an industrial workshop while one of them welds metal. Bright sparks fly from the point of contact, showing that the metal is extremely hot. The workers wear hard hats, heavy gloves, and protective clothing, and one man has safety glasses. Their body language suggests teamwork and close supervision, possibly during training or a careful repair job. The background machinery and dark lighting reinforce the factory setting and the need for strict safety procedures.",
+    "fa": "Four کارگران stand around workbench in industrial کارگاه while one of them welds metal. Bright sparks fly from point of contact, showing that metal is extremely hot. کارگران wear hard hats, heavy gloves, and protective clothing, and one man has safety glasses. Their body language suggests teamwork and close supervision, possibly during training or careful repair job. background machinery and dark lighting reinforce کارخانه setting and need for strict safety procedures."
+  },
+  "simpleEnglish": {
+    "en": "Four workers are in a workshop. One worker is welding metal, and sparks are flying. The others are watching and helping. They are wearing hard hats and gloves. Everyone looks serious and focused.",
+    "fa": "Four کارگران are در یک کارگاه. One کارگر جوشکاری می‌کنند metal, and sparks در حال flying. others در حال watching and helping. آن‌ها پوشیده‌اند hard hats and gloves. Everyone looks serious and focused."
+  },
+  "intermediateEnglish": {
+    "en": "In an industrial workshop, one worker is welding a metal piece on a workbench while three coworkers watch closely. Sparks fly into the air, so they all wear hard hats, gloves, and protective clothing. One man also wears safety glasses. The group seems to be working as a team, and they may be checking the quality of the weld or learning a procedure.",
+    "fa": "In industrial کارگاه, one کارگر جوشکاری می‌کنند metal piece on workbench while three coworkers watch closely. Sparks fly into air, so they all wear hard hats, gloves, and protective clothing. One man also wears safety glasses. group seems to be working as team, and they may be checking quality of weld or learning procedure."
+  },
+  "advancedEnglish": {
+    "en": "A group of four workers gathers around a workbench as one man performs a welding task. The bright sparks and smoke indicate a high-temperature process, which explains the heavy gloves and safety helmets. The coworkers lean in to observe, suggesting supervision, collaboration, or on-the-job training. The dim factory background highlights the contrast between the dark environment and the intense welding light. After completing the weld, they will probably inspect the joint and continue with the next step, such as grinding or assembly.",
+    "fa": "group of four کارگران gathers around workbench as one man performs welding task. bright sparks and smoke indicate high-temperature process, which explains heavy gloves and safety کلاه‌های ایمنی. coworkers lean in to observe, suggesting supervision, collaboration, or on--job training. dim کارخانه background highlights contrast between dark environment and intense welding light. After completing weld, they will probably inspect joint and continue with next step, such as grinding or assembly."
+  },
+  "people": [
+    "4 people: men (workers)"
+  ],
+  "ages": [
+    "young adults to middle-aged"
+  ],
+  "place": [
+    "industrial workshop / factory"
+  ],
+  "clothing": [
+    "blue coveralls",
+    "hard hats (blue and yellow)",
+    "protective gloves",
+    "safety glasses"
+  ],
+  "appearance": [
+    "one worker wears glasses",
+    "several workers lean in to watch the welding",
+    "sparks light up their faces"
+  ],
+  "actions": [
+    "welding",
+    "supervising/observing",
+    "holding tools",
+    "following safety steps"
+  ],
+  "objects": [
+    "welding torch",
+    "metal pieces",
+    "workbench",
+    "protective gloves",
+    "sparks",
+    "industrial machinery (background)"
+  ],
+  "feelings": [
+    "serious",
+    "focused",
+    "cooperative"
+  ],
+  "environmentType": [
+    "industrial / workplace"
+  ],
+  "weatherLighting": [
+    "dim workshop lighting",
+    "bright welding sparks"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "wear safety gear",
+      "weld metal",
+      "hold a torch",
+      "supervise trainees",
+      "focus on precision",
+      "adjust the mask",
+      "check the weld seam",
+      "practice technique",
+      "follow instructions"
+    ],
+    "feelings": [
+      "serious",
+      "careful",
+      "alert",
+      "determined",
+      "focused",
+      "cautious",
+      "disciplined",
+      "confident"
+    ],
+    "places": [
+      "industrial workshop",
+      "factory floor",
+      "training station"
+    ],
+    "academicPhrases": [
+      "it appears that",
+      "this suggests that",
+      "overall",
+      "for example",
+      "in addition",
+      "as a result",
+      "it is likely that",
+      "in contrast",
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "workshop",
+      "fa": "کارگاه"
+    },
+    {
+      "en": "factory",
+      "fa": "کارخانه"
+    },
+    {
+      "en": "workbench",
+      "fa": "میز کار"
+    },
+    {
+      "en": "welder",
+      "fa": "جوشکار"
+    },
+    {
+      "en": "weld",
+      "fa": "جوش (دادن)"
+    },
+    {
+      "en": "welding torch",
+      "fa": "تورچ جوشکاری"
+    },
+    {
+      "en": "sparks",
+      "fa": "جرقه‌ها"
+    },
+    {
+      "en": "smoke",
+      "fa": "دود"
+    },
+    {
+      "en": "metal",
+      "fa": "فلز"
+    },
+    {
+      "en": "steel",
+      "fa": "فولاد"
+    },
+    {
+      "en": "joint",
+      "fa": "اتصال/درز"
+    },
+    {
+      "en": "repair",
+      "fa": "تعمیر"
+    },
+    {
+      "en": "helmet",
+      "fa": "کلاه ایمنی"
+    },
+    {
+      "en": "hard hat",
+      "fa": "کلاه ایمنی"
+    },
+    {
+      "en": "gloves",
+      "fa": "دستکش"
+    },
+    {
+      "en": "protective clothing",
+      "fa": "لباس محافظ"
+    },
+    {
+      "en": "safety glasses",
+      "fa": "عینک ایمنی"
+    },
+    {
+      "en": "hazard",
+      "fa": "خطر"
+    },
+    {
+      "en": "procedure",
+      "fa": "رویه/فرآیند"
+    },
+    {
+      "en": "protocol",
+      "fa": "پروتکل"
+    },
+    {
+      "en": "supervise",
+      "fa": "نظارت کردن"
+    },
+    {
+      "en": "observe",
+      "fa": "مشاهده کردن"
+    },
+    {
+      "en": "teamwork",
+      "fa": "کار تیمی"
+    },
+    {
+      "en": "training",
+      "fa": "آموزش"
+    },
+    {
+      "en": "precision",
+      "fa": "دقت"
+    },
+    {
+      "en": "equipment",
+      "fa": "تجهیزات"
+    },
+    {
+      "en": "machinery",
+      "fa": "ماشین‌آلات"
+    },
+    {
+      "en": "tool",
+      "fa": "ابزار"
+    },
+    {
+      "en": "heat",
+      "fa": "حرارت"
+    },
+    {
+      "en": "hot surface",
+      "fa": "سطح داغ"
+    },
+    {
+      "en": "risk",
+      "fa": "ریسک"
+    },
+    {
+      "en": "accident",
+      "fa": "حادثه"
+    },
+    {
+      "en": "inspect",
+      "fa": "بازرسی کردن"
+    },
+    {
+      "en": "quality",
+      "fa": "کیفیت"
+    },
+    {
+      "en": "assembly",
+      "fa": "مونتاژ"
+    },
+    {
+      "en": "grind",
+      "fa": "سنگ‌زنی کردن"
+    },
+    {
+      "en": "clamp",
+      "fa": "گیره"
+    },
+    {
+      "en": "maintenance",
+      "fa": "نگهداری/تعمیرات"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "routine",
+      "fa": "روال"
+    },
+    {
+      "en": "relationship",
+      "fa": "رابطه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AXX103-C1",
+      "en": "wear safety gear",
+      "fa": "پوشیدن تجهیزات ایمنی"
+    },
+    {
+      "id": "AXX103-C2",
+      "en": "perform a weld",
+      "fa": "انجام جوشکاری"
+    },
+    {
+      "id": "AXX103-C3",
+      "en": "work as a team",
+      "fa": "به صورت تیمی کار کردن"
+    },
+    {
+      "id": "AXX103-C4",
+      "en": "follow safety protocols",
+      "fa": "پیروی از پروتکل‌های ایمنی"
+    },
+    {
+      "id": "AXX103-C5",
+      "en": "inspect the joint",
+      "fa": "درز/اتصال را بررسی کردن"
+    },
+    {
+      "id": "AXX103-C6",
+      "en": "high-risk environment",
+      "fa": "محیط پرخطر"
+    },
+    {
+      "id": "AXX103-C7",
+      "en": "on-the-job training",
+      "fa": "آموزش حین کار"
+    },
+    {
+      "id": "AXX103-C8",
+      "en": "repair metal parts",
+      "fa": "قطعات فلزی را تعمیر کردن"
+    },
+    {
+      "id": "AXXX103-C9",
+      "en": "pay close attention",
+      "fa": "دقت زیاد کردن"
+    },
+    {
+      "id": "AXXX103-C10",
+      "en": "have a good time",
+      "fa": "خوش گذراندن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Present Continuous برای فرایندهای جاری",
+      "rule": "برای فرایندهایی که در لحظه اتفاق می‌افتند از حال استمراری استفاده کن.",
+      "examples": [
+        {
+          "en": "One worker is welding metal.",
+          "fa": "یک کارگر در حال جوش دادن فلز است."
+        },
+        {
+          "en": "The others are watching closely.",
+          "fa": "بقیه با دقت نگاه می‌کنند."
+        }
+      ]
+    },
+    {
+      "title": "Passive voice (ساخت مجهول) برای تاکید بر فرایند",
+      "rule": "وقتی مهم‌تر از فاعل، **فرایند** است از مجهول استفاده کن.",
+      "examples": [
+        {
+          "en": "The metal is being heated during welding.",
+          "fa": "فلز در حین جوشکاری گرم می‌شود."
+        },
+        {
+          "en": "The joint is inspected after the weld.",
+          "fa": "بعد از جوش، اتصال بررسی می‌شود."
+        }
+      ]
+    },
+    {
+      "title": "Purpose with to / in order to",
+      "rule": "برای گفتن هدف از **to / in order to** استفاده کن.",
+      "examples": [
+        {
+          "en": "They wear gloves to protect their hands.",
+          "fa": "آن‌ها دستکش می‌پوشند تا از دست‌هایشان محافظت کنند."
+        },
+        {
+          "en": "They watch closely in order to avoid mistakes.",
+          "fa": "آن‌ها با دقت نگاه می‌کنند تا از اشتباه جلوگیری کنند."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Welding Training on the Workshop Floor' most likely take place?",
+        "choices": [
+          "industrial workshop",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Welding Training on the Workshop Floor'?",
+        "choices": [
+          "welding",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Welding Training on the Workshop Floor'?",
+        "choices": [
+          "serious",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Welding Training on the Workshop Floor'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Welding Training on the Workshop Floor' (industrial workshop). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Welding Training on the Workshop Floor'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer spending time alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Welding Training on the Workshop Floor' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": "4",
+    "gender": "men",
+    "ages": [
+      "young adults to middle-aged"
+    ],
+    "setting": "industrial workshop",
+    "colorsLighting": "dark background with bright sparks; blue/yellow helmets",
+    "actions": [
+      "welding",
+      "observing",
+      "coordinating"
+    ],
+    "bodyLanguage": [
+      "leaning in",
+      "focused faces",
+      "hands near tools"
+    ],
+    "moodAtmosphere": [
+      "serious",
+      "high concentration",
+      "work-focused"
+    ],
+    "themes": [
+      "industry",
+      "safety",
+      "teamwork",
+      "training"
+    ],
+    "objects": [
+      "torch",
+      "metal pieces",
+      "gloves",
+      "helmets",
+      "sparks"
+    ]
+  },
+  "descriptions": {
+    "simple": "Four workers are in a workshop. One worker is welding metal, and sparks are flying. The others are watching and helping. They are wearing hard hats and gloves. Everyone looks serious and focused.",
+    "beginner": "Four workers are in a workshop. One worker is welding metal, and sparks are flying. The others are watching and helping. They are wearing hard hats and gloves. Everyone looks serious and focused.",
+    "intermediate": "In an industrial workshop, one worker is welding a metal piece on a workbench while three coworkers watch closely. Sparks fly into the air, so they all wear hard hats, gloves, and protective clothing. One man also wears safety glasses. The group seems to be working as a team, and they may be checking the quality of the weld or learning a procedure.",
+    "advanced": "A group of four workers gathers around a workbench as one man performs a welding task. The bright sparks and smoke indicate a high-temperature process, which explains the heavy gloves and safety helmets. The coworkers lean in to observe, suggesting supervision, collaboration, or on-the-job training. The dim factory background highlights the contrast between the dark environment and the intense welding light. After completing the weld, they will probably inspect the joint and continue with the next step, such as grinding or assembly."
+  },
+  "sceneNotes": [
+    "Describe safety gear first, then the action (welding).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant."
+  ],
+  "sceneDescription": "Four workers coordinate around a welding task on a factory workbench.",
+  "lessonOverview": {
+    "en": "This lesson builds everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس زبان روزمره و آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Start with Simple → Intermediate → Advanced. Then study vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌ها را از ساده تا پیشرفته بخوان. سپس واژگان و کالوکیشن‌ها را تمرین کن و در نهایت تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "A group of four workers gathers around a workbench as one man performs a welding task. The bright sparks and smoke indicate a high-temperature process, which explains the heavy gloves and safety helmets. The coworkers lean in to observe, suggesting supervision, collaboration, or on-the-job training. The dim factory background highlights the contrast between the dark environment and the intense welding light. After completing the weld, they will probably inspect the joint and continue with the next step, such as grinding or assembly."
+    },
+    {
+      "label": "Academic Description",
+      "text": "Four workers stand around a workbench in an industrial workshop while one of them welds metal. Bright sparks fly from the point of contact, showing that the metal is extremely hot. The workers wear hard hats, heavy gloves, and protective clothing, and one man has safety glasses. Their body language suggests teamwork and close supervision, possibly during training or a careful repair job. The background machinery and dark lighting reinforce the factory setting and the need for strict safety procedures."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "workshop",
+          "fa": "کارگاه",
+          "task_en": "Say the Persian meaning and use \"workshop\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «workshop» یک جمله ساده بساز."
+        },
+        {
+          "en": "factory",
+          "fa": "کارخانه",
+          "task_en": "Say the Persian meaning and use \"factory\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «factory» یک جمله ساده بساز."
+        },
+        {
+          "en": "workbench",
+          "fa": "میز کار",
+          "task_en": "Say the Persian meaning and use \"workbench\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «workbench» یک جمله ساده بساز."
+        },
+        {
+          "en": "welder",
+          "fa": "جوشکار",
+          "task_en": "Say the Persian meaning and use \"welder\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «welder» یک جمله ساده بساز."
+        },
+        {
+          "en": "weld",
+          "fa": "جوش (دادن)",
+          "task_en": "Say the Persian meaning and use \"weld\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «weld» یک جمله ساده بساز."
+        },
+        {
+          "en": "welding torch",
+          "fa": "تورچ جوشکاری",
+          "task_en": "Say the Persian meaning and use \"welding torch\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «welding torch» یک جمله ساده بساز."
+        },
+        {
+          "en": "sparks",
+          "fa": "جرقه‌ها",
+          "task_en": "Say the Persian meaning and use \"sparks\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «sparks» یک جمله ساده بساز."
+        },
+        {
+          "en": "smoke",
+          "fa": "دود",
+          "task_en": "Say the Persian meaning and use \"smoke\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «smoke» یک جمله ساده بساز."
+        },
+        {
+          "en": "metal",
+          "fa": "فلز",
+          "task_en": "Say the Persian meaning and use \"metal\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «metal» یک جمله ساده بساز."
+        },
+        {
+          "en": "steel",
+          "fa": "فولاد",
+          "task_en": "Say the Persian meaning and use \"steel\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «steel» یک جمله ساده بساز."
+        },
+        {
+          "en": "joint",
+          "fa": "اتصال/درز",
+          "task_en": "Say the Persian meaning and use \"joint\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «joint» یک جمله ساده بساز."
+        },
+        {
+          "en": "repair",
+          "fa": "تعمیر",
+          "task_en": "Say the Persian meaning and use \"repair\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «repair» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "wear safety gear",
+          "fa": "پوشیدن تجهیزات ایمنی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are wearing safety gear.",
+              "fa": "آن‌ها در حال پوشیدن تجهیزات ایمنی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They wore safety gear yesterday.",
+              "fa": "آن‌ها دیروز پوشیدن تجهیزات ایمنی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will wear safety gear.",
+              "fa": "آن‌ها فردا پوشیدن تجهیزات ایمنی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "perform a weld",
+          "fa": "انجام جوشکاری",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are performing a weld.",
+              "fa": "آن‌ها در حال انجام جوشکاری هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They performed a weld yesterday.",
+              "fa": "آن‌ها دیروز انجام جوشکاری کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will perform a weld.",
+              "fa": "آن‌ها فردا انجام جوشکاری خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "work as a team",
+          "fa": "به صورت تیمی کار کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are working as a team.",
+              "fa": "آن‌ها در حال به صورت تیمی کار کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They worked as a team yesterday.",
+              "fa": "آن‌ها دیروز به صورت تیمی کار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will work as a team.",
+              "fa": "آن‌ها فردا به صورت تیمی کار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "follow safety protocols",
+          "fa": "پیروی از پروتکل‌های ایمنی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are following safety protocols.",
+              "fa": "آن‌ها در حال پیروی از پروتکل‌های ایمنی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They followed safety protocols yesterday.",
+              "fa": "آن‌ها دیروز پیروی از پروتکل‌های ایمنی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will follow safety protocols.",
+              "fa": "آن‌ها فردا پیروی از پروتکل‌های ایمنی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "inspect the joint",
+          "fa": "درز/اتصال را بررسی کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are inspecting the joint.",
+              "fa": "آن‌ها در حال درز/اتصال را بررسی کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They inspected the joint yesterday.",
+              "fa": "آن‌ها دیروز درز/اتصال را بررسی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will inspect the joint.",
+              "fa": "آن‌ها فردا درز/اتصال را بررسی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "high-risk environment",
+          "fa": "محیط پرخطر",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are high-risking environment.",
+              "fa": "آن‌ها در حال محیط پرخطر هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They high-risked environment yesterday.",
+              "fa": "آن‌ها دیروز محیط پرخطر کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will high-risk environment.",
+              "fa": "آن‌ها فردا محیط پرخطر خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "on-the-job training",
+          "fa": "آموزش حین کار",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are on-the-jobbing training.",
+              "fa": "آن‌ها در حال آموزش حین کار هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They on-the-jobbed training yesterday.",
+              "fa": "آن‌ها دیروز آموزش حین کار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will on-the-job training.",
+              "fa": "آن‌ها فردا آموزش حین کار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "repair metal parts",
+          "fa": "قطعات فلزی را تعمیر کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are repairing metal parts.",
+              "fa": "آن‌ها در حال قطعات فلزی را تعمیر کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They repaired metal parts yesterday.",
+              "fa": "آن‌ها دیروز قطعات فلزی را تعمیر کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will repair metal parts.",
+              "fa": "آن‌ها فردا قطعات فلزی را تعمیر خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Four workers coordinate around a welding task on a factory workbench.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe the workers and the safety equipment you can see.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Explain what welding is and what the team is doing. Mention the sparks and protective gear.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write 90–120 words describing the workshop scene. Use present continuous and 5 safety-related words.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "workshop",
+          "fa": "کارگاه"
+        },
+        {
+          "en": "factory",
+          "fa": "کارخانه"
+        },
+        {
+          "en": "workbench",
+          "fa": "میز کار"
+        },
+        {
+          "en": "welder",
+          "fa": "جوشکار"
+        },
+        {
+          "en": "weld",
+          "fa": "جوش (دادن)"
+        },
+        {
+          "en": "welding torch",
+          "fa": "تورچ جوشکاری"
+        },
+        {
+          "en": "sparks",
+          "fa": "جرقه‌ها"
+        },
+        {
+          "en": "smoke",
+          "fa": "دود"
+        },
+        {
+          "en": "metal",
+          "fa": "فلز"
+        },
+        {
+          "en": "steel",
+          "fa": "فولاد"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "TOEFL-style: describe teamwork and safety. Add 2 inferences about training and risks. Use passive voice at least once.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated-style: Describe the photo, then explain why workplace safety training is important. Provide causes and results.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "wear safety gear",
+          "fa": "پوشیدن تجهیزات ایمنی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are wearing safety gear.",
+              "fa": "آن‌ها در حال پوشیدن تجهیزات ایمنی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They wore safety gear yesterday.",
+              "fa": "آن‌ها دیروز پوشیدن تجهیزات ایمنی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will wear safety gear.",
+              "fa": "آن‌ها فردا پوشیدن تجهیزات ایمنی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "perform a weld",
+          "fa": "انجام جوشکاری",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are performing a weld.",
+              "fa": "آن‌ها در حال انجام جوشکاری هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They performed a weld yesterday.",
+              "fa": "آن‌ها دیروز انجام جوشکاری کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will perform a weld.",
+              "fa": "آن‌ها فردا انجام جوشکاری خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "work as a team",
+          "fa": "به صورت تیمی کار کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are working as a team.",
+              "fa": "آن‌ها در حال به صورت تیمی کار کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They worked as a team yesterday.",
+              "fa": "آن‌ها دیروز به صورت تیمی کار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will work as a team.",
+              "fa": "آن‌ها فردا به صورت تیمی کار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "follow safety protocols",
+          "fa": "پیروی از پروتکل‌های ایمنی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are following safety protocols.",
+              "fa": "آن‌ها در حال پیروی از پروتکل‌های ایمنی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They followed safety protocols yesterday.",
+              "fa": "آن‌ها دیروز پیروی از پروتکل‌های ایمنی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will follow safety protocols.",
+              "fa": "آن‌ها فردا پیروی از پروتکل‌های ایمنی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "inspect the joint",
+          "fa": "درز/اتصال را بررسی کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are inspecting the joint.",
+              "fa": "آن‌ها در حال درز/اتصال را بررسی کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They inspected the joint yesterday.",
+              "fa": "آن‌ها دیروز درز/اتصال را بررسی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will inspect the joint.",
+              "fa": "آن‌ها فردا درز/اتصال را بررسی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "high-risk environment",
+          "fa": "محیط پرخطر",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are high-risking environment.",
+              "fa": "آن‌ها در حال محیط پرخطر هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They high-risked environment yesterday.",
+              "fa": "آن‌ها دیروز محیط پرخطر کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will high-risk environment.",
+              "fa": "آن‌ها فردا محیط پرخطر خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "on-the-job training",
+          "fa": "آموزش حین کار",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are on-the-jobbing training.",
+              "fa": "آن‌ها در حال آموزش حین کار هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They on-the-jobbed training yesterday.",
+              "fa": "آن‌ها دیروز آموزش حین کار کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will on-the-job training.",
+              "fa": "آن‌ها فردا آموزش حین کار خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "repair metal parts",
+          "fa": "قطعات فلزی را تعمیر کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are repairing metal parts.",
+              "fa": "آن‌ها در حال قطعات فلزی را تعمیر کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They repaired metal parts yesterday.",
+              "fa": "آن‌ها دیروز قطعات فلزی را تعمیر کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will repair metal parts.",
+              "fa": "آن‌ها فردا قطعات فلزی را تعمیر خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in passive voice: 'They weld metal parts.'",
+          "answer_en": "Metal parts are being welded.",
+          "task_fa": "به مجهول تبدیل کن.",
+          "answer_fa": "Metal parts are being welded."
+        },
+        {
+          "task_en": "Rewrite in present continuous: 'The team works carefully.'",
+          "answer_en": "The team is working carefully.",
+          "task_fa": "به حال استمراری تبدیل کن.",
+          "answer_fa": "The team is working carefully."
+        },
+        {
+          "task_en": "Use 'must' for rules: Mention helmets.",
+          "answer_en": "Workers must wear helmets.",
+          "task_fa": "با must قانون ایمنی بساز.",
+          "answer_fa": "Workers must wear helmets."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'Sparks are flying.'",
+          "answer_en": "Sparks were flying.",
+          "task_fa": "به گذشته استمراری تبدیل کن.",
+          "answer_fa": "Sparks were flying."
+        },
+        {
+          "task_en": "Add a relative clause: 'The man is supervising. He is experienced.'",
+          "answer_en": "The man who is supervising is experienced.",
+          "task_fa": "با who جمله موصولی بساز.",
+          "answer_fa": "The man who is supervising is experienced."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They are trainees.'",
+          "answer_en": "They might be trainees.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be trainees."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-02T10:11:54Z",
+  "updatedAt": "2026-02-02T17:38:23Z",
+  "scenario": {
+    "en": "4 people: men (workers) are at industrial workshop / factory, right in the middle of a real-life moment. They are welding; supervising/observing; holding tools. Four workers in hard hats focus on welding metal, with sparks flying from the workbench. There are welding torch, metal pieces, workbench, protective gloves around them, and the setting feels serious, focused, cooperative. Their clothing, like blue coveralls, hard hats (blue and yellow), matches the situation and the environment.",
+    "fa": "4 people: men (workers) در industrial workshop / factory وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال welding، supervising/observing و holding tools هستند. Four workers in hard hats focus on welding metal, with sparks flying from the workbench. اطرافشان welding torch، metal pieces، workbench و protective gloves دیده می‌شود و فضا serious، focused و cooperative است. لباس‌ها، مثل blue coveralls و hard hats (blue and yellow) هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "4 people: men (workers) are at industrial workshop / factory, right in the middle of a real-life moment. They are welding; supervising/observing; holding tools. Four workers in hard hats focus on welding metal, with sparks flying from the workbench. There are welding torch, metal pieces, workbench, protective gloves around them, and the setting feels serious, focused, cooperative. Their clothing, like blue coveralls, hard hats (blue and yellow), matches the situation and the environment.",
+      "fa": "4 people: men (workers) در industrial workshop / factory وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال welding، supervising/observing و holding tools هستند. Four workers in hard hats focus on welding metal, with sparks flying from the workbench. اطرافشان welding torch، metal pieces، workbench و protective gloves دیده می‌شود و فضا serious، focused و cooperative است. لباس‌ها، مثل blue coveralls و hard hats (blue and yellow) هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are welding.",
+            "There are welding torch and metal pieces in industrial workshop / factory.",
+            "The atmosphere feels serious."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال welding هستند.",
+            "در industrial workshop / factory welding torch و metal pieces دیده می‌شود.",
+            "فضا serious به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at industrial workshop / factory. Four workers in hard hats focus on welding metal, with sparks flying from the workbench. At first, I noticed welding torch, metal pieces, workbench and the way people were welding. Then I looked closer: their clothing (blue coveralls, hard hats (blue and yellow)) and their expressions made the scene feel serious, focused, cooperative. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل industrial workshop / factory بودم. Four workers in hard hats focus on welding metal, with sparks flying from the workbench. اول welding torch، metal pieces و workbench را دیدم و اینکه آدم‌ها چطور welding. بعد دقیق‌تر نگاه کردم: لباس‌ها (blue coveralls و hard hats (blue and yellow)) و حالت چهره‌ها باعث شد فضا serious، focused و cooperative به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they welded.",
+            "Then, they checked welding torch and continued.",
+            "Finally, they felt serious about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They welded.",
+            "بعد، They welding torch را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه serious بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as welding torch, metal pieces, workbench, protective gloves are not background; they guide the story. I have also learned how actions like supervising/observing can signal feelings such as serious, focused, cooperative. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل welding torch، metal pieces، workbench و protective gloves فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل supervising/observing چطور می‌تواند احساساتی مثل serious، focused و cooperative را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay serious in industrial workshop / factory.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در industrial workshop / factory serious بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at industrial workshop / factory, one small change could create a big problem. If welding torch, metal pieces had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در industrial workshop / factory دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر welding torch و metal pieces نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked welding torch earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay serious.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر welding torch را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید serious بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

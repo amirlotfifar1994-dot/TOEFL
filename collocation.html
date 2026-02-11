@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#0f172a" name="theme-color"/>
+<title>Collocation • TOEFL Academic</title>
+<link href="manifest.json" rel="manifest"/>
+<link href="assets/icons/icon-192.png" rel="icon" sizes="192x192"/>
+<link href="css/base.css" rel="stylesheet"/><link href="css/components.css" rel="stylesheet"/>
+<link href="css/custom.css" rel="stylesheet"/>
+<link href="css/theme-pro.css" rel="stylesheet"/>
+<link href="css/luxe.css" rel="stylesheet"/>
+
+
+
+
+
+  <link href="css/theme-nebula.css" rel="stylesheet"/>
+<link rel="stylesheet" href="css/slider-pro.css">
+    <link rel="stylesheet" href="css/patch-v19.css">
+    <link rel="stylesheet" href="css/patch-v21.css">
+<link rel="stylesheet" href="css/patch-v23.css">
+  <link rel="stylesheet" href="css/patch-v28.css">
+  <link rel="stylesheet" href="css/patch-v29.css">
+  <link rel="stylesheet" href="css/patch-v30.css">
+  <link rel="stylesheet" href="css/patch-v31.css">
+  <link rel="stylesheet" href="css/patch-v32.css">
+<link rel="stylesheet" href="css/patch-v33.css">
+<link rel="stylesheet" href="css/patch-v35.css">
+  <link rel="stylesheet" href="css/patch-v34.css">
+<meta content="Collocation explanations and examples — bilingual, multi-level." name="description"/>
+</head>
+<body>
+<div aria-hidden="true" class="bg-animated"></div>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="appHeader">
+<a class="brand brandLink" href="index.html" aria-label="Home">
+<span aria-hidden="true" class="brandLogo">EN</span>
+<div class="brandText">
+<span>TOEFL Academic</span>
+<span class="muted small">Collocation • Bilingual</span>
+</div>
+</a>
+<div class="headerActions">
+<div class="headerButtons">
+<button aria-expanded="false" aria-label="Open menu" class="icon-button menu-toggle" id="menuToggle" type="button">☰</button>
+<button aria-label="Toggle theme" aria-pressed="false" class="icon-button" id="themeToggle" type="button">☀️</button>
+</div>
+<nav aria-label="Main navigation">
+<a class="nav-link" href="index.html#lessonsContainer">Lessons</a>
+<a class="nav-link" href="dictionary.html">Dictionary</a>
+<a class="nav-link" href="offline.html">Offline</a>
+<a class="nav-link" href="about.html">About</a>
+<a class="nav-link" href="settings.html">Settings</a>
+</nav>
+</div>
+</header>
+<main class="container" id="main">
+<section class="section">
+<div class="card">
+<div class="cardHeader">
+<h1 class="title" id="collTitle">Collocation</h1>
+<p class="muted">Click English lines to reveal Persian.</p>
+</div>
+<div class="cardBody">
+<div class="bi">
+<div class="bi-en toggle-fa" tabindex="0">Meaning</div>
+<div class="bi-fa fa isHidden" dir="rtl" id="collFa"></div>
+</div>
+<div class="mt" id="context"></div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="card">
+<div class="cardHeader">
+<h2 class="h2">Examples across tenses &amp; situations</h2>
+<p class="muted">Beginner → Advanced friendly examples. Click to reveal Persian.</p>
+</div>
+<div class="cardBody" id="examples"></div>
+</div>
+</section>
+<section class="section">
+<div class="card">
+<div class="cardHeader">
+<h2 class="h2">Words inside this collocation</h2>
+<p class="muted">Open a word to see full meaning, sentences, and grammar notes.</p>
+</div>
+<div class="cardBody" id="words"></div>
+</div>
+</section>
+</main>
+<footer class="appFooter">
+<div>© TOEFL Academic — Collocation</div>
+</footer>
+<script defer="" src="js/theme.js"></script>
+<script src="js/utils.js"></script>
+<script defer="" src="js/bilingual.js"></script>
+<script src="js/main.js"></script>
+<script defer="" src="js/collocation.js"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js', { scope: './' }).catch(() => {});
+    });
+  }
+</script>
+</body>
+</html>

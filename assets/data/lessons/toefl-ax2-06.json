@@ -1,0 +1,1634 @@
+{
+  "id": "toefl-ax2-06",
+  "title": "Picnic Near a Famous Landmark",
+  "caption": "This photo combines travel and social connection. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax2-06",
+    "src800": "assets/images/toefl-photo-ax2-06-800.webp",
+    "src1600": "assets/images/toefl-photo-ax2-06-1600.webp",
+    "alt": "A group of friends has a picnic in a park with a famous tower behind them."
+  },
+  "fullDescription": {
+    "en": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time.",
+    "fa": "This photo combines travel and social connection. friends gather casually in park, sharing food and conversation, while recognizable city landmark frames background. relaxed posture and informal picnic items suggest break from routine. scene feels like vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time."
+  },
+  "simpleEnglish": {
+    "en": "Friends sit in a park and have a picnic. A famous tower is behind them. They talk and enjoy the day.",
+    "fa": "Friends sit in park and have picnic. famous tower is behind them. آن‌ها talk and enjoy day."
+  },
+  "intermediateEnglish": {
+    "en": "A group of friends is having a picnic in a park near a famous landmark. They sit on the grass with food and drinks, chatting in a relaxed way. The scene suggests tourism, leisure, and enjoying good weather.",
+    "fa": "group of friends در حال having picnic in park near famous landmark. آن‌ها sit on grass with food and drinks, chatting in relaxed way. scene suggests tourism, leisure, and enjoying good weather."
+  },
+  "advancedEnglish": {
+    "en": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time.",
+    "fa": "This photo combines travel and social connection. friends gather casually in park, sharing food and conversation, while recognizable city landmark frames background. relaxed posture and informal picnic items suggest break from routine. scene feels like vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time."
+  },
+  "people": [
+    "4 people: friends (young adults)"
+  ],
+  "ages": [
+    "young adults"
+  ],
+  "place": [
+    "park near a famous landmark"
+  ],
+  "clothing": [
+    "casual travel clothing"
+  ],
+  "appearance": [
+    "smiling faces",
+    "sitting close on the grass"
+  ],
+  "actions": [
+    "having a picnic",
+    "talking",
+    "relaxing"
+  ],
+  "objects": [
+    "picnic food",
+    "drinks",
+    "park grass",
+    "landmark tower (background)"
+  ],
+  "feelings": [
+    "relaxed",
+    "happy",
+    "social"
+  ],
+  "environmentType": [
+    "outdoor park / travel"
+  ],
+  "weatherLighting": [
+    "clear daylight",
+    "pleasant outdoor light"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "picnic",
+      "park",
+      "landmark",
+      "tourist",
+      "sightseeing",
+      "scenery",
+      "relax",
+      "vacation",
+      "travel",
+      "destination"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "picnic food",
+      "drinks",
+      "park grass",
+      "landmark tower (background)"
+    ],
+    "places": [
+      "park near a famous landmark"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "picnic",
+      "fa": "پیک‌نیک"
+    },
+    {
+      "en": "park",
+      "fa": "پارک"
+    },
+    {
+      "en": "landmark",
+      "fa": "بنای شاخص"
+    },
+    {
+      "en": "tourist",
+      "fa": "گردشگر"
+    },
+    {
+      "en": "sightseeing",
+      "fa": "گردش"
+    },
+    {
+      "en": "scenery",
+      "fa": "منظره"
+    },
+    {
+      "en": "relax",
+      "fa": "استراحت کردن"
+    },
+    {
+      "en": "vacation",
+      "fa": "تعطیلات"
+    },
+    {
+      "en": "travel",
+      "fa": "سفر"
+    },
+    {
+      "en": "destination",
+      "fa": "مقصد"
+    },
+    {
+      "en": "grass",
+      "fa": "چمن"
+    },
+    {
+      "en": "basket",
+      "fa": "سبد"
+    },
+    {
+      "en": "snack",
+      "fa": "میان‌وعده"
+    },
+    {
+      "en": "share",
+      "fa": "به اشتراک گذاشتن"
+    },
+    {
+      "en": "enjoy",
+      "fa": "لذت بردن"
+    },
+    {
+      "en": "sunny",
+      "fa": "آفتابی"
+    },
+    {
+      "en": "local culture",
+      "fa": "فرهنگ محلی"
+    },
+    {
+      "en": "take photos",
+      "fa": "عکس گرفتن"
+    },
+    {
+      "en": "itinerary",
+      "fa": "برنامه سفر"
+    },
+    {
+      "en": "souvenir",
+      "fa": "سوغاتی"
+    },
+    {
+      "en": "public space",
+      "fa": "فضای عمومی"
+    },
+    {
+      "en": "crowd",
+      "fa": "جمعیت"
+    },
+    {
+      "en": "historic",
+      "fa": "تاریخی"
+    },
+    {
+      "en": "iconic",
+      "fa": "نمادین"
+    },
+    {
+      "en": "viewpoint",
+      "fa": "نقطه دید"
+    },
+    {
+      "en": "meet up",
+      "fa": "قرار گذاشتن"
+    },
+    {
+      "en": "unhurried",
+      "fa": "بدون عجله"
+    },
+    {
+      "en": "refreshing",
+      "fa": "با طراوت"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX206-C1",
+      "en": "have a picnic",
+      "fa": "پیک‌نیک داشتن"
+    },
+    {
+      "id": "AX206-C2",
+      "en": "visit a landmark",
+      "fa": "بازدید از بنای شاخص"
+    },
+    {
+      "id": "AX206-C3",
+      "en": "enjoy the scenery",
+      "fa": "از منظره لذت بردن"
+    },
+    {
+      "id": "AX206-C4",
+      "en": "take travel photos",
+      "fa": "عکس سفر گرفتن"
+    },
+    {
+      "id": "AX206-C5",
+      "en": "spend a day in the park",
+      "fa": "یک روز در پارک گذراندن"
+    },
+    {
+      "id": "AX206-C6",
+      "en": "try local food",
+      "fa": "غذای محلی امتحان کردن"
+    },
+    {
+      "id": "AX206-C7",
+      "en": "plan an itinerary",
+      "fa": "برنامه سفر چیدن"
+    },
+    {
+      "id": "AX206-C8",
+      "en": "take a break from routine",
+      "fa": "از روتین فاصله گرفتن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Would like to (خواسته مودبانه)",
+      "rule": "برای بیان خواسته مودبانه یا آرزو از **would like to** استفاده کن.",
+      "examples": [
+        {
+          "en": "I would like to visit this landmark someday.",
+          "fa": "دوست دارم یک روز از این بنای شاخص دیدن کنم."
+        },
+        {
+          "en": "They would like to relax in the park.",
+          "fa": "آن‌ها دوست دارند در پارک استراحت کنند."
+        }
+      ]
+    },
+    {
+      "title": "Prepositions of place (مکان)",
+      "rule": "برای مکان از **in / on / near / behind / in front of** استفاده کن.",
+      "examples": [
+        {
+          "en": "They are sitting on the grass near the landmark.",
+          "fa": "آن‌ها روی چمن نزدیک بنای شاخص نشسته‌اند."
+        },
+        {
+          "en": "The tower is behind them.",
+          "fa": "برج پشت سرشان است."
+        }
+      ]
+    },
+    {
+      "title": "Present Continuous (توصیف عکس)",
+      "rule": "برای توصیف اتفاقِ در جریان از حال استمراری استفاده کن.",
+      "examples": [
+        {
+          "en": "They are having a picnic and chatting.",
+          "fa": "آن‌ها دارند پیک‌نیک می‌کنند و صحبت می‌کنند."
+        },
+        {
+          "en": "They are enjoying their trip.",
+          "fa": "آن‌ها از سفرشان لذت می‌برند."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Picnic Near a Famous Landmark' most likely take place?",
+        "choices": [
+          "park near a famous landmark",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Picnic Near a Famous Landmark'?",
+        "choices": [
+          "having a picnic",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Picnic Near a Famous Landmark'?",
+        "choices": [
+          "relaxed",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Picnic Near a Famous Landmark'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Picnic Near a Famous Landmark' (park near a famous landmark). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Picnic Near a Famous Landmark'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Picnic Near a Famous Landmark' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 1,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adults"
+    ],
+    "setting": [
+      "park near a famous landmark"
+    ],
+    "colorsLighting": [
+      "clear daylight",
+      "pleasant outdoor light"
+    ],
+    "actions": [
+      "having a picnic",
+      "talking",
+      "relaxing"
+    ],
+    "bodyLanguage": [
+      "relaxed",
+      "happy",
+      "social"
+    ],
+    "moodAtmosphere": [
+      "relaxed",
+      "happy",
+      "social"
+    ],
+    "themes": [
+      "travel",
+      "leisure",
+      "shared experiences"
+    ],
+    "objects": [
+      "picnic food",
+      "drinks",
+      "park grass",
+      "landmark tower (background)"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time. They are in park near a famous landmark. Key action: having a picnic; talking. Mood: relaxed; happy.",
+    "simple": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time. They are in park near a famous landmark. Key action: having a picnic; talking. Mood: relaxed; happy.",
+    "intermediate": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time. The scene takes place in park near a famous landmark. Notable details include picnic food; drinks. The overall atmosphere feels relaxed; happy. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time. In this setting (park near a famous landmark), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as having a picnic; talking and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like picnic food; drinks to improve clarity. Tone words (for example: relaxed; happy) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "Friends relax on the grass for a picnic with a famous tower in the background.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This photo combines travel and social connection. The friends gather casually in a park, sharing food and conversation, while a recognizable city landmark frames the background. The relaxed posture and informal picnic items suggest a break from routine. The scene feels like a vacation day where sightseeing becomes more meaningful through shared experience and slow, unhurried time."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "picnic",
+          "fa": "پیک‌نیک",
+          "task_en": "Say the Persian meaning and use \"picnic\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «picnic» یک جمله ساده بساز."
+        },
+        {
+          "en": "park",
+          "fa": "پارک",
+          "task_en": "Say the Persian meaning and use \"park\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «park» یک جمله ساده بساز."
+        },
+        {
+          "en": "landmark",
+          "fa": "بنای شاخص",
+          "task_en": "Say the Persian meaning and use \"landmark\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «landmark» یک جمله ساده بساز."
+        },
+        {
+          "en": "tourist",
+          "fa": "گردشگر",
+          "task_en": "Say the Persian meaning and use \"tourist\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «tourist» یک جمله ساده بساز."
+        },
+        {
+          "en": "sightseeing",
+          "fa": "گردش",
+          "task_en": "Say the Persian meaning and use \"sightseeing\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «sightseeing» یک جمله ساده بساز."
+        },
+        {
+          "en": "scenery",
+          "fa": "منظره",
+          "task_en": "Say the Persian meaning and use \"scenery\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «scenery» یک جمله ساده بساز."
+        },
+        {
+          "en": "relax",
+          "fa": "استراحت کردن",
+          "task_en": "Say the Persian meaning and use \"relax\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «relax» یک جمله ساده بساز."
+        },
+        {
+          "en": "vacation",
+          "fa": "تعطیلات",
+          "task_en": "Say the Persian meaning and use \"vacation\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «vacation» یک جمله ساده بساز."
+        },
+        {
+          "en": "travel",
+          "fa": "سفر",
+          "task_en": "Say the Persian meaning and use \"travel\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «travel» یک جمله ساده بساز."
+        },
+        {
+          "en": "destination",
+          "fa": "مقصد",
+          "task_en": "Say the Persian meaning and use \"destination\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «destination» یک جمله ساده بساز."
+        },
+        {
+          "en": "grass",
+          "fa": "چمن",
+          "task_en": "Say the Persian meaning and use \"grass\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «grass» یک جمله ساده بساز."
+        },
+        {
+          "en": "basket",
+          "fa": "سبد",
+          "task_en": "Say the Persian meaning and use \"basket\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «basket» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "have a picnic",
+          "fa": "پیک‌نیک داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are having a picnic.",
+              "fa": "آن‌ها در حال پیک‌نیک داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They had a picnic yesterday.",
+              "fa": "آن‌ها دیروز پیک‌نیک داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will have a picnic.",
+              "fa": "آن‌ها فردا پیک‌نیک داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "visit a landmark",
+          "fa": "بازدید از بنای شاخص",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are visitting a landmark.",
+              "fa": "آن‌ها در حال بازدید از بنای شاخص هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They visitted a landmark yesterday.",
+              "fa": "آن‌ها دیروز بازدید از بنای شاخص کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will visit a landmark.",
+              "fa": "آن‌ها فردا بازدید از بنای شاخص خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the scenery",
+          "fa": "از منظره لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the scenery.",
+              "fa": "آن‌ها در حال از منظره لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the scenery yesterday.",
+              "fa": "آن‌ها دیروز از منظره لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the scenery.",
+              "fa": "آن‌ها فردا از منظره لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take travel photos",
+          "fa": "عکس سفر گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking travel photos.",
+              "fa": "آن‌ها در حال عکس سفر گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took travel photos yesterday.",
+              "fa": "آن‌ها دیروز عکس سفر گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take travel photos.",
+              "fa": "آن‌ها فردا عکس سفر خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "spend a day in the park",
+          "fa": "یک روز در پارک گذراندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are spending a day in the park.",
+              "fa": "آن‌ها در حال یک روز در پارک گذراندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They spended a day in the park yesterday.",
+              "fa": "آن‌ها دیروز یک روز در پارک گذراندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will spend a day in the park.",
+              "fa": "آن‌ها فردا یک روز در پارک گذراندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "try local food",
+          "fa": "غذای محلی امتحان کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are trying local food.",
+              "fa": "آن‌ها در حال غذای محلی امتحان کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They tried local food yesterday.",
+              "fa": "آن‌ها دیروز غذای محلی امتحان کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will try local food.",
+              "fa": "آن‌ها فردا غذای محلی امتحان خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "plan an itinerary",
+          "fa": "برنامه سفر چیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are planning an itinerary.",
+              "fa": "آن‌ها در حال برنامه سفر چیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They planned an itinerary yesterday.",
+              "fa": "آن‌ها دیروز برنامه سفر چیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will plan an itinerary.",
+              "fa": "آن‌ها فردا برنامه سفر چیدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a break from routine",
+          "fa": "از روتین فاصله گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a break from routine.",
+              "fa": "آن‌ها در حال از روتین فاصله گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a break from routine yesterday.",
+              "fa": "آن‌ها دیروز از روتین فاصله گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a break from routine.",
+              "fa": "آن‌ها فردا از روتین فاصله خواهند گرفت."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in Friends relax on the grass for a picnic with a famous tower in the background.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Picnic Near a Famous Landmark\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (Friends relax on the grass for a picnic with a famous tower in the background.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: Friends relax on the grass for a picnic with a famous tower in the background.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Picnic Near a Famous Landmark\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (Friends relax on the grass for a picnic with a famous tower in the background.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "have a picnic",
+          "fa": "پیک‌نیک داشتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are having a picnic.",
+              "fa": "آن‌ها در حال پیک‌نیک داشتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They had a picnic yesterday.",
+              "fa": "آن‌ها دیروز پیک‌نیک داشتن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will have a picnic.",
+              "fa": "آن‌ها فردا پیک‌نیک داشتن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "visit a landmark",
+          "fa": "بازدید از بنای شاخص",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are visitting a landmark.",
+              "fa": "آن‌ها در حال بازدید از بنای شاخص هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They visitted a landmark yesterday.",
+              "fa": "آن‌ها دیروز بازدید از بنای شاخص کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will visit a landmark.",
+              "fa": "آن‌ها فردا بازدید از بنای شاخص خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "enjoy the scenery",
+          "fa": "از منظره لذت بردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are enjoying the scenery.",
+              "fa": "آن‌ها در حال از منظره لذت بردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They enjoyed the scenery yesterday.",
+              "fa": "آن‌ها دیروز از منظره لذت بردن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will enjoy the scenery.",
+              "fa": "آن‌ها فردا از منظره لذت بردن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take travel photos",
+          "fa": "عکس سفر گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking travel photos.",
+              "fa": "آن‌ها در حال عکس سفر گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took travel photos yesterday.",
+              "fa": "آن‌ها دیروز عکس سفر گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take travel photos.",
+              "fa": "آن‌ها فردا عکس سفر خواهند گرفت."
+            }
+          ]
+        },
+        {
+          "en": "spend a day in the park",
+          "fa": "یک روز در پارک گذراندن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are spending a day in the park.",
+              "fa": "آن‌ها در حال یک روز در پارک گذراندن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They spended a day in the park yesterday.",
+              "fa": "آن‌ها دیروز یک روز در پارک گذراندن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will spend a day in the park.",
+              "fa": "آن‌ها فردا یک روز در پارک گذراندن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "try local food",
+          "fa": "غذای محلی امتحان کردن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are trying local food.",
+              "fa": "آن‌ها در حال غذای محلی امتحان کردن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They tried local food yesterday.",
+              "fa": "آن‌ها دیروز غذای محلی امتحان کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will try local food.",
+              "fa": "آن‌ها فردا غذای محلی امتحان خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "plan an itinerary",
+          "fa": "برنامه سفر چیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are planning an itinerary.",
+              "fa": "آن‌ها در حال برنامه سفر چیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They planned an itinerary yesterday.",
+              "fa": "آن‌ها دیروز برنامه سفر چیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will plan an itinerary.",
+              "fa": "آن‌ها فردا برنامه سفر چیدن خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "take a break from routine",
+          "fa": "از روتین فاصله گرفتن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are taking a break from routine.",
+              "fa": "آن‌ها در حال از روتین فاصله گرفتن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They took a break from routine yesterday.",
+              "fa": "آن‌ها دیروز از روتین فاصله گرفتند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will take a break from routine.",
+              "fa": "آن‌ها فردا از روتین فاصله خواهند گرفت."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the picnic food in the scene.",
+          "answer_en": "There are picnic food in the scene.",
+          "task_fa": "با There is/are جمله بساز و «picnic food» را ذکر کن.",
+          "answer_fa": "There are picnic food in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:18Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "4 people: friends (young adults) are in park near a famous landmark, right in the middle of a real-life moment. They are having a picnic; talking; relaxing. Friends relax on the grass for a picnic with a famous tower in the background. There are picnic food, drinks, park grass, landmark tower (background) around them, and the setting feels relaxed, happy, social. Their clothing, like casual travel clothing, matches the situation and the environment.",
+    "fa": "4 people: friends (young adults) در park near a famous landmark وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال having a picnic، talking و relaxing هستند. Friends relax on the grass for a picnic with a famous tower in the background. اطرافشان picnic food، drinks، park grass و landmark tower (background) دیده می‌شود و فضا relaxed، happy و social است. لباس‌ها، مثل casual travel clothing هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "4 people: friends (young adults) are in park near a famous landmark, right in the middle of a real-life moment. They are having a picnic; talking; relaxing. Friends relax on the grass for a picnic with a famous tower in the background. There are picnic food, drinks, park grass, landmark tower (background) around them, and the setting feels relaxed, happy, social. Their clothing, like casual travel clothing, matches the situation and the environment.",
+      "fa": "4 people: friends (young adults) در park near a famous landmark وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال having a picnic، talking و relaxing هستند. Friends relax on the grass for a picnic with a famous tower in the background. اطرافشان picnic food، drinks، park grass و landmark tower (background) دیده می‌شود و فضا relaxed، happy و social است. لباس‌ها، مثل casual travel clothing هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "The friends are having a picnic.",
+            "There are picnic food and drinks in park near a famous landmark.",
+            "The atmosphere feels relaxed."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال having a picnic هستند.",
+            "در park near a famous landmark picnic food و drinks دیده می‌شود.",
+            "فضا relaxed به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself in park near a famous landmark. Friends relax on the grass for a picnic with a famous tower in the background. At first, I noticed picnic food, drinks, park grass and the way people were having a picnic. Then I looked closer: their clothing (casual travel clothing) and their expressions made the scene feel relaxed, happy, social. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل park near a famous landmark بودم. Friends relax on the grass for a picnic with a famous tower in the background. اول picnic food، drinks و park grass را دیدم و اینکه آدم‌ها چطور having a picnic. بعد دقیق‌تر نگاه کردم: لباس‌ها (casual travel clothing) و حالت چهره‌ها باعث شد فضا relaxed، happy و social به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, the friends haved a picnic.",
+            "Then, the friends checked picnic food and continued.",
+            "Finally, they felt relaxed about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، The friends haved a picnic.",
+            "بعد، The friends picnic food را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه relaxed بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as picnic food, drinks, park grass, landmark tower (background) are not background; they guide the story. I have also learned how actions like talking can signal feelings such as relaxed, happy, social. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل picnic food، drinks، park grass و landmark tower (background) فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل talking چطور می‌تواند احساساتی مثل relaxed، happy و social را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "The friends have already handled similar situations before.",
+            "The friends have learned to stay relaxed in park near a famous landmark.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "The friends قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "The friends یاد گرفته است در park near a famous landmark relaxed بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment in park near a famous landmark, one small change could create a big problem. If picnic food, drinks had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در park near a famous landmark دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر picnic food و drinks نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If the friends had checked picnic food earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay relaxed.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر The friends زودتر picnic food را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید relaxed بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

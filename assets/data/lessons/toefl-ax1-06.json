@@ -1,0 +1,1635 @@
+{
+  "id": "toefl-ax1-06",
+  "title": "Learning in a Science Lab",
+  "caption": "This image shows hands-on scientific learning. Focus: clear description, cautious inference, and TOEFL practice.",
+  "image": {
+    "base": "toefl-photo-ax1-06",
+    "src800": "assets/images/toefl-photo-ax1-06-800.webp",
+    "src1600": "assets/images/toefl-photo-ax1-06-1600.webp",
+    "alt": "A woman looks into a microscope while a scientist in a lab coat guides her."
+  },
+  "fullDescription": {
+    "en": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results.",
+    "fa": "This image shows hands-on scientific learning. student performs precise observation with microscope, likely analyzing cells or materials. mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. lab environment and equipment in background reinforce seriousness of task, where small errors can change results."
+  },
+  "simpleEnglish": {
+    "en": "A student looks through a microscope. A scientist stands next to her. They are working in a lab and studying something small.",
+    "fa": "student looks through microscope. scientist stands next to her. آن‌ها کار می‌کنند in lab and studying something small."
+  },
+  "intermediateEnglish": {
+    "en": "In a laboratory, a student examines a sample under a microscope while a mentor supervises. The older scientist appears to be explaining or checking the process. The scene suggests training, research, or a careful experiment.",
+    "fa": "In laboratory, student examines sample under microscope while mentor supervises. older scientist appears to be explaining or checking process. scene suggests training, research, or careful experiment."
+  },
+  "advancedEnglish": {
+    "en": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results.",
+    "fa": "This image shows hands-on scientific learning. student performs precise observation with microscope, likely analyzing cells or materials. mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. lab environment and equipment in background reinforce seriousness of task, where small errors can change results."
+  },
+  "people": [
+    "2 people: 1 mentor (older man) + 1 student (young woman)"
+  ],
+  "ages": [
+    "young adult + middle-aged/older adult"
+  ],
+  "place": [
+    "indoor science laboratory"
+  ],
+  "clothing": [
+    "lab coat",
+    "casual lab-safe clothing"
+  ],
+  "appearance": [
+    "mentor wears glasses and a lab coat",
+    "student focuses on the microscope"
+  ],
+  "actions": [
+    "examining a sample",
+    "supervising",
+    "explaining steps"
+  ],
+  "objects": [
+    "microscope",
+    "lab coat",
+    "sample container",
+    "lab bench"
+  ],
+  "feelings": [
+    "curious",
+    "focused",
+    "careful"
+  ],
+  "environmentType": [
+    "indoor laboratory / research"
+  ],
+  "weatherLighting": [
+    "bright lab lighting",
+    "clean technical environment"
+  ],
+  "vocabularyExtended": {
+    "actions": [
+      "microscope",
+      "sample",
+      "slide",
+      "lens",
+      "lab coat",
+      "experiment",
+      "observe",
+      "analyze",
+      "research",
+      "method"
+    ],
+    "feelings": [
+      "focused",
+      "relaxed",
+      "excited",
+      "nervous",
+      "proud",
+      "tired",
+      "hopeful"
+    ],
+    "objects": [
+      "microscope",
+      "lab coat",
+      "sample container",
+      "lab bench"
+    ],
+    "places": [
+      "indoor science laboratory"
+    ],
+    "academicPhrases": [
+      "It is evident that",
+      "This suggests that",
+      "One possible explanation is",
+      "In contrast",
+      "As a result",
+      "From this perspective",
+      "A key factor is",
+      "This highlights the importance of",
+      "In summary",
+      "To illustrate this point"
+    ]
+  },
+  "vocabularyDetailed": [
+    {
+      "en": "microscope",
+      "fa": "میکروسکوپ"
+    },
+    {
+      "en": "sample",
+      "fa": "نمونه"
+    },
+    {
+      "en": "slide",
+      "fa": "لام"
+    },
+    {
+      "en": "lens",
+      "fa": "لنز"
+    },
+    {
+      "en": "lab coat",
+      "fa": "روپوش آزمایشگاه"
+    },
+    {
+      "en": "experiment",
+      "fa": "آزمایش"
+    },
+    {
+      "en": "observe",
+      "fa": "مشاهده کردن"
+    },
+    {
+      "en": "analyze",
+      "fa": "تحلیل کردن"
+    },
+    {
+      "en": "research",
+      "fa": "پژوهش"
+    },
+    {
+      "en": "method",
+      "fa": "روش"
+    },
+    {
+      "en": "procedure",
+      "fa": "رویه"
+    },
+    {
+      "en": "accuracy",
+      "fa": "دقت"
+    },
+    {
+      "en": "data",
+      "fa": "داده"
+    },
+    {
+      "en": "result",
+      "fa": "نتیجه"
+    },
+    {
+      "en": "hypothesis",
+      "fa": "فرضیه"
+    },
+    {
+      "en": "conclusion",
+      "fa": "نتیجه‌گیری"
+    },
+    {
+      "en": "sterile",
+      "fa": "استریل"
+    },
+    {
+      "en": "measurement",
+      "fa": "اندازه‌گیری"
+    },
+    {
+      "en": "record",
+      "fa": "ثبت کردن"
+    },
+    {
+      "en": "variable",
+      "fa": "متغیر"
+    },
+    {
+      "en": "control group",
+      "fa": "گروه کنترل"
+    },
+    {
+      "en": "equipment",
+      "fa": "تجهیزات"
+    },
+    {
+      "en": "calibrate",
+      "fa": "کالیبره کردن"
+    },
+    {
+      "en": "focus (microscope)",
+      "fa": "فوکوس"
+    },
+    {
+      "en": "specimen",
+      "fa": "نمونه آزمایشگاهی"
+    },
+    {
+      "en": "contamination",
+      "fa": "آلودگی"
+    },
+    {
+      "en": "reliable",
+      "fa": "قابل اعتماد"
+    },
+    {
+      "en": "replicate",
+      "fa": "تکرار کردن"
+    },
+    {
+      "en": "foreground",
+      "fa": "پیش‌زمینه"
+    },
+    {
+      "en": "background",
+      "fa": "پس‌زمینه"
+    },
+    {
+      "en": "atmosphere",
+      "fa": "فضا/حال‌وهوا"
+    },
+    {
+      "en": "gesture",
+      "fa": "اشاره/ژست"
+    },
+    {
+      "en": "expression",
+      "fa": "حالت چهره"
+    },
+    {
+      "en": "body language",
+      "fa": "زبان بدن"
+    },
+    {
+      "en": "interaction",
+      "fa": "تعامل"
+    },
+    {
+      "en": "focus",
+      "fa": "تمرکز"
+    },
+    {
+      "en": "detail",
+      "fa": "جزئیات"
+    },
+    {
+      "en": "context",
+      "fa": "زمینه"
+    }
+  ],
+  "collocations": [
+    {
+      "id": "AX106-C1",
+      "en": "examine a sample",
+      "fa": "بررسی نمونه"
+    },
+    {
+      "id": "AX106-C2",
+      "en": "conduct an experiment",
+      "fa": "انجام آزمایش"
+    },
+    {
+      "id": "AX106-C3",
+      "en": "follow a procedure",
+      "fa": "دنبال کردن دستورالعمل"
+    },
+    {
+      "id": "AX106-C4",
+      "en": "collect data",
+      "fa": "جمع‌آوری داده"
+    },
+    {
+      "id": "AX106-C5",
+      "en": "record the results",
+      "fa": "ثبت نتایج"
+    },
+    {
+      "id": "AX106-C6",
+      "en": "adjust the focus",
+      "fa": "تنظیم فوکوس"
+    },
+    {
+      "id": "AX106-C7",
+      "en": "avoid contamination",
+      "fa": "جلوگیری از آلودگی"
+    },
+    {
+      "id": "AX106-C8",
+      "en": "reach a conclusion",
+      "fa": "به نتیجه رسیدن"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Passive Voice (مجهول در آزمایشگاه)",
+      "rule": "برای توضیح مراحل علمی از مجهول استفاده کن: **be + past participle**.",
+      "examples": [
+        {
+          "en": "The sample is placed on a slide.",
+          "fa": "نمونه روی لام قرار داده می‌شود."
+        },
+        {
+          "en": "The results are recorded in a table.",
+          "fa": "نتایج در یک جدول ثبت می‌شوند."
+        }
+      ]
+    },
+    {
+      "title": "Sequencing Words (ترتیب مراحل)",
+      "rule": "برای ترتیب مراحل از **first / then / after that / finally** استفاده کن.",
+      "examples": [
+        {
+          "en": "First, prepare the slide. Then, adjust the focus.",
+          "fa": "اول لام را آماده کن. سپس فوکوس را تنظیم کن."
+        },
+        {
+          "en": "Finally, record what you observe.",
+          "fa": "در نهایت، چیزی که مشاهده می‌کنی را ثبت کن."
+        }
+      ]
+    },
+    {
+      "title": "Present Perfect (نتایج تا الان)",
+      "rule": "برای گزارش پیشرفت یا نتیجه تا این لحظه از حال کامل استفاده کن.",
+      "examples": [
+        {
+          "en": "They have collected enough data.",
+          "fa": "آن‌ها داده کافی جمع کرده‌اند."
+        },
+        {
+          "en": "The experiment has produced clear results.",
+          "fa": "آزمایش نتایج واضحی ایجاد کرده است."
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "sentences": [
+      "Start with an overview sentence: setting + main action.",
+      "Mention 3–5 concrete details (objects, clothing, environment).",
+      "Add 1 inference (purpose, relationship, emotion) and support it with evidence from the photo.",
+      "Finish with what might happen next."
+    ],
+    "qa": [
+      "Who are the people? How many? What are they doing?",
+      "Where are they? What time of day might it be?",
+      "What objects stand out? What do they suggest?",
+      "What is the mood? What evidence supports it?"
+    ],
+    "speakingPrompts": [
+      "Describe the photo in 45–60 seconds (TOEFL Speaking style).",
+      "Explain two reasons why the situation in the photo matters (work, study, relationships, culture)."
+    ]
+  },
+  "toefl": {
+    "reading": [],
+    "questions": [
+      {
+        "question": "Where does 'Learning in a Science Lab' most likely take place?",
+        "choices": [
+          "indoor science laboratory",
+          "a quiet library",
+          "a busy sports stadium",
+          "a hospital hallway"
+        ],
+        "answer": 0,
+        "explanation": "The setting is supported by the visual context described in the lesson data."
+      },
+      {
+        "question": "What is a key action in 'Learning in a Science Lab'?",
+        "choices": [
+          "examining a sample",
+          "celebrating a sports win",
+          "conducting a laboratory experiment",
+          "shopping in a market"
+        ],
+        "answer": 0,
+        "explanation": "The correct choice matches the main action highlighted in the lesson analysis/caption."
+      },
+      {
+        "question": "Which mood best fits 'Learning in a Science Lab'?",
+        "choices": [
+          "curious",
+          "tense and chaotic",
+          "playful and noisy",
+          "bored and distracted"
+        ],
+        "answer": 0,
+        "explanation": "The best answer matches the mood/atmosphere described for the scene."
+      }
+    ],
+    "listening": [],
+    "speakingTasks": [
+      {
+        "prompt": "Describe the scene in 'Learning in a Science Lab'. What do you notice first?"
+      },
+      {
+        "prompt": "Make one inference about why the people are there and support it with evidence from the photo."
+      },
+      {
+        "prompt": "Give a 45–60 second response about 'Learning in a Science Lab' (indoor science laboratory). Use 2 details + 1 inference + a short conclusion."
+      }
+    ],
+    "writingTasks": [
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Write a short description of the photo and summarize the main mood in 'Learning in a Science Lab'."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 10,
+        "prompt": "Do you prefer working alone or with others? Use this photo as an example and explain your reasons."
+      },
+      {
+        "type": "Independent",
+        "timeMinutes": 12,
+        "prompt": "In 120–170 words, describe 'Learning in a Science Lab' and explain what skills a TOEFL test-taker should use to answer speaking/writing questions about this scene."
+      }
+    ],
+    "examTips": [
+      "Use 1 overview sentence + 3 concrete details + 1 inference.",
+      "Use 2 collocations and 1 connector (because/while/although/so)."
+    ]
+  },
+  "analysis": {
+    "peopleCount": 3,
+    "gender": "mixed/unknown",
+    "ages": [
+      "young adult + middle-aged/older adult"
+    ],
+    "setting": [
+      "indoor science laboratory"
+    ],
+    "colorsLighting": [
+      "bright lab lighting",
+      "clean technical environment"
+    ],
+    "actions": [
+      "examining a sample",
+      "supervising",
+      "explaining steps"
+    ],
+    "bodyLanguage": [
+      "curious",
+      "focused",
+      "careful"
+    ],
+    "moodAtmosphere": [
+      "curious",
+      "focused",
+      "careful"
+    ],
+    "themes": [
+      "scientific training",
+      "accuracy",
+      "mentorship"
+    ],
+    "objects": [
+      "microscope",
+      "lab coat",
+      "sample container",
+      "lab bench"
+    ]
+  },
+  "descriptions": {
+    "beginner": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results. They are in indoor science laboratory. Key action: examining a sample; supervising. Mood: curious; focused.",
+    "simple": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results. They are in indoor science laboratory. Key action: examining a sample; supervising. Mood: curious; focused.",
+    "intermediate": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results. The scene takes place in indoor science laboratory. Notable details include microscope; lab coat. The overall atmosphere feels curious; focused. This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "advanced": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results. In this setting (indoor science laboratory), focus on precise visual evidence before adding careful inference about intent or context. You can highlight actions such as examining a sample; supervising and explain how they shape the interaction or outcome. Use specific nouns and modifiers for details like microscope; lab coat to improve clarity. Tone words (for example: curious; focused) help your response sound natural yet academic. You will practice academic vocabulary and structured responses for TOEFL speaking and writing tasks."
+  },
+  "sceneNotes": [
+    "Focus on what you can SEE (people, setting, actions).",
+    "Grammar breakdown:",
+    "- Simple: Mostly Present Continuous (am/is/are + V-ing) + basic 'There is/There are' for objects.",
+    "- Intermediate: Adds prepositional phrases (at/on/near), quantifiers (several/a few/a lot of), and 1 relative clause (who/that/where).",
+    "- Advanced: Adds inference language (probably/likely/might), contrast/linkers (while/whereas/in addition), and optional passive voice when relevant.",
+    "Add 1–2 inferences (why they are there, how they feel).",
+    "Use at least 2 collocations in your speaking/writing."
+  ],
+  "sceneDescription": "A student examines a sample under a microscope while a mentor supervises.",
+  "lessonOverview": {
+    "en": "This lesson builds both everyday and academic language for describing the photo clearly, making inferences, and organizing ideas for TOEFL tasks.",
+    "fa": "این درس هم زبان روزمره و هم زبان آکادمیک را برای توصیف دقیق تصویر، نتیجه‌گیری، و سازمان‌دهی ایده‌ها در تمرین‌های TOEFL تقویت می‌کند."
+  },
+  "lessonGuide": {
+    "en": "Use the 3-level descriptions first (Simple → Intermediate → Advanced). Then practice vocabulary and collocations, and finish with the timed speaking and writing tasks.",
+    "fa": "اول توصیف‌های سه‌سطحی را بخوان (ساده → متوسط → پیشرفته). سپس واژگان و کالوکیشن‌ها را تمرین کن و در پایان تمرین‌های زمان‌دار اسپیکینگ و رایتینگ را انجام بده."
+  },
+  "proDescriptions": [
+    {
+      "label": "TOEFL Speaking (45–60s)",
+      "text": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results."
+    },
+    {
+      "label": "Academic Description",
+      "text": "This image shows hands-on scientific learning. The student performs a precise observation with a microscope, likely analyzing cells or materials. The mentor’s close attention suggests guidance and quality control, emphasizing accuracy, safety, and proper methodology. The lab environment and equipment in the background reinforce the seriousness of the task, where small errors can change results."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "beginner-01-vocab-match",
+      "level": "beginner",
+      "type": "vocab",
+      "name": "Vocab match + sentence",
+      "prompt": "Tap each English word to reveal Persian. Then say the meaning and make a simple sentence.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "microscope",
+          "fa": "میکروسکوپ",
+          "task_en": "Say the Persian meaning and use \"microscope\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «microscope» یک جمله ساده بساز."
+        },
+        {
+          "en": "sample",
+          "fa": "نمونه",
+          "task_en": "Say the Persian meaning and use \"sample\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «sample» یک جمله ساده بساز."
+        },
+        {
+          "en": "slide",
+          "fa": "لام",
+          "task_en": "Say the Persian meaning and use \"slide\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «slide» یک جمله ساده بساز."
+        },
+        {
+          "en": "lens",
+          "fa": "لنز",
+          "task_en": "Say the Persian meaning and use \"lens\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «lens» یک جمله ساده بساز."
+        },
+        {
+          "en": "lab coat",
+          "fa": "روپوش آزمایشگاه",
+          "task_en": "Say the Persian meaning and use \"lab coat\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «lab coat» یک جمله ساده بساز."
+        },
+        {
+          "en": "experiment",
+          "fa": "آزمایش",
+          "task_en": "Say the Persian meaning and use \"experiment\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «experiment» یک جمله ساده بساز."
+        },
+        {
+          "en": "observe",
+          "fa": "مشاهده کردن",
+          "task_en": "Say the Persian meaning and use \"observe\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «observe» یک جمله ساده بساز."
+        },
+        {
+          "en": "analyze",
+          "fa": "تحلیل کردن",
+          "task_en": "Say the Persian meaning and use \"analyze\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «analyze» یک جمله ساده بساز."
+        },
+        {
+          "en": "research",
+          "fa": "پژوهش",
+          "task_en": "Say the Persian meaning and use \"research\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «research» یک جمله ساده بساز."
+        },
+        {
+          "en": "method",
+          "fa": "روش",
+          "task_en": "Say the Persian meaning and use \"method\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «method» یک جمله ساده بساز."
+        },
+        {
+          "en": "procedure",
+          "fa": "رویه",
+          "task_en": "Say the Persian meaning and use \"procedure\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «procedure» یک جمله ساده بساز."
+        },
+        {
+          "en": "accuracy",
+          "fa": "دقت",
+          "task_en": "Say the Persian meaning and use \"accuracy\" in a simple sentence.",
+          "task_fa": "معنی فارسی را بگو و با «accuracy» یک جمله ساده بساز."
+        }
+      ],
+      "checklist": [
+        "Say the meaning clearly.",
+        "Use each word in a sentence.",
+        "Keep sentences short and correct."
+      ]
+    },
+    {
+      "id": "vocab-flashcards",
+      "level": "all",
+      "type": "flashcards",
+      "name": "Flashcards (interactive)",
+      "prompt": "Flip each card to reveal Persian, then mark if you knew it. Use the level buttons to change deck size.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "deckSizes": {
+        "beginner": 12,
+        "intermediate": 18,
+        "advanced": 24
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Choose a level (Beginner/Intermediate/Advanced).",
+        "Tap the card to flip (English → Persian).",
+        "Mark: “I knew it” or “I missed it”."
+      ],
+      "checklist": [
+        "Pronounce the word clearly.",
+        "Say a short sentence (daily + academic if possible).",
+        "Aim for accuracy, not speed."
+      ]
+    },
+    {
+      "id": "vocab-fill-blank",
+      "level": "all",
+      "type": "fill_blank",
+      "name": "Fill in the blank (quiz)",
+      "prompt": "Choose the best word to complete each sentence. This is timed and scored.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "questionCounts": {
+        "beginner": 8,
+        "intermediate": 10,
+        "advanced": 12
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 300
+        }
+      ],
+      "steps": [
+        "Read the sentence and the context note.",
+        "Pick the best option.",
+        "After answering, tap the English line to reveal Persian if needed."
+      ],
+      "checklist": [
+        "Focus on meaning + grammar.",
+        "Notice tense/time words (yesterday/now/later).",
+        "Learn from feedback before moving on."
+      ]
+    },
+    {
+      "id": "vocab-matching",
+      "level": "all",
+      "type": "matching",
+      "name": "Matching (EN ↔ FA)",
+      "prompt": "Match the English words to Persian meanings. Try to finish with fewer mistakes.",
+      "supportedLevels": [
+        "beginner",
+        "intermediate",
+        "advanced"
+      ],
+      "pairCounts": {
+        "beginner": 6,
+        "intermediate": 8,
+        "advanced": 10
+      },
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "steps": [
+        "Pick one English card, then one Persian card.",
+        "If they match, the pair locks.",
+        "Keep going until all pairs are matched."
+      ],
+      "checklist": [
+        "Say the word aloud before matching.",
+        "After a mismatch, repeat the correct pair."
+      ]
+    },
+    {
+      "id": "beginner-02-collocations",
+      "level": "beginner",
+      "type": "collocation",
+      "name": "Collocations in 3 tenses",
+      "prompt": "Use each collocation in 3 sentences: present, past, and future.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 180
+        }
+      ],
+      "items": [
+        {
+          "en": "examine a sample",
+          "fa": "بررسی نمونه",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are examining a sample.",
+              "fa": "آن‌ها در حال بررسی نمونه هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They examined a sample yesterday.",
+              "fa": "آن‌ها دیروز بررسی نمونه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will examine a sample.",
+              "fa": "آن‌ها فردا بررسی نمونه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "conduct an experiment",
+          "fa": "انجام آزمایش",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are conducting an experiment.",
+              "fa": "آن‌ها در حال انجام آزمایش هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They conducted an experiment yesterday.",
+              "fa": "آن‌ها دیروز انجام آزمایش کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will conduct an experiment.",
+              "fa": "آن‌ها فردا انجام آزمایش خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "follow a procedure",
+          "fa": "دنبال کردن دستورالعمل",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are following a procedure.",
+              "fa": "آن‌ها در حال دنبال کردن دستورالعمل هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They followed a procedure yesterday.",
+              "fa": "آن‌ها دیروز دنبال کردن دستورالعمل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will follow a procedure.",
+              "fa": "آن‌ها فردا دنبال کردن دستورالعمل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "collect data",
+          "fa": "جمع‌آوری داده",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are collecting data.",
+              "fa": "آن‌ها در حال جمع‌آوری داده هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They collected data yesterday.",
+              "fa": "آن‌ها دیروز جمع‌آوری داده کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will collect data.",
+              "fa": "آن‌ها فردا جمع‌آوری داده خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "record the results",
+          "fa": "ثبت نتایج",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are recording the results.",
+              "fa": "آن‌ها در حال ثبت نتایج هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They recorded the results yesterday.",
+              "fa": "آن‌ها دیروز ثبت نتایج کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will record the results.",
+              "fa": "آن‌ها فردا ثبت نتایج خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "adjust the focus",
+          "fa": "تنظیم فوکوس",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are adjusting the focus.",
+              "fa": "آن‌ها در حال تنظیم فوکوس هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They adjusted the focus yesterday.",
+              "fa": "آن‌ها دیروز تنظیم فوکوس کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will adjust the focus.",
+              "fa": "آن‌ها فردا تنظیم فوکوس خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "avoid contamination",
+          "fa": "جلوگیری از آلودگی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are avoiding contamination.",
+              "fa": "آن‌ها در حال جلوگیری از آلودگی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They avoided contamination yesterday.",
+              "fa": "آن‌ها دیروز جلوگیری از آلودگی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will avoid contamination.",
+              "fa": "آن‌ها فردا جلوگیری از آلودگی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "reach a conclusion",
+          "fa": "به نتیجه رسیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are reaching a conclusion.",
+              "fa": "آن‌ها در حال به نتیجه رسیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They reached a conclusion yesterday.",
+              "fa": "آن‌ها دیروز به نتیجه رسیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will reach a conclusion.",
+              "fa": "آن‌ها فردا به نتیجه رسیدن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Start with what you see in the photo (present continuous).",
+        "Add a short backstory (past).",
+        "Finish with a prediction (future)."
+      ],
+      "model": {
+        "en": "In this photo, they are engaged in A student examines a sample under a microscope while a mentor supervises.. Earlier, they were preparing for this moment. Later, they will continue and finish their task.",
+        "fa": "در این عکس، آن‌ها درگیر کار/صحنه هستند. قبل‌تر برای این لحظه آماده شده‌اند. بعداً هم کارشان را ادامه می‌دهند و تمام می‌کنند."
+      }
+    },
+    {
+      "id": "beginner-03-speaking-30s",
+      "level": "beginner",
+      "type": "speaking",
+      "name": "30-second photo description",
+      "prompt": "Describe \"Learning in a Science Lab\" in 3 sentences: (1) setting, (2) people + action, (3) feeling.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 15
+        },
+        {
+          "label": "Speak",
+          "seconds": 30
+        }
+      ],
+      "steps": [
+        "Sentence 1: Where are they? (place + weather/light)",
+        "Sentence 2: Who are they and what are they doing?",
+        "Sentence 3: How do they feel? Why?"
+      ],
+      "checklist": [
+        "Use 2 vocabulary words.",
+        "Use 1 collocation.",
+        "Use one connector: also / because / so."
+      ]
+    },
+    {
+      "id": "intermediate-01-speaking-45s",
+      "level": "intermediate",
+      "type": "speaking",
+      "name": "45-second structured speaking",
+      "prompt": "Give a 45-second description of the photo (A student examines a sample under a microscope while a mentor supervises.). Use 2 details + 1 inference.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 20
+        },
+        {
+          "label": "Speak",
+          "seconds": 45
+        }
+      ],
+      "steps": [
+        "Overview: one sentence about the scene.",
+        "Details: 2–3 details (foreground/background).",
+        "Inference: make 1 reasonable guess.",
+        "Wrap-up: summarize the mood."
+      ],
+      "tips": [
+        "Use present continuous for what you see.",
+        "Use might/could for a guess.",
+        "Use a final summarizing sentence."
+      ]
+    },
+    {
+      "id": "intermediate-02-writing-6min",
+      "level": "intermediate",
+      "type": "writing",
+      "name": "6-minute paragraph (TOEFL style)",
+      "prompt": "Write one paragraph (80–120 words) describing the photo: A student examines a sample under a microscope while a mentor supervises.. Add one personal connection.",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 300
+        },
+        {
+          "label": "Quick edit",
+          "seconds": 60
+        }
+      ],
+      "checklist": [
+        "80–120 words.",
+        "2 collocations.",
+        "1 past sentence + 1 future sentence.",
+        "One clear topic sentence."
+      ],
+      "model": {
+        "en": "The photo shows mountain valley view: two hikers taking in the scenery with a calm, inspiring atmosphere. In the foreground, the people seem focused and relaxed as they take in the view. In the background, the landscape looks wide and dramatic, which makes the moment feel special. I have had a similar experience on a weekend trip, and it reminded me how refreshing nature can be. After this moment, they will probably keep exploring and take more photos.",
+        "fa": "یک پاراگراف نمونه (برای راهنمایی) — روی متن انگلیسی کلیک کن تا فارسی را ببینی."
+      }
+    },
+    {
+      "id": "intermediate-03-vocab-in-context",
+      "level": "intermediate",
+      "type": "vocab",
+      "name": "Vocab in context (mini-drill)",
+      "prompt": "Create 8 sentences: 4 daily-life + 4 academic/TOEFL.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Write",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "en": "homework",
+          "fa": "تکلیف"
+        },
+        {
+          "en": "workbook",
+          "fa": "کتاب تمرین"
+        },
+        {
+          "en": "notebook",
+          "fa": "دفتر"
+        },
+        {
+          "en": "worksheet",
+          "fa": "برگه تمرین"
+        },
+        {
+          "en": "pencil",
+          "fa": "مداد"
+        },
+        {
+          "en": "eraser",
+          "fa": "پاک‌کن"
+        },
+        {
+          "en": "colored pencils",
+          "fa": "مداد رنگی"
+        },
+        {
+          "en": "stationery",
+          "fa": "لوازم‌التحریر"
+        },
+        {
+          "en": "desk",
+          "fa": "میز تحریر"
+        },
+        {
+          "en": "study table",
+          "fa": "میز مطالعه"
+        }
+      ],
+      "tips": [
+        "Daily-life: short, natural, spoken style.",
+        "Academic: use formal connectors (moreover, therefore)."
+      ]
+    },
+    {
+      "id": "advanced-01-speaking-60s",
+      "level": "advanced",
+      "type": "speaking",
+      "name": "60-second TOEFL speaking (inference + solution)",
+      "prompt": "Speak for 60 seconds about \"Learning in a Science Lab\". Include background, cause-effect, and a prediction.",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 30
+        },
+        {
+          "label": "Speak",
+          "seconds": 60
+        }
+      ],
+      "steps": [
+        "Scene summary (1 sentence).",
+        "Key details (2 sentences).",
+        "Inference: what challenge might they face?",
+        "Solution: what should they do next?"
+      ],
+      "checklist": [
+        "Use at least 3 collocations.",
+        "Use modals: might / should / could.",
+        "End with a clear recommendation."
+      ]
+    },
+    {
+      "id": "advanced-02-integrated-writing-10min",
+      "level": "advanced",
+      "type": "writing",
+      "name": "10-minute integrated writing (photo + argument)",
+      "prompt": "Integrated writing: Describe the photo (A student examines a sample under a microscope while a mentor supervises.) and connect it to a broader topic (education, work, culture, or health).",
+      "phases": [
+        {
+          "label": "Plan",
+          "seconds": 90
+        },
+        {
+          "label": "Write",
+          "seconds": 480
+        },
+        {
+          "label": "Edit",
+          "seconds": 30
+        }
+      ],
+      "checklist": [
+        "150–180 words.",
+        "1 counterargument + reply.",
+        "Use 2 advanced connectors (however, consequently).",
+        "Add one example from real life."
+      ]
+    },
+    {
+      "id": "advanced-03-colloc-variety",
+      "level": "advanced",
+      "type": "collocation",
+      "name": "Collocations across contexts",
+      "prompt": "Use 6 collocations in 6 different contexts (travel, work, study, city, nature, online).",
+      "phases": [
+        {
+          "label": "Prep",
+          "seconds": 60
+        },
+        {
+          "label": "Speak",
+          "seconds": 300
+        }
+      ],
+      "items": [
+        {
+          "en": "examine a sample",
+          "fa": "بررسی نمونه",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are examining a sample.",
+              "fa": "آن‌ها در حال بررسی نمونه هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They examined a sample yesterday.",
+              "fa": "آن‌ها دیروز بررسی نمونه کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will examine a sample.",
+              "fa": "آن‌ها فردا بررسی نمونه خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "conduct an experiment",
+          "fa": "انجام آزمایش",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are conducting an experiment.",
+              "fa": "آن‌ها در حال انجام آزمایش هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They conducted an experiment yesterday.",
+              "fa": "آن‌ها دیروز انجام آزمایش کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will conduct an experiment.",
+              "fa": "آن‌ها فردا انجام آزمایش خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "follow a procedure",
+          "fa": "دنبال کردن دستورالعمل",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are following a procedure.",
+              "fa": "آن‌ها در حال دنبال کردن دستورالعمل هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They followed a procedure yesterday.",
+              "fa": "آن‌ها دیروز دنبال کردن دستورالعمل کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will follow a procedure.",
+              "fa": "آن‌ها فردا دنبال کردن دستورالعمل خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "collect data",
+          "fa": "جمع‌آوری داده",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are collecting data.",
+              "fa": "آن‌ها در حال جمع‌آوری داده هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They collected data yesterday.",
+              "fa": "آن‌ها دیروز جمع‌آوری داده کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will collect data.",
+              "fa": "آن‌ها فردا جمع‌آوری داده خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "record the results",
+          "fa": "ثبت نتایج",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are recording the results.",
+              "fa": "آن‌ها در حال ثبت نتایج هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They recorded the results yesterday.",
+              "fa": "آن‌ها دیروز ثبت نتایج کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will record the results.",
+              "fa": "آن‌ها فردا ثبت نتایج خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "adjust the focus",
+          "fa": "تنظیم فوکوس",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are adjusting the focus.",
+              "fa": "آن‌ها در حال تنظیم فوکوس هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They adjusted the focus yesterday.",
+              "fa": "آن‌ها دیروز تنظیم فوکوس کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will adjust the focus.",
+              "fa": "آن‌ها فردا تنظیم فوکوس خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "avoid contamination",
+          "fa": "جلوگیری از آلودگی",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are avoiding contamination.",
+              "fa": "آن‌ها در حال جلوگیری از آلودگی هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They avoided contamination yesterday.",
+              "fa": "آن‌ها دیروز جلوگیری از آلودگی کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will avoid contamination.",
+              "fa": "آن‌ها فردا جلوگیری از آلودگی خواهند کرد."
+            }
+          ]
+        },
+        {
+          "en": "reach a conclusion",
+          "fa": "به نتیجه رسیدن",
+          "examples": [
+            {
+              "tense": "present continuous",
+              "context": "photo",
+              "en": "They are reaching a conclusion.",
+              "fa": "آن‌ها در حال به نتیجه رسیدن هستند."
+            },
+            {
+              "tense": "past simple",
+              "context": "past",
+              "en": "They reached a conclusion yesterday.",
+              "fa": "آن‌ها دیروز به نتیجه رسیدن کردند."
+            },
+            {
+              "tense": "future",
+              "context": "plan",
+              "en": "Tomorrow, they will reach a conclusion.",
+              "fa": "آن‌ها فردا به نتیجه رسیدن خواهند کرد."
+            }
+          ]
+        }
+      ],
+      "tips": [
+        "Change the subject and place each time.",
+        "Vary tenses and add one conditional sentence."
+      ]
+    },
+    {
+      "id": "advanced-04-grammar-transform",
+      "level": "advanced",
+      "type": "grammar",
+      "name": "Grammar transformations (tenses + modals)",
+      "prompt": "Transform sentences into different tenses and add one modal (might/should) when appropriate.",
+      "phases": [
+        {
+          "label": "Time",
+          "seconds": 240
+        }
+      ],
+      "items": [
+        {
+          "task_en": "Rewrite in present continuous: 'The boy writes in his notebook.'",
+          "answer_en": "The boy is writing in his notebook.",
+          "task_fa": "به حال استمراری تبدیل کن: «The boy writes in his notebook.»",
+          "answer_fa": "The boy is writing in his notebook."
+        },
+        {
+          "task_en": "Rewrite in past continuous: 'The mother is helping her son.'",
+          "answer_en": "The mother was helping her son.",
+          "task_fa": "به گذشته استمراری تبدیل کن: «The mother is helping her son.»",
+          "answer_fa": "The mother was helping her son."
+        },
+        {
+          "task_en": "Add 'There is/There are': Mention the microscope in the scene.",
+          "answer_en": "There are microscope in the scene.",
+          "task_fa": "با There is/are جمله بساز و «microscope» را ذکر کن.",
+          "answer_fa": "There are microscope in the scene."
+        },
+        {
+          "task_en": "Use a relative clause: 'The woman is smiling. She is the boy’s mother.'",
+          "answer_en": "The woman who is smiling is the boy’s mother.",
+          "task_fa": "با جمله موصولی (who/that) ترکیب کن.",
+          "answer_fa": "The woman who is smiling is the boy’s mother."
+        },
+        {
+          "task_en": "Make an inference with 'might': 'They study for a test.'",
+          "answer_en": "They might be studying for a test.",
+          "task_fa": "با might حدس بزن.",
+          "answer_fa": "They might be studying for a test."
+        },
+        {
+          "task_en": "Rewrite using 'because': Explain why the boy is focused.",
+          "answer_en": "The boy is focused because he wants to finish his homework.",
+          "task_fa": "با because دلیل بده.",
+          "answer_fa": "The boy is focused because he wants to finish his homework."
+        }
+      ]
+    }
+  ],
+  "createdAt": "2026-02-01T21:19:15Z",
+  "updatedAt": "2026-02-02T17:38:22Z",
+  "scenario": {
+    "en": "2 people: 1 mentor (older man) + 1 student (young woman) are at indoor science laboratory, right in the middle of a real-life moment. They are examining a sample; supervising; explaining steps. A student examines a sample under a microscope while a mentor supervises. There are microscope, lab coat, sample container, lab bench around them, and the setting feels curious, focused, careful. Their clothing, like lab coat, casual lab-safe clothing, matches the situation and the environment.",
+    "fa": "2 people: 1 mentor (older man) + 1 student (young woman) در indoor science laboratory وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال examining a sample، supervising و explaining steps هستند. A student examines a sample under a microscope while a mentor supervises. اطرافشان microscope، lab coat، sample container و lab bench دیده می‌شود و فضا curious، focused و careful است. لباس‌ها، مثل lab coat و casual lab-safe clothing هم با موقعیت و محیط هماهنگ است."
+  },
+  "scenarioType": "multi",
+  "scenarios": [
+    {
+      "id": "scn-a2",
+      "level": "A2",
+      "title": "Quick snapshot",
+      "en": "2 people: 1 mentor (older man) + 1 student (young woman) are at indoor science laboratory, right in the middle of a real-life moment. They are examining a sample; supervising; explaining steps. A student examines a sample under a microscope while a mentor supervises. There are microscope, lab coat, sample container, lab bench around them, and the setting feels curious, focused, careful. Their clothing, like lab coat, casual lab-safe clothing, matches the situation and the environment.",
+      "fa": "2 people: 1 mentor (older man) + 1 student (young woman) در indoor science laboratory وسطِ یک لحظه‌ی واقعی هستند. آن‌ها در حال examining a sample، supervising و explaining steps هستند. A student examines a sample under a microscope while a mentor supervises. اطرافشان microscope، lab coat، sample container و lab bench دیده می‌شود و فضا curious، focused و careful است. لباس‌ها، مثل lab coat و casual lab-safe clothing هم با موقعیت و محیط هماهنگ است.",
+      "grammarFocus": [
+        "present continuous",
+        "there is/there are",
+        "adjectives + prepositions"
+      ],
+      "grammarUsed": {
+        "en": "Present continuous for actions now, there is/are for visible objects, and adjectives/prepositions for setting and mood.",
+        "fa": "حال استمراری برای کارهای در جریان، there is/are برای اشیای قابل مشاهده، و صفت/حروف اضافه برای توصیف محیط و حس."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Continuous (am/is/are + V‑ing) for actions happening now in the photo.",
+          "sentenceStructure": [
+            "Subject + am/is/are + verb‑ing (+ object).",
+            "There is/There are + (a/an/some) + noun (+ place).",
+            "Adjective + linking verb (be/feel/look) + adjective."
+          ],
+          "howToBuild": [
+            "Choose the subject (who?): they / the family / the coworkers.",
+            "Pick an action you can SEE and use am/is/are + V‑ing.",
+            "Add place details with prepositions: at, in, on, near.",
+            "Add one short feeling sentence: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "They are examining a sample.",
+            "There are microscope and lab coat in indoor science laboratory.",
+            "The atmosphere feels curious."
+          ]
+        },
+        "fa": {
+          "tense": "حال استمراری (am/is/are + فعل ing) برای کارهایی که همین الآن در عکس در حال انجام است.",
+          "sentenceStructure": [
+            "فاعل + am/is/are + فعل ing (+ مفعول).",
+            "There is/There are + (یک/چند/مقداری) اسم (+ مکان).",
+            "فعل ربطی (be/feel/look) + صفت."
+          ],
+          "howToBuild": [
+            "اول فاعل را انتخاب کن (چه کسی؟): they / the family / the coworkers.",
+            "یک کاری که در عکس می‌بینی انتخاب کن و با am/is/are + ing بساز.",
+            "جزئیات مکان را با حروف اضافه اضافه کن: at, in, on, near.",
+            "یک جمله کوتاه درباره حس اضافه کن: They look… / The atmosphere feels…"
+          ],
+          "examples": [
+            "آن‌ها در حال examining a sample هستند.",
+            "در indoor science laboratory microscope و lab coat دیده می‌شود.",
+            "فضا curious به نظر می‌رسد."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b1",
+      "level": "B1",
+      "title": "A memory",
+      "en": "Last weekend, I found myself at indoor science laboratory. A student examines a sample under a microscope while a mentor supervises. At first, I noticed microscope, lab coat, sample container and the way people were examining a sample. Then I looked closer: their clothing (lab coat, casual lab-safe clothing) and their expressions made the scene feel curious, focused, careful. After that, something small happened that changed the mood, and we had to respond quickly. In the end, we solved it, and the moment became a story I still remember.",
+      "fa": "آخرِ هفته‌ی قبل indoor science laboratory بودم. A student examines a sample under a microscope while a mentor supervises. اول microscope، lab coat و sample container را دیدم و اینکه آدم‌ها چطور examining a sample. بعد دقیق‌تر نگاه کردم: لباس‌ها (lab coat و casual lab-safe clothing) و حالت چهره‌ها باعث شد فضا curious، focused و careful به نظر برسد. بعدش یک اتفاق کوچک افتاد که حال‌وهوا را عوض کرد و مجبور شدیم سریع واکنش نشان بدهیم. آخرش حلش کردیم و همان لحظه تبدیل شد به خاطره‌ای که هنوز یادم می‌ماند.",
+      "grammarFocus": [
+        "past simple",
+        "time markers",
+        "sequencing"
+      ],
+      "grammarUsed": {
+        "en": "Past simple with time marker (last weekend) and sequencing (at first/then/after that/in the end).",
+        "fa": "گذشته ساده با قید زمان و ترتیب رخدادها (اول/بعد/بعدش/آخرش)."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Past Simple (V2) to tell a short memory, plus sequencing words (first/then/finally).",
+          "sentenceStructure": [
+            "First, + Subject + past verb + …",
+            "Then, + Subject + past verb + …",
+            "Finally, + Subject + past verb + …",
+            "Time markers: yesterday / last week / a few minutes ago."
+          ],
+          "howToBuild": [
+            "Start with a time phrase: Yesterday, Last weekend, A few minutes ago…",
+            "Change the main action into past simple (reviewed, chose, played…).",
+            "Use sequencing words to make a clear story: first, then, after that, finally.",
+            "End with a result or feeling: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "Yesterday, they examined a sample.",
+            "Then, they checked microscope and continued.",
+            "Finally, they felt curious about the outcome."
+          ]
+        },
+        "fa": {
+          "tense": "گذشته ساده (Past Simple) برای تعریف یک خاطره کوتاه، همراه با کلمات ترتیب‌دهنده (first/then/finally).",
+          "sentenceStructure": [
+            "First, + فاعل + فعل گذشته + …",
+            "Then, + فاعل + فعل گذشته + …",
+            "Finally, + فاعل + فعل گذشته + …",
+            "عبارات زمانی: yesterday / last week / a few minutes ago"
+          ],
+          "howToBuild": [
+            "با یک عبارت زمانی شروع کن: Yesterday, Last weekend, A few minutes ago…",
+            "فعل اصلی را به گذشته ساده تبدیل کن (reviewed, chose, played…).",
+            "از کلمات ترتیب‌دهنده استفاده کن: first, then, after that, finally.",
+            "با نتیجه یا حس تمام کن: Everyone felt… / It turned out…"
+          ],
+          "examples": [
+            "دیروز، They examined a sample.",
+            "بعد، They microscope را بررسی کرد و ادامه داد.",
+            "در نهایت، آن‌ها درباره نتیجه curious بودند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-b2",
+      "level": "B2",
+      "title": "Reflection",
+      "en": "Over the past few months, I have started paying attention to scenes like this. I have noticed that details such as microscope, lab coat, sample container, lab bench are not background; they guide the story. I have also learned how actions like supervising can signal feelings such as curious, focused, careful. Since then, I have taken more time to observe before I speak, and my descriptions have become clearer and more specific.",
+      "fa": "در چند ماه گذشته شروع کرده‌ام به صحنه‌هایی مثل این بیشتر دقت کنم. متوجه شده‌ام جزئیاتی مثل microscope، lab coat، sample container و lab bench فقط «پس‌زمینه» نیستند؛ آن‌ها مسیر داستان را تعیین می‌کنند. همچنین یاد گرفته‌ام کارهایی مثل supervising چطور می‌تواند احساساتی مثل curious، focused و careful را نشان بدهد. از آن زمان بیشتر قبل از حرف زدن مشاهده می‌کنم و توصیف‌هایم واضح‌تر و دقیق‌تر شده است.",
+      "grammarFocus": [
+        "present perfect",
+        "since/over the past",
+        "linking ideas"
+      ],
+      "grammarUsed": {
+        "en": "Present perfect to connect past learning to the present, plus since/over the past to frame experience.",
+        "fa": "حال کامل برای وصل کردن یادگیری گذشته به حال، همراه با «در چند ماه گذشته/از آن زمان»."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Present Perfect (have/has + past participle) to connect past experience to the present; use since/for/already/yet.",
+          "sentenceStructure": [
+            "Subject + have/has + past participle + …",
+            "Subject + have/has + already + V3 + …",
+            "Subject + have/has + V3 + since/for + time.",
+            "Short contrast: but / however / although."
+          ],
+          "howToBuild": [
+            "Say what has happened up to now (experience/result).",
+            "Use since (a starting point) or for (a duration).",
+            "Add a contrast or reflection: however, although, even though.",
+            "Finish with what they are doing now (present continuous) if needed."
+          ],
+          "examples": [
+            "They have already handled similar situations before.",
+            "They have learned to stay curious in indoor science laboratory.",
+            "Although it looks routine, the details have mattered."
+          ]
+        },
+        "fa": {
+          "tense": "حال کامل (have/has + شکل سوم فعل) برای ربط دادن گذشته به حال؛ همراه با since/for/already/yet.",
+          "sentenceStructure": [
+            "فاعل + have/has + V3 + …",
+            "فاعل + have/has + already + V3 + …",
+            "فاعل + have/has + V3 + since/for + زمان.",
+            "جملات تضاد: but / however / although"
+          ],
+          "howToBuild": [
+            "بگو تا همین الآن چه تجربه/نتیجه‌ای اتفاق افتاده.",
+            "از since (نقطه شروع) یا for (مدت زمان) استفاده کن.",
+            "یک جمله‌ی بازتاب/تضاد اضافه کن: however, although, even though.",
+            "اگر لازم شد با یک جمله حال استمراری وضعیت الآن را بگو."
+          ],
+          "examples": [
+            "They قبلاً موقعیت‌های مشابهی را تجربه کرده است.",
+            "They یاد گرفته است در indoor science laboratory curious بماند.",
+            "اگرچه کار روتین به نظر می‌رسد، جزئیات مهم بوده‌اند."
+          ]
+        }
+      }
+    },
+    {
+      "id": "scn-c1",
+      "level": "C1",
+      "title": "A challenge",
+      "en": "If we were to replay this moment at indoor science laboratory, one small change could create a big problem. If microscope, lab coat had been missing or damaged, we would have had to improvise. Someone might have said, “We should slow down and check,” and another person could have replied that we were running out of time. In a situation like this, we should prioritize safety and clarity, even if it means changing the plan. If I had ignored those details, I might have misunderstood the whole scene.",
+      "fa": "اگر قرار بود این لحظه در indoor science laboratory دوباره تکرار شود، یک تغییر کوچک می‌توانست یک مشکل بزرگ بسازد. اگر microscope و lab coat نبود یا آسیب دیده بود، مجبور می‌شدیم بداهه تصمیم بگیریم. ممکن بود کسی بگوید «باید آهسته‌تر برویم و بررسی کنیم» و نفر دیگری جواب بدهد که وقت کم داریم. در چنین موقعیتی بهتر است ایمنی و شفافیت را در اولویت بگذاریم، حتی اگر مجبور شویم برنامه را تغییر بدهیم. اگر آن جزئیات را نادیده می‌گرفتم، شاید کل صحنه را اشتباه می‌فهمیدم.",
+      "grammarFocus": [
+        "conditionals",
+        "modals",
+        "reported speech"
+      ],
+      "grammarUsed": {
+        "en": "Conditionals for hypotheticals, modals for advice/possibility, and short reported speech (might have said/could have replied).",
+        "fa": "شرطی‌ها برای موقعیت فرضی، افعال کمکی برای امکان/پیشنهاد، و نقل‌قول غیرمستقیم برای بازگویی گفت‌وگو."
+      },
+      "grammarLesson": {
+        "en": {
+          "tense": "Mixed grammar for higher-level storytelling: conditionals, modals (might/must), and reported speech.",
+          "sentenceStructure": [
+            "Second conditional: If + past simple, would + base verb.",
+            "Third conditional: If + had + V3, would have + V3.",
+            "Modals of deduction: might/must/can't + base verb.",
+            "Reported speech: He said (that) … / She asked if …"
+          ],
+          "howToBuild": [
+            "Describe the challenge and add a hypothetical solution (If…, would…).",
+            "Use modals to infer causes from the photo (They might…, It must…).",
+            "Add reported speech for realism: Someone said that…",
+            "Finish with a consequence or lesson learned."
+          ],
+          "examples": [
+            "If they had checked microscope earlier, they would have avoided a mistake.",
+            "They might be under pressure, but they must stay curious.",
+            "The supervisor said that every detail mattered."
+          ]
+        },
+        "fa": {
+          "tense": "گرامر ترکیبی سطح بالا: شرطی‌ها، افعال کمکی (might/must) و نقل قول غیرمستقیم (reported speech).",
+          "sentenceStructure": [
+            "شرطی نوع دوم: If + past simple, would + فعل ساده.",
+            "شرطی نوع سوم: If + had + V3, would have + V3.",
+            "مدال‌های حدس: might/must/can't + فعل ساده.",
+            "نقل قول غیرمستقیم: He said (that)… / She asked if…"
+          ],
+          "howToBuild": [
+            "چالش را بگو و یک راه‌حل فرضی اضافه کن (If…, would…).",
+            "با مدال‌ها درباره علت‌ها حدس بزن (might/must).",
+            "برای واقعی‌تر شدن از reported speech استفاده کن.",
+            "در پایان نتیجه یا درسِ داستان را بگو."
+          ],
+          "examples": [
+            "اگر They زودتر microscope را چک کرده بود، اشتباه را جلوگیری می‌کرد.",
+            "ممکن است تحت فشار باشند، اما باید curious بمانند.",
+            "سرپرست گفت که هر جزئیاتی مهم است."
+          ]
+        }
+      }
+    }
+  ]
+}

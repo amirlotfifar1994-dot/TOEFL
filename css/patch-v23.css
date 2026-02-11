@@ -1,0 +1,404 @@
+
+/* patch-v23.css — lesson content focus + inline vocab details */
+
+/* Word links: themed + no underline */
+.word-link{
+  text-decoration: none;
+  color: var(--accent, #6aa9ff);
+  border-bottom: none;
+}
+.word-link:hover,
+.word-link:focus{
+  text-decoration: none;
+  filter: brightness(1.05);
+}
+.word-link:visited{
+  color: var(--accent, #6aa9ff);
+}
+
+/* Vocab list layout */
+.vocab-list{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: .6rem;
+}
+.vocab-item{
+  border: 1px solid var(--line, rgba(255,255,255,.12));
+  background: var(--panel, rgba(255,255,255,.04));
+  border-radius: 14px;
+  padding: .65rem .75rem;
+}
+.vocab-main{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: .75rem;
+}
+.vocab-text{
+  display: grid;
+  gap: .35rem;
+  min-width: 0;
+}
+.v-en a{
+  font-weight: 700;
+}
+.v-fa{
+  opacity: .9;
+  line-height: 1.65;
+}
+
+/* Tiny circular action buttons (FA toggle + info) */
+.mini-dot{
+  width: 24px;
+  height: 24px;
+  border-radius: 999px;
+  border: 1px solid var(--line, rgba(255,255,255,.18));
+  background: var(--panel2, rgba(255,255,255,.06));
+  color: var(--muted, rgba(255,255,255,.72));
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  cursor: pointer;
+}
+.mini-dot:hover{ filter: brightness(1.08); }
+.mini-dot:active{ transform: translateY(1px); }
+.mini-dot__i{
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+/* Inline mini profile */
+.v-details{
+  display: none;
+  margin-top: .6rem;
+}
+.v-details.is-open{ display: block; }
+.v-details-inner{
+  border: 1px solid var(--line, rgba(255,255,255,.12));
+  background: var(--panel2, rgba(255,255,255,.06));
+  border-radius: 14px;
+  padding: .75rem;
+}
+.v-details-head{
+  display: grid;
+  gap: .35rem;
+  margin-bottom: .5rem;
+}
+.v-details-title{
+  font-weight: 800;
+  letter-spacing: .2px;
+}
+.v-details-def{
+  opacity: .95;
+  line-height: 1.6;
+}
+.v-details-fa{
+  margin-top: .35rem;
+  line-height: 1.75;
+}
+.v-details-row{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .65rem;
+  margin-top: .6rem;
+}
+@media (max-width: 720px){
+  .v-details-row{ grid-template-columns: 1fr; }
+}
+.v-col-title{
+  font-weight: 800;
+  opacity: .9;
+  margin-bottom: .35rem;
+}
+.pill-row{
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+}
+.pill{
+  border: 1px solid var(--line, rgba(255,255,255,.14));
+  background: rgba(255,255,255,.03);
+  padding: .22rem .5rem;
+  border-radius: 999px;
+  font-size: .85rem;
+  opacity: .95;
+}
+.v-details-ex{
+  margin-top: .75rem;
+}
+.ex-item{
+  margin-top: .45rem;
+  padding: .5rem .6rem;
+  border-radius: 12px;
+  border: 1px solid var(--line, rgba(255,255,255,.10));
+  background: rgba(255,255,255,.03);
+}
+.ex-en{ line-height: 1.55; }
+.ex-fa{ margin-top: .3rem; line-height: 1.75; }
+
+/* Spacing fix for photo description blocks (common offenders) */
+.photo-desc, .photoDesc, .lessonPhotoDesc, .sceneDesc, .proDesc, .captionBox{
+  padding: .75rem;
+  line-height: 1.75;
+}
+
+
+/* v25: unified vocabulary layout + per-item FA reveal */
+.vocabSection .vocabWrap { display: grid; gap: 12px; }
+.vocabSearchRow { display: flex; gap: 10px; align-items: center; }
+.vocabSearch {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.12));
+  background: var(--panel, rgba(255,255,255,.04));
+  color: var(--text, inherit);
+}
+.vocabGroups { display: grid; gap: 10px; }
+.vocabGroup { border: 1px solid var(--hairline, rgba(255,255,255,.12)); border-radius: 14px; overflow: hidden; background: var(--panel, rgba(255,255,255,.03)); }
+.vocabGroupSummary { display:flex; justify-content: space-between; align-items:center; padding: 12px 12px; cursor: pointer; }
+.vocabGroupTitle { font-weight: 700; }
+.vocabGroupCount { font-size: 12px; opacity: .75; padding: 3px 8px; border-radius: 999px; border: 1px solid var(--hairline, rgba(255,255,255,.12)); }
+.vocabList { list-style: none; margin: 0; padding: 6px 10px 10px; display: grid; gap: 8px; }
+.vocabItem { display:flex; justify-content: space-between; gap: 10px; padding: 10px 10px; border-radius: 12px; border: 1px solid var(--hairline, rgba(255,255,255,.10)); background: var(--panel2, rgba(255,255,255,.02)); }
+.vocabLeft { display:flex; gap: 10px; align-items: baseline; min-width: 0; }
+.vocabPos { font-size: 12px; opacity: .75; white-space: nowrap; }
+.vocabRight { display:flex; align-items:center; gap: 10px; }
+.vocabFa { font-size: 13px; opacity: .9; max-width: 44ch; }
+.vocabFa.is-hidden { opacity: 0; width: 0; overflow: hidden; white-space: nowrap; }
+.revealBtn{
+  width: 22px; height: 22px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.22));
+  background: transparent;
+  position: relative;
+  flex: 0 0 22px;
+}
+.revealBtn::before{
+  content: '';
+  position:absolute;
+  inset: 6px;
+  border-radius: 999px;
+  background: currentColor;
+  opacity: .55;
+}
+.revealBtn.is-on::before{ opacity: .9; inset: 5px; }
+.sr-only{ position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }
+
+/* Exercise chooser grid */
+.exerciseCardGrid{ display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.exerciseCard{
+  display:block; padding: 14px 14px; border-radius: 16px;
+  border: 1px solid var(--hairline, rgba(255,255,255,.12));
+  background: var(--panel, rgba(255,255,255,.03));
+  text-decoration: none;
+}
+.exerciseCardTitle{ font-weight: 800; margin-bottom: 6px; }
+.exerciseCardMeta{ font-size: 12px; opacity: .75; }
+
+/* Photo description spacing */
+.image-desc{ margin-top: 10px; padding: 12px 12px; border-radius: 14px; border: 1px solid var(--hairline, rgba(255,255,255,.10)); background: var(--panel, rgba(255,255,255,.03)); line-height: 1.7; }
+
+/* Mobile refinements */
+@media (max-width: 640px){
+  .vocabItem{ flex-direction: column; align-items: flex-start; }
+  .vocabRight{ width: 100%; justify-content: flex-end; }
+  .exerciseCardGrid{ grid-template-columns: 1fr; }
+}
+
+
+.panelActions{ margin-top: 10px; }
+
+
+
+/* ============================================================
+   v27 Responsive hardening & overflow fixes
+   - Prevent content from spilling outside cards/viewport
+   - Improve drawer padding + readability
+   ============================================================ */
+
+/* Safer box sizing for everything */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* Media should never overflow */
+img, svg, video, canvas { max-width: 100%; height: auto; }
+
+/* Generic text wrapping for long tokens/URLs */
+:where(.card, .subcard, .drawer-body, #entry, #matches, .vocabItem, .vocabText, .vocabEn, .vocabFa, .lessonBody){
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Drawer content padding (fix “text stuck to frame”) */
+.drawer-body{
+  padding: 12px 14px;
+  overflow: hidden; /* keeps inner elements from bleeding */
+}
+.drawer-body > *:first-child{ margin-top: 0; }
+.drawer-body > *:last-child{ margin-bottom: 0; }
+
+/* Make paragraphs breathe a bit more inside drawers */
+.drawer-body p{ margin: 0.6em 0; line-height: 1.75; }
+.drawer-body li{ line-height: 1.65; }
+
+/* Tables: keep inside viewport on mobile */
+.drawer-body table{
+  width: 100%;
+  max-width: 100%;
+}
+.drawer-body table{ border-collapse: collapse; }
+.drawer-body table{ display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* Code/inline code: wrap instead of forcing horizontal overflow */
+.drawer-body pre, .drawer-body code{
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.drawer-body pre{ max-width: 100%; overflow-x: auto; }
+
+/* Photo description blocks: ensure inner padding even if markup differs */
+:where(.image-desc, .photo-desc, .scene-desc, .captionBox, .imgDesc, .descBox){
+  padding: 12px 12px;
+}
+@media (max-width: 720px){
+  :where(.image-desc, .photo-desc, .scene-desc, .captionBox, .imgDesc, .descBox){
+    padding: 12px 10px;
+  }
+  .drawer-body{ padding: 10px 12px; }
+}
+
+/* Smaller reveal button (tiny circle) */
+.revealBtn{
+  width: 18px;
+  height: 18px;
+  min-width: 18px;
+  min-height: 18px;
+  border-radius: 999px;
+  font-size: 11px;
+  padding: 0;
+}
+
+/* Word links: no underline, theme-aware emphasis */
+a.wordLink, .wordLink{
+  text-decoration: none !important;
+  border-bottom: none !important;
+  color: var(--accent);
+}
+a.wordLink:hover, .wordLink:hover{
+  filter: brightness(1.08);
+}
+a.wordLink:focus-visible, .wordLink:focus-visible{
+  outline: 2px solid color-mix(in srgb, var(--accent), transparent 55%);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+/* Dictionary: ensure panes never overflow horizontally */
+#matches, #entry{
+  max-width: 100%;
+}
+#matches{
+  overflow-x: auto;
+}
+#entry{
+  overflow-x: hidden;
+}
+
+/* Vocab grid: be more forgiving */
+.vocabItem{
+  max-width: 100%;
+}
+.vocabText{
+  min-width: 0;
+}
+
+/* Prevent accidental horizontal scroll on mobile due to shadows/margins */
+body{
+  overflow-x: hidden;
+}
+
+/* TOC chips: horizontal scroll on mobile */
+.toc-chips{
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+.toc-chips > *{ flex: 0 0 auto; }
+
+
+/* Home hero slider: keep header/menu over the slide (mobile-friendly) */
+.has-hero-slider .appHeader{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: transparent;
+  z-index: 50;
+}
+.has-hero-slider .appHeader::before{
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,0));
+  pointer-events: none;
+}
+.has-hero-slider .appHeader > *{ position: relative; }
+
+/* Remove the default top spacing so the hero can start at the very top */
+.has-hero-slider main{ padding-top: 0; }
+.has-hero-slider #main{ padding-top: 0; }
+.has-hero-slider .heroSliderBlock{ margin: 0; }
+
+/* Make the hero slider truly full-page */
+.has-hero-slider .pro-slider--fullpage{
+  max-width: none;
+  margin: 0;
+  border-radius: 0;
+}
+.has-hero-slider .pro-slider--fullpage .pro-slider__viewport{
+  aspect-ratio: auto;
+  height: 100vh;
+  min-height: 560px;
+}
+@media (max-width: 768px){
+  .has-hero-slider .pro-slider--fullpage .pro-slider__viewport{ min-height: 520px; }
+}
+@supports (height: 100svh){
+  .has-hero-slider .pro-slider--fullpage .pro-slider__viewport{ height: 100svh; }
+}
+
+/* When the mobile menu opens over the hero, give it a readable backdrop */
+.has-hero-slider .appHeader.isMenuOpen{
+  background: color-mix(in srgb, rgba(0,0,0,.72) 85%, transparent);
+  backdrop-filter: blur(10px);
+}
+
+
+
+/* ===== Lesson bilingual polish (English-first) ===== */
+.vocabLeft.toggle-fa, .colloc-item .toggle-fa { cursor: pointer; }
+.collocLink { text-decoration: none; opacity: .7; font-size: .95em; }
+.collocLink:hover { opacity: 1; }
+
+.kv-card { position: relative; }
+.kv-fa { margin-top: 6px; }
+.kv-tr {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  border: 1px solid var(--border, rgba(255,255,255,.25));
+  border-radius: 10px;
+  padding: 2px 8px;
+  font-size: 12px;
+  line-height: 1.8;
+  background: color-mix(in srgb, var(--card, #0b1220) 70%, transparent);
+  cursor: pointer;
+  opacity: .75;
+}
+.kv-tr.is-on { opacity: 1; }
+
+/* Make sure RTL lines render nicely when revealed */
+.vocab-fa.fa, .vocabFa.fa, .kv-fa.fa { direction: rtl; unicode-bidi: plaintext; }

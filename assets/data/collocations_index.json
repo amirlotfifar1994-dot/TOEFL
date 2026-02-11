@@ -1,0 +1,1349 @@
+{
+  "generatedAt": "2026-01-31T18:57:24.773003Z",
+  "entries": [
+    {
+      "id": "a-sidewalk-cafe",
+      "en": "a sidewalk cafe",
+      "fa": "کافه کنار پیاده‌رو",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "outdoor-seating",
+      "en": "outdoor seating",
+      "fa": "صندلی‌های بیرونی",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "ride-a-bicycle",
+      "en": "ride a bicycle",
+      "fa": "دوچرخه‌سواری کردن",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "lock-a-bike",
+      "en": "lock a bike",
+      "fa": "دوچرخه را قفل کردن",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "order-a-coffee",
+      "en": "order a coffee",
+      "fa": "قهوه سفارش دادن",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "a-busy-pedestrian-area",
+      "en": "a busy pedestrian area",
+      "fa": "محیط شلوغ عابر",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "street-atmosphere",
+      "en": "street atmosphere",
+      "fa": "حال‌وهوای خیابان",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "to-people-watch",
+      "en": "to people-watch",
+      "fa": "مردم را تماشا کردن",
+      "lesson": "toefl-ax34-01",
+      "category": "city-sidewalk"
+    },
+    {
+      "id": "a-marked-crosswalk",
+      "en": "a marked crosswalk",
+      "fa": "خط‌کشی عابر پیاده",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "to-wait-for-the-signal",
+      "en": "to wait for the signal",
+      "fa": "منتظر چراغ شدن",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "oncoming-traffic",
+      "en": "oncoming traffic",
+      "fa": "ترافیک روبه‌رو",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "to-look-both-ways",
+      "en": "to look both ways",
+      "fa": "دو طرف را نگاه کردن",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-traffic-light",
+      "en": "a traffic light",
+      "fa": "چراغ راهنمایی",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-city-intersection",
+      "en": "a city intersection",
+      "fa": "تقاطع شهری",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "to-hurry-across",
+      "en": "to hurry across",
+      "fa": "سریع عبور کردن",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-pedestrian-crossing",
+      "en": "a pedestrian crossing",
+      "fa": "محل عبور عابر",
+      "lesson": "toefl-ax34-02",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-star-filled-sky",
+      "en": "a star-filled sky",
+      "fa": "آسمان پرستاره",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "to-stargaze",
+      "en": "to stargaze",
+      "fa": "ستاره‌نگری کردن",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "a-sleeping-bag",
+      "en": "a sleeping bag",
+      "fa": "کیسه خواب",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "campfire-embers",
+      "en": "campfire embers",
+      "fa": "اخگرهای آتش",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "to-set-up-camp",
+      "en": "to set up camp",
+      "fa": "کمپ برپا کردن",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "tell-stories",
+      "en": "tell stories",
+      "fa": "قصه گفتن",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "a-cool-night-air",
+      "en": "a cool night air",
+      "fa": "هوای خنک شب",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "camp-under-the-stars",
+      "en": "camp under the stars",
+      "fa": "زیر ستاره‌ها کمپ زدن",
+      "lesson": "toefl-ax34-03",
+      "category": "campsite-night"
+    },
+    {
+      "id": "a-wooded-trail",
+      "en": "a wooded trail",
+      "fa": "مسیر جنگلی",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "dappled-sunlight",
+      "en": "dappled sunlight",
+      "fa": "نور لکه‌لکه",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "to-take-a-hike",
+      "en": "to take a hike",
+      "fa": "پیاده‌روی/کوهپیمایی رفتن",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "fresh-air",
+      "en": "fresh air",
+      "fa": "هوای تازه",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "a-quiet-path",
+      "en": "a quiet path",
+      "fa": "مسیر آرام",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "to-enjoy-nature",
+      "en": "to enjoy nature",
+      "fa": "از طبیعت لذت بردن",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "a-canopy-of-trees",
+      "en": "a canopy of trees",
+      "fa": "سقف درختان",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "walk-side-by-side",
+      "en": "walk side by side",
+      "fa": "کنار هم قدم زدن",
+      "lesson": "toefl-ax34-04",
+      "category": "forest-day"
+    },
+    {
+      "id": "a-mountain-valley",
+      "en": "a mountain valley",
+      "fa": "دره کوهستانی",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "snow-capped-peaks",
+      "en": "snow-capped peaks",
+      "fa": "قله‌های برفی",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "a-winding-river",
+      "en": "a winding river",
+      "fa": "رودخانه پیچان",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "lush-greenery",
+      "en": "lush greenery",
+      "fa": "سرسبزی",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "a-scenic-trail",
+      "en": "a scenic trail",
+      "fa": "مسیر دیدنی",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "fresh-mountain-air",
+      "en": "fresh mountain air",
+      "fa": "هوای تازه کوهستان",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "to-hike-uphill",
+      "en": "to hike uphill",
+      "fa": "سربالایی رفتن",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "breathtaking-scenery",
+      "en": "breathtaking scenery",
+      "fa": "منظره نفس‌گیر",
+      "lesson": "toefl-ax34-05",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "a-public-park",
+      "en": "a public park",
+      "fa": "پارک عمومی",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "a-walking-path",
+      "en": "a walking path",
+      "fa": "مسیر پیاده‌روی",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "sit-on-a-bench",
+      "en": "sit on a bench",
+      "fa": "روی نیمکت نشستن",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "leafy-trees",
+      "en": "leafy trees",
+      "fa": "درختان پُربرگ",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "go-for-a-stroll",
+      "en": "go for a stroll",
+      "fa": "قدم زدن",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "a-relaxed-pace",
+      "en": "a relaxed pace",
+      "fa": "سرعت آرام",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "a-friendly-chat",
+      "en": "a friendly chat",
+      "fa": "گپ دوستانه",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "a-sunny-afternoon",
+      "en": "a sunny afternoon",
+      "fa": "بعدازظهر آفتابی",
+      "lesson": "toefl-ax34-06",
+      "category": "park"
+    },
+    {
+      "id": "a-work-desk",
+      "en": "a work desk",
+      "fa": "میز کار",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "a-computer-monitor",
+      "en": "a computer monitor",
+      "fa": "مانیتور کامپیوتر",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "check-your-email",
+      "en": "check your email",
+      "fa": "ایمیل را چک کردن",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "review-documents",
+      "en": "review documents",
+      "fa": "اسناد را مرور کردن",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "take-notes",
+      "en": "take notes",
+      "fa": "یادداشت برداشتن",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "a-busy-schedule",
+      "en": "a busy schedule",
+      "fa": "برنامه فشرده",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "a-video-call",
+      "en": "a video call",
+      "fa": "تماس ویدیویی",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "meet-a-deadline",
+      "en": "meet a deadline",
+      "fa": "ضرب‌الاجل را رعایت کردن",
+      "lesson": "toefl-ax34-07",
+      "category": "office"
+    },
+    {
+      "id": "heavy-snowfall",
+      "en": "heavy snowfall",
+      "fa": "برف سنگین",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "low-visibility",
+      "en": "low visibility",
+      "fa": "دید کم",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "snow-covered-ground",
+      "en": "snow-covered ground",
+      "fa": "زمین پوشیده از برف",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "an-icy-wind",
+      "en": "an icy wind",
+      "fa": "باد یخ‌زده",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "slippery-roads",
+      "en": "slippery roads",
+      "fa": "جاده‌های لغزنده",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "to-stay-warm",
+      "en": "to stay warm",
+      "fa": "گرم ماندن",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "to-clear-the-snow",
+      "en": "to clear the snow",
+      "fa": "برف را پارو کردن",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "bundled-up-in-layers",
+      "en": "bundled up in layers",
+      "fa": "چند لایه لباس پوشیدن",
+      "lesson": "toefl-ax34-08",
+      "category": "winter-snow"
+    },
+    {
+      "id": "a-sandy-beach",
+      "en": "a sandy beach",
+      "fa": "ساحل شنی",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "ocean-waves",
+      "en": "ocean waves",
+      "fa": "موج‌های دریا",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "a-salty-breeze",
+      "en": "a salty breeze",
+      "fa": "نسیم نمکی",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "walk-along-the-shore",
+      "en": "walk along the shore",
+      "fa": "کنار ساحل قدم زدن",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "a-clear-blue-sky",
+      "en": "a clear blue sky",
+      "fa": "آسمان آبی صاف",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "seashells-on-the-sand",
+      "en": "seashells on the sand",
+      "fa": "صدف روی شن",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "to-relax-by-the-water",
+      "en": "to relax by the water",
+      "fa": "کنار آب استراحت کردن",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "sunset-on-the-horizon",
+      "en": "sunset on the horizon",
+      "fa": "غروب روی افق",
+      "lesson": "toefl-ax34-09",
+      "category": "beach"
+    },
+    {
+      "id": "a-pitch-dark-forest",
+      "en": "a pitch-dark forest",
+      "fa": "جنگل کاملاً تاریک",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "a-flashlight-beam",
+      "en": "a flashlight beam",
+      "fa": "نور چراغ‌قوه",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "eerie-silence",
+      "en": "eerie silence",
+      "fa": "سکوت وهم‌آور",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "rustling-leaves",
+      "en": "rustling leaves",
+      "fa": "خش‌خش برگ‌ها",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "a-narrow-trail",
+      "en": "a narrow trail",
+      "fa": "مسیر باریک",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "to-keep-alert",
+      "en": "to keep alert",
+      "fa": "هوشیار ماندن",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "shadows-between-trees",
+      "en": "shadows between trees",
+      "fa": "سایه بین درخت‌ها",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "to-feel-uneasy",
+      "en": "to feel uneasy",
+      "fa": "حس ناآرامی داشتن",
+      "lesson": "toefl-ax34-10",
+      "category": "forest-night"
+    },
+    {
+      "id": "sand-dunes",
+      "en": "sand dunes",
+      "fa": "تپه‌های شنی",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "a-vast-landscape",
+      "en": "a vast landscape",
+      "fa": "منظره وسیع",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "a-desert-sunset",
+      "en": "a desert sunset",
+      "fa": "غروب کویر",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "a-distant-horizon",
+      "en": "a distant horizon",
+      "fa": "افق دوردست",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "scorching-heat",
+      "en": "scorching heat",
+      "fa": "گرمای سوزان",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "to-conserve-water",
+      "en": "to conserve water",
+      "fa": "آب را ذخیره/حفظ کردن",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "strong-winds",
+      "en": "strong winds",
+      "fa": "بادهای شدید",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "footprints-in-the-sand",
+      "en": "footprints in the sand",
+      "fa": "ردپا روی شن",
+      "lesson": "toefl-ax34-11",
+      "category": "desert-dunes"
+    },
+    {
+      "id": "a-mountain-valley",
+      "en": "a mountain valley",
+      "fa": "دره کوهستانی",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "snow-capped-peaks",
+      "en": "snow-capped peaks",
+      "fa": "قله‌های برفی",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "a-winding-river",
+      "en": "a winding river",
+      "fa": "رودخانه پیچان",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "lush-greenery",
+      "en": "lush greenery",
+      "fa": "سرسبزی",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "a-scenic-trail",
+      "en": "a scenic trail",
+      "fa": "مسیر دیدنی",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "fresh-mountain-air",
+      "en": "fresh mountain air",
+      "fa": "هوای تازه کوهستان",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "to-hike-uphill",
+      "en": "to hike uphill",
+      "fa": "سربالایی رفتن",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "breathtaking-scenery",
+      "en": "breathtaking scenery",
+      "fa": "منظره نفس‌گیر",
+      "lesson": "toefl-ax34-12",
+      "category": "mountain-valley"
+    },
+    {
+      "id": "a-rooftop-view",
+      "en": "a rooftop view",
+      "fa": "منظره پشت‌بام",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "a-city-skyline",
+      "en": "a city skyline",
+      "fa": "خط افق شهر",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "a-sunset-glow",
+      "en": "a sunset glow",
+      "fa": "تابش غروب",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "evening-traffic",
+      "en": "evening traffic",
+      "fa": "ترافیک عصر",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "neon-lights",
+      "en": "neon lights",
+      "fa": "چراغ‌های نئونی",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "to-take-photos",
+      "en": "to take photos",
+      "fa": "عکس گرفتن",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "a-cool-breeze",
+      "en": "a cool breeze",
+      "fa": "نسیم خنک",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "to-unwind-after-work",
+      "en": "to unwind after work",
+      "fa": "بعد از کار ریلکس کردن",
+      "lesson": "toefl-ax34-13",
+      "category": "rooftop-sunset"
+    },
+    {
+      "id": "a-coastal-cliff",
+      "en": "a coastal cliff",
+      "fa": "صخره ساحلی",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "crashing-waves",
+      "en": "crashing waves",
+      "fa": "موج‌های کوبنده",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "a-rugged-coastline",
+      "en": "a rugged coastline",
+      "fa": "ساحل ناهموار",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "salty-sea-air",
+      "en": "salty sea air",
+      "fa": "هوای نمکی دریا",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "to-watch-the-sunset",
+      "en": "to watch the sunset",
+      "fa": "غروب را تماشا کردن",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "sea-spray",
+      "en": "sea spray",
+      "fa": "پاشش آب دریا",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "a-scenic-viewpoint",
+      "en": "a scenic viewpoint",
+      "fa": "نقطه دیدنی",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "ocean-horizon",
+      "en": "ocean horizon",
+      "fa": "افق اقیانوس",
+      "lesson": "toefl-ax34-14",
+      "category": "coastal-cliff"
+    },
+    {
+      "id": "a-star-filled-sky",
+      "en": "a star-filled sky",
+      "fa": "آسمان پرستاره",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "to-stargaze",
+      "en": "to stargaze",
+      "fa": "ستاره‌نگری کردن",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "a-sleeping-bag",
+      "en": "a sleeping bag",
+      "fa": "کیسه خواب",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "campfire-embers",
+      "en": "campfire embers",
+      "fa": "اخگرهای آتش",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "to-set-up-camp",
+      "en": "to set up camp",
+      "fa": "کمپ برپا کردن",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "tell-stories",
+      "en": "tell stories",
+      "fa": "قصه گفتن",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "a-cool-night-air",
+      "en": "a cool night air",
+      "fa": "هوای خنک شب",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "camp-under-the-stars",
+      "en": "camp under the stars",
+      "fa": "زیر ستاره‌ها کمپ زدن",
+      "lesson": "toefl-ax34-15",
+      "category": "campsite-night"
+    },
+    {
+      "id": "whitewater-rapids",
+      "en": "whitewater rapids",
+      "fa": "آب‌های خروشان",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "a-strong-current",
+      "en": "a strong current",
+      "fa": "جریان قوی",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "slippery-rocks",
+      "en": "slippery rocks",
+      "fa": "سنگ‌های لغزنده",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "to-keep-balance",
+      "en": "to keep balance",
+      "fa": "تعادل را حفظ کردن",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "splashing-water",
+      "en": "splashing water",
+      "fa": "پاشیدن آب",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "an-outdoor-adventure",
+      "en": "an outdoor adventure",
+      "fa": "ماجراجویی در طبیعت",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "a-riverbank-trail",
+      "en": "a riverbank trail",
+      "fa": "مسیر کنار رودخانه",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "to-navigate-the-rocks",
+      "en": "to navigate the rocks",
+      "fa": "میان سنگ‌ها حرکت کردن",
+      "lesson": "toefl-ax34-16",
+      "category": "river-rapids"
+    },
+    {
+      "id": "steep-cliffs",
+      "en": "steep cliffs",
+      "fa": "صخره‌های شیب‌دار",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "high-altitude",
+      "en": "high altitude",
+      "fa": "ارتفاع زیاد",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "rocky-terrain",
+      "en": "rocky terrain",
+      "fa": "زمین سنگلاخی",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "thin-mountain-air",
+      "en": "thin mountain air",
+      "fa": "هوای رقیق کوهستان",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "distant-peaks",
+      "en": "distant peaks",
+      "fa": "قله‌های دور",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "a-safety-harness",
+      "en": "a safety harness",
+      "fa": "هارنس ایمنی",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "to-climb-carefully",
+      "en": "to climb carefully",
+      "fa": "با احتیاط صعود کردن",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "to-face-a-challenge",
+      "en": "to face a challenge",
+      "fa": "با چالش روبه‌رو شدن",
+      "lesson": "toefl-ax34-17",
+      "category": "mountain-cliffs"
+    },
+    {
+      "id": "a-shopping-street",
+      "en": "a shopping street",
+      "fa": "خیابان خرید",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "store-windows",
+      "en": "store windows",
+      "fa": "ویترین مغازه‌ها",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "browse-the-shops",
+      "en": "browse the shops",
+      "fa": "مغازه‌ها را نگاه کردن",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "carry-shopping-bags",
+      "en": "carry shopping bags",
+      "fa": "کیسه‌های خرید حمل کردن",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "compare-prices",
+      "en": "compare prices",
+      "fa": "قیمت‌ها را مقایسه کردن",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "a-seasonal-sale",
+      "en": "a seasonal sale",
+      "fa": "حراج فصلی",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "make-a-purchase",
+      "en": "make a purchase",
+      "fa": "خرید انجام دادن",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "a-busy-marketplace",
+      "en": "a busy marketplace",
+      "fa": "بازار شلوغ",
+      "lesson": "toefl-ax34-18",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "a-crowded-carriage",
+      "en": "a crowded carriage",
+      "fa": "واگن شلوغ",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "to-grab-a-seat",
+      "en": "to grab a seat",
+      "fa": "جا پیدا کردن",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "hold-onto-a-handrail",
+      "en": "hold onto a handrail",
+      "fa": "دستگیره گرفتن",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "an-announcement-over-the-speaker",
+      "en": "an announcement over the speaker",
+      "fa": "اعلام بلندگو",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "stand-near-the-door",
+      "en": "stand near the door",
+      "fa": "کنار در ایستادن",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "commute-home",
+      "en": "commute home",
+      "fa": "راهی خانه شدن",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "personal-space",
+      "en": "personal space",
+      "fa": "حریم شخصی",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "to-avoid-delays",
+      "en": "to avoid delays",
+      "fa": "از تأخیر جلوگیری کردن",
+      "lesson": "toefl-ax34-19",
+      "category": "public-transport"
+    },
+    {
+      "id": "a-marked-crosswalk",
+      "en": "a marked crosswalk",
+      "fa": "خط‌کشی عابر پیاده",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "to-wait-for-the-signal",
+      "en": "to wait for the signal",
+      "fa": "منتظر چراغ شدن",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "oncoming-traffic",
+      "en": "oncoming traffic",
+      "fa": "ترافیک روبه‌رو",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "to-look-both-ways",
+      "en": "to look both ways",
+      "fa": "دو طرف را نگاه کردن",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-traffic-light",
+      "en": "a traffic light",
+      "fa": "چراغ راهنمایی",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-city-intersection",
+      "en": "a city intersection",
+      "fa": "تقاطع شهری",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "to-hurry-across",
+      "en": "to hurry across",
+      "fa": "سریع عبور کردن",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-pedestrian-crossing",
+      "en": "a pedestrian crossing",
+      "fa": "محل عبور عابر",
+      "lesson": "toefl-ax34-20",
+      "category": "city-crosswalk"
+    },
+    {
+      "id": "a-subway-station",
+      "en": "a subway station",
+      "fa": "ایستگاه مترو",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "exit-stairs",
+      "en": "exit stairs",
+      "fa": "پله‌های خروج",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "swipe-a-transit-card",
+      "en": "swipe a transit card",
+      "fa": "کارت را کشیدن",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "an-underground-tunnel",
+      "en": "an underground tunnel",
+      "fa": "تونل زیرزمینی",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "commuter-flow",
+      "en": "commuter flow",
+      "fa": "رفت‌وآمد مسافران",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "platform-signs",
+      "en": "platform signs",
+      "fa": "تابلوهای سکو",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "to-transfer-lines",
+      "en": "to transfer lines",
+      "fa": "تعویض خط",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "to-rush-upstairs",
+      "en": "to rush upstairs",
+      "fa": "سریع بالا رفتن",
+      "lesson": "toefl-ax34-21",
+      "category": "subway-exit"
+    },
+    {
+      "id": "an-outdoor-cafe",
+      "en": "an outdoor cafe",
+      "fa": "کافه روباز",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "a-menu-board",
+      "en": "a menu board",
+      "fa": "تابلوی منو",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "order-a-drink",
+      "en": "order a drink",
+      "fa": "نوشیدنی سفارش دادن",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "sit-at-a-table",
+      "en": "sit at a table",
+      "fa": "سر میز نشستن",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "friendly-service",
+      "en": "friendly service",
+      "fa": "خدمات دوستانه",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "a-bustling-street",
+      "en": "a bustling street",
+      "fa": "خیابان پرجنب‌وجوش",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "to-take-a-break",
+      "en": "to take a break",
+      "fa": "استراحت کوتاه کردن",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "to-pay-the-bill",
+      "en": "to pay the bill",
+      "fa": "صورتحساب را پرداخت کردن",
+      "lesson": "toefl-ax34-22",
+      "category": "outdoor-cafe"
+    },
+    {
+      "id": "a-crowded-carriage",
+      "en": "a crowded carriage",
+      "fa": "واگن شلوغ",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "to-grab-a-seat",
+      "en": "to grab a seat",
+      "fa": "جا پیدا کردن",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "hold-onto-a-handrail",
+      "en": "hold onto a handrail",
+      "fa": "دستگیره گرفتن",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "an-announcement-over-the-speaker",
+      "en": "an announcement over the speaker",
+      "fa": "اعلام بلندگو",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "stand-near-the-door",
+      "en": "stand near the door",
+      "fa": "کنار در ایستادن",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "commute-home",
+      "en": "commute home",
+      "fa": "راهی خانه شدن",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "personal-space",
+      "en": "personal space",
+      "fa": "حریم شخصی",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "to-avoid-delays",
+      "en": "to avoid delays",
+      "fa": "از تأخیر جلوگیری کردن",
+      "lesson": "toefl-ax34-23",
+      "category": "public-transport"
+    },
+    {
+      "id": "a-shopping-street",
+      "en": "a shopping street",
+      "fa": "خیابان خرید",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "store-windows",
+      "en": "store windows",
+      "fa": "ویترین مغازه‌ها",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "browse-the-shops",
+      "en": "browse the shops",
+      "fa": "مغازه‌ها را نگاه کردن",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "carry-shopping-bags",
+      "en": "carry shopping bags",
+      "fa": "کیسه‌های خرید حمل کردن",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "compare-prices",
+      "en": "compare prices",
+      "fa": "قیمت‌ها را مقایسه کردن",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "a-seasonal-sale",
+      "en": "a seasonal sale",
+      "fa": "حراج فصلی",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "make-a-purchase",
+      "en": "make a purchase",
+      "fa": "خرید انجام دادن",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    },
+    {
+      "id": "a-busy-marketplace",
+      "en": "a busy marketplace",
+      "fa": "بازار شلوغ",
+      "lesson": "toefl-ax34-24",
+      "category": "urban-shopping"
+    }
+  ]
+}
